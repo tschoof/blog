@@ -1,0 +1,12 @@
+---
+layout: default
+title: Home
+---
+{% for post in site.posts offset: 0 limit: 10 %}
+<h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{{ post.date | date_to_string }}
+{{ post.content }}
+<br>
+{% endfor %}
+
+

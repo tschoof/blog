@@ -1,0 +1,146 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* My Shit */
+		@font-face { font-family: 'Ubuntu'; font-weight: normal; src: url(/fonts/Ubuntu-R.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: lighter; src: url(/fonts/Ubuntu-L.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: bold; src: url(/fonts/Ubuntu-B.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-style: italic; src: url(/fonts/Ubuntu-I.ttf); }
+
+		body { 
+			background-color: #FFFFFF; 
+			color: #303030; 
+			font-family: 'Ubuntu'; 
+			font-weight: normal;
+			font-size: 15px; 
+}
+		a { 
+			text-decoration: underline; 
+			color: #303030;
+}
+		a:hover { 
+			opacity: 0.7;
+			-webkit-transition: 0.2s;
+} 
+		a:visited { 
+			color: #3F3F3F; 
+			text-decoration: none; 
+}
+		ul {
+			list-style-type: disc; 
+			outside; 
+			margin-left: 40px; 
+}
+		ul ul {
+			list-style-type: circle; 
+			outside; 
+}
+		ul ul ul {
+			list-style-type: square; 
+			outside; 
+}
+		ol {
+			list-style-type: decimal; 
+			margin-left: 40px;
+}
+		p { 
+			font-size: 15px; 
+}
+		h1 { 	
+			font-size: 28px; 
+			font-weight: lighter; 
+}
+		h2 {  
+			font-size: 22px; 
+			font-weight: lighter; 
+}
+
+		.title, .title a { 
+			font-size: 22px; 
+			text-decoration: none; 
+}
+
+		.post-date { font-size: 12px; font-weight: lighter; padding: right; } 
+
+#body {
+    			overflow: hidden;
+    			width: 900px;
+    			margin: 0 auto;
+}
+#header {
+			float: left;
+			width: 900px;
+			margin: 0;
+			border-bottom: 1px solid #2E2E2E;
+}
+#nav	{
+			width: 250px;
+			float: right;
+			margin-left: 25px;
+			padding-top: 20px;
+}
+#nav a {
+			font-size: 18px;
+			text-decoration: none; 
+			font-weight: normal;
+}
+#content {
+			width: 620px;
+			float: left;
+			padding-bottom: 40px;
+			padding-top: 20px;
+			border-right: 1px solid #2E2E2E;
+			margin-top: 10px;
+}
+#footer {
+			width: 620px;
+			float: left;
+			height: 50px;
+			padding: 50px 0 10 0;
+			margin: 50px 0 0 0;
+}	

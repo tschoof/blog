@@ -1,0 +1,5 @@
+# accessible as site.*
+markdown: rdiscount
+auto: true
+title: "blog.timmschoof.com"
+
