@@ -2,4 +2,6 @@
 markdown: rdiscount
 auto: true
 title: "blog.timmschoof.com"
-
+url: "http://timmschoof.com"
+email: "hello@timmschoof.com"
+author: "Timm Schoof"

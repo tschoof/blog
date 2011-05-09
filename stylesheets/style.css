@@ -56,7 +56,7 @@ table {
 			background-color: #FFFFFF; 
 			color: #303030; 
 			font-family: 'Ubuntu'; 
-			font-weight: normal;
+			font-weight: lighter;
 			font-size: 15px; 
 }
 		a { 
@@ -64,12 +64,11 @@ table {
 			color: #303030;
 }
 		a:hover { 
-			opacity: 0.7;
-			-webkit-transition: 0.2s;
-} 
+			opacity: 0.6;
+			-webkit-transition: 0.1s linear;
+}
 		a:visited { 
-			color: #3F3F3F; 
-			text-decoration: none; 
+			text-decoration: dotted; 
 }
 		ul {
 			list-style-type: disc; 
@@ -97,15 +96,27 @@ table {
 }
 		h2 {  
 			font-size: 22px; 
-			font-weight: lighter; 
+			font-weight: normal; 
 }
 
-		.title, .title a { 
+.title, .title a { 
+			font-weight: lighter;
 			font-size: 22px; 
-			text-decoration: none; 
+			text-decoration: none;
 }
-
-		.post-date { font-size: 12px; font-weight: lighter; padding: right; } 
+.title_post {		
+			font-weight: lighter;
+			font-size: 22px; 
+			text-decoration: none;
+			margin-bottom: 10px; 
+}
+#post-date { 
+			font-size: 12px; 
+			font-weight: lighter; 
+			padding: right; 
+			margin-top: 2px;
+			margin-bottom: 10px; 
+} 
 
 #body {
     			overflow: hidden;
@@ -119,28 +130,54 @@ table {
 			border-bottom: 1px solid #2E2E2E;
 }
 #nav	{
-			width: 250px;
+			width: 170px;
 			float: right;
-			margin-left: 25px;
-			padding-top: 20px;
+			margin-top: 20px;
+			padding-top: 10px;
 }
-#nav a {
+.nav, .nav a {
 			font-size: 18px;
 			text-decoration: none; 
-			font-weight: normal;
-}
-#content {
-			width: 620px;
-			float: left;
-			padding-bottom: 40px;
-			padding-top: 20px;
-			border-right: 1px solid #2E2E2E;
-			margin-top: 10px;
+			font-weight: lighter;
+			margin-left: 5px; 
 }
 #footer {
-			width: 620px;
-			float: left;
-			height: 50px;
-			padding: 50px 0 10 0;
-			margin: 50px 0 0 0;
+			overflow: hidden;
+    			width: 900px;
+			padding: 25px 0px 20px 0px;
+			margin: 0 auto;
+			font-weight: lighter; 
 }	
+.footer, .footer a {
+			text-decoration: none;
+			font-weight: lighter;
+			border-bottom: 1px dotted;
+}
+#content {
+			width: 700px;
+			float: left;
+			padding-bottom: 40px;
+			padding-top: 10px;
+			padding-right: 15px;
+			border-right: 1px solid #2E2E2E;
+			margin-top: 20px;
+}
+
+#post_links {
+			margin-top: 10px;
+}
+.post_links, .post_links a {
+			text-decoration: none;
+			font-weight: normal;
+}
+#articles {
+			padding-bottom: 12px;
+			border-bottom: 1px solid #F5F5F5;
+			margin-bottom: 12px;
+}
+blockquote {
+			border-left: 1px solid #999;
+			margin-left: 10px;
+			padding-left: 10px;
+			opacity: 0.8;
+}

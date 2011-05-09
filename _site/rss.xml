@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule">
+  <channel>
+    <title>blog.timmschoof.com</title>
+    <link>http://timmschoof.com</link>
+    <language>en</language>
+    <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
+    <pubDate>2011-05-09T20:07:43+02:00</pubDate>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    <ttl>60</ttl>
+    
+    <item>
+      <title>Dummypost Number Two</title>
+      <link>http://timmschoof.com/2011/05/08/dummypost2.html</link>
+      <pubDate>May 08, 2011</pubDate>
+      <guid>http://timmschoof.com/2011/05/08/dummypost2.html</guid>
+      <description>&lt;p&gt;This is just the second dummypost.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;li&gt;Item
+
+&lt;ul&gt;
+&lt;li&gt;Nested&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>Dummypost Number One</title>
+      <link>http://timmschoof.com/2011/05/08/dummypost.html</link>
+      <pubDate>May 08, 2011</pubDate>
+      <guid>http://timmschoof.com/2011/05/08/dummypost.html</guid>
+      <description>&lt;p&gt;This is just a dummypost.&lt;/p&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+  </channel>
+</rss>
