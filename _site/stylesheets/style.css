@@ -76,7 +76,7 @@ i, em {
 			-webkit-transition: 0.1s linear;
 }
 		a:visited { 
-			text-decoration: dotted; 
+			opacity: 0.6;
 }
 		ul {
 			list-style-type: disc; 
@@ -153,7 +153,7 @@ i, em {
 			border-top: solid 1px;			
 			overflow: hidden;
     			width: 900px;
-			padding: 25px 0px 20px 0px;
+			padding: 25px 0px 40px 0px;
 			margin: 0 auto;
 			font-weight: lighter; 
 }	
@@ -186,6 +186,9 @@ i, em {
 }
 .article-container h2 {
 			font-size: 22px;
+}
+#article {
+			
 }
 blockquote {
 			border-left: 1px solid #999;
