@@ -7,37 +7,25 @@
     <link>http://timmschoof.com</link>
     <language>en</language>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-05-09T23:37:58+02:00</pubDate>
+    <pubDate>2011-05-10T07:10:26+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
     
     <item>
-      <title>Dummypost Number Two</title>
-      <link>http://timmschoof.com/2011/05/08/dummypost2.html</link>
-      <pubDate>May 08, 2011</pubDate>
-      <guid>http://timmschoof.com/2011/05/08/dummypost2.html</guid>
-      <description>&lt;p&gt;This is just the second dummypost.&lt;/p&gt;
+      <title>One</title>
+      <link>http://timmschoof.com/2011/05/10/one.html</link>
+      <pubDate>May 10, 2011</pubDate>
+      <guid>http://timmschoof.com/2011/05/10/one.html</guid>
+      <description>&lt;p&gt;Finally, it's here. My new blog. Self-hosted, home-baked, 100% hand-crafted. A bunch of HTML files, one CSS file, a header, a favicon, a jekyll-installation, one 'jekyll --server' command, an upload to my FTP server (my deployment method so far), that's it.&lt;br/&gt;
+&lt;strong&gt;OMG&lt;/strong&gt;, I can't believe how long I put this off, this progress that took me about two days of 'coding', if my method of c&amp;amp;p combined with trial&amp;amp;error qualifies as such. It's funny: You might think I'm fishing for compliments here, but that's just the case if you're worse than me when it comes to HTML and such. If you're not, then you're probably laughing at my style.css' structure right now.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;List&lt;/li&gt;
-&lt;li&gt;Item
+&lt;p&gt;Anyway: I'm proud like Tom Hanks in 'Cast Away', when he finally managed to start a fire. Me can haz blog! But most important: I no longer can keep myself from writing by thinking that in order to do so, I would first need to build a new blog cause the last project's dead.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Nested&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1&gt;future&lt;/h1&gt;
 
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>Dummypost Number One</title>
-      <link>http://timmschoof.com/2011/05/08/dummypost.html</link>
-      <pubDate>May 08, 2011</pubDate>
-      <guid>http://timmschoof.com/2011/05/08/dummypost.html</guid>
-      <description>&lt;p&gt;This is just a dummypost.&lt;/p&gt;
+&lt;p&gt;I will talk about little aspects, decisions and stuff that yet has to be done regarding this blog. As you may know, in the first few days of such a project nothing is just 'done', everything gets a pretty short half-life. Therefore I will comment the further construction of this site as it happens.&lt;br/&gt;
+So I'll handle it just like Iven announced on &lt;a href=&quot;http://ivenwinkelmann.com/journal&quot;&gt;his blog&lt;/a&gt;, a quite similar project. Similar does not quite describe it, to tell the truth: I have to thank Iven, without him doing a lot of research and waving in front of my nose with sophisticated solutions, I wouldn't have developed the urge to build a non-wordpress-hosted blog from scratch.&lt;br/&gt;
+Thanks, buddy. (Is 'mindfork' a word? This github stuff messes with my head)&lt;/p&gt;
 </description>
       <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     </item>
