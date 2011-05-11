@@ -4,18 +4,18 @@
     xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule">
   <channel>
     <title>blog.timmschoof.com</title>
-    <link>http://timmschoof.com</link>
+    <link>http://blog.timmschoof.com</link>
     <language>en</language>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-05-11T08:38:30+02:00</pubDate>
+    <pubDate>2011-05-11T11:00:59+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
     
     <item>
       <title>Two</title>
-      <link>http://timmschoof.com/2011/05/11/Two.html</link>
+      <link>http://blog.timmschoof.com/2011/05/11/Two.html</link>
       <pubDate>May 11, 2011</pubDate>
-      <guid>http://timmschoof.com/2011/05/11/Two.html</guid>
+      <guid>http://blog.timmschoof.com/2011/05/11/Two.html</guid>
       <description>&lt;p&gt;When I first thought about my new blog, the only options for me were: WordPress, Tumblr, maybe posterous. That was until &lt;a href=&quot;http://ivenwinkekmann.com/&quot;&gt;Iven&lt;/a&gt; told me about 'baked blogs'. What? - Yeah, that's what I thought, too.&lt;br/&gt;
 Let me explain: In this analogy, the previously mentioned platforms 'fry' the blog in the second one requests them from the web server. They generate every page in the blog via PHP, I believe. Blogs served that way are 'fried blogs'.&lt;br/&gt;
 Guess what: The server doesn't have to generate static files. So your blog has a fighting chance of staying online, even when it gets &lt;a href=&quot;http://blog.23x.net/216/anatomy-of-a-fireballing.html&quot;&gt;fireballed&lt;/a&gt;.
@@ -39,9 +39,9 @@ Now, my blog only contains code I wrote myself or ripped off somebody else's git
     
     <item>
       <title>One</title>
-      <link>http://timmschoof.com/2011/05/10/one.html</link>
+      <link>http://blog.timmschoof.com/2011/05/10/one.html</link>
       <pubDate>May 10, 2011</pubDate>
-      <guid>http://timmschoof.com/2011/05/10/one.html</guid>
+      <guid>http://blog.timmschoof.com/2011/05/10/one.html</guid>
       <description>&lt;p&gt;Finally, it's here. My new blog. Self-hosted, home-baked, 100% hand-crafted. A bunch of HTML files, one CSS file, a header, a favicon, a jekyll-installation, one 'jekyll --server' command, an upload to my FTP server (my deployment method so far), that's it.&lt;br/&gt;
 &lt;strong&gt;OMG&lt;/strong&gt;, I can't believe how long I put this off, this progress that took me about two days of 'coding', if my method of c&amp;amp;p combined with trial&amp;amp;error qualifies as such. It's funny: You might think I'm fishing for compliments here, but that's just the case if you're worse than me when it comes to HTML and such. If you're not, then you're probably laughing at my style.css' structure right now.&lt;/p&gt;
 
