@@ -7,7 +7,7 @@
     <link>http://blog.timmschoof.com</link>
     <language>en</language>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-05-11T12:15:54+02:00</pubDate>
+    <pubDate>2011-05-11T12:58:53+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
     
@@ -24,8 +24,9 @@ Of course one can cache the fried files so they can be served more efficiently, 
 &lt;h3&gt;Why I went baked&lt;/h3&gt;
 
 &lt;p&gt;But in which universe does that bother me? Most certainly, my blog will never get fireballed or sweat a tear under heavy load of hundreds of thousands of visitors. I'm not that into web server stuff that I could't bear with what some people may call an unsophisticated solution. So?&lt;br/&gt;
-What made me consider a baked blog more seriously was that with wordpress, I always had the feeling to utilize something I didn't understand entirely. Using wordpress is simple, but to customize it is much harder. Therefore it's likely you just use it in a very standard way. That's ok for most people, I would suggest that for nearly everyone who's inclined to dive into the world of blogging. Which I strongly suggest, too.&lt;br/&gt;
-I, for my part, &lt;em&gt;knew&lt;/em&gt; that I would be able to teach myself (or: remind) enough HTML and CSS to code something suitable for a static file generator (that's how you call the things that bake your blog). I knew that the second I heard of baked blogs, even thought I didn't realize it immediately.&lt;br/&gt;
+What made me consider a baked blog more seriously was that with wordpress, I always had the feeling to utilize something I didn't understand entirely. Using wordpress is simple, but to customize it is much harder. Therefore it's likely you just use it in a very standard way. That's ok for most people, I would suggest that for nearly everyone who's inclined to dive into the world of blogging. Which I strongly suggest, too.&lt;/p&gt;
+
+&lt;p&gt;I, for my part, &lt;em&gt;knew&lt;/em&gt; that I would be able to teach myself (or: remind) enough HTML and CSS to code something suitable for a static file generator (that's how you call the things that bake your blog). I knew that the second I heard of baked blogs, even thought I didn't realize it immediately.&lt;br/&gt;
 Now, my blog only contains code I wrote myself or ripped off somebody else's git repository, knowing what it does and where to put it. To me, that's &lt;strong&gt;very&lt;/strong&gt; appealing.&lt;/p&gt;
 
 &lt;h3&gt;Jekyll&lt;/h3&gt;
