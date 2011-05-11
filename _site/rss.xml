@@ -7,9 +7,55 @@
     <link>http://blog.timmschoof.com</link>
     <language>en</language>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-05-11T12:58:53+02:00</pubDate>
+    <pubDate>2011-05-11T14:41:56+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
+    
+    <item>
+      <title>Three</title>
+      <link>http://blog.timmschoof.com/2011/05/12/Three.html</link>
+      <pubDate>May 12, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/05/12/Three.html</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The RSS feed&lt;sup&gt;1&lt;/sup&gt; should work properly now.&lt;/li&gt;
+&lt;li&gt;I placed the Google Analytics code snippet in my header, so now this blog's evil.&lt;/li&gt;
+&lt;li&gt;I skipped one lecture today because of an error I couldn't stand one second longer than necessary. Lets just say: Don't give your #body div the attribute height: auto.&lt;sup&gt;2&lt;/sup&gt; And when testing, clear your browser cache before pushing the changes.&lt;/li&gt;
+&lt;li&gt;As you can see, I'm using footnotes now. Wouldn't have thought of it by myself, but many other Jekyll blogs have them, and I saw and liked it. Keeps me from having to write all my weird thoughts in brackets, where they distract you more than necessary.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;'Three? Are you going to name all your posts like some Led Zeppelin wanna-be rockband's albums?'&lt;/em&gt;&lt;br/&gt;
+No. It's not a bug&lt;sup&gt;3&lt;/sup&gt;, it's a feature. You may have noticed that there's no 'About this Blog' in the navigation on the right. I intend to add such a page and then link to all the numbered posts on it. Then, every time I change or add something, I'll add a new numbered post. The result: This blog's real history instead of a static page that never is up to date or just reflects the current state. If you as a visitor want to know who I am, there already is the 'About' link to my Personal Page. That's my plan for now, if I change it, guess what kind of title the post will have.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;(Where are the) Comments?&lt;/h3&gt;
+
+&lt;p&gt;This one's too big for a list entry. As you may have realized, currently there are no comments on this blog. Two things.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I didn't get to it.&lt;/li&gt;
+&lt;li&gt;I don't know if I want to, not yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;A jekyll-based blog doesn't have a database, so comments don't work out of the box. But there's the cloud and in it there's &lt;a href=&quot;http://disqus.com/&quot;&gt;Disqus&lt;/a&gt;, so that's no problem.&lt;br/&gt;
+Regarding the want-part: I think a blog should fuel collaboration, communication, comments, and feedback. But it can do so without comments directly under every post. There's no lack of channels for discussion nowadays, even without them. The lack of comments is likely to encourage people to start their own blog and write about their opinion, or at least send you a tweet or an email, one might say. Oh, how I'd want this to be true.&lt;br/&gt;
+I think that without comments, people really are more likely to do one of the mentioned things. But the &lt;em&gt;overall&lt;/em&gt; barrier to do &lt;em&gt;anything&lt;/em&gt; as a reaction to what they just read is much higher without comments. For me, that's what the whole pro/con comments discussion boils down to. At least if you like participation and feedback as I do. All of that, of course, depends on who your audience is and tho what extent you have a 'my blog, my space' picture in mind&lt;sup&gt;4&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;I haven't decided yet. For now, maybe I'll add a 'Contact' link to the navigation, so when someone reads a blogpost and wants to insult me there's a list of all the channels one click away, without the detour by the Personal Page.&lt;/p&gt;
+
+&lt;p&gt;Oh, and how could I close on this article without mentioning Iven's &lt;a href=&quot;http://ivenwinkelmann.com/journal/my-take-on-baked-blogs/&quot;&gt;take on it&lt;/a&gt;?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What the &lt;strong&gt;heck&lt;/strong&gt; is the difference between Atom and RSS? I mean, is there any difference at all when you're pushing an ordinary, non-multilingual feed that contains simple HTML?&lt;/li&gt;
+&lt;li&gt;At least I think that's where I went wrong.&lt;/li&gt;
+&lt;li&gt;read: my laziness&lt;/li&gt;
+&lt;li&gt;That sounds egocentric, but really isn't as it's not necessarily opposed to the attitude that feedback's good.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
     
     <item>
       <title>Two</title>
