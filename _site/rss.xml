@@ -7,9 +7,35 @@
     <link>http://timmschoof.com</link>
     <language>en</language>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-05-10T22:50:02+02:00</pubDate>
+    <pubDate>2011-05-11T08:38:30+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
+    
+    <item>
+      <title>Two</title>
+      <link>http://timmschoof.com/2011/05/11/Two.html</link>
+      <pubDate>May 11, 2011</pubDate>
+      <guid>http://timmschoof.com/2011/05/11/Two.html</guid>
+      <description>&lt;p&gt;When I first thought about my new blog, the only options for me were: WordPress, Tumblr, maybe posterous. That was until &lt;a href=&quot;http://ivenwinkekmann.com/&quot;&gt;Iven&lt;/a&gt; told me about 'baked blogs'. What? - Yeah, that's what I thought, too.&lt;br/&gt;
+Let me explain: In this analogy, the previously mentioned platforms 'fry' the blog in the second one requests them from the web server. They generate every page in the blog via PHP, I believe. Blogs served that way are 'fried blogs'.&lt;br/&gt;
+Guess what: The server doesn't have to generate static files. So your blog has a fighting chance of staying online, even when it gets &lt;a href=&quot;http://blog.23x.net/216/anatomy-of-a-fireballing.html&quot;&gt;fireballed&lt;/a&gt;.
+Of course one can cache the fried files so they can be served more efficiently, and you lose the advantages of hosted platforms, i.e. blogging from on the road.&lt;/p&gt;
+
+&lt;h3&gt;Why I went baked&lt;/h3&gt;
+
+&lt;p&gt;But in which universe does that bother me? Most certainly, my blog will never get fireballed or sweat a tear under heavy load of hundreds of thousands of visitors. I'm not that into web server stuff that I could't bear with what some people may call an unsophisticated solution. So?&lt;br/&gt;
+What made me consider a baked blog more seriously was that with wordpress, I always had the feeling to utilize something I didn't understand entirely. Using wordpress is simple, but to customize it is much harder. Therefore it's likely you just use it in a very standard way. That's ok for most people, I would suggest that for nearly everyone who's inclined to dive into the world of blogging. Which I strongly suggest, too.&lt;br/&gt;
+I, for my part, &lt;em&gt;knew&lt;/em&gt; that I would be able to teach myself (or: remind) enough HTML and CSS to code something suitable for a static file generator (that's how you call the things that bake your blog). I knew that the second I heard of baked blogs, even thought I didn't realize it immediately.&lt;br/&gt;
+Now, my blog only contains code I wrote myself or ripped off somebody else's git repository, knowing what it does and where to put it. To me, that's &lt;strong&gt;very&lt;/strong&gt; appealing.&lt;/p&gt;
+
+&lt;h3&gt;Jekyll&lt;/h3&gt;
+
+&lt;p&gt;Why did I chose &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;? At first I didn't want to. After Iven &lt;a href=&quot;http://ivenwinkelmann.com/journal/my-take-on-baked-blogs/&quot;&gt;told me about baked blogs&lt;/a&gt;, I listened to an episode of Build &amp;amp; Analyze (&lt;a href=&quot;http://5by5.tv/buildanalyze/18&quot;&gt;this one&lt;/a&gt;, but the following ones also fit the topic) in which Marco Arment (the &lt;a href=&quot;http://www.instapaper.com/iphone&quot;&gt;Instapaper&lt;/a&gt; guy) talked about his plans to release his self-written static site generator, 'Second Crack' on github. I also am a coffee nut, so its name (a specific point of time in the roasting process of coffee) made me want to use it. In the end, the idea that I was using this as an excuse to put the whole project off became a certainty, so I chose Jekyll, and here I am.&lt;/p&gt;
+
+&lt;p&gt;To be acurate: If you're interested in this topic, you propably want to read Brent Simmons' piece on it: &lt;a href=&quot;http://inessential.com/2011/03/16/a_plea_for_baked_weblogs&quot;&gt;A plea for baked weblogs&lt;/a&gt;&lt;/p&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
     
     <item>
       <title>One</title>
@@ -21,7 +47,7 @@
 
 &lt;p&gt;Anyway: I'm proud like Tom Hanks in 'Cast Away', when he finally managed to start a fire. Me can haz blog! But most important: I no longer can keep myself from writing by thinking that in order to do so, I would first need to build a new blog cause the last project's dead.&lt;/p&gt;
 
-&lt;h1&gt;future&lt;/h1&gt;
+&lt;h3&gt;future&lt;/h3&gt;
 
 &lt;p&gt;I will talk about little aspects, decisions and stuff that yet has to be done regarding this blog. As you may know, in the first few days of such a project nothing is just 'done', everything gets a pretty short half-life. Therefore I will comment the further construction of this site as it happens.&lt;br/&gt;
 So I'll handle it just like Iven announced on &lt;a href=&quot;http://ivenwinkelmann.com/journal&quot;&gt;his blog&lt;/a&gt;, a quite similar project. Similar does not quite describe it, to tell the truth: I have to thank Iven, without him doing a lot of research and waving in front of my nose with sophisticated solutions, I wouldn't have developed the urge to build a non-wordpress-hosted blog from scratch.&lt;br/&gt;
