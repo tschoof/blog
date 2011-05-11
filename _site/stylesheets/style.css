@@ -59,10 +59,9 @@ table {
 			font-weight: lighter;
 			font-size: 15px; 
 			line-height: 1.2;
-			height: 100%;
-			overflow: hidden;
     			width: 900px;
     			margin: 0 auto;
+			min-height: 100%;
 }
 i, em {
 			font-weight: italic;
@@ -119,7 +118,7 @@ i, em {
 			margin-top: 10px;
 }
 
-.title, .title a { 
+.title, .title a { 	
 			font-weight: lighter;
 			font-size: 24px; 
 			text-decoration: none;
@@ -151,19 +150,7 @@ i, em {
 			font-weight: lighter;
 			margin-left: 5px; 
 }
-#footer {
-			border-top: solid 1px;			
-			overflow: hidden;
-    			width: 900px;
-			padding: 25px 0px 40px 0px;
-			margin: 0 auto;
-			font-weight: lighter; 
-}	
-.footer, .footer a {
-			text-decoration: none;
-			font-weight: lighter;
-			border-bottom: 1px dotted;
-}
+
 #content {
 			width: 670px;
 			display: block;
@@ -175,6 +162,7 @@ i, em {
 			border-right: 1px solid #2E2E2E;
 			margin-top: 20px;
 			margin-bottom: 20px;
+			overflow: hidden;
 }
 #post_links {
 			margin-top: 10px;
@@ -188,6 +176,21 @@ i, em {
 }
 #article {
 			
+}
+#footer {
+			border-top: solid 1px;			
+    			width: 900px;
+			padding: 25px 0px 40px 0px;
+			margin: 0 auto;
+			font-weight: lighter; 
+			overflow: hidden;
+			height: 70px;
+			float: left;
+}	
+.footer, .footer a {
+			text-decoration: none;
+			font-weight: lighter;
+			border-bottom: 1px dotted;
 }
 blockquote {
 			border-left: 1px solid #999;

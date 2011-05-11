@@ -7,7 +7,7 @@
     <link>http://blog.timmschoof.com</link>
     <language>en</language>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-05-11T11:00:59+02:00</pubDate>
+    <pubDate>2011-05-11T12:15:54+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
     
@@ -16,7 +16,7 @@
       <link>http://blog.timmschoof.com/2011/05/11/Two.html</link>
       <pubDate>May 11, 2011</pubDate>
       <guid>http://blog.timmschoof.com/2011/05/11/Two.html</guid>
-      <description>&lt;p&gt;When I first thought about my new blog, the only options for me were: WordPress, Tumblr, maybe posterous. That was until &lt;a href=&quot;http://ivenwinkekmann.com/&quot;&gt;Iven&lt;/a&gt; told me about 'baked blogs'. What? - Yeah, that's what I thought, too.&lt;br/&gt;
+      <description>&lt;p&gt;When I first thought about my new blog, the only options for me were: WordPress, Tumblr, maybe posterous. That was until &lt;a href=&quot;http://ivenwinkelmann.com/&quot;&gt;Iven&lt;/a&gt; told me about 'baked blogs'. What? - Yeah, that's what I thought, too.&lt;br/&gt;
 Let me explain: In this analogy, the previously mentioned platforms 'fry' the blog in the second one requests them from the web server. They generate every page in the blog via PHP, I believe. Blogs served that way are 'fried blogs'.&lt;br/&gt;
 Guess what: The server doesn't have to generate static files. So your blog has a fighting chance of staying online, even when it gets &lt;a href=&quot;http://blog.23x.net/216/anatomy-of-a-fireballing.html&quot;&gt;fireballed&lt;/a&gt;.
 Of course one can cache the fried files so they can be served more efficiently, and you lose the advantages of hosted platforms, i.e. blogging from on the road.&lt;/p&gt;
