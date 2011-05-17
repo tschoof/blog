@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <div id="article">
-{% for post in site.posts offset: 0 limit: 10 %}
+{% for post in site.posts limit: 6 %}
 <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <div id="post-date">{{ post.date | date_to_string }}</div>
 {{ post.content }}
@@ -15,6 +15,5 @@ title: Home
 			width: 650px;
 			margin-right: 20px;
 			text-align: left; ">
-
 {% endfor %}
 </div>

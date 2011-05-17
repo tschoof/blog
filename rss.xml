@@ -9,6 +9,7 @@ layout: none
     <title>{{ site.title }}</title>
     <link>{{ site.url }}</link>
     <language>en</language>
+	<image><url>http://blog.timmschoof.com/images/fav.png</url></image>
     <webMaster>{{ site.email }} ({{ site.author }})</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
