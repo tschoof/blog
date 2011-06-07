@@ -59,6 +59,7 @@ table {
 			font-weight: lighter;
 			font-size: 15px; 
 			line-height: 1.2;
+			text-align: justify;
     			width: 900px;
     			margin: 0 auto;
 			min-height: 100%;
@@ -147,6 +148,7 @@ em, i {
 			width: 170px;
 			float: right;
 			margin-top: 20px;
+			margin-bottom: 20px;
 			padding-top: 10px;
 }
 .nav, .nav a {
@@ -161,6 +163,7 @@ em, i {
 			width: 670px;
 			display: block;
 			height: auto;
+			min-height: 180px;
 			float: left;
 			padding-bottom: 20px;
 			padding-top: 10px;
