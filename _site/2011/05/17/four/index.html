@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<head>  
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>Four - blog.timmschoof.com</title>
+	<meta name="author" content="Timm Schoof" />
+	<meta name="generator" content="jekyll" />
+	<meta name="robots" content="all">
+	<link rel="Shortcut Icon" type="image/x-icon" href="/images/fav.png" />
+	<link rel="stylesheet" media="screen" href="/stylesheets/style.css"/>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23267421-1']);
+  _gaq.push(['_setDomainName', '.timmschoof.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+	<div id="body">
+		<div id="header">
+			<a href="/" title="Home"> <img src="/images/header.png" alt="header.png" width="283" height="137"></a>
+		</div>
+
+		<div id="nav">
+			<a class="nav" href="http://timmschoof.com">About</a><br>
+			<a class="nav" href="/contact.html">Contact</a><br>
+			<a class="nav" href="/archives.html">Archives</a><br>
+			<a class="nav" href="/network.html">Network</a><br>
+			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
+		</div>
+		<div id="content">
+			<div id="article-container">
+			<div id="article-container">
+<h2 class="title">Four</h2>
+<h3>Custom 404 Page</h3>
+
+<p>Recently, I was inspired by a pic <a href="https://twitter.com/#!/mike_FTW">Mike Monteiro</a> shared on twitter: the <a href="http://dribbble.com/404">dribblle 404 page</a>. I immediately wanted one of those! So I began, and some coding, texting and a flickr search on <a href="http://search.creativecommons.org/#">search.creativecommons.org</a> later, there it was.</p>
+
+<p><a href="http://blog.timmschoof.com/notthe404pagesoyoucanseeitworks"><img src="/images/error404.jpg" width="655" height="238" alt="404errorpage"></a>
+Now, how to 'deploy' your 404 page in a way that overrides the ugly standard apache-or-whatever-you're-using-standard page?</p>
+
+<ul>
+<li>Git-hosted Jekyll
+
+<ul>
+<li>Generally, if you're using Jekyll and host on github pages, just put a 404.html file in the root directory of your repository. <a href="http://pages.github.com/">They say</a> that's sufficient.</li>
+</ul>
+</li>
+<li>Random host
+
+<ul>
+<li>When your site's hosted with a more beefed up provider, you propably have access to a .htaccess file.</li>
+<li><a href="http://www.yourhtmlsource.com/sitemanagement/custom404error.html">Basically</a>, you need to put a .htaccess file in your site's root directory,</li>
+<li>put the line
+
+<blockquote><p>ErrorDocument 404 /nameofyourcustom404page.html</p></blockquote>
+
+<pre><code>in it  
+</code></pre></li>
+<li>and of course: create the custom 404 page and upload it to your root directory.</li>
+</ul>
+</li>
+<li>Hosteurope
+
+<ul>
+<li>My page's hosted with hosteurope. Since <a href="http://querbeet-deluxe.com">querbeet-deluxe.com</a> and its wordpress with all its sql databeses will be abandoned, I don't really need all the feautures of the webpack I'm currently paying for. But I didn't get to make the switch to github pages or S3 or whatever may be out there.</li>
+<li>With hosteurope, there's a <a href="http://faq.hosteurope.de/index.php?cpid=10942">guide</a> for customizing your 404 page. I guess that's because they don't want to let you control the .htaccess file. Well, it works.</li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+
+			</div>
+		</div>
+		<div id="footer">
+		<p>This web page is licensed under a <a class="footer" href="http://creativecommons.org/licenses/by-sa/3.0/">CreativeCommons By-Sa License</a>. It uses the <a class="footer" href="http://font.ubuntu.com/">Ubuntu Font Family</a>. Love it.
+		</p></div>
+	</div>
+</body>

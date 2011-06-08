@@ -1,0 +1,9 @@
+markdown: rdiscount
+auto: true
+ftp_host: timmschoof.com
+ftp_dir: /www/timmschoof/blog
+title: blog.timmschoof.com
+url: http://blog.timmschoof.com
+email: hello@timmschoof.com
+author: Timm Schoof
+permalink: /:year/:month/:day/:title
