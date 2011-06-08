@@ -47,10 +47,10 @@ table {
 	border-spacing: 0;
 }
 /* My Shit */
-		@font-face { font-family: 'Ubuntu'; font-weight: normal; url(http://tschoof.github.com/blog/fonts/Ubuntu-R.ttf); }
-		@font-face { font-family: 'Ubuntu'; font-weight: lighter; url(http://tschoof.github.com/blog/fonts/Ubuntu-L.ttf); }
-		@font-face { font-family: 'Ubuntu'; font-weight: bold; url(http://tschoof.github.com/blog/fonts/Ubuntu-B.ttf); }
-		@font-face { font-family: 'Ubuntu'; font-style: italic; url(http://tschoof.github.com/blog/fonts/Ubuntu-LI.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: normal; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-R.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: lighter; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-L.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: bold; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-B.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-style: italic; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-LI.ttf); }
 
 		body { 
 			background-color: #FFFFFF; 
