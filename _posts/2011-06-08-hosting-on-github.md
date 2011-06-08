@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hosting on github
-date: 2011-06-09 10:00:00
+date: 2011-06-08 16:30:00
 category: blog
 published: true
 ---
