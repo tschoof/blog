@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hosting on github
+title: Five - Hosting on github
 date: 2011-06-08 16:30:00
 category: blog
 published: true
