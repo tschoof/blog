@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My current iOS 'workflow'
+title: My current iOS 'workflow'*
 published: true
 category: tech
 date: 2011-06-05 09:00:00
@@ -23,7 +23,7 @@ Great post about markdown: [Markdown is the new Word 5.1](http://forkbombr.net/m
 **Blog**  
 Sadly, Elements seems to write some invisible stuff at the beginning of a text document so that the markdown-engine Jekyll (the site generator I use for this blog) uses can't handle posts written with Elements without further editing.  
 So I'll have to find a better solution for this, maybe I'll switch back to Elements despite the corrupting invisible stuff, but for now I use another Dropbox-syncing text editor for Blogposts, [**Nocs**](http://itunes.apple.com/de/app/id396073482?mt=8). It really isn't that great. Writing Kit, Markdown Edit and other text editors I tried didn't please me to full extent either.  
-**With an update, Elements now apparently works for jekyll-ready text files, so forget about other iOS Editors.**
+\* **With an update, Elements now apparently produces jekyll-ready text files, so forget about other iOS Dropbox-enabled Editors.**
 
 **PDFs**  
 All the documents I need for my studies sit in [**GoodReader**](http://itunes.apple.com/de/app/goodreader-for-iphone/id306277111?mt=8). Mostly they are PDFs, but GoodReader also handles .doc and other formats. Of course, GoodReader syncs with Dropbox (in my case with the 'Study' folder within my Dropbox) so the files sit locally in GoodReader on the iPad and are available offline, but also always up to date.  
