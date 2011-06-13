@@ -7,7 +7,7 @@
 
 		<div id="nav">
 			<a class="nav" href="http://timmschoof.com">About</a><br>
-			<a class="nav" href="/contact/l">Contact</a><br>
+			<a class="nav" href="/contact/">Contact</a><br>
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="/network/">Network</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
