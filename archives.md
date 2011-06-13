@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archives
+permalink: /archives/
 ---
 <h2>Archives</h2>
 <div id="post_links">

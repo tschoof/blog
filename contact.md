@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+permalink: /contact/
 ---
 <h2>Contact</h2>
 <p>I really do like feedback. 'Then, why are there no comments enabled' you ask? Good question. I ruminate on it in <a href="http://blog.timmschoof.com/2011/05/12/Three">this post</a>. Until I take a closer look at Disqus or another extern commentary system (which might be an infinite amount of time away) you're welcome to comment on a post, say hello, affront me or ask any question you like. Knock yourself out:
