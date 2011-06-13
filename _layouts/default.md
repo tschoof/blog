@@ -1,4 +1,4 @@
-{% include header.html %}
+{% include header.md %}
 <body>
 	<div id="body">
 		<div id="header">
@@ -7,9 +7,9 @@
 
 		<div id="nav">
 			<a class="nav" href="http://timmschoof.com">About</a><br>
-			<a class="nav" href="/contact.html">Contact</a><br>
-			<a class="nav" href="/archives.html">Archives</a><br>
-			<a class="nav" href="/network.html">Network</a><br>
+			<a class="nav" href="/contact/l">Contact</a><br>
+			<a class="nav" href="/archives/">Archives</a><br>
+			<a class="nav" href="/network/">Network</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
 		</div>
 		<div id="content">
