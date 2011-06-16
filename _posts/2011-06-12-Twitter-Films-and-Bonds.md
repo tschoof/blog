@@ -5,7 +5,7 @@ date: 2011-06-12 23:00:00
 category: films
 published: true
 ---
-Some time ago, on a Sunday evening, I had an idea. Everyone in Germany watches 'Tatort' on Sunday evenings, and so my Twitter timeline's Fu log it, too. The 'Tatort', somehow, isn't for me. Call me arrogant but I have to tell you that most of the time, I can't even stand original German TV anymore, not just the badly synchronized, US stuff. Maybe I just watch badly acted scenes whenever I peek in a German channel. However, I thought it would be great if everyone would watch something **good** and tweet or blog about it. Like a book club, just for films.
+Some time ago, on a Sunday evening, I had an idea. Everyone in Germany watches 'Tatort' on Sunday evenings, and so my Twitter timeline's full of it, too. The 'Tatort', somehow, isn't for me. Call me arrogant but I have to tell you that most of the time, I can't even stand original German TV anymore, not just the badly synchronized, US stuff. Maybe I just watch badly acted scenes whenever I peek in a German channel. However, I thought it would be great if everyone would watch something **good** and tweet or blog about it. Like a book club, just for films.
 
 Well, the idea stayed an idea. Then, I started to listen to some [5by5 podcasts](http://5by5.tv/) and discovered that on The Talk Show, John Gruber and Dan Benjamin talk about every single one of the James Bond Films. They do kind of what I thought of! So, I liked the idea from the beginning.  
 I loved the Bond films a lot when I was younger, and I also like the reboot with Daniel Craig. And I like films and thinking, talking about them, especially considering the time they were made in and how they take effect today.
