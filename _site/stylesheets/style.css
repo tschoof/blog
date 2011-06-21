@@ -1,0 +1,222 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* My Shit */
+		@font-face { font-family: 'Ubuntu'; font-weight: normal; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-R.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: lighter; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-L.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: bold; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-B.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-style: italic; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-LI.ttf); }
+
+		body { 
+			background-color: #FFFFFF; 
+			color: #303030; 
+			font-family: 'Ubuntu'; 
+			font-weight: lighter;
+			font-size: 15px; 
+			line-height: 1.2;
+			text-align: justify;
+    			width: 900px;
+    			margin: 0 auto;
+			min-height: 100%;
+}
+i, em {
+			font-weight: italic;
+}
+		a { 
+			text-decoration: underline; 
+			color: #303030;
+}
+		a:hover { 
+			opacity: 0.6;
+			-webkit-transition: 0.1s linear;
+}
+		a:visited { 
+			opacity: 0.6;
+}
+p {
+			margin-top: 10px;
+			margin-bottom: 5px;
+			font-size: 15px; 
+}
+		ul {
+			list-style-type: disc; 
+			outside; 
+			margin-left: 40px; 
+}
+		ul ul {
+			list-style-type: circle; 
+			outside; 
+}
+		ul ul ul {
+			list-style-type: square; 
+			outside; 
+}
+		ol {
+			list-style-type: decimal; 
+			margin-left: 40px;
+}
+		h1 { 	
+			font-weight: lighter;
+			font-size: 20px; 
+			line-height: 1.8;
+}
+		b, strong {
+			font-weight: normal;
+}
+em, i {
+			font-style: italic;
+}
+		h2 {  
+			font-weight: lighter;
+			font-size: 18px; 
+			line-height: 1.8; 
+			
+}
+		h3 {
+			font-weight: lighter;
+			font-size: 18px;
+			line-height: 1.8;
+			margin-top: 10px;
+			margin-bottom: -11px;
+}
+
+.title, .title a { 	
+			font-weight: normal;
+			font-size: 24px; 
+			text-decoration: none;
+			line-height: 1.8;
+}
+#post-date { 
+			font-size: 12px; 
+			font-weight: lighter; 
+			padding: right; 
+			margin-top: -8px;
+			margin-bottom: 10px; 
+} 
+#header {
+			float: left;
+			width: 900px;
+			margin-top: 10px;
+			border-bottom: 1px solid #2E2E2E;
+}
+#nav	{
+			width: 170px;
+			float: right;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			padding-top: 10px;
+}
+.nav, .nav a {
+			font-size: 20px;
+			line-height: 1.8;
+			text-decoration: none; 
+			font-weight: lighter;
+			margin-left: 5px; 
+}
+
+#content {
+			width: 670px;
+			display: block;
+			height: auto;
+			min-height: 180px;
+			float: left;
+			padding-bottom: 20px;
+			padding-top: 10px;
+			padding-right: 45px;
+			border-right: 1px solid #2E2E2E;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			overflow: hidden;
+}
+#post_links {
+			margin-top: 10px;
+}
+.post_links, .post_links a {
+			text-decoration: none;
+			font-weight: normal;
+}
+#article-container {
+			line-height: 1.6;	
+}
+#article {
+			
+}
+#footer {
+			border-top: solid 1px;			
+    			width: 900px;
+			padding: 25px 0px 40px 0px;
+			margin: 0 auto;
+			font-weight: lighter; 
+			overflow: hidden;
+			height: 70px;
+			float: left;
+}	
+.footer, .footer a {
+			text-decoration: none;
+			font-weight: lighter;
+			border-bottom: 1px dotted;
+}
+blockquote {
+			border-left: 1px solid #999;
+			margin-left: 10px;
+			padding-left: 10px;
+			opacity: 0.8;
+}
+hr {
+			border-width: 0px; 
+			border-top: 1px solid #EEE; 
+			margin-top: 15px; 
+			width: 150px; 
+			margin-right: 520px; 
+}
+sup {vertical-align: super; font-size: 12px; margin: 0 0 0 2px;}
+.footnotes { margin: 45px 25px 25px 6px; font-size: 12px; color: #777;}
+.footnotes ol {list-style-type: decimal; margin: 0 0 0 5px;}
+.footnotes li {margin-left: 3%; margin-bottom: 1ex;}
+.footnotes li:before {display: none;}
+.footnotes hr {border-width: 0px; border-top: 1px solid #999;}
