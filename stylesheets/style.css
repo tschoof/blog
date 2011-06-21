@@ -65,9 +65,6 @@ table {
     			margin: 0 auto;
 			min-height: 100%;
 }
-i, em {
-			font-weight: italic;
-}
 		a { 
 			text-decoration: underline; 
 			color: #303030;
@@ -109,8 +106,9 @@ p {
 }
 		b {
 			font-weight: normal;
+			font-style: normal;
 }
-em, i {
+		i {
 			font-style: italic;
 }
 		h2 {  
