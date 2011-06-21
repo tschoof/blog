@@ -129,6 +129,13 @@ table {
 			margin-top: 10px;
 			margin-bottom: -11px;
 }
+		.article h1 {
+			font-weight: lighter;
+			font-size: 18px;
+			line-height: 1.8;
+			margin-top: 10px;
+			margin-bottom: -11px;
+}
 
 .title, .title a { 	
 			font-weight: bold;
