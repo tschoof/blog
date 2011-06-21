@@ -108,7 +108,7 @@ p {
 			font-weight: normal;
 			font-style: normal;
 }
-		i {
+		em, i {
 			font-style: italic;
 }
 		h2 {  
