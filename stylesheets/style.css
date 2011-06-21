@@ -132,9 +132,9 @@ table {
 		.article h1 {
 			font-weight: lighter;
 			font-size: 18px;
-			line-height: 1.8;
+			line-height: 1.6;
 			margin-top: 10px;
-			margin-bottom: -11px;
+			margin-bottom: -15px;
 }
 
 .title, .title a { 	
