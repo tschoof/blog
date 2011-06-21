@@ -75,11 +75,14 @@ table {
 		a:visited { 
 			opacity: 0.6;
 }
-p {
+		p {
 			margin-top: 10px;
 			margin-bottom: 5px;
 			font-size: 15px; 
 }
+		code {
+			font-family: "Courier";
+}		
 		ul {
 			list-style-type: disc; 
 			outside; 
