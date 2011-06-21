@@ -7,7 +7,7 @@ html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var, u, i, center,
+small, strike, strong, sub, sup, tt, var, b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
@@ -46,7 +46,7 @@ table {
 	border-spacing: 0;
 }
 /* My Shit */
-		@font-face { font-family: 'Ubuntu'; font-weight: normal; src:url(http://blog.timmschoof.com/fonts/Ubuntu-R.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: normal; src:url("http://blog.timmschoof.com/fonts/Ubuntu-R.ttf"); }
 		@font-face { font-family: 'Ubuntu'; font-weight: lighter; src:url(/fonts/Ubuntu-L.ttf); }
 		@font-face { font-family: 'Ubuntu'; font-weight: bold; src:url(/fonts/Ubuntu-B.ttf); }
 		@font-face { font-family: 'Ubuntu'; font-style: italic; src:url(/fonts/Ubuntu-LI.ttf); }
