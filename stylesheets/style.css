@@ -82,7 +82,8 @@ table {
 }
 		code {
 			font-family: "Courier";
-			text-indent: "20px";
+			text-indent: 20px;
+			background-color: #F0F8FF;
 }		
 		ul {
 			list-style-type: disc; 
