@@ -3,7 +3,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>{{ page.title }} - {{ site.title }}</title>
 	<meta name="author" content="Timm Schoof" />
+	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
+	<meta name="description" content="This is the personal blog of Timm Schoof" />
 	<meta name="generator" content="jekyll" />
+	<meta http-equiv="content-language" content="en">
 	<meta name="robots" content="all">
 	<link rel="Shortcut Icon" type="image/x-icon" href="/images/fav.png" />
 	<link rel="stylesheet" media="screen" href="/stylesheets/style.css"/>
