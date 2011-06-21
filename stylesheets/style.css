@@ -83,7 +83,9 @@ table {
 		code {
 			font-family: "Courier";
 			margin-left: 20px;
-			background-color: #E6E6E6;
+			padding-left: 2px;
+			padding-right: 2px;
+			background-color: #F8F8F8;
 }		
 		ul {
 			list-style-type: disc; 
