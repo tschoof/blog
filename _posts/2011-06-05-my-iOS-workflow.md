@@ -14,8 +14,7 @@ After I got my iPad and had two devices I wanted to have my contacts and calenda
 For best functionality with iDevices, I suggest you set up your gmail account as an (Microsoft)Exchange Server how it's described [here](http://www.cultofmac.com/how-to-set-up-push-gmail-on-your-iphoneipod-touch/16966), not as IMAP. It works like a charm. Though it dosn't happen instantaneously, new events or contacts get synced very reliably.  
 On Ubuntu, all the gmail functions seamlessly integrate with evolution, even the next few days' events show up under the calendar when you click on the time in the system's panel. I don't know how well or if any of that works with Outlook, but I think Google has figured something out.  
 
-### Texts ###
-
+# Texts #
 **Notes**  
 I came to the conclusion that notes I can search through (read: which were taken with the iPad) are more valuabe to me than notes I took with pen and paper. It certainly isn't for everyone, but I'm willing to trade having to slightly change the way I take notes for the comfort of having them all with me on the iPad and in my Dropbox<sup>2</sup>. For this purpose, I use [**Elements**](http://itunes.apple.com/us/app/elements-dropbox-powered-text/id382752422?mt=8). One of its perks is that it's able to understand and convert to [**markdown**](http://daringfireball.net/projects/markdown/), John Gruber's markup language. Don't know what that means? Me neither. It's an easy way to write down HTML, that's all you need to know. This way, I can look up all the notes I took while attending lectures. Saved my ass several times, and that's just since the iPad 2 is available.  
 Great post about markdown: [Markdown is the new Word 5.1](http://forkbombr.net/markdown-new-word51/)
