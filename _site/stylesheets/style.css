@@ -47,10 +47,10 @@ table {
 	border-spacing: 0;
 }
 /* My Shit */
-		@font-face { font-family: 'Ubuntu'; font-weight: normal; src: url(/fonts/Ubuntu-R.ttf); }
-		@font-face { font-family: 'Ubuntu'; font-weight: lighter; src: url(/fonts/Ubuntu-L.ttf); }
-		@font-face { font-family: 'Ubuntu'; font-weight: bold; src: url(/fonts/Ubuntu-B.ttf); }
-		@font-face { font-family: 'Ubuntu'; font-style: italic; src: url(/fonts/Ubuntu-LI.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: normal; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-R.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: lighter; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-L.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-weight: bold; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-B.ttf); }
+		@font-face { font-family: 'Ubuntu'; font-style: italic; src:url(http://tschoof.github.com/blog/fonts/Ubuntu-LI.ttf); }
 
 		body { 
 			background-color: #FFFFFF; 
@@ -59,6 +59,7 @@ table {
 			font-weight: lighter;
 			font-size: 15px; 
 			line-height: 1.2;
+			text-align: justify;
     			width: 900px;
     			margin: 0 auto;
 			min-height: 100%;
@@ -147,6 +148,7 @@ em, i {
 			width: 170px;
 			float: right;
 			margin-top: 20px;
+			margin-bottom: 20px;
 			padding-top: 10px;
 }
 .nav, .nav a {
@@ -161,6 +163,7 @@ em, i {
 			width: 670px;
 			display: block;
 			height: auto;
+			min-height: 180px;
 			float: left;
 			padding-bottom: 20px;
 			padding-top: 10px;
