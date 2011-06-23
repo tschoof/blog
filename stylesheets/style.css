@@ -59,7 +59,7 @@ table {
 			font-size: 15px; 
 			line-height: 1.58;
 			text-align: justify;
-    			width: 880px;
+    			width: 870px;
     			margin: 0 auto;
 			min-height: 100%;
 }
@@ -143,12 +143,12 @@ table {
 } 
 #header {
 			float: left;
-			width: 880px;
+			width: 870px;
 			margin-top: 10px;
 			border-bottom: 1px solid #2E2E2E;
 }
 #nav	{
-			width: 150px;
+			width: 140px;
 			float: right;
 			margin-top: 20px;
 			margin-bottom: 20px;
