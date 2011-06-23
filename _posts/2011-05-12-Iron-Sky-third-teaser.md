@@ -2,7 +2,7 @@
 layout: post
 title: Iron Sky - third Teaser
 date: 2011-05-12 23:08:00
-category: moving_pictures
+category: movies and television
 published: true
 ---
 

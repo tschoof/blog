@@ -2,7 +2,7 @@
 layout: post
 title: Twitter, Films and Bonds
 date: 2011-06-12 23:00:00
-category: moving_pictures
+category: movies and television
 published: true
 ---
 Some time ago, on a Sunday evening, I had an idea. Everyone in Germany watches 'Tatort' on Sunday evenings, and so my Twitter timeline's full of it, too. The 'Tatort', somehow, isn't for me. Call me arrogant but I have to tell you that most of the time, I can't even stand original German TV anymore, not just the badly synchronized, US stuff. Maybe I just watch badly acted scenes whenever I peek in a German channel. However, I thought it would be great if everyone would watch something **good** and tweet or blog about it. Like a book club, just for films.
