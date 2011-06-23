@@ -6,6 +6,7 @@
 	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
 	<meta name="description" content="This is the personal blog of Timm Schoof. It's covering tech, films, and general thoughts." />
 	<meta name="generator" content="jekyll" />
+	<meta name="viewport" content="width=900, initial-scale=1.0" />
 	<meta http-equiv="content-language" content="en">
 	<meta name="robots" content="all">
 	<link rel="Shortcut Icon" type="image/x-icon" href="/images/fav.png" />
