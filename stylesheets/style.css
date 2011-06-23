@@ -53,7 +53,7 @@ table {
 
 		body { 
 			background-color: #FFFFFF; 
-			color: #202020; 
+			color: #282828 ; 
 			font-family: "Ubuntu"; 
 			font-weight: lighter;
 			font-size: 15px; 
@@ -65,7 +65,7 @@ table {
 }
 		a { 
 			text-decoration: underline; 
-			color: #202020;
+			color: #282828;
 }
 		a:hover { 
 			opacity: 0.6;
