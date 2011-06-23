@@ -12,7 +12,7 @@ title: Home
 			border-top: 1px solid #BDBDBD; 
 			margin-top: 28px;
 			margin-bottom: 40px; 
-			width: 650px;
+			width: 670px;
 			margin-right: 20px;
 			text-align: left; ">
 {% endfor %}
