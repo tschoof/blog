@@ -10,7 +10,7 @@ title: Home
 <hr style="
 			border-width: 0px; 
 			border-top: 1px solid #BDBDBD; 
-			margin-top: 30px;
+			margin-top: 28px;
 			margin-bottom: 40px; 
 			width: 650px;
 			margin-right: 20px;
