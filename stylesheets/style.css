@@ -64,6 +64,10 @@ table {
     			margin: 0 auto;
 			min-height: 100%;
 }
+		header {
+			font-family: "Ubuntu", sans-serif; 
+			font-weight: normal;
+}		 
 		a { 
 			text-decoration: underline; 
 			color: #282828;
