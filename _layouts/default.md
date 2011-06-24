@@ -2,7 +2,7 @@
 <body>
 	<div id="body">
 		<div id="header">
-			<a href="/" title="Home"> <img src="/images/header.svg" alt="header.svg" width="283" height="137" type="image/svg+xml" style="font-family: Ubuntu; font-weight: bold;" ></a>
+			<a href="/" title="Home"> <img src="/images/header.png" alt="header.svg" width="283" height="137" type="image" ></a>
 		</div>
 
 		<div id="nav">
