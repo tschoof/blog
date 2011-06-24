@@ -55,7 +55,7 @@ table {
 		body { 
 			background-color: #FFFFFF; 
 			color: #282828 ; 
-			font-family: "Ubuntu"; 
+			font-family: "Ubuntu", sans-serif; 
 			font-weight: lighter;
 			font-size: 15px; 
 			line-height: 1.58;
