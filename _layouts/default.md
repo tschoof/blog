@@ -2,7 +2,7 @@
 <body>
 	<div id="body">
 		<div id="header">
-			<a href="/" title="Home"> <img src="/images/header.png" alt="header.png" width="283" height="137"></a>
+			<a href="/" title="Home"> <img src="/images/header.svg" alt="header.png" width="283" height="137"></a>
 		</div>
 
 		<div id="nav">
