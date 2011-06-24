@@ -51,7 +51,7 @@ table {
 		@font-face { font-family: "Ubuntu"; font-style: italic; src:url("/fonts/Ubuntu-LI.ttf"); }
 		@font-face { font-family: "Ubuntu"; font-style: italic; font-weight: bold; src:url("/fonts/Ubuntu-RI.ttf"); }
 */
-<link href='http://fonts.googleapis.com/css?family=Ubuntu:light,lightitalic,regular,italic&v1' rel='stylesheet' type='text/css'>
+
 		body { 
 			background-color: #FFFFFF; 
 			color: #282828 ; 
