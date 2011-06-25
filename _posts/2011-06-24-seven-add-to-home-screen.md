@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven - "Add to Home Screen"
-date: 2011-06-24 11:00:00
+date: 2011-06-25 12:00:00
 category: blog
 published: true
 ---
