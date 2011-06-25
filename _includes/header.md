@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <head>  
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu:light,lightitalic,regular,italic,bold&v1' rel='stylesheet' type='text/css'>
+	<link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>{{ page.title }} - {{ site.title }}</title>
 	<meta name="author" content="Timm Schoof" />
