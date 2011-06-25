@@ -6,4 +6,4 @@ category: blog
 published: true
 ---
 <br>
-<div align="center"><img src="/images/apple-touch-icon.png" alt="Apple Touch Icon"></div>
+<div align="center" margin-top="10px" ><img src="/images/apple-touch-icon.png" alt="Apple Touch Icon"></div>
