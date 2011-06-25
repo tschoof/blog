@@ -1,0 +1,16 @@
+---
+layout: post
+title: gmail finally got awesome on iOS
+date: 2011-00-00 00:00:00
+category: tech
+published: false
+---
+Since January, the native iOS app respects your settings in gmail regarding the 'Send Mail as' mail address. That's exactly what I waited for. gmail is a great, if not **the** tool for managing multiple mail accounts. In these days and especially for me, that's crucial. But there are/were some drawbacks.
+
+Since I live in Germany, my account mail ends with '@googlemail.com' instead of '@gmail.com', due to some ridiculous legal restrictions (another company named gmail). When I first created that account, the term 'proxy' wasn't familiar to me, so I have to live with the unnecessarily long domain. But that's not Google's fault.  
+I mentioned multiple accounts. gmail is the workhorse that does all your mail labeling, sorting, forwarding etc. But until January, you couldn't hide the fact that you're using gmail to do all that when you were also using an iOS device for email. Mail on iOS would send every mail from your gmail address, and not from the 'Send Mail as' you set in the gmail web app. This led to an inconsistency when you were mostly using an individual mail address, and mails from your iPhone came from another. My contacts would end up with the beautiful mail address I put on my card, maybe send me mails using it, and then, one day, get mail from another 'Timm Schoof' who's not in their contacts. 'Did you change your mail address.' - '[Yeah, no, yeah no, you know...](http://www.youtube.com/watch?v=5oqgnKgwDsk&feature=youtube_gdata_player)'  
+I can't have that, I'm not a nerd to have **that** conversation. It just wasn't an acceptable solution, considering all the effort I made configuring gmail as my all-mail-backend. 
+
+Now, as I mentioned above, Google has solved that problem. Mail on iOS now sends mails from the mail address you set in the 'normal' gmail web app. Unfortunately, Google [buries](http://www.google.com/support/mobile/bin/answer.py?answer=138740&topic=14252) the information how to get there deep I their support pages.  
+You need to go to [m.google.com/sync](http://m.google.com/sync) on your iDevice (that's where you can enable multiple calendars to sync with Google, too). Now, it gets messy. If you're accessing that site from outside the US or UK, as I was, it tells you: *Google Sync wird auf ihrem Gerät nicht unterstützt*, *Google Sync isn't available on your device*. Bummer. The key lies within *Sprache ändern*, *Change language*. Switch it to English and you're good to go. On the next page, you can access your Google Sync enabled devices and check *Enable 'Send Mail as' for this device*, save, and live in peace.  
+Of course, you have to [set up Google Sync with your iDevice](http://www.google.com/support/mobile/bin/answer.py?answer=138740&topic=14252) i.e. Exchange Server, to use gmail like this. I strongly recommend this way of using gmail over IMAP or POP3 with some other host, and most likely even over the upcoming iCloud stuff.
