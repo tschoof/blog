@@ -8,16 +8,202 @@
     <language>en</language>
 	<image><url>http://blog.timmschoof.com/images/fav.png</url></image>
     <webMaster>hello@timmschoof.com (Timm Schoof)</webMaster>
-    <pubDate>2011-06-12T18:39:44+02:00</pubDate>
+    <pubDate>2011-06-27T21:41:21+02:00</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
+    
+    <item>
+      <title>gmail finally got awesome on iOS</title>
+      <link>http://blog.timmschoof.com/2011/06/25/gmail-finally-got-awesome-on-ios</link>
+      <pubDate>Jun 25, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/25/gmail-finally-got-awesome-on-ios</guid>
+      <description>&lt;p&gt;Since January, the native iOS app respects your settings in gmail regarding the 'Send Mail as' email address. That's exactly what I waited for. gmail is a great, if not &lt;strong&gt;the&lt;/strong&gt; tool for managing multiple email accounts. In these days of information, email overflow and 'just create an account' for me, that's crucial. But there are/were some drawbacks with gmail.&lt;/p&gt;
+
+&lt;p&gt;Since I live in Germany, my account mail ends with '@googlemail.com' instead of '@gmail.com', due to some ridiculous legal restrictions (another company named gmail wanted to make some money). Back in 1800, when I created that google account, the term 'proxy' wasn't familiar to me, so now I have to live with the unnecessarily long domain. But that's not Google's fault.&lt;br/&gt;
+I mentioned multiple accounts. gmail is the workhorse that does all your mail labeling, sorting, filtering, deleting, forwarding etc. But until January, you couldn't hide the fact that you're using gmail when you were using an iOS device. Mail on iOS would send every email from your gmail address, and not from the 'Send Mail as' you set in the gmail web app. This would've led to an inconsistency when you were mostly using some personal mail address with a nice domain for example, but mails from your iPhone would come from a different address.&lt;br/&gt;
+My contacts would end up with the beautiful mail address I put on my card, maybe send me emails to it, and then, one day, get email from a different 'Timm Schoof' who's not in their contacts. 'Did you change your email address?' - '&lt;a href=&quot;http://www.youtube.com/watch?v=5oqgnKgwDsk&amp;amp;feature=youtube_gdta_player&quot;&gt;Yeah, no, yeah no, you know...&lt;/a&gt;'&lt;br/&gt;
+I can't have that, I'm not a geek to have &lt;strong&gt;that&lt;/strong&gt; conversation. It just wasn't a sophisticated or acceptable solution, considering all the effort I made configuring gmail for being my all-email-backend.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned above, Google has solved that problem. Mail on iOS now sends emails from the email address you set in the 'normal' gmail web app. Unfortunately, Google &lt;a href=&quot;http://www.google.com/support/mobile/bin/answer.py?answer=138740&amp;amp;topic=14252&quot;&gt;buries&lt;/a&gt; the information how to get there deep I their support pages.&lt;br/&gt;
+You need to go to &lt;a href=&quot;http://m.google.com/sync&quot;&gt;m.google.com/sync&lt;/a&gt; on your iDevice (that's where you can enable multiple calendars to sync with Google, too). Now, it gets messy. If you're accessing that site from outside the US or UK, as I was, it tells you: &lt;em&gt;Google Sync wird auf ihrem Gerät nicht unterstützt&lt;/em&gt;, German for: &lt;em&gt;Google Sync isn't available on your device&lt;/em&gt;. Bummer. The key lies within &lt;em&gt;Sprache ändern&lt;/em&gt;, &lt;em&gt;Change language&lt;/em&gt;. Switch to English and you're good to go. On the next page, you can access your Google Sync enabled devices and check &lt;em&gt;Enable 'Send Mail as' for this device&lt;/em&gt;, hit save and live in peace.&lt;br/&gt;
+Of course, you have to &lt;a href=&quot;http://www.google.com/support/mobile/bin/answer.py?answer=138740&amp;amp;topic=14252&quot;&gt;set up Google Sync with your iDevice&lt;/a&gt; i.e. Exchange Server, to use gmail like this. I strongly recommend this way of using it over IMAP or POP3 with some other host, and most likely even over the upcoming iCloud stuff. Cheers.&lt;/p&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>Seven - "Add to Home Screen"</title>
+      <link>http://blog.timmschoof.com/2011/06/25/seven-add-to-home-screen</link>
+      <pubDate>Jun 25, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/25/seven-add-to-home-screen</guid>
+      <description>&lt;br&gt;
+
+
+&lt;div align=&quot;center&quot; margin-top=&quot;10px&quot; &gt;&lt;img src=&quot;/images/apple-touch-icon.png&quot; alt=&quot;Apple Touch Icon&quot;&gt;&lt;/div&gt;
+
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>Six - Font Magic</title>
+      <link>http://blog.timmschoof.com/2011/06/24/six-font-magic</link>
+      <pubDate>Jun 24, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/24/six-font-magic</guid>
+      <description>&lt;p&gt;I had no idea! I was sabotaging my minimalistic approach towards this blog entirely by using the Ubuntu font all wrong.&lt;br/&gt;
+I implemented it via @font-face and had &lt;strong&gt;nothing&lt;/strong&gt; but problems with getting f#ing Firefox to display it correctly. Yesterday, I spent several hours and finally got it fixed. The joy didn't las long: Since December of 2010, the Ubuntu font is available via the Google Font API, and I just discovered today that's a good thing. What did I do all the time instead of &lt;a href=&quot;http://www.google.com/webfonts/family?family=Ubuntu&amp;amp;subset=latin#code&quot;&gt;using it&lt;/a&gt;? Let my visitors load some nice 1,5mb of font data. Yay.&lt;br/&gt;
+Loading a font equals loading a font you might think: &lt;em&gt;Google has to load it too, stupid!&lt;/em&gt; -  Wrong. Well, yes but: I don't know whether github (where I'm hosted) slowed it all down, being free and and offering correspondent performance, but sure is: Now, with the Google Font API, this site loads amazingly fast.&lt;/p&gt;
+
+&lt;p&gt;Literally, one new line of code and 3 or 4 adjustments in my stylesheet was all it took. The latter solely due to my poor CSS skills and huge amount of &lt;a href=&quot;http://5by5.tv/buildanalyze/15&quot;&gt;technological debt&lt;/a&gt; I created. In case this is news to you - Everything necessary is to find here: &lt;a href=&quot;http://font.ubuntu.com/web/&quot;&gt;font.ubuntu.com/web&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>Game of Thrones</title>
+      <link>http://blog.timmschoof.com/2011/06/23/Game-of-Thrones</link>
+      <pubDate>Jun 23, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/23/Game-of-Thrones</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post is intended to be spoiler-free till the last paragraph&lt;/em&gt;&lt;br/&gt;
+Damn, what a great first season. Basically, medieval times aren't my favorite genre, but this world is more vivid than some of the worlds pictured in series with modern setting. I'm glad I began to watch '&lt;a href=&quot;http://www.imdb.com/title/tt0944947/&quot;&gt;Game of Thrones&lt;/a&gt;' when the 9th episode was already about to air, I don't know how psyched I would've got if I would've had to wait a whole week in between the single episodes.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I thought I had recognized a change of scene and anticipated the next, but the current would continue and last almost twice as long as your average scene in films or other TV Series. To recognize how conditioned we are in these matters, I found quite shocking. However, the long lasting scenes and dialogues result in serious storytelling&lt;sup&gt;1&lt;/sup&gt; and deeply drawn characters. They die like flies, but you get to know them very well beforehand. 'GoT' isn't called 'The Sopranos with swords' for nothing.&lt;br/&gt;
+For not falling behind on whose sister sent a raven about whose murder to whose sister's husband, check out &lt;a href=&quot;http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/&quot;&gt;HBO's Viewer's Guide&lt;/a&gt;, it keeps you from googling and finding yourself on a wiki(pedia) page full of potential spoilers.&lt;/p&gt;
+
+&lt;p&gt;This series' dialogues are a joy to listen to, and they have a certain self-awareness to them. I also really like their humor. In one scene, King Robert Baratheon and his despised wife, Queen Cersei Lannister ask themselves what it was that held together the Kingdoms all these years. '&lt;em&gt;Our marriage?&lt;/em&gt;' he asks. Silence.&lt;br/&gt;
+In other TV Series, this would've been a moment of weakness, in which the wannabe-sentimental  moment had been cheaply exploited for a kiss, so the masses could relax in their chairs and join the characters in their fake world, dreaming of theirs to be that simple. No, 'Game of Thrones' doesn't do that. After Robert asks the question, he and his wife burst out laughing and quickly settle on their hate to having held it all together. I almost applauded, but I couldn't, I clenched my fists in silent expression of gratitude to the writers and producers who didn't go down that road.&lt;/p&gt;
+
+&lt;p&gt;I also like the violence in this series. It's not omnipresent, but when it's there, it's raw, bloody, sometimes quite unexpected&lt;sup&gt;2&lt;/sup&gt; and most of the time totally approved by everyone, even by the casualties-to-be. And you say our society is depraved about this.&lt;/p&gt;
+
+&lt;p&gt;What about the rest? Some supernatural content and magic is beautifully justified with the world of 'Game of Thrones' being another universe than ours, adding other nice touches like seasons lasting for several years. Huge fan, out of pure longig for this fantasy world I already bought the first of the books&lt;sup&gt;3&lt;/sup&gt; the series is based on. Maybe this one gets me to read novels again.&lt;br/&gt;
+Can't wait for the second season. I just &lt;strong&gt;&lt;em&gt;attention, spoiling 9th episode&lt;/em&gt;&lt;/strong&gt; wonder if they casted Sean Bean solely as 'cart horse' for the first season. Otherwise I can't figure out why you'd slaughter the most popular actor of the cast, i.e. cast him for a (main) character who is decapitated in the first season, literally &lt;em&gt;by the book&lt;/em&gt;. I'm not arguing his death, it's okay, &lt;a href=&quot;http://www.wired.com/geekdad/2011/06/you-should-keep-watching-game-of-thrones/&quot;&gt;GeekDad is absolutely right&lt;/a&gt;: Letting the honest and honorable die makes the story, be it TV or novel, so good. Plus: In my opinion, Ned Stark was too whiny and naïve for King's Landing anyway. I mean, who has half his guard slaughtered more often?&lt;/p&gt;
+
+&lt;p&gt;Do watch this.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Medieval people seem to scheme like masterminds, unimaginable for my modern age, lazy brain.&lt;/li&gt;
+&lt;li&gt;Well, the unseathing of the swords gives you an idea. I'd like an instrument like this nowadays. Imagine you walking down the street, someone gets in your way. Instead of walking by, doing nothing, you unsheathe your sword. Depending on how sophisticated you pull it off, you got yourself a slave, get  offered a match with his daughter or lose your head in duel.&lt;/li&gt;
+&lt;li&gt;eBook, of course. Interesting: the English kindle edition is &lt;a href=&quot;http://www.amazon.de/Game-Thrones-Song-Fire-ebook/dp/B000QCS8TW/ref=sr_1_2?ie=UTF8&amp;amp;m=A11MW6AJTK8WZ7&amp;amp;s=digital-text&amp;amp;qid=1308776721&amp;amp;sr=1-2&quot;&gt;5,67€&lt;/a&gt;, but in Germany there's a fixed price for books (hooray), so even the German eBook is &lt;a href=&quot;http://www.amazon.de/Das-Lied-von-Feuer-ebook/dp/B004OVEY4O/ref=sr_1_5?ie=UTF8&amp;amp;m=A11MW6AJTK8WZ7&amp;amp;s=digital-text&amp;amp;qid=1308776721&amp;amp;sr=1-5&quot;&gt;9,99€&lt;/a&gt;. Almost as twice as much. The German publishers really must hate progress.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>AirPlay in Totem</title>
+      <link>http://blog.timmschoof.com/2011/06/19/AirPlay-in-Totem</link>
+      <pubDate>Jun 19, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/19/AirPlay-in-Totem</guid>
+      <description>&lt;p&gt;A plug-in for Totem (Ubuntu's standard movie player), &lt;a href=&quot;http://www.omgubuntu.co.uk/2011/01/airplay-video-playback-comes-to-totem/&quot;&gt;released in January&lt;/a&gt;, allows to stream video via Apple's AirPlay. I checked it out immediately, and it worked. With the release of Ubuntu 11.04, it stopped working. The plugin couldn't be activeated and Totem gave out the error message&lt;br/&gt;
+&lt;code&gt;Unable to activate plugin AirPlay Support&lt;/code&gt;&lt;br/&gt;
+Then, I found the solution, a comment on the very same article I linked to above. Like &lt;a href=&quot;https://twitter.com/#!/pgkehle&quot;&gt;Paul Kehle&lt;/a&gt; says, once you install 'avahi-discover', it works. Run&lt;br/&gt;
+&lt;code&gt;sudo apt-get install avahi-discover&lt;/code&gt;&lt;br/&gt;
+in Terminal and you're fine. Thanks, Paul.&lt;br/&gt;
+I just wanted to share this because I'd given up hope and just came across it by accident.&lt;/p&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>work worth doing</title>
+      <link>http://blog.timmschoof.com/2011/06/17/work-worth-doing</link>
+      <pubDate>Jun 17, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/17/work-worth-doing</guid>
+      <description>&lt;p&gt;On a &lt;a href=&quot;http://blog.timmschoof.com/2011/06/16/The-work-you-should-be-doing/&quot;&gt;related matter&lt;/a&gt;:&lt;br/&gt;
+Patrick Rhone &lt;a href=&quot;http://twitter.com/patrickrhone/status/80270747922210816&quot;&gt;for one&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.” - &lt;em&gt;Theodore Roosevelt&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Patrick Rhone &lt;a href=&quot;http://twitter.com/patrickrhone/status/80271484723019776&quot;&gt;for two&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Now, of course, the question you must ask yourself is this: Are you doing work worth doing?&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>The work you should be doing</title>
+      <link>http://blog.timmschoof.com/2011/06/16/The-work-you-should-be-doing</link>
+      <pubDate>Jun 16, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/16/The-work-you-should-be-doing</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;http://brooksreview.net/2011/04/qotd-hische/&quot;&gt;Jessica Hische&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The work you do while you procrastinate is probably the work you should be doing for the rest of your life.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;That's a great sentence. It implies one of the principles I think is most important for one's professional life: Do something that's fun for you. I can't stand the idea of doing something for a living that doesn't appeal to me. This may sound harsh, but I'd rather shoot myself in the head than spend 30-40 years of my life doing something I don't like. It'd be pointless, too 'cause I really suck at doing things I don't like.&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Therefore, the quote above frightened me. It is great and true I think, but it frightened me. It frightened me because when I procrastinate, I check Twitter, watch TV Series or work on my blog.&lt;sup&gt;2&lt;/sup&gt; And that has nothing to do with law in general or my studies in any other way. Well, don't I like studying law? Nah, that's not it, when I do intensified studying, it's fun. I really enjoy working on my very own solution for a case and write it up in some 30 pages. And I love to be right, so I just might as well make it my job. But to be honest, I constantly fail at getting a routine to do intense studying on a regular basis without any pressure, any deadline or exam.&lt;br/&gt;
+So the quote above stood open in a page in the Safari on my iPad and I couldn't get it out of my head. I wanted to live by it, but what is it that kept me from doing so?&lt;/p&gt;
+
+&lt;p&gt;And it got me thinking. There are hobbies that can be professions, like all this Web 2.0, Public Relations, Social Media, Designer stuff that takes place in lofts in the most expensive offices in town. It's real work, you don't need to tell me, but you don't have to read a book to do this kind of work. It's very likely anyone who now works as a graphic/web designer used to launch Photoshop (while procrastinating) and play with it.&lt;br/&gt;
+And there are professions that can't be hobbies, and those are hard to come by while one procrastinates. It's very unlikely anyone without further knowledge of the law begins to ruminate on some civil law matter. In order to do so, you'd first need to acquire quite some knowledge. As one of my teachers used to put it: '&lt;em&gt;We have to chew some brown bread!&lt;/em&gt;', meaning there's some work to do that's not much fun, but obligatory. And I hate to admit it, but for me the crude ability to get over my weaker self and take on something that is not fun from the beginning is the most crucial skill in studying law.&lt;br/&gt;
+It's like the postponing of 'do something that's fun for you' to reach a higher level of doing so is the ultimate challenge. This of course even applies to the decision of beginning a study or a job training after school.&lt;/p&gt;
+
+&lt;p&gt;Well, the above seems very obvious to me now that I read it, but it took me quite some time and thinking to get there.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Still looking at you, mark I got in French in 7th grade, still looking.&lt;/li&gt;
+&lt;li&gt;The latter is more productive procrastinating, but it still isn't studying.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>Two more Apps in my 'workflow'</title>
+      <link>http://blog.timmschoof.com/2011/06/13/two-more-apps-in-my-workflow</link>
+      <pubDate>Jun 13, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/13/two-more-apps-in-my-workflow</guid>
+      <description>&lt;p&gt;When I wrote about my &lt;a href=&quot;http://blog.timmschoof.com/2011/06/05/my-iOS-workflow&quot;&gt;iOS-centric workflow&lt;/a&gt;, or: funflow, I forgot to mention two apps.&lt;/p&gt;
+
+&lt;p&gt;First, the important one: &lt;a href=&quot;http://itunes.apple.com/us/app/1password-pro/id319898689?mt=8&quot;&gt;&lt;strong&gt;1Password Pro&lt;/strong&gt;&lt;/a&gt;. I keep all my passwords and account logins in it. It's one of the apps I launch most often, because it's all in one place. Once I got away from the foolish 'same password for every account' policy, I learned that one safe place to keep all the individually generated passwords is the only way to go. Of course, if my master password gets cracked my other passwords are worth nothing, that's the downside. Still, I think it's the only reasonable way to handle today's requirements of amounts of logins and passwords.&lt;br/&gt;
+The Pro version is optimized both for iPhone and iPad, and looks and works marvelous, especially on the iPad. If you're lucky and use a Mac, it syncs to it. There also is a windows client that's supposed to sync via Dropbox, but I never figured out how. And by that, I mean it just doesn't work (yet). But you can back up your data manually in a single file. Attention: These files aren't necessarily interchangeable between iPad and iPhone because of different passcode-systems. Still a great app. There also is a non-pro version, but don't ask me what it can or can't do.&lt;/p&gt;
+
+&lt;p&gt;If you own an iDevice and are younger than 35 years, you probably already know the second app: &lt;a href=&quot;http://itunes.apple.com/us/app/flipboard/id358801284?mt=8&quot;&gt;&lt;strong&gt;Flipboard&lt;/strong&gt;&lt;/a&gt;. It sucks in your Twitter, Faceboom and Instagram data and presents it in a beautiful way. So beautiful, I can't stand seeing the crappy status updates of my Facebook friends in it. But I love flipboarding the tweets I favorited once in a while.&lt;br/&gt;
+Flipoard also signed deals with the Guardian, Wired and TechCrunch, probably to avoid getting sued over some copyright matter. But for your benefit: The Wired stories for example, are beautifully animated and integrated. For me, that's much more of a deal than the heavily advertised Wired Magazine App.&lt;/p&gt;
+
+&lt;p&gt;That's it, for now.&lt;/p&gt;
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
+    
+    <item>
+      <title>Twitter, Films and Bonds</title>
+      <link>http://blog.timmschoof.com/2011/06/12/Twitter-Films-and-Bonds</link>
+      <pubDate>Jun 12, 2011</pubDate>
+      <guid>http://blog.timmschoof.com/2011/06/12/Twitter-Films-and-Bonds</guid>
+      <description>&lt;p&gt;Some time ago, on a Sunday evening, I had an idea. Everyone in Germany watches 'Tatort' on Sunday evenings, and so my Twitter timeline's full of it, too. The 'Tatort', somehow, isn't for me. Call me arrogant but I have to tell you that most of the time, I can't even stand original German TV anymore, not just the badly synchronized, US stuff. Maybe I just watch badly acted scenes whenever I peek in a German channel. However, I thought it would be great if everyone would watch something &lt;strong&gt;good&lt;/strong&gt; and tweet or blog about it. Like a book club, just for films.&lt;/p&gt;
+
+&lt;p&gt;Well, the idea stayed an idea. Then, I started to listen to some &lt;a href=&quot;http://5by5.tv/&quot;&gt;5by5 podcasts&lt;/a&gt; and discovered that on The Talk Show, John Gruber and Dan Benjamin talk about every single one of the James Bond Films. They do kind of what I thought of! So, I liked the idea from the beginning.&lt;br/&gt;
+I loved the Bond films a lot when I was younger, and I also like the reboot with Daniel Craig. And I like films and thinking, talking about them, especially considering the time they were made in and how they take effect today.&lt;/p&gt;
+
+&lt;p&gt;Having two dudes talking about films, listening to their opinions really works for me. Although I sometimes think Dan just agrees to whatever Gruber's opinion is, I use their discussion to think about the points they bring up and compare it to my opinion of the film. For instance, I honestly, really truly like the one with George Lazenby, '&lt;a href=&quot;http://goo.gl/LKkLF&quot;&gt;On Her Majesty's Secret Service&lt;/a&gt;', especially compared to the following 'Diamonds are forever' for which Connery was brought back and seemed completely uninspired and dull to me.&lt;br/&gt;
+During the Roger Moore period, which sadly lasted more than a decade, you may start questioning yourself what the heck you are doing, wasting your time with some of the worst bond films&lt;sup&gt;1&lt;/sup&gt;. But I have to say that as a kid, I loved the kind of humor Moore gave the character. This way, it's still fun to try to point the finger at what it is that makes the films so different than the Connery ones, and how much of it couldn't have been helped either way cause Moore's films were made in the 70s and 80s (and, how Gruber loves to point out, were directed by John Glen).&lt;/p&gt;
+
+&lt;p&gt;That's it for now, I just wanted to address what I think is an interesting kind of film criticism and getting it out there. Maybe we/me/whoever can start a little something like this some time, realized through blogposts, another podcast, or just Twitter, we'll see.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Which ones exactly are the worst is subject to heavy discussion, like you may have guessed. But I'm sure it's consent that quite a few, if not - let's say the worst two to three - are to find in Moore's era.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    </item>
     
     <item>
       <title>Quotes #1</title>
       <link>http://blog.timmschoof.com/2011/06/12/Quotes-1</link>
       <pubDate>Jun 12, 2011</pubDate>
       <guid>http://blog.timmschoof.com/2011/06/12/Quotes-1</guid>
-      <description>&lt;p&gt;Well, I've been wanting to write this post for a long time. I've been collecting quotes that made me laugh or want to clap my hands and shout &lt;strong&gt;'Right!'&lt;/strong&gt; when they were said. Today, I stumbled over &lt;a href=&quot;http://www.siracusasaidso.com/&quot;&gt;SiracusaSaidSo.com&lt;/a&gt;, a neat website that collects some lines by &lt;a href=&quot;http://www.twitter.com/siracusa&quot;&gt;John Siracusa&lt;/a&gt;. It reminded me of my plan. What follows are memorable quotes , mostly from different &lt;a href=&quot;http://5by5.tv/&quot;&gt;5by5 Podcasts&lt;/a&gt;, the network which's shows I currently mention in every post. I try to make the quotes as exact as possible but have to alter them a little in order to keep up the readability. Here we go.&lt;/p&gt;
+      <description>&lt;p&gt;Well, I've been wanting to write this post for a long time. I've been collecting quotes that made me laugh or want to clap my hands and shout &lt;strong&gt;'Right!'&lt;/strong&gt; when they were said. Today, I stumbled over &lt;a href=&quot;http://www.siracusasaidso.com/&quot;&gt;SiracusaSaidSo.com&lt;/a&gt;, a neat website that collects some lines by &lt;a href=&quot;http://www.twitter.com/siracusa&quot;&gt;John Siracusa&lt;/a&gt;. It reminded me of my plan. What follows are memorable quotes, mostly from different &lt;a href=&quot;http://5by5.tv/&quot;&gt;5by5 Podcasts&lt;/a&gt;, the network which's shows I currently mention in every post. I try to make the quotes as exact as possible but have to alter them a little in order to keep up the readability. Here we go.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;The Magic of the Internet - &lt;a href=&quot;http://5by5.tv/hypercritical/1&quot;&gt;Hypercritical #1, 29:00&lt;/a&gt;&lt;br/&gt;
@@ -33,7 +219,7 @@ Marco Arment and Dan Benjamin talk about coffee, especially the chemex coffee br
 &lt;li&gt;&lt;p&gt;Geekism - &lt;a href=&quot;http://5by5.tv/buildanalyze/11&quot;&gt;Build &amp;amp; Analyze #11, 05:30&lt;/a&gt;&lt;br/&gt;
 Marco:&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;I'm a true geek. I like it when people are passionate and particular about things they really enjoy. So listening to other geeks talk about things in a geeky manner is still interestint to me, even if the topics are not.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;I'm a true geek. I like it when people are passionate and particular about things they really enjoy. So listening to other geeks talk about things in a geeky manner is still interesting to me, even if the topics are not.&lt;/p&gt;&lt;/blockquote&gt;
 
   This reminds me of a sentence in the article &lt;a href=&quot;http://blog.wilshipley.com/2011/04/success-and-farming-vs-mining.html&quot;&gt;Success, and farming vs mining&lt;/a&gt;.
 
@@ -43,390 +229,13 @@ Marco:&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;Being a designer - &lt;a href=&quot;http://5by5.tv/pipeline/43&quot;&gt;The Pipeline #43, 38:30&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&quot;https://twitter.com/#!/mike_ftw&quot;&gt;Mike Monteiro&lt;/a&gt;:&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Add you can see on Twitter that there's a ton of bitching about: 'No one respects me as a designer. But I'm also not willing to put in the effort to get respected. I want to sit here at my desk in front of my iMac screen and my very expensive headphones on, listening to house music, cranking out beautifully layered Photoshop files that have nothing to do with my client's business goals.'&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;blockquote&gt;&lt;p&gt;And you can see on Twitter that there's a ton of bitching about: 'No one respects me as a designer. But I'm also not willing to put in the effort to get respected. I want to sit here at my desk in front of my iMac screen and my very expensive headphones on, listening to house music, cranking out beautifully layered Photoshop files that have nothing to do with my client's business goals.'&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Ferrari - &lt;a href=&quot;http://minimalmac.com/enough/#ep18&quot;&gt;Enough #18, 06:00&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&quot;https://twitter.com/#!/patrickrhone&quot;&gt;Patrick Rhone&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;&lt;p&gt;I didnt't buy a Ferrari to drive it on a 25 mph sideroad. I bought a Ferrari 'cause I want to drive it on the frikkin' Autobahn.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>iOS 5*</title>
-      <link>http://blog.timmschoof.com/2011/06/08/iOS-5</link>
-      <pubDate>Jun 08, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/06/08/iOS-5</guid>
-      <description>&lt;p&gt;What Apple presented on monday is really huge. I followed the &lt;a href=&quot;http://events.apple.com.edgesuite.net/11piubpwiqubf06/event/&quot;&gt;keynote&lt;/a&gt; via the TechCrunch live blog, but am sure I missed a ton of good stuff and already forgot another ton. iMessages, new notification system, iCloud and the deeeeep Twitter integration&lt;sup&gt;1&lt;/sup&gt; alone sound so awesome I can't wait for iOS 5 to ship, nay: to be delivered over the air onto my iDevices.&lt;/p&gt;
-
-&lt;h3&gt;iMessage&lt;/h3&gt;
-
-&lt;p&gt;iMessage enables every iDevice's SMS app to send messages to another iDevice via wifi or 3G. Even more: You can't even send an SMS to another person's iPhone over your carrier's network if you wanted to. As &lt;a href=&quot;http://marco.org&quot;&gt;Marco Arment&lt;/a&gt; points out in the &lt;a href=&quot;http://5by5.tv/buildanalyze/28&quot;&gt;latest Build &amp;amp; Analyze&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;As a result, people are just gonna see their text message bills declining. [...] It's like a massive middle finger to the carriers, I love it. I absolutely love it.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;That's right on, especially considering that the carriers apparently also found out about iMessage during the Keynote. &lt;em&gt;Oh, one more thing: We're killing half your business.&lt;/em&gt; Finally! Someone had to do it, somebody had to take today's 3G coverage and  the idea of simple and short messages. I like Twitter DMs, but sadly people need a Twitter account and enable Push to use them. So the barrier was too high for most people and DMs became an instrument for nerds only.&lt;br/&gt;
-Almost as much as I love iMessage because it spits into the carriers' face, I love it because it will kill 'WhatsApp'. This app is very popular with some smartphone-equipped folks around me, and I hate it. It did and sadly still does what iMessage heads out for: It sends messages over a data connection. But in an ugly and inconvenient way. Even the dumbest son of a bitch on the train who has the loudest and worst music coming out of his iPhone uses 'WhatsApp'. It really is the descendant of MSN messenger. Lately, it was available for free so I checked it out, but could only stand it for half a day. Then I freed my iPhone from this hell-sent app.&lt;br/&gt;
-Oh, and iMessage syncs between your iDevices, exactly what Twitter DMs didn't. Hopefully, Apple now enables the Twitter app to do the same for your timeline.&lt;/p&gt;
-
-&lt;h3&gt;Notification Center&lt;/h3&gt;
-
-&lt;p&gt;Well, the old ones sucked. The new ones look great, usability-wise. I can enable far more notifications and still get less disturbed by them.&lt;/p&gt;
-
-&lt;h3&gt;iCloud&lt;/h3&gt;
-
-&lt;p&gt;It's funny, just as I &lt;a href=&quot;http://blog.timmschoof.com/2011/06/05/my-iOS-workflow/&quot;&gt;wrote about&lt;/a&gt; how independent my iDevices are from the iTunes that's buried deep in the Windows partition on my desktop machine, Apple addresses that. Melikey. The contact and calendar stuff probably works like Google's services and like Mobile Me should have. The free mail address is nice, though. Note to myself: got to &lt;a href=&quot;http://www.wired.com/gadgetlab/2011/06/ios5-upgrade-hack/&quot;&gt;get my hands on iOS 5 Beta&lt;/a&gt; to save my favorite address/iCloud username.&lt;br/&gt;
-But the all-your-music-sucking-in 'iTunes match', that's really huge. Just as backup and sync over the air.&lt;br/&gt;
-The new reminder's location function, luckily, is as awesome as it's creepy. I wonder how you can manage your mistress's  and wife's address - via address book or maybe via foursquare, so that everyone...? No, I'm kidding, I see 'Wunderlist' going into the trash as my ToDo app.&lt;/p&gt;
-
-&lt;p&gt;The only thing that really made me sad was to see how Steve Jobs's condition obviously gets worse. He appeared much weaker than during the last keynote. I sincerely hope the iPhone 5&lt;sup&gt;2&lt;/sup&gt; doesn't get developed under the same circumstances regarding Jobs's health condition as the Knight 2000 was to Wilton Knight's.&lt;/p&gt;
-
-&lt;p&gt;*&lt;sup&gt;3&lt;/sup&gt;As &lt;a href=&quot;http://daringfireball.net/&quot;&gt;John Gruber&lt;/a&gt; points out in the &lt;a href=&quot;http://5by5.tv/talkshow/46&quot;&gt;latest Talk Show&lt;/a&gt;, maybe iCloud is the biggest thing in the long run. The feature Apple cut the cable with and made all the iDevices more independent and seamlessly integrating with your workflow, as long as you're using a Mac.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It's really deep, I would say it's treated just like eMail. Way to go, twitter! Sadly, this will increase twitter's ability to play out third party clients. But we'll see, great development nonetheless, I think.&lt;/li&gt;
-&lt;li&gt;or 4S&lt;/li&gt;
-&lt;li&gt;This paragraph is an update&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>Five - Hosting on github</title>
-      <link>http://blog.timmschoof.com/2011/06/08/hosting-on-github</link>
-      <pubDate>Jun 08, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/06/08/hosting-on-github</guid>
-      <description>&lt;p&gt;Git is a revision control system. It manages changes to documents or any other file. To be honest, that's the most I am currently able to understand of it. But that doesn't hurt, this isn't about git.&lt;/p&gt;
-
-&lt;p&gt;The often so-called best feature of git is &lt;a href=&quot;www.github.com&quot;&gt;&lt;strong&gt;github&lt;/strong&gt;&lt;/a&gt;, a hosting service for people who use git. You can look at other people's work, share projects (they're called repositories), fork repositories&lt;sup&gt;1&lt;/sup&gt; and so on. Github is free, and you can even host web pages on it, which is really awesome. Especially for people who use Jekyll for their blog, because github runs it for you. You just need to push a new article to your blog's repository and the rest is taken care of.&lt;br/&gt;
-Of course, you can also use custom domains. All of that is described &lt;a href=&quot;http://pages.github.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;What I had to do&lt;/h3&gt;
-
-&lt;p&gt;At first, I made timmschoof.com point at tschoof.github.com and added a CNAME file to the repo, all of which worked like a charm. But then my blog setup caused me some headache because of its blog. subdomain. Without a redirect from blog.timmschoof.com to tschoof.github.com/blog, all the internal links wouldn't work, of course. But I thought they would until I recognized that the previously configured redirect of the top level domain made it impossible.&lt;sup&gt;2&lt;/sup&gt; After a few hours I recognized that I'd need a CNAME file in the blog repository, too.&lt;br/&gt;
-Of course this alone didn't do the trick. I had to wait some very uncomfortable 24-48 hours of uncertainty during which this blog lacked the CSS file, all the pictures and working internal links.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ha&lt;/strong&gt;, no wait I didn't, I just was too stupid. I first tried to make the subdomain blog.timmschoof.com point to tschoof.github.com/blog. Somehow that didn't work, I had to change the A-Record-IP for blog.timmschoof.com just like I had for timmschoof.com. The github tutorial tells you to create a CNAME record pointing to the domain you like (in my case that would've been tschoof.github.com/blog) but that didn't work for me, my webspace provider wouldn't let me. However, it accepted github's IP, just like it did before. More experience or the right question to the right people could've saved me 3 hours.&lt;/p&gt;
-
-&lt;p&gt;But hey, that's how you &lt;em&gt;get&lt;/em&gt; experience, I guess. And now this baby's completely hosted on github, which I find very compelling because of the easy deployment (and no monthly costs for webspace). Let's see how long git's free 300Mb suffocate.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It's recommended that you rip off other people's work.&lt;/li&gt;
-&lt;li&gt;Well, that's what &lt;strong&gt;I&lt;/strong&gt; think happened. If I'm wrong and you know what really happened, please give me a shout.&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>My current iOS 'workflow'*</title>
-      <link>http://blog.timmschoof.com/2011/06/05/my-iOS-workflow</link>
-      <pubDate>Jun 05, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/06/05/my-iOS-workflow</guid>
-      <description>&lt;p&gt;As you may have recognized, I'm an Ubuntu user. But I also like using Apple Hardware. This results in some special configurations and workarounds I want to present in this post. I also find it interesting to see how other people handle tasks of all kind on their devices, even with a standard setup like iOS device + OS X. Lately, a friend of mine and already-iPhone-user discovered that he &lt;strong&gt;needs&lt;/strong&gt;&lt;sup&gt;1&lt;/sup&gt; an iPad, so I want to give some advice. It takes quite some money and time to search through all the apps until you find the one you were looking for. Maybe I can help avoid some unnecessary testing on your side, too.&lt;br/&gt;
-Funny coincident: In the &lt;a href=&quot;http://minimalmac.com/enough/#ep34&quot;&gt;34th&lt;/a&gt; episode of &lt;a href=&quot;http://minimalmac.com/enough&quot;&gt;&lt;strong&gt;enough&lt;/strong&gt;&lt;/a&gt;, a podcast by Patrick Rhone and Myke Hurley, Myke talks about how he has set up his iDevices so that he basically doesn't have to sync them. Though he uses a Mac, his setup is very similar to mine. I strive to not having to sync either, because in order to I would have to boot windows which always ruins my day. But let's go more into detail.&lt;/p&gt;
-
-&lt;h3&gt;Organizing&lt;/h3&gt;
-
-&lt;p&gt;A long time ago, I set up a google account so I could use Google Analytics. Then, I started using Google Chrome and its nice syncing features.&lt;br/&gt;
-After I got my iPad and had two devices I wanted to have my contacts and calendars on, I tried the stuff Google offers in that field, too. It worked great, so contacts, calendar and mails on iPad and iPhone now sync with my Google account. That's in addition to all the awesome gmail features you may or may not know about, like that it pulls mails from every mail account you may use, labels etc.&lt;br/&gt;
-For best functionality with iDevices, I suggest you set up your gmail account as an (Microsoft)Exchange Server how it's described &lt;a href=&quot;http://www.cultofmac.com/how-to-set-up-push-gmail-on-your-iphoneipod-touch/16966&quot;&gt;here&lt;/a&gt;, not as IMAP. It works like a charm. Though it dosn't happen instantaneously, new events or contacts get synced very reliably.&lt;br/&gt;
-On Ubuntu, all the gmail functions seamlessly integrate with evolution, even the next few days' events show up under the calendar when you click on the time in the system's panel. I don't know how well or if any of that works with Outlook, but I think Google has figured something out.&lt;/p&gt;
-
-&lt;h3&gt;Texts&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;br/&gt;
-I came to the conclusion that notes I can search through (read: which were taken with the iPad) are more valuabe to me than notes I took with pen and paper. It certainly isn't for everyone, but I'm willing to trade having to slightly change the way I take notes for the comfort of having them all with me on the iPad and in my Dropbox&lt;sup&gt;2&lt;/sup&gt;. For this purpose, I use &lt;a href=&quot;http://itunes.apple.com/us/app/elements-dropbox-powered-text/id382752422?mt=8&quot;&gt;&lt;strong&gt;Elements&lt;/strong&gt;&lt;/a&gt;. One of its perks is that it's able to understand and convert to &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;&lt;strong&gt;markdown&lt;/strong&gt;&lt;/a&gt;, John Gruber's markup language. Don't know what that means? Me neither. It's an easy way to write down HTML, that's all you need to know. This way, I can look up all the notes I took while attending lectures. Saved my ass several times, and that's just since the iPad 2 is available.&lt;br/&gt;
-Great post about markdown: &lt;a href=&quot;http://forkbombr.net/markdown-new-word51/&quot;&gt;Markdown is the new Word 5.1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blog&lt;/strong&gt;&lt;br/&gt;
-Sadly, Elements seems to write some invisible stuff at the beginning of a text document so that the markdown-engine Jekyll (the site generator I use for this blog) uses can't handle posts written with Elements without further editing.&lt;br/&gt;
-So I'll have to find a better solution for this, maybe I'll switch back to Elements despite the corrupting invisible stuff, but for now I use another Dropbox-syncing text editor for Blogposts, &lt;a href=&quot;http://itunes.apple.com/de/app/id396073482?mt=8&quot;&gt;&lt;strong&gt;Nocs&lt;/strong&gt;&lt;/a&gt;. It really isn't that great. Writing Kit, Markdown Edit and other text editors I tried didn't please me to full extent either.&lt;br/&gt;
-* &lt;strong&gt;With the latest update, Elements now apparently produces jekyll-ready text files. So forget about other iOS Dropbox-enabled Editors.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PDFs&lt;/strong&gt;&lt;br/&gt;
-All the documents I need for my studies sit in &lt;a href=&quot;http://itunes.apple.com/de/app/goodreader-for-iphone/id306277111?mt=8&quot;&gt;&lt;strong&gt;GoodReader&lt;/strong&gt;&lt;/a&gt;. Mostly they are PDFs, but GoodReader also handles .doc and other formats. Of course, GoodReader syncs with Dropbox (in my case with the 'Study' folder within my Dropbox) so the files sit locally in GoodReader on the iPad and are available offline, but also always up to date.&lt;br/&gt;
-I don't like GoodReader that much, there are many little things that could be improved&lt;sup&gt;3&lt;/sup&gt;. Sadly it's the only app that does what it does. So, if you're an iOS developer: here's an idea.&lt;/p&gt;
-
-&lt;h3&gt;Videos&lt;/h3&gt;
-
-&lt;p&gt;Here comes the fun stuff. My setting: TV shows and movies, somehow, are available on my hard drive. From this point forward:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Air Video&lt;/strong&gt;&lt;br/&gt;
-With &lt;a href=&quot;http://itunes.apple.com/de/app/air-video-watch-your-videos/id306550020?mt=8&quot;&gt;&lt;strong&gt;Air Video&lt;/strong&gt;&lt;/a&gt;, you're able to select the tv show or movie you want to watch, and let your desktop convert and stream it directly onto your iOS device. You can also select some videos and add them to the queue so that they sit in Dropbox already converted when you want to watch them.&lt;br/&gt;
-I like watching the current week's episodes of HIMYM, BBT, Simpsons, 30 Rock, Dexter, South Park and Family Guy on the iPad before bed or, sometimes, when I have dinner. That's more comfortable than firing up XBMC on my desktop machine 'just' for 20 minutes of a TV show.&lt;br/&gt;
-The Air Video Server is available for Windows and OS X only, but it works well on Ubuntu via Wine.&lt;br/&gt;
-I, for my part, put the Air Video output folder in my Dropbox and make the video files a favorite in the Dropbox app on my iPad. So they are available offline. And maybe that's worth mentioning: Air Video converts a 500 mb, 20 minutes episode in HD quality to only ~160 mb and the quality is quite decent.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Handbrake&lt;/strong&gt;&lt;br/&gt;
-Oh, this one isn't an app. &lt;a href=&quot;http://handbrake.fr/&quot;&gt;&lt;strong&gt;Handbrake&lt;/strong&gt;&lt;/a&gt; is an awesome piece of software, available for every current Os. For me, it's the counterpart to Air Video. When I'm working with my desktop machine and there happens to be some video file I'm inclined to watch later on the iPad, I convert it with Handbrake. It's easy to use and even comes with presets for the iPad. The target folder, of course, is the same as the Air Video folder that sits in my Dropbox.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;IMDb&lt;/strong&gt;&lt;br/&gt;
-The &lt;a href=&quot;http://itunes.apple.com/us/app/imdb-movies-tv/id342792525?mt=8&quot;&gt;&lt;strong&gt;IMDb app&lt;/strong&gt;&lt;/a&gt; is an awesome tool for every movie nut. Which film this actor starred in, which director did this film and which other films? IMDb got all the answers. And it offers trailers.&lt;br/&gt;
-Often, you see an app and think 'Oh, I need this!', and afterwards use it only once. With the IMDb app,  it actually was the other way round.&lt;/p&gt;
-
-&lt;h3&gt;Podcasts&lt;/h3&gt;
-
-&lt;p&gt;If you listen to podcasts and own an iPhone, you should use &lt;a href=&quot;http://itunes.apple.com/de/app/instacast/id420368235?mt=8&quot;&gt;&lt;strong&gt;Instacast&lt;/strong&gt;&lt;/a&gt;. Oh, and subscribe to the &lt;a href=&quot;http://5by5.tv/&quot;&gt;5by5&lt;/a&gt;-podcasts you may be interested in. My favorites are &lt;a href=&quot;http://5by5.tv/hypercritical&quot;&gt;Hypercritical&lt;/a&gt;, &lt;a href=&quot;http://5by5.tv/buildanalyze/&quot;&gt;Build and Analyze&lt;/a&gt; and &lt;a href=&quot;http://5by5.tv/talkshow/&quot;&gt;The Talk Show&lt;/a&gt;.&lt;br/&gt;
-I use a portable speaker, the &lt;a href=&quot;http://www.amazon.de/Wavemaster-Mobile-Speaker-System-schwarz/dp/B002MW3G78&quot;&gt;&lt;strong&gt;Mobi Wavemaster&lt;/strong&gt;&lt;/a&gt;. Music and voice sound really good, and the volume it produces allows me to listen to podcasts even while I cook. Incredible battery. Top notch. I also use the wavemaster all the time with the iPad, so I don't have to deal with the 2's annoying speaker when I listen to the masterpieces that Cartman's monologues are.&lt;/p&gt;
-
-&lt;h3&gt;RSS&lt;/h3&gt;
-
-&lt;p&gt;RSS is &lt;strong&gt;the&lt;/strong&gt; tool for keeping up with today's information overflow. Of course, you should use Google Reader as the tool to manage your feeds. On top of it, everyone loves &lt;a href=&quot;http://itunes.apple.com/us/app/reeder-for-ipad/id375661689?mt=8&quot;&gt;&lt;strong&gt;Reeder&lt;/strong&gt;&lt;/a&gt;. Why? Seamless Google Reader functions, Instapaper, twitter and mail integration, great usability. Once you've used it on the iPad, you won't need the desktop or iPhone version. Short articles I read directly in Reeder. Anything longer than 'short' I'm interested in goes to Instapaper.&lt;/p&gt;
-
-&lt;h3&gt;Instapaper&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/instapaper/id288545208?mt=8&quot;&gt;&lt;strong&gt;Instapaper&lt;/strong&gt;&lt;/a&gt; is for the 'Sunday morning, having coffee, sitting on a couch' mode of reading, kind of. I'm always happy to launch Instapaper, cause there are only interesting articles in it. Via my Twitter client or browser plugin, I send articles to Instapaper and it collects them. It then offers a text-only view for distraction and ad-free reading.&lt;br/&gt;
-You can also like articles so your buddies can see which awesome posts you read recently, similar to Google Reader's favorite and shared item functions.&lt;/p&gt;
-
-&lt;h3&gt;Twitter&lt;/h3&gt;
-
-&lt;p&gt;On the iPad, I use &lt;a href=&quot;http://itunes.apple.com/us/app/twitterrific-for-twitter/id359914600?mt=8&quot;&gt;&lt;strong&gt;Twitterriffic&lt;/strong&gt;&lt;/a&gt;. Instapaper integration, nice interface, what's not to love?&lt;br/&gt;
-On the iPhone, I use &lt;a href=&quot;http://itunes.apple.com/us/app/id428851691?mt=8&quot;&gt;&lt;strong&gt;Tweetbot&lt;/strong&gt;&lt;/a&gt;. Great interface, smart use of gestures, love it. Can't wait for the iPad version.&lt;/p&gt;
-
-&lt;h3&gt;Marvel&lt;/h3&gt;
-
-&lt;p&gt;For me, more 'revolutionary' than anything regarding the big question of journalism in the digital age and the apps trying to answer that question is the way the &lt;a href=&quot;http://itunes.apple.com/us/app/marvel-comics/id350027738?mt=8&quot;&gt;&lt;strong&gt;Marvel&lt;/strong&gt;&lt;/a&gt; app let's me read, nay, &lt;em&gt;experience&lt;/em&gt; comics. I only read the free ones Marvel releases every month, but when I do, I'm totally sucked into it. You only get to see one frame at a time and then you swipe to the next, I find that very intense. Got me hooked onto Iron Man.&lt;/p&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-
-&lt;p&gt;What would iOS be without all the little helpers you don't even think about anymore?&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Simplenote&lt;/strong&gt;&lt;br/&gt;
-Apple's note app is nice, but doesn't sync (at least not without mobile me), so screw it. I use &lt;a href=&quot;http://itunes.apple.com/de/app/simplenote/id289429962?mt=8&quot;&gt;&lt;strong&gt;Simplenote&lt;/strong&gt;&lt;/a&gt;, it even has a chrome web app, so your shopping list is available on your desktop machine.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DB Navigator&lt;/strong&gt;&lt;br/&gt;
-I live in Hamburg, Germany, so the 'Deutsche Bahn' or 'DB' is what I rely on mostly when a destination is too far away for a bike ride. They offer an awesome app for &lt;a href=&quot;http://itunes.apple.com/de/app/db-navigator/id343555245?mt=8&quot;&gt;iPhone&lt;/a&gt; and &lt;a href=&quot;http://itunes.apple.com/de/app/db-navigator-fur-ipad/id416877198?mt=8&quot;&gt;iPad&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Due&lt;/strong&gt;&lt;br/&gt;
-I never will understand why Apple's clock app doesn't offer multiple timers. But since it simply doesn't, we need another app. With &lt;a href=&quot;http://itunes.apple.com/de/app/id390017969?mt=8&quot;&gt;&lt;strong&gt;Due&lt;/strong&gt;&lt;/a&gt;, you can have a timer for your French press, eggs and your rolls. Alarm and timer mode, Dropbox syncing, it's all there.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Wunderlist&lt;/strong&gt;&lt;br/&gt;
-&lt;a href=&quot;http://itunes.apple.com/de/app/wunderlist/id406644151?mt=8&quot;&gt;&lt;strong&gt;Wunderlist&lt;/strong&gt;&lt;/a&gt; is a nice, simple to do app. It's not as 'professional' as, say, &lt;a href=&quot;http://itunes.apple.com/us/app/omnifocus-for-iphone/id284885288?mt=8&quot;&gt;&lt;strong&gt;Omnifocus&lt;/strong&gt;&lt;/a&gt;, but it's free. I really don't need all the complexity most to do apps offer, so I'm perfectly happy with Wunderlist. But if you go all professional on your to dos, I'm positive Omnifocus is the way to go.&lt;/p&gt;
-
-&lt;p&gt;This was a huge one, I hope it's of use to you.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;As much as one can &lt;strong&gt;need&lt;/strong&gt; a gadget.&lt;/li&gt;
-&lt;li&gt;Of course, all the documents I need and use are stored in Dropbox. Needless to say that if you don't already use Dropbox, you &lt;strong&gt;need&lt;/strong&gt; to do so. &lt;a href=&quot;http://db.tt/X3XjJMl&quot;&gt;Sign up&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;recent documents view, animations for example, and overall look &amp;amp; feel&lt;/li&gt;
-&lt;li&gt;I literally had to look at every single app on my devices to collect the ones in this category.&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>Probably the endmost #rp11 review</title>
-      <link>http://blog.timmschoof.com/2011/05/23/rp11</link>
-      <pubDate>May 23, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/05/23/rp11</guid>
-      <description>&lt;p&gt;Over a month ago, the whole German-speaking Internet community went to Berlin. The re-publica&lt;sup&gt;1&lt;/sup&gt; took place. It was my second re-publica, so I was eager to experience the networking effect in full extent, meet more people and have even more fun than in 2010. And I did. But apparently, many people have a different understanding from what a conference is or should be like. After it, I read and heard many people basically saying something like this:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;The most important thing with such a conference is meeting people, I didn't care about the sessions and panels. I wasn't interested in them.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;And they are right, but just to a certain extent. You can't isolate the factor of meeting people from such a conference, but to state that the sessions don't matter goes too far, in my opinion. Last year, I found more sessions more interesting, though. But I'm not sure how much that's my fault, because I didn't research the speakers in advance this year. Add a little bit of bad luck to it, and there you are.&lt;br/&gt;
-Maybe the problem lies with naming the sessions. When the session's name appeals to me very much, I'm likely to attend it. But it's also likely I already know very much of its content. That goes hand in hand with a broader audience, and that's okay. Although nerds tend to forget they're highly specialized, they need to keep events like this accessible and open for 'normal' people.&lt;/p&gt;
-
-&lt;p&gt;To address another common complaint: Of course there were too many people in the Kalkscheune, the smaller building next to the Friedrichstastpalast. But I think the team knows they didn't manage that well. With such a rapid growth of the conference, I'm willing to oversee this one.&lt;/p&gt;
-
-&lt;p&gt;But back to the important stuff, the talks.&lt;br/&gt;
-One of the talks I liked best was about the structure of a group called &lt;a href=&quot;http://telecomix.org/&quot;&gt;telecomix&lt;/a&gt;. Without accidentally talking to the speaker the day before, I wouldn't have attended it, simply because I had no frakkin' clue what the topic was, even what the title meant. Now, I know more about how online campaigning based on a relatively loose structure works, and &lt;strong&gt;that&lt;/strong&gt; it works in the first place.&lt;br/&gt;
-Another very interesting one was held by &lt;a href=&quot;http://mogis-verein.de&quot;&gt;mogis&lt;/a&gt;' Christian Bahls and &lt;a href=&quot;http://twitter.com/jerezim&quot;&gt;Jérémy Zimmermann&lt;/a&gt;. It was titled 'Lobbying the European Parliament' and they basically talked about how they did and still do that. Which numbers to call, which doors to knock on and so on. Different from the techie talks, but more hands-on and energizing. Great guys.&lt;/p&gt;
-
-&lt;p&gt;The #rp11 was a great experience, I met a ton of interesting people&lt;sup&gt;2&lt;/sup&gt;, I attended great sessions. I want to thank the #rp11-team very much. Great experience at a small price&lt;sup&gt;3&lt;/sup&gt;, what's not to love?&lt;br/&gt;
-See you next year, wherever the #rp12 may take us.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://re-publica.de/11/&quot;&gt;re-publica.de&lt;/a&gt;, Hashtag: #rp11&lt;/li&gt;
-&lt;li&gt;Fun fact: many of them from Hamburg&lt;/li&gt;
-&lt;li&gt;Sadly, the price didn't cover food. Of course, I really would've liked to see that for the 55€ I paid for my ticket.&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>It's friday</title>
-      <link>http://blog.timmschoof.com/2011/05/20/its-friday</link>
-      <pubDate>May 20, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/05/20/its-friday</guid>
-      <description>&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/images/sun.jpg&quot; align=&quot;middle&quot; alt=&quot;I really couldn't get more cool stuff into this one&quot;&gt;&lt;/div&gt;
-
-
-&lt;p&gt;
-It's warm, the sun's shining. I'm on the train from Pinneberg, where my sister lives&lt;sup&gt;1&lt;/sup&gt;, to Hamburg, where I live and later am meeting with some friends to have a nice evening&lt;sup&gt;2&lt;/sup&gt;. Today, I got back good results from a term paper, now I'm sitting here, listening to my favorite band and writing it down. Life's sweet.&lt;/p&gt;
-
-&lt;p&gt;I sincerely hope you forgive me this one pathetic 'Oh my god my life's so awesome right now'-post. Have a great weekend.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;We lawyered around a little, always a great exercise.&lt;/li&gt;
-&lt;li&gt;Read: And night, we might drink one or two beers&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>My Ubuntu Story</title>
-      <link>http://blog.timmschoof.com/2011/05/19/my-ubuntu-story</link>
-      <pubDate>May 19, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/05/19/my-ubuntu-story</guid>
-      <description>&lt;p&gt;When I push an update to my git-repository or even just copy or delete a file via sudo cp or rm or write a rsync-script for backup purposes, speak: use the terminal, I always feel like the meanest h4xx0r on the planet. I mean, seriously: That's &lt;strong&gt;me&lt;/strong&gt;, typing letters in a 662*428 window and so making stuff happen. Even two years ago, I would never have believed that this could happen one day.&lt;br/&gt;
-It really didn't look like it: At first, some of the stuff I typed didn't make anything happen at all. To be honest: It sometimes kept everything from happening, i.e. my system from finding its boot sector or even the whole hard drive. When that happened, it always ruined my day and made me kick all this hippie open source shit off of my hard drive and switch back to windows-only. I couldn't play games on Ubuntu in the first place, so why bother?&lt;/p&gt;
-
-&lt;p&gt;Then, a few years and Ubuntu releases later, playing games became relatively unimportant to me, another thing I would never have believed either. Or, to put it differently: my play instinct focused from actual games on the whole system. The features of a unix system became more compelling to me, and windows' drawbacks more and more unbearable. Why didn't I consider OS X? Well, the lack of hardware wasn't what made me check out Linux, and the possibility of hackintosh didn't occur to me. Buying a Mac? Orrr. OS X would've cost money one way or another, while there was no barrier of financial kind switching to Linux. And time I had enough.&lt;/p&gt;
-
-&lt;p&gt;Now, I'm running a system that's more elegant and fits my needs way better than any configuration involving windows ever could. And this is a long shot but I think through the whole process, I'm more open to 'alternative' solutions in general. It's the best example there is for&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;What's right for most people isn't necessarily right for you, and guess what: Maybe what most people use isn't right for them in the first place&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;But you have to have been on the 'other side' to recognize it. Still the best example: Imagine you're sitting on an island, nothing but a nice, completely wiped Lenovo business laptop, a windows 7 DVD, a Ubuntu Live CD and an Internet connection. You probably couldn't get the Internet working on windows because of lacking drivers. So it wouldn't work at all, by today's standards. Ubuntu would happily connect to the Internet &lt;strong&gt;during setup&lt;/strong&gt;. Boom.&lt;sup&gt;1&lt;/sup&gt;
-On unix systems, the OS reigns over all the drivers, unless you decide break the OS's reign manually. Having some random .exe or .ini or .whatnot file speaking to my hardware  without even &lt;strong&gt;asking&lt;/strong&gt; the OS just sounds ridiculous to me now. The same applies for programs. Every single bit related to a program on your hard drive has its counterpart in the package manager, the OS knows what's going on. With windows, it's one big hairy mess. Anarchic hippie programs, sitting anywhere on the hard drive, at no point connected to the OS but messing up the registry.&lt;/p&gt;
-
-&lt;p&gt;That's it, I probably went way out of my technological expertise with this one. But hey, point for unix there: You don't even have to understand it entirely in order to use it on an advanced level.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;To be honest: Windows 7 is the first iteration that recognized my LAN controller correctly on first boot, but I bet there are configurations out there which aren't that lucky.&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>Four</title>
-      <link>http://blog.timmschoof.com/2011/05/17/four</link>
-      <pubDate>May 17, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/05/17/four</guid>
-      <description>&lt;h3&gt;Custom 404 Page&lt;/h3&gt;
-
-&lt;p&gt;Recently, I was inspired by a pic &lt;a href=&quot;https://twitter.com/#!/mike_FTW&quot;&gt;Mike Monteiro&lt;/a&gt; shared on twitter: the &lt;a href=&quot;http://dribbble.com/404&quot;&gt;dribblle 404 page&lt;/a&gt;. I immediately wanted one of those! So I began, and some coding, texting and a flickr search on &lt;a href=&quot;http://search.creativecommons.org/#&quot;&gt;search.creativecommons.org&lt;/a&gt; later, there it was.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://blog.timmschoof.com/notthe404pagesoyoucanseeitworks&quot;&gt;&lt;img src=&quot;/images/error404.jpg&quot; width=&quot;655&quot; height=&quot;238&quot; alt=&quot;404errorpage&quot;&gt;&lt;/a&gt;
-Now, how to 'deploy' your 404 page in a way that overrides the ugly standard apache-or-whatever-you're-using-standard page?&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Git-hosted Jekyll
-
-&lt;ul&gt;
-&lt;li&gt;Generally, if you're using Jekyll and host on github pages, just put a 404.html file in the root directory of your repository. &lt;a href=&quot;http://pages.github.com/&quot;&gt;They say&lt;/a&gt; that's sufficient.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Random host
-
-&lt;ul&gt;
-&lt;li&gt;When your site's hosted with a more beefed up provider, you propably have access to a .htaccess file.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.yourhtmlsource.com/sitemanagement/custom404error.html&quot;&gt;Basically&lt;/a&gt;, you need to put a .htaccess file in your site's root directory,&lt;/li&gt;
-&lt;li&gt;put the line
-
-&lt;blockquote&gt;&lt;p&gt;ErrorDocument 404 /nameofyourcustom404page.html&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;pre&gt;&lt;code&gt;in it  
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;li&gt;and of course: create the custom 404 page and upload it to your root directory.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Hosteurope
-
-&lt;ul&gt;
-&lt;li&gt;My page's hosted with hosteurope. Since &lt;a href=&quot;http://querbeet-deluxe.com&quot;&gt;querbeet-deluxe.com&lt;/a&gt; and its wordpress with all its sql databeses will be abandoned, I don't really need all the feautures of the webpack I'm currently paying for. But I didn't get to make the switch to github pages or S3 or whatever may be out there.&lt;/li&gt;
-&lt;li&gt;With hosteurope, there's a &lt;a href=&quot;http://faq.hosteurope.de/index.php?cpid=10942&quot;&gt;guide&lt;/a&gt; for customizing your 404 page. I guess that's because they don't want to let you control the .htaccess file. Well, it works.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>#ProjectEarlyBird</title>
-      <link>http://blog.timmschoof.com/2011/05/17/project-early-bird</link>
-      <pubDate>May 17, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/05/17/project-early-bird</guid>
-      <description>&lt;p&gt;I always went to bed very late. I often played computer games till 1:30 or 2:30 am and &lt;strong&gt;never&lt;/strong&gt; went to bed before 1 am. I loved that. I was a school kid, so it worked most of the time. Since I became a student, my easy-going sleep cycle annoyed me more and more. I already had lost the day, felt behind when I got up at 9:30 pm&lt;sup&gt;1&lt;/sup&gt; and ate breakfast. I kept being late mentally which put myself under pressure and just didn't feel good. I knew that I had to change that habit. Knowing that but not being able to do so frustrated me even more.  &lt;br/&gt;
-But who cared? I was in good company. Keeping up late is the ultimate cool, that was a fact, I myself always was suspicious of people who went to bed before midnight. My love for coffee and it's caffeine were the best excuse one could think of to keep up late, be late in the morning and brag about crazy sleep hours. &lt;em&gt;Myself, 4 months ago:&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;I couldn't fall asleep one minute before 2 am, I tried!&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Yeah, you do. Just regularly get up at 6 am and see how you will love to go to bed at 11 pm, even earlier, or midnight, depending on your needs. We owe it to our brains to sleep, that's a fact. Time measurement only has been around for a few hundred years, that's another fact you may consider. We depended on dawn and dusk before. Just think about all these studies reporting of health problems caused by shift work.&lt;br/&gt;
-We shouldn't let time measurement go, of course. But I think being aware that it's artificial is interesting and allows us to consider some changes to our sleep rhythm. Or care about sleep in the first place. It was when I first realized that I got a sleep mask, cause in cities like Hamburg it's never completely dark. I'll renew my piece on light pollution some time.&lt;/p&gt;
-
-&lt;p&gt;Then, luckily &lt;a href=&quot;http://notgeeklycorrect.com/2011/01/24/5am-wake-up-is-it-crazy-to-wake-up-early&quot;&gt;Nicolas Alpi's post&lt;/a&gt; on rising early got linked to me. It was exactly what my unhappiness with status quo needed to force me to take action.&lt;br/&gt;
- &lt;strong&gt;#ProjectEarlyBird&lt;/strong&gt; went live on February 1st 2011, just when I started work on my first term paper. There was some serious synergy going on, because social life is reduced to a minimum during such workload. So, there was no distraction from&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;getting up at &lt;strong&gt;6 am&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;(sometimes) running some 5 kilometers&lt;/li&gt;
-&lt;li&gt;having breakfast/reading feeds/checking twitter/&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;having some free time/cleaning/dishes/collecting 'next steps' for the term paper&lt;/li&gt;
-&lt;li&gt;arriving at the bibliotheca at about &lt;strong&gt;10 am&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;having dinner at about &lt;strong&gt;12:30 pm&lt;/strong&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;continuing to work at about &lt;strong&gt;1:30 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;going home at about &lt;strong&gt;6 pm&lt;/strong&gt; and feeling awkwardly good about it&lt;sup&gt;4&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;going shopping/cooking&lt;/li&gt;
-&lt;li&gt;watching a film or some episodes of a tv series and &lt;em&gt;not&lt;/em&gt; feeling guilty about it&lt;/li&gt;
-&lt;li&gt;going to bed at about &lt;strong&gt;10:00 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;I think that's a good example if how I did it in the first weeks. Of course work doesn't get done by itself,&lt;sup&gt;5&lt;/sup&gt; but getting up early gives you the best starting position there can possibly be. I sticked with 6 am, though the really hard part was to not letting go of the whole project when both of my term papers were finished and the new semester began. Sadly, I let go of the running part, so as you can see, rising early makes you no super human.&lt;br/&gt;
-Want to try it? I started by moving the wake up time earlier in steps of half an hour per week from current wake up time - till my iPhone went crazy smashing 'Eye of the Tiger' every morning at 6 am. Even on the weekends, of course. In general, I followed Nicolas' advise, his article's really great. Also interesting: &lt;a href=&quot;http://zenhabits.net/10-benefits-of-rising-early-and-how-to-do-it/&quot;&gt;this piece&lt;/a&gt; by Leo Babauta. Kudos to Shawn Blanc for &lt;a href=&quot;http://shawnblanc.net/2011/01/rising-early/&quot;&gt;linking&lt;/a&gt; to both articles I referred to.&lt;/p&gt;
-
-&lt;h3&gt;So, why 6 am?&lt;/h3&gt;
-
-&lt;p&gt;I decided that 6 am works better for me than 4:30 or 5 am would. Just too often there's an event or something else that doesn't let me go to bed as early as I should, so 6 am is a good compromise between my needs and the social calendar. Though, I'm tempted to try 5:30 am. I began #ProjectEarlyBird in the Winter, so at first it was dark and cold outside at 6 pm. Currently, the sun dawns at about 5 am, and makes it even easier to get up that early.&lt;br/&gt;
-I also love about it that it takes more effort to make room for a night out. I had the tendency to always stretch that 'one beer' out very late and often was blaming myself for it the next day. Now I have to alter my sleep cycle very much for drinking some beers with friends, therefore plan very carefully for lesser, but more special occasions.&lt;br/&gt;
-I &lt;strong&gt;love&lt;/strong&gt; rising early.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li&gt;When there was no lecture at 10:00 am which I attended, that was an early one.&lt;/li&gt;
-&lt;li&gt;I just as much as never managed to eat breakfast at home before I left for the day. I didn't have appetite in the morning, but my stomach hurt a little. Vicious circle.&lt;/li&gt;
-&lt;li&gt;I really started to get hungry at about noon, exceptionally early for me!&lt;/li&gt;
-&lt;li&gt;Instead of punishing myself for being late in the morning by keeping up late in the evening, despite being tired and the loss of focus&lt;/li&gt;
-&lt;li&gt;At first, it really feels like it does&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
-    </item>
-    
-    <item>
-      <title>Iron Sky - third Teaser</title>
-      <link>http://blog.timmschoof.com/2011/05/12/Iron-Sky-third-teaser</link>
-      <pubDate>May 12, 2011</pubDate>
-      <guid>http://blog.timmschoof.com/2011/05/12/Iron-Sky-third-teaser</guid>
-      <description>&lt;iframe width=&quot;670&quot; height=&quot;418&quot; src=&quot;http://www.youtube.com/embed/kNDaOFQ6g2I&quot; controls=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;br&gt;
-
-
-&lt;p&gt;Almost one year till the Nazis from the Moon invade the Earth, quite some time. Haven't heard of it yet? Check out &lt;a href=&quot;http://www.ironsky.net/site/&quot;&gt;ironsky.net&lt;/a&gt;. You really get the feeling this films' indie-crew from finland means business.&lt;br/&gt;
-I like the &lt;a href=&quot;http://www.vimeo.com/13822305&quot;&gt;second teaser&lt;/a&gt; a bit better, though.&lt;/p&gt;
 </description>
       <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     </item>

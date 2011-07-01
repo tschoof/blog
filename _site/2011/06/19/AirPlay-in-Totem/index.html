@@ -5,7 +5,7 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title>It's friday - blog.timmschoof.com</title>
+	<title>AirPlay in Totem - blog.timmschoof.com</title>
 	<meta name="author" content="Timm Schoof" />
 	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
 	<meta name="description" content="This is the personal blog of Timm Schoof. It's covering tech, films, and general thoughts." />
@@ -50,22 +50,13 @@
 		<div id="content">
 			<div id="article-container">
 			<div id="article-container">
-<h2 class="title">It's friday</h2>
-<div align="center"><img src="/images/sun.jpg" align="middle" alt="I really couldn't get more cool stuff into this one"></div>
-
-
-<p>
-It's warm, the sun's shining. I'm on the train from Pinneberg, where my sister lives<sup>1</sup>, to Hamburg, where I live and later am meeting with some friends to have a nice evening<sup>2</sup>. Today, I got back good results from a term paper, now I'm sitting here, listening to my favorite band and writing it down. Life's sweet.</p>
-
-<p>I sincerely hope you forgive me this one pathetic 'Oh my god my life's so awesome right now'-post. Have a great weekend.</p>
-
-<hr />
-
-<ol>
-<li>We lawyered around a little, always a great exercise.</li>
-<li>Read: And night, we might drink one or two beers</li>
-</ol>
-
+<h2 class="title">AirPlay in Totem</h2>
+<p>A plug-in for Totem (Ubuntu's standard movie player), <a href="http://www.omgubuntu.co.uk/2011/01/airplay-video-playback-comes-to-totem/">released in January</a>, allows to stream video via Apple's AirPlay. I checked it out immediately, and it worked. With the release of Ubuntu 11.04, it stopped working. The plugin couldn't be activeated and Totem gave out the error message<br/>
+<code>Unable to activate plugin AirPlay Support</code><br/>
+Then, I found the solution, a comment on the very same article I linked to above. Like <a href="https://twitter.com/#!/pgkehle">Paul Kehle</a> says, once you install 'avahi-discover', it works. Run<br/>
+<code>sudo apt-get install avahi-discover</code><br/>
+in Terminal and you're fine. Thanks, Paul.<br/>
+I just wanted to share this because I'd given up hope and just came across it by accident.</p>
 
 </div>
 
