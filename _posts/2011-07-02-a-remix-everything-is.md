@@ -5,7 +5,7 @@ date: 2011-07-02 10:00:00
 category: life
 published: true
 ---
-I don't know how, but I managed to oversee all three parts of [**Everything is a Remix**](http://www.everythingisaremix.info/watch-the-series/).  
+I don't know how, but I managed to overlook all three parts of [**Everything is a Remix**](http://www.everythingisaremix.info/watch-the-series/).  
 Let me embed the first part here to get you hooked.
 <br>
 
