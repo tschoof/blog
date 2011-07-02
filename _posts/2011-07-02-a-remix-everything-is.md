@@ -7,7 +7,7 @@ published: true
 ---
 I don't know how, but I managed to oversee all three parts of [**Everything is a Remix**](http://www.everythingisaremix.info/watch-the-series/).  
 Let me embed the first part here to get you hooked, in case you don't already know what I'm talking about.
-
+<br>
 
 <iframe src="http://player.vimeo.com/video/14912890?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="670" height="377" frameborder="0"></iframe>
 
