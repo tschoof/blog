@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Y U WRITE IN ENGLISH?
+title: Eight - Y U WRITE IN ENGLISH?
 date: 2011-07-06 23:00:00
 category: blog
 published: true
