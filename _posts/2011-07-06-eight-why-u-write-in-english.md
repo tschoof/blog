@@ -3,7 +3,7 @@ layout: post
 title: Y U WRITE IN ENGLISH?
 date: 2011-07-06 23:00:00
 category: blog
-published: false
+published: true
 ---
 As you may have recognized, I'm not a native speaker and if you're reading this blog, you most likely know that I'm German. A recent comment on Facebook made me realize that an explanation why I write in English can't hurt. Plus: I plan to address the way I recognize language in general and the implications an English-dominated media and news consumption has for me in more articles, so this is a good one to begin with anyway.
 
