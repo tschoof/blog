@@ -23,7 +23,7 @@ On the seventh day, I didn't lose count either, but also didn't feel very focuse
 
 ##Notes##
 The articles mentioned above are the first two about meditation in Dan Benjamin's blog [Hivelogic](http://hivelogic.com/). Here [they](http://hivelogic.com/articles/an-introduction-to-mindfulness-meditation/) [are](http://hivelogic.com/articles/how-to-start-a-meditation-practice/).  
-Recommended across the board: [Mindfulness in Plain English](http://www.urbandharma.org/udharma4/mpe.html). Yes, a book. It's free. PDF, ePub, Amazon, no excuses. Great stuff in it. Maybe some passages grom it will make it in a 'Quotes'-Post.
+Recommended across the board: [Mindfulness in Plain English](http://www.urbandharma.org/udharma4/mpe.html). Yes, a book. It's free. PDF, ePub, Amazon, no excuses. Great stuff in it. Maybe some passages from it will make it in a 'Quotes'-Post.
 
 ---
 1. No, I'm not on drugs, it just came out that way.
