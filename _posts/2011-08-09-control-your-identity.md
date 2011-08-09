@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Control your identity
-date: 2011-08-08 09:20:00
+date: 2011-08-09 09:20:00
 category: tech
 ---
 What [Marco wrote](http://www.marco.org/2011/07/11/own-your-identity) is very right. We have to own our online identity. It made me think about *controlling* it. I'm focusing more on the general idea, less on certain services and dependency on them, like Marco did.<sup>1</sup>
