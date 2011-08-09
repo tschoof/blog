@@ -4,7 +4,7 @@ title: Control your identity
 date: 2011-08-09 09:20:00
 category: tech
 ---
-What [Marco wrote](http://www.marco.org/2011/07/11/own-your-identity) is very right. We have to own our online identity. It made me think about *controlling* it. I'm focusing more on the general idea, less on certain services and dependency on them, like Marco did.<sup>1</sup>
+What [Marco wrote](http://www.marco.org/2011/07/11/own-your-identity) is very right. We have to own our online identity. His article made me think about *controlling* it. I'm focusing more on the general idea, less on certain services and dependency on them, like Marco did.<sup>1</sup>
 
 First of all: Controlling your identity is important. Knowing what's out there an what's not. Most normal, non-geeky people try not to have anything out there at all. That works, but just if and until you really don't have. With Facebook and all, just forget it.<sup>2</sup> Or, put differently: If you aren't online *that* much, you *can* be fine. But eventually, a small piece of information from the 'real world' will make it into the Internet, and then that's on the first page when someone googles your name. Something in the local newspaper, sports club, some voluntary work, whatsoever. By now, you should've realized that there's no such thing as 'virtual life'. Or there is, but it's the exact same as 'real life', just digitalized. There's no divide. Treating it like that is... well, it would be cute if it wasn't overwhelmingly dumb. I'll go with dumb.
 
