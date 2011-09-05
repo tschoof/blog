@@ -14,7 +14,6 @@ layout: nil
     <copyright>Copyright 2009</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
-    {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
@@ -26,4 +25,3 @@ layout: nil
     {% endfor %}
   </channel>
 </rss>
-
