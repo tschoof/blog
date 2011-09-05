@@ -11,7 +11,6 @@ layout: nil
     <language>en</language>
     <webMaster>{{ site.email }} ({{ site.author }})</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
-    <copyright>Copyright 2009</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
     <item>
