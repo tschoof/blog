@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,7 +14,7 @@ layout: default
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
