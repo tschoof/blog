@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -9,20 +9,21 @@ layout: none
     <title>{{ site.title }}</title>
     <link>{{ site.url }}</link>
     <language>en</language>
-	<image><url>http://blog.timmschoof.com/images/fav.png</url></image>
     <webMaster>{{ site.email }} ({{ site.author }})</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
-    <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+    <copyright>Copyright 2009</copyright>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
     <ttl>60</ttl>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%b %d, %Y" }}</pubDate>
       <guid>{{ site.url }}{{ post.url }}</guid>
       <description>{{ post.content | xml_escape }}</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
     </item>
     {% endfor %}
   </channel>
 </rss>
+
