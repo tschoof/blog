@@ -8,5 +8,5 @@ Enjoy.
 
 <audio controls="controls">  
 <source src="http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4r" type="audio/mp4" />
-
-(I'm counting on my Blog's irrelevance to avoid a lawsuit.)
+Your browser does not support the HTML5 audio element. Get [Chrome](http://www.google.com/chrome).
+</audio>
