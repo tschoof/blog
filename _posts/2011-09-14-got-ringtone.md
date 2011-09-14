@@ -12,5 +12,5 @@ Enjoy.
 <source src="http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.ogg" type="audio/ogg" />
 </audio>
 
-* <audio> [m4r](http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4r) </audio> (for iDevices)
-* [mp3](http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.mp3) (probably everything else)
+* [m4r](http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4r?dl=1) (for iDevices)
+* [mp3](http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.mp3?dl=1) (probably everything else)
