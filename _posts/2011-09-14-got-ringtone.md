@@ -7,6 +7,6 @@ category: ringring
 Enjoy.
 
 <audio controls="controls">  
-<source src="http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4a" type="audio/mp4" />
+<source src="http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4r" type="audio/mp4" />
 
 (I'm counting on my Blog's irrelevance to avoid a lawsuit.)
