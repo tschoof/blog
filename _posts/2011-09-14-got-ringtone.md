@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringring, GoT-Style
+title: Ringring, #GoT style
 date: 2011-09-14 21:00:00
 category: ringring
 ---
