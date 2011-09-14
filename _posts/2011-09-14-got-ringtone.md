@@ -4,9 +4,13 @@ title: Ringring, GoT-Style
 date: 2011-09-14 21:00:00
 category: ringring
 ---
+I thought it would be nice to have a song from the Game of Thrones OST for a ringtone.  
 Enjoy.
 
 <audio controls="controls">  
 <source src="http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4r" type="audio/mp4" />
 <source src="http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.ogg" type="audio/ogg" />
 </audio>
+
+* [m4r](http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.m4r) (for iDevices)
+* [mp3](http://dl.dropbox.com/u/7586201/Ring_The_Kings_Arrival.mp3) (probably everything else)
