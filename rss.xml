@@ -10,7 +10,7 @@ layout: nil
     <atom:link href="http://blog.timmschoof.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>This is the personal blog of Timm Schoof. It's covering tech, films, and general thoughts.</description>
     <language>en-us</language>
-    <pubDate>{{ post.date | date: "%b %d, %Y" }}</pubDate>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
 
     {% for post in site.posts %}
       <item>
