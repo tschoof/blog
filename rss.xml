@@ -1,26 +1,28 @@
 ---
 layout: nil
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule">
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
-    <title>{{ site.title }}</title>
-    <link>{{ site.url }}</link>
-    <language>en</language>
-    <webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+    <title>blog.timmschoof.com</title>
+    <link>blog.timmschoof.com/</link>
+    <atom:link href="http://feeds.feedburner.com/timmschoof" rel="self" type="application/rss+xml" />
+    <description>This is the personal blog of Timm Schoof. It's covering tech, films, and general thoughts.</description>
+    <language>en-us</language>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
-    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
-    <ttl>60</ttl>
-    <item>
-      <title>{{ post.title }}</title>
-      <link>{{ site.url }}{{ post.url }}</link>
-      <pubDate>{{ post.date | date: "%b %d, %Y" }}</pubDate>
-      <guid>{{ site.url }}{{ post.url }}</guid>
-      <description>{{ post.content | xml_escape }}</description>
-      <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
-    </item>
+
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title }}</title>
+        link>{{ site.url }}{{ post.url }}</link>
+        <pubDate>{{ post.date | date: "%b %d, %Y" }}</pubDate>
+        <author>Timm Schoof</author>
+        <guid>{{ site.url }}{{ post.url }}</guid>
+        <description>{{ post.content | xml_escape }}</description>
+        <creativeCommons:license>http://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+      </item>
     {% endfor %}
+
   </channel>
 </rss>
