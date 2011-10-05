@@ -3,6 +3,6 @@ layout: default
 ---
 <div id="article-container">
 <h2 class="title">{{ page.title }}</h2>
-<p>{{ page.date | date:"%Y-%m-%d" }}</p>
+<div id="post-date">{{ page.date | date_to_string" }}</div>
 {{ content }}
 </div>
