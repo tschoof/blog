@@ -5,3 +5,5 @@ url: http://blog.timmschoof.com
 email: hello@timmschoof.com
 author: Timm Schoof
 permalink: /:title
+
+/:year/:month/:day/:title
