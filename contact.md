@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 <h2>Contact</h2>
-<p>I really do like feedback. Like I thought of in <a href="http://blog.timmschoof.com/2011/05/12/Three">this post</a>, I went from 'no comments' to <a href="http://disqus.com/">Disqus</a> in October of 2011. Comment the hell out of it. <br>Nonetheless, please feel still free to:
+<p>I really do like feedback. Like I thought of in <a href="http://blog.timmschoof.com/2011/05/12/Three">this post</a>, I went from 'no comments' to <a href="http://disqus.com/">Disqus</a> in October of 2011. Under every blogpost now, you have the opportunity to comment the hell out of it. <br><br>Nonetheless, please feel still free to:
 <ul>
 <li>give me a shout on <a href="http://twitter.com/tschoof">twitter</a></li>
 <li><a href="mailto:hello@timmschoof.com">email</a> me</li>
