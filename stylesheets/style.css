@@ -146,7 +146,7 @@ table {
 			margin-top: -8px;
 			margin-bottom: 10px; 
 } 
-#post-date.a {
+		#post-date a {
 			text-decoration: none; 
 }
 #header {
