@@ -5,7 +5,7 @@ title: Home
 <div id="article">
 {% for post in site.posts limit: 6 %}
 <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<div id="post-date">{{ post.date |date: "%B %d, %Y" }} &middot; {{  post.category  }}</div>
+<div id="post-date">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }}</div>
 {{ post.content }}
 <hr style="
 			border-width: 0px; 
