@@ -5,7 +5,7 @@ title: Home
 <div id="article">
 {% for post in site.posts limit: 6 %}
 <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<div id="post-date">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }} | <a href="http://blog.timmschoof.com{{ post.url }}/#disqus_thread">Comments</a></div>
+<div id="post-date">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }} | <a href="{{ post.url }}/#disqus_thread">Comments</a></div>
 {{ post.content }}
 <hr style="
 			border-width: 0px; 
