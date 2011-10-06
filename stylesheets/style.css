@@ -146,6 +146,9 @@ table {
 			margin-top: -8px;
 			margin-bottom: 10px; 
 } 
+#post-date.a {
+			text-decoration: none; 
+}
 #header {
 			float: left;
 			width: 870px;
