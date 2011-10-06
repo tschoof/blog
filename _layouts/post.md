@@ -6,7 +6,7 @@ layout: default
 <div id="post-date">{{ page.date | date: "%B %d, %Y" }} | {{  page.category  }}</div>
 {{ content }}
 </div>
-<div id="disqus_thread"></div><br><br>
+<div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'blogtimmschoof'; // required: replace example with your forum shortname
