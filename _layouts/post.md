@@ -6,6 +6,7 @@ layout: default
 <div id="post-date">{{ page.date | date: "%B %d, %Y" }} | {{  page.category  }}</div>
 {{ content }}
 </div>
+<!-- DISQUS -->
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
