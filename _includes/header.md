@@ -8,7 +8,7 @@
 	<title>{{ page.title }} - {{ site.title }}</title>
 	<meta name="author" content="Timm Schoof" />
 	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
-	<meta name="description" content="This is the personal blog of Timm Schoof. It's covering tech, films, and general thoughts." />
+	<meta name="description" content="This is Timm Schoof's personal blog. It's covering tech, films, and general thoughts." />
 	<meta name="generator" content="jekyll" />
 	<meta name="viewport" content="width=900" />
 	<meta http-equiv="content-language" content="en">
