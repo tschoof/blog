@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 <h2>Contact</h2>
-<p>I really do like feedback. 'Then, why are there no comments enabled' you ask? Good question. I ruminate on it in <a href="http://blog.timmschoof.com/2011/05/12/Three">this post</a>. Until I take a closer look at Disqus or another extern commentary system (which might be an infinite amount of time away) you're welcome to comment on a post, say hello, affront me or ask any question you like. Knock yourself out:
+<p>I really do like feedback. Like I thought of in <a href="http://blog.timmschoof.com/2011/05/12/Three">this post</a>, I went from 'no comments' to [Disqus](http://disqus.com/) in October of 2011. Comment the hell out of it.  
+Nonetheless, you still can:
 <ul>
 <li>give me a shout on <a href="http://twitter.com/tschoof">twitter</a></li>
 <li><a href="mailto:hello@timmschoof.com">email</a> me</li>
