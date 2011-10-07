@@ -91,6 +91,9 @@ table {
 			padding-right: 2px;
 			background-color: #F5F5F5;
 }		
+		img {
+			max-width: 100%;
+}
 		ul {
 			list-style-type: disc; 
 			outside; 
