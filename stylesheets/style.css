@@ -119,6 +119,9 @@ table {
 		strong, b {
 			font-weight: normal;
 }
+		small {
+			font-size: 13px;		
+}		
 		em, i {
 			font-style: italic;
 			
