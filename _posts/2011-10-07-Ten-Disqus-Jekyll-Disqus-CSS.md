@@ -14,9 +14,10 @@ In combination with Jekyll, the awesome static site generator, theres two things
 * Paste Disqus's [Coment count code](http://docs.disqus.com/developers/universal/) in your *default.md*, right before the `</body>` tag
 * Put in your shortname again.
 * Whereever on your *index.md* you want to put the articel's comment counts, you need to put a link that tells Disqus that it has to look it up for a comment count. That's `#disqus_thread`. Since we're using Jekyll, and with it YAML and Liquid and whatnot, it makes sense like this:  
-`<a href="{{ post.url }}/#disqus_thread">Comments</a>`  
-  The necessity of the '/' before `#disqus_thread` depends on how you style your permalinks (consult your config.yml). My permalink style lacks a *.html* or */* at the end, so for the comment count lookup to work, I needed to put it there. Cost me half a day. Kudos again to the wonderful [@talinee](https://twitter.com/talinee) who located the error in the end.  
-  I couldn't get the whole data-disqus-identifier thing to work, but it works fine without. As long as I don't migrate the blog, at least.
+`<a href="{{ post.url }}/#disqus_thread">Comments</a>`
+
+The necessity of the '/' before `#disqus_thread` depends on how you style your permalinks (consult your config.yml). My permalink style lacks a *.html* or */* at the end, so for the comment count lookup to work, I needed to put it there. Cost me half a day. Kudos again to the wonderful [@talinee](https://twitter.com/talinee) who located the error in the end.  
+I couldn't get the whole data-disqus-identifier thing to work, but it works fine without. As long as I don't migrate the blog, at least.
 
 **Disqus and CSS**  
 Propably it isn't helpful for anyone but me, but [heres the CSS](http://dl.dropbox.com/u/7586201/disqus.css) I styled my Disqus comments with. Just log in to Disqus, go to [disqus.com/admin/settings/appearance/](disqus.com/admin/settings/appearance/) and paste whatever you want in the Custom CSS box at the bottom. 
