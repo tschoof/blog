@@ -7,7 +7,7 @@ category: blog
 As you can see under [every blogpost](http://blog.timmschoof.com/archives/) and in the now updated [contact section](http://blog.timmschoof.com/contact/), I slapped the [Disqus](http://disqus.com/) comment system over this blog. As this is a barebone-slim-minimal kind of blog that's hosted accordingly, it lacks a database and everything else a comment system would require. I liked Disqus and really didn't want to manage the comments with Facebook's system. So here we are. 
 
 **Disqus and Jekyll**  
-In combination with Jekyll, the awesome static site generator, theres two things to Disqus. First, getting it to work and then fitting it into your own blog with CSS. Disqus [tells you](http://docs.disqus.com/developers/universal/) how to do that. In short, you have to:
+In combination with Jekyll, the awesome static site generator, theres two things to Disqus. First, getting it to work and then fitting it into your own blog with CSS. Disqus [tells you](http://docs.disqus.com/developers/universal/) how to do that. In short, you just:
 
 * Embed Disqus's Universal Code at the bottom of your post.md in the _layouts folder.
 * Exchange your *disqus_shortname* for the example in the code. The comment system should work now. For a comment count on your index page, continue:
@@ -20,6 +20,6 @@ The necessity of the slash before `#disqus_thread` depends on how you style your
 I couldn't get the whole data-disqus-identifier thing to work, but it works fine without. As long as I don't migrate the blog, at least.
 
 **Disqus and CSS**  
-Propably it isn't helpful for anyone but me, but [here's the CSS](http://dl.dropbox.com/u/7586201/disqus.css) I styled Disqus with. For applying custom CSS to Disqus, just log in to it, go to [disqus.com/admin/settings/appearance/](http://disqus.com/admin/settings/appearance/) and paste yours in the Custom CSS box at the bottom.
+Probably it isn't helpful for anyone but me, but [here's the CSS](http://dl.dropbox.com/u/7586201/disqus.css) I styled Disqus with. For applying custom CSS to Disqus, just log in to it, go to [disqus.com/admin/settings/appearance/](http://disqus.com/admin/settings/appearance/) and paste yours in the Custom CSS box at the bottom.
 
 For additional info, you can check out [my setup on github](https://github.com/tschoof/blog).
