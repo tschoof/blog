@@ -144,14 +144,14 @@ table {
 			text-decoration: none;
 			line-height: 1.8;
 }
-		.post-date { 
+		#post-date { 
 			font-size: 12px; 
 			font-weight: lighter; 
 			padding: right; 
 			margin-top: -8px;
 			margin-bottom: 10px; 
 } 
-		.post-date a {
+		#post-date a {
 			text-decoration: none; 
 }
 #header {

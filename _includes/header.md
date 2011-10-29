@@ -13,9 +13,6 @@
 	{% else %}
 	<meta name="description" content="{{site.description}}" />
 	{% endif %}
-	{% if page.date %}
-	<meta http-equiv="date" content="{{page.date | date: '%A, %d  %Y %H:%M:%S GMT'}}" />
-	{% endif %}
 	<meta name="generator" content="jekyll" />
 	<meta name="viewport" content="width=900" />
 	<meta http-equiv="content-language" content="en">
