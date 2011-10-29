@@ -5,10 +5,17 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title>{{ page.title }} - {{ site.title }}</title>
+	<title>{{ page.title }} | {{ site.title }}</title>
 	<meta name="author" content="Timm Schoof" />
 	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
-	<meta name="description" content="This is Timm Schoof's personal blog. It's covering tech, films, and general thoughts." />
+	{% if page.description %}
+	<meta name="description" content="{{page.description}}" />
+	{% else %}
+	<meta name="description" content="{{site.description}}" />
+	{% endif %}
+	{% if page.date %}
+	<meta http-equiv="date" content="{{page.date | date: '%A, %d  %Y %H:%M:%S GMT'}}" />
+	{% endif %}
 	<meta name="generator" content="jekyll" />
 	<meta name="viewport" content="width=900" />
 	<meta http-equiv="content-language" content="en">
