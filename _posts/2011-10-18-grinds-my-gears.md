@@ -5,6 +5,7 @@ date: 2011-10-18 22:00:00
 category: life
 published: true
 ---
+
 Instead of writing a long, long article in which I'd just get upset, here's what really [grinds my gears](http://www.youtube.com/watch?v=VL-0F3IAVfo) considering the tech/digital side of studying at the University of Hamburg. It's all stuff people afraid of or uncomfortable with technology just do, but I find it hard to bear from time to time.
 
 * The presentations and lecture notes are made available online, **yeehaw**, but in a pretty subotpimal - and by suboptimal, I mean shitty :) - way. You have to navigate to the single dates of a lecture. But not all the time, sometimes the data sits on the lecture's 'home page'. Inconsistency ftw!

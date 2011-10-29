@@ -4,7 +4,6 @@ layout: default
 <div id="article-container">
 <h2><a href="{{ page.url }}" class="title">{{ page.title }}</a></h2>
 <div id="post-date">{{ page.date | date: "%B %d, %Y" }} | {{  page.category  }} | <a href="{{ page.url }}/#disqus_thread">comments coming soon</a></div>
-<span class="author">Timm Schoof</span>
 <div id="instapaper_body" class="instapaper_body">
 {{ content }}
 </div>
