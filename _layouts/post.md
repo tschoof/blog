@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="article-container">
-<h2><a href="{{ page.url }}" class="title" class="instapaper_title" >{{ page.title }}</a></h2>
+<span class="instapaper_title"><h2><a href="{{ page.url }}" class="title">{{ page.title }}</a></h2></span>
 <div id="post-date">{{ page.date | date: "%B %d, %Y" }} | {{  page.category  }} | <a href="{{ page.url }}/#disqus_thread">comments coming soon</a></div>
 <div id="instapaper_body" class="instapaper_body">
 {{ content }}
