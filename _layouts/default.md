@@ -3,6 +3,7 @@
 	<div id="body">
 		<div id="header">
 			<a href="/" title="Home"> <img src="/images/header.png" alt="header.svg" width="283" height="137" type="image" ></a>
+			<div> <a href="http://re-publica.de/12/" title="Meet timm in action @ re:publica 12"><img src="http://re-publica.de/banner/160x160-1.png" alt="re:publica 12" /></a>
 		</div>
 
 		<div id="nav">
@@ -11,7 +12,7 @@
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="/network/">Network</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a><br><br>
-			<a href="http://re-publica.de/12/" title="Meet timm in action @ re:publica 12"><img src="http://re-publica.de/banner/160x160-1.png" alt="re:publica 12" /></a>
+			<a padding-right: 50px; href="http://re-publica.de/12/" title="Meet timm in action @ re:publica 12"><img src="http://re-publica.de/banner/160x160-1.png" alt="re:publica 12" /></a>
 		</div>
 		<div id="content">
 			<div id="article-container">
