@@ -11,6 +11,7 @@
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="/network/">Network</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
+			<a href="http://re-publica.de/12/" title="Meet me in action @ re:publica 12"><img src="http://re-publica.de/banner/160x160-1.png" alt="re:publica 12" /></a>
 		</div>
 		<div id="content">
 			<div id="article-container">
