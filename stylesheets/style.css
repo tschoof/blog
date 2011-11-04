@@ -176,7 +176,8 @@ table {
 			font-weight: lighter;
 			margin-left: 5px; 
 }
-
+.subtrigger a:hover {	display: block;
+}
 #content {
 			width: 670px;
 			display: block;
