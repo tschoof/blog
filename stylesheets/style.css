@@ -167,17 +167,12 @@ table {
 			margin-bottom: 20px;
 			padding-top: 10px;
 }
-#navsub {		display: none;
-}
 .nav, .nav a {
 			font-size: 20px;
 			line-height: 1.8;
 			text-decoration: none; 
 			font-weight: lighter;
 			margin-left: 5px; 
-}
-.subtrigger a:hover + #navsub {	
-			display: block;
 }
 #content {
 			width: 670px;

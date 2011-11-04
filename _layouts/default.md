@@ -11,8 +11,7 @@
 			<a class="nav" href="/contact/">Contact</a><br>
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="/network/">Network</a><br>
-			<a class="subtrigger" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
-			<div id="navsub"> <a href="http://feeds.feedburner.com/timmschoof">Subscribe</a></div>
+			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
 		</div>
 		<div id="content">
 			<div id="article-container">
