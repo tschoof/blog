@@ -13,6 +13,6 @@ They had to release the video for 'Pussy' on Redtube to push the album 'Liebe is
 
 Rammstein provocated enough, it's not getting easier. I could go on, but just <strike>point you to an interview with Till Lindemann.</strike> I can't find the video on Youtube, but I think it's on the [Lichtspielhaus DVD](http://www.amazon.de/Rammstein-Lichtspielhaus/dp/B0000YWHOI/ref=sr_1_2?ie=UTF8&qid=1323114601&sr=8-2). Well, I'll try to get it together, although I watched the interview (great videos, by the way) probably over six years ago. It holds everything that is right and wrong with Rammstein. And all of that is to find in this sentence by Till Lindemann:
 
-> "Wenn wir auf der Bühne stehen, dann erwarten die Leute etwas... »Aktion«." 
+> Wenn wir auf der Bühne stehen, dann erwarten die Leute etwas... »Aktion«.
 
 When he says 'Aktion', he says the German word, doesn't say 'action' like everyone else in the show biz would, and slightly leans forward. 
