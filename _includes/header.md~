@@ -5,6 +5,7 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>{{ page.title }} class="instapaper_title" </title>
 	<title>{{ page.title }} | {{ site.title }}</title>
 	<meta name="author" content="Timm Schoof" />
 	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
