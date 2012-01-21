@@ -9,6 +9,7 @@ date: 2012-01-21 21:30:00
 
 During the holidays, I got some serious iOS gaming done. I've owned [S&S EP](http://itunes.apple.com/de/app/superbrothers-sword-sworcery/id424912055?mt=8) since it was featured on wired, and from playing a tiny bit of the first chapter, I also knew it was good. But I didn't expect it to be *that* good. So just in case you haven't heard of Superbrothers: Sword and Sworcery EP before - It's a great game.  
 After I had completed it, I directly went to the iTunes Store and bought the [soundtrack](http://itunes.apple.com/de/album/sword-sworcery-lp-the-ballad/id428028469). The soundtrack? Yeah. S&S: EP ist an audiovisual entity. I can't explain it better than this piece I found on the [game's website](http://www.swordandsworcery.com/). It is:
+
 <br>
 > * a brave experiment in I/O cinema.
 > * a fresh approach to adventure & action designed for Apple's touchtronic machinery.
