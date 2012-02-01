@@ -208,7 +208,7 @@ table {
 			margin: 0 auto;
 			font-weight: lighter; 
 			overflow: hidden;
-			/*/height: 70px;/*/
+			height: 70px;
 			float: left;
 }	
 .footer, .footer a {
