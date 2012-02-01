@@ -4,8 +4,7 @@ title: Search
 permalink: /search/
 ---
 <h2>Search</h2>
-<p>
-<div id="cse"; float="left"; style="width: 400px;">Loading</div>
+<div id="cse"; float="left"; style="width: 670px;">Loading</div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript"> 
   google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
@@ -154,4 +153,3 @@ permalink: /search/
   }
 
 </style>
-</p>
