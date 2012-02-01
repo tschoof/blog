@@ -18,7 +18,7 @@ permalink: /search/
 </script>
  <style type="text/css">
   .gsc-control-cse {
-    font-family: Ubuntu, sans-serif;
+    font-family: Arial, sans-serif;
     border-color: #FFFFFF;
     background-color: #FFFFFF;
   }
@@ -151,5 +151,4 @@ permalink: /search/
   .gs-promotion .gs-visibleUrl-short {
     color: #00CC00;
   }
-
 </style>
