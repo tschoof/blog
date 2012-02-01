@@ -18,7 +18,7 @@ permalink: /search/
 </script>
  <style type="text/css">
   .gsc-control-cse {
-    font-family: "Ubuntu", sans-serif;
+   /*/ font-family: Ubuntu, sans-serif;/*/
     border-color: #FFFFFF;
     background-color: #FFFFFF;
   }
