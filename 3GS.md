@@ -14,14 +14,14 @@ Auf Frage nach dem Zustand des iPhones erklärte mir der Genius, dass es ist fab
 Der Zustand ist also **wirklich** "wie neu". Und damit erstens um Welten besser als die bei eBay kursierenden "vom Händler generalüberholten", und zweitens auch besser als die von Apple als "refurbished" (solche, die innerhalb von 2 Wochen zurückgegeben werden) verkauften Geräte.  
 Auch checkte ich die Seriennummer des Geräts, es lief im Dezember 2011 in China vom Fließband.
 
-Auf den Papieren von Apple zum Austausch findet sich folgender Hinweis, der das hier Angenotene Gerät nicht einmal ganz ohne Gewährleistung sein lässt:
+Auf den Papieren von Apple zum Austausch findet sich folgender Hinweis, der das hier angebotene Gerät nicht einmal ganz ohne Gewährleistung sein lässt:
 
 > Darüber hinaus gilt auf sämtliche Reparaturen die 90tägige begrenzte Reparaturgarantie von Apple bzw. die einjährige eingeschränkte Herstellergarantie; es gilt die jeweils längere der beiden Gewährleistungen. 
 
 Auch sind zwei Aufkleber mit der Seriennummer des Geräts beigelegt, falls man diese auf einem 3GS-Karton anbringen möchte.
 <br>
 ### Interesse?
-Apple verkauft das 3GS mit 8GB derzeit neu für 370€, meine Preisvostellung orientiert sich daran. Ich wohne in Hamburg, falls direkte Übergabe möglich ist wäre das spitze, ich verschicke das Ding sonst aber auch.  
+Apple verkauft das 3GS mit 8GB derzeit neu für 370€ (bzw. [gerade nicht](http://blog.timmschoof.com/images/3gs_apple_NICHT.png/), [aufgrund eines Rechtsstreits](http://ipad-mag.de/2012/02/03/ipad-2-umts-3g-modelle-verschwinden-aus-dem-apple-online-store-sieg-fur-motorola/)), meine Preisvostellung orientiert sich daran. Ich wohne in Hamburg, falls direkte Übergabe möglich ist wäre das spitze, ich verschicke das Ding sonst aber auch.  
 Ich bitte euch bei Interesse darum, mir ein Angebot zu machen, am besten per [Twitter](https://twitter.com/tschoof), [Mail](mailto:hello@timmschoof.com) oder [Facebook](https://facebook.com/tschoof). Über einfache Weiterleitungen/Shares freue ich mich natürlich sehr, vielen Dank.
 <br>
 ### Fotos
