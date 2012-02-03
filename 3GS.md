@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'Ich verkaufe ein iPhone 3GS 16GB'
+title: "Ich verkaufe ein iPhone 3GS 16GB"
 permalink: /3GS/
 ---
-Ich bekam einen kostenpflichtigen Austausch angeboten, da der Mute-Switch meines alten 3GS aufgab, den ich ok fand. Ich nutzte jedoch die Gelegenheit und legte mir ein 4S zu. 
+Kürzlich gab der Mute-Switch meines 3GS auf. Ich bekam einen kostenpflichtigen Austausch angeboten, den ich ok fand. Ich nutzte jedoch die Gelegenheit und legte mir ein 4S zu. 
 
 Nun habe ich ein **SIM-lock freies, schwarzes iPhone 3GS 16GB** "über", und daher zu verkaufen. 
 
@@ -22,13 +22,13 @@ Apple verkauft das 3GS mit 8GB derzeit neu für 370€, meine Preisvostellung or
 
 Hier noch ein paar Fotos.
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_1.jpg"><img src="http://blog.timmschoof.com/images/3gs_2.jpg"/></a></p>
+<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_1.jpg"><img src="http://blog.timmschoof.com/images/3gs_1.jpg"/></a></p>
 
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_2.jpg"><img src="http://blog.timmschoof.com/images/3gs_2.jpg"/></a><br/><small>iOS 5 ist bereits drauf</small></p>
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_3.jpg"><img src="http://blog.timmschoof.com/images/3gs_2.jpg"/></a><br/><small>Seitenansicht</small></p>
+<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_3.jpg"><img src="http://blog.timmschoof.com/images/3gs_3.jpg"/></a><br/><small>Seitenansicht</small></p>
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_4.jpg"><img src="http://blog.timmschoof.com/images/3gs_2.jpg"/></a><br/><small>Rückansicht</small></p>
+<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_4.jpg"><img src="http://blog.timmschoof.com/images/3gs_4.jpg"/></a><br/><small>Rückansicht</small></p>
 
 
 Vielen Dank für die Aufmerksamkeit.
