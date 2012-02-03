@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ich verkaufe ein iPhone 3GS 16GB
+title: 'Ich verkaufe ein iPhone 3GS 16GB'
 permalink: /3GS/
 ---
 Ich bekam einen kostenpflichtigen Austausch angeboten, da der Mute-Switch meines alten 3GS aufgab, den ich ok fand. Ich nutzte jedoch die Gelegenheit und legte mir ein 4S zu. 
