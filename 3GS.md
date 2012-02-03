@@ -18,7 +18,7 @@ Auf den Papieren von Apple zum Austausch findet sich folgender Hinweis, der das 
 
 > Darüber hinaus gilt auf sämtliche Reparaturen die 90tägige begrenzte Reparaturgarantie von Apple bzw. die einjährige eingeschränkte Herstellergarantie; es gilt die jeweils längere der beiden Gewährleistungen. 
 
-Auch sind zwei Aufkleber mit der Seriennummer des Geräts beigelegt, falls man diese auf einem 3GS-Karton anbringen möchte.
+Apple gab mir zwei Aufkleber mit der Seriennummer des Geräts mit, die sind inklusive ;-) Falls man diese auf einem 3GS-Karton anbringen möchte oder so.
 <br>
 ### Interesse?
 Apple verkauft das 3GS mit 8GB derzeit neu für 370€ (bzw. [gerade nicht](http://blog.timmschoof.com/images/3gs_apple_NICHT.png), [aufgrund eines Rechtsstreits](http://ipad-mag.de/2012/02/03/ipad-2-umts-3g-modelle-verschwinden-aus-dem-apple-online-store-sieg-fur-motorola/)), meine Preisvostellung orientiert sich daran. Ich wohne in Hamburg, falls direkte Übergabe möglich ist wäre das spitze, ich verschicke das Ding sonst aber auch.  
