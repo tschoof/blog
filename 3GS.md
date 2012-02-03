@@ -11,7 +11,7 @@ Nun habe ich ein **SIM-lock freies, schwarzes iPhone 3GS 16GB** "über", und dah
 ### Zustand
 Auf Frage nach dem Zustand des iPhones erklärte mir der Apple-Genius-Hipster, dass es fabrikneu sei. Es könne lediglich sein, dass zB die Kamera schon einmal verbaut gewesen sei, zB in Geräten wie meinem alten, "umgetauschten" iPhone. Dies beträfe jedoch max. 1% der Teile, und natürlich nicht die Verschleißteile. Das ist alles. Es handelt sich **nicht** um ein altes, überholtes, gereinigtes Gerät oder Ähnliches, es ist komplett neu zusammengeschraubt/gebaut/geklebt.
 
-Der Zustand ist also **wirklich** "wie neu". Und damit erstens um Welten besser als die bei eBay kursierenden "vom Händler generalüberholten", und zweitens auch besser als die von Apple als "refurbished" (solche, die innerhalb von 2 Wochen zurückgegeben werden) verkauften Geräte.  
+Der Zustand ist also **wirklich** "wie neu". Und damit erstens um Welten besser als die bei eBay kursierenden "vom Händler generalüberholten", und zweitens auch besser als die von Apple als "refurbished" (solche, die innerhalb von 2 Wochen zurückgegeben wurden) verkauften Geräte.  
 Auch checkte ich die Seriennummer des Geräts, es lief im Dezember 2011 in China vom Fließband.
 
 Auf den Papieren von Apple zum Austausch findet sich folgender Hinweis, der das hier angebotene Gerät nicht einmal ganz ohne Gewährleistung sein lässt:
