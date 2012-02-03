@@ -3,7 +3,7 @@ layout: default
 title: Timm verkauft ein iPhone 3GS 16GB
 permalink: /3GS/
 ---
-<h2>Timm verkauft ein iPhone 3GS 16GB</h2>
+<h1>Timm verkauft ein iPhone 3GS 16GB</h1>
 Kürzlich gab der Mute-Switch meines 3GS auf. Ich bekam einen kostenpflichtigen Austausch angeboten, den ich ok fand. Ich nutzte jedoch die Gelegenheit und legte mir ein 4S zu. 
 
 Nun habe ich ein **SIM-lock freies, schwarzes iPhone 3GS 16GB** "über", und daher zu verkaufen. 
