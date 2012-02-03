@@ -7,8 +7,8 @@ permalink: /3GS/
 Kürzlich gab der Mute-Switch meines 3GS auf. Ich bekam einen kostenpflichtigen Austausch angeboten, den ich ok fand. Ich nutzte jedoch die Gelegenheit und legte mir ein 4S zu. 
 
 Nun habe ich ein **SIM-lock freies, schwarzes iPhone 3GS 16GB** "über", und daher zu verkaufen. 
-
-### Zustand: Fabrikneu
+<br>
+### Zustand
 Auf Frage nach dem Zustand des iPhones erklärte mir der Genius, dass es ist fabrikneu sei. Es könne sein, dass zB die Kamera schon einmal verbaut gewesen sei, zB in Geräten wie meinem alten, "umgetauschten" iPhone. Dies beträfe jedoch max. 1% der Teile, und natürlich nicht die Verschleißteile. Das ist alles. Es handelt sich **nicht** um ein altes, überholtes, gereinigtes Gerät oder Ähnliches, es ist komplett neu zusammengeschraubt/gebaut/geklebt.
 
 Der Zustand ist also **wirklich** "wie neu". Und damit erstens um Welten besser als die bei eBay kursierenden "vom Händler generalüberholten", und zweitens auch besser als die von Apple als "refurbished" (solche, die innerhalb von 2 Wochen zurückgegeben werden) verkauften Geräte.  
@@ -19,10 +19,10 @@ Auf den Papieren von Apple zum Austausch findet sich folgender Hinweis, der das 
 > Darüber hinaus gilt auf sämtliche Reparaturen die 90tägige begrenzte Reparaturgarantie von Apple bzw. die einjährige eingeschränkte Herstellergarantie; es gilt die jeweils längere der beiden Gewährleistungen. 
 
 Auch sind zwei Aufkleber mit der Seriennummer des Geräts beigelegt, falls man diese auf einem 3GS-Karton anbringen möchte.
-
+<br>
 ### Interesse?
 Apple verkauft das 3GS mit 8GB derzeit neu für 370€, meine Preisvostellung orientiert sich daran. Ich bitte euch bei Interesse darum, mir ein Angebot zu machen, am besten per [Twitter](https://twitter.com/tschoof), [Mail](mailto:hello@timmschoof.com) oder [Facebook](https://facebook.com/tschoof). Über einfache Weiterleitungen/Shares freue ich mich natürlich sehr, vielen Dank.
-
+<br>
 ### Fotos
 
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_1.jpg"><img src="http://blog.timmschoof.com/images/3gs_1.jpg"/></a></p>
