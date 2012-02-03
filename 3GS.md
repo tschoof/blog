@@ -8,6 +8,7 @@ Kürzlich gab der Mute-Switch meines 3GS auf. Ich bekam einen kostenpflichtigen 
 
 Nun habe ich ein **SIM-lock freies, schwarzes iPhone 3GS 16GB** "über", und daher zu verkaufen. 
 <br>
+<br>
 ### Zustand
 Auf Frage nach dem Zustand des iPhones erklärte mir der Genius, dass es ist fabrikneu sei. Es könne sein, dass zB die Kamera schon einmal verbaut gewesen sei, zB in Geräten wie meinem alten, "umgetauschten" iPhone. Dies beträfe jedoch max. 1% der Teile, und natürlich nicht die Verschleißteile. Das ist alles. Es handelt sich **nicht** um ein altes, überholtes, gereinigtes Gerät oder Ähnliches, es ist komplett neu zusammengeschraubt/gebaut/geklebt.
 
@@ -20,17 +21,18 @@ Auf den Papieren von Apple zum Austausch findet sich folgender Hinweis, der das 
 
 Auch sind zwei Aufkleber mit der Seriennummer des Geräts beigelegt, falls man diese auf einem 3GS-Karton anbringen möchte.
 <br>
+<br>
 ### Interesse?
 Apple verkauft das 3GS mit 8GB derzeit neu für 370€, meine Preisvostellung orientiert sich daran. Ich bitte euch bei Interesse darum, mir ein Angebot zu machen, am besten per [Twitter](https://twitter.com/tschoof), [Mail](mailto:hello@timmschoof.com) oder [Facebook](https://facebook.com/tschoof). Über einfache Weiterleitungen/Shares freue ich mich natürlich sehr, vielen Dank.
 <br>
 ### Fotos
 
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_1.jpg"><img src="http://blog.timmschoof.com/images/3gs_1.jpg"/></a></p>
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_2.jpg"><img src="http://blog.timmschoof.com/images/3gs_2.jpg"/></a><br/><small>iOS 5 ist bereits drauf</small></p>
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_3.jpg"><img src="http://blog.timmschoof.com/images/3gs_3.jpg"/></a><br/><small>Seitenansicht</small></p>
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/3gs_4.jpg"><img src="http://blog.timmschoof.com/images/3gs_4.jpg"/></a><br/><small>Rückansicht</small></p>
 
 <br>
