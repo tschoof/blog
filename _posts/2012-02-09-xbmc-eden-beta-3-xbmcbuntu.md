@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XBMC&#58; Eden Beta 3 is out, now with XBMCbuntu and Movie Collections
+title: XBMC&#58; Eden Beta 3 is out
 category: tech
 published: true
 date: 2012-02-09 19:00:00
