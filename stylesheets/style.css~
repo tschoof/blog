@@ -178,7 +178,7 @@ table {
 			width: 670px;
 			display: block;
 			height: auto;
-			min-height: 180px;
+			min-height: 240px;
 			float: left;
 			padding-bottom: 20px;
 			padding-top: 10px;
