@@ -35,7 +35,7 @@ It also takes more effort to make room for a night out, I like that. I had the t
 I **love** rising early. 
 
 ---
-<span id="fn1">1. When there was no lecture at 10:00 am which I attended, that was an early one.[&#8613;](#fn1b)</span>
+1. <span id="fn1">When there was no lecture at 10:00 am which I attended, that was an early one.[&#8613;](#fn1b)</span>
 2. I just as much as never managed to eat breakfast at home before I left for the day. I didn't have appetite in the morning, but my stomach hurt a little. Vicious circle.
 3. I really started to get hungry at about noon, exceptionally early for me!
 4. Instead of punishing myself for being late in the morning by keeping up late in the evening, despite being tired and the loss of focus
