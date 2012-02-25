@@ -36,6 +36,7 @@ I **love** rising early.
 <div class="instapaper_ignore">
 
 ---
+
 1. <span id="fn1">When there was no lecture at 10:00 am which I attended, that was an early one.</span> [&#8617;](#fn1b)
 2. I just as much as never managed to eat breakfast at home before I left for the day. I didn't have appetite in the morning, but my stomach hurt a little. Vicious circle.
 3. I really started to get hungry at about noon, exceptionally early for me!
