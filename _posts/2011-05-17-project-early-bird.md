@@ -5,7 +5,7 @@ date: 2011-05-17 07:00:00
 category: life
 published: true
 ---
-I always went to bed very late. I often played computer games till 1:30 or 2:30 am and **never** went to bed before 1 am. I loved that. I was a school kid, so it worked most of the time. Since I became a student, my easy-going sleep cycle annoyed me more and more. I already wasn't on top of the day, felt behind when I got up at 9:30 pm<sup>1</sup> and ate breakfast. I kept being late mentally which put me under pressure and didn't feel good. I knew that I had to change that habit. Knowing that but not being able to do so frustrated me even more.    
+I always went to bed very late. I often played computer games till 1:30 or 2:30 am and **never** went to bed before 1 am. I loved that. I was a school kid, so it worked most of the time. Since I became a student, my easy-going sleep cycle annoyed me more and more. I already wasn't on top of the day, felt behind when I got up at 9:30 pm[<sup id="fn1b">1</sup>](#fn1) and ate breakfast. I kept being late mentally which put me under pressure and didn't feel good. I knew that I had to change that habit. Knowing that but not being able to do so frustrated me even more.    
 But I was in good company. Keeping up late is the ultimate cool, that was a fact, I myself always had been suspicious of people who would to bed before midnight. My love for coffee and its caffeine were the best excuse one could think of to keep up late, be late in the morning and brag about crazy sleep hours. *Myself, 4 months ago:*
 > I couldn't fall asleep one minute before 2 am, I tried!
 
@@ -35,7 +35,7 @@ It also takes more effort to make room for a night out, I like that. I had the t
 I **love** rising early. 
 
 ---
-1. When there was no lecture at 10:00 am which I attended, that was an early one.
+<span id="fn1">1. When there was no lecture at 10:00 am which I attended, that was an early one.[&#8613;](#fn1b)</span>
 2. I just as much as never managed to eat breakfast at home before I left for the day. I didn't have appetite in the morning, but my stomach hurt a little. Vicious circle.
 3. I really started to get hungry at about noon, exceptionally early for me!
 4. Instead of punishing myself for being late in the morning by keeping up late in the evening, despite being tired and the loss of focus
