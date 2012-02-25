@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="article-container">
 <h2><a href="{{ page.url }}" class="title">{{ page.title }}</a></h2>
-<div id="meta"><span style="display:none;"><a href="#" rel="author">Timm Schoof</a></span> {{ page.date | date: "%B %d, %Y" }} | {{  page.category  }} | <a href="{{ page.url }}/#disqus_thread">comments coming soon</a></div>
+<div id="meta"><span style="display:none;"><a href="#" rel="author">Timm Schoof</a></span> <span class="date">{{ page.date | date: "%B %d, %Y" }}</span> | {{  page.category  }} | <a href="{{ page.url }}/#disqus_thread">comments coming soon</a></div>
 <div class="instapaper_body">
 {{ content }}
 </div>
