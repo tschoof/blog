@@ -38,7 +38,11 @@ I **love** rising early.
 ---
 
 1. <span id="fn1">When there was no lecture at 10:00 am which I attended, that was an early one.</span> [&#8617;](#fn1b)
+
 2. <span id="fn2">I just as much as never managed to eat breakfast at home before I left for the day. I didn't have appetite in the morning, but my stomach hurt a little. Vicious circle.</span> [&#8617;](#fn2b)
+
 3. <span id="fn3">I really started to get hungry at about noon, exceptionally early for me!</span> [&#8617;](#fn3b)
+
 4. <span id="fn4">Instead of punishing myself for being late in the morning by keeping up late in the evening, despite being tired and the loss of focus</span> [&#8617;](#fn4b)
+
 5. At first, it really feels like it does</span> [&#8617;](#fn5b)
