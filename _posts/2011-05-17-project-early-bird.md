@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#ProjectEarlyBird"
+title: ProjectEarlyBird
 date: 2011-05-17 07:00:00
 category: life
 published: true
