@@ -154,9 +154,7 @@ table {
 		#meta a {
 			text-decoration: none; 
 }
-		.author {
-			display:none;
-}
+
 #header {
 			float: left;
 			width: 870px;
@@ -225,7 +223,7 @@ blockquote {
 			padding-left: 10px;
 			opacity: 0.85;
 }
-.author{		display: none;
+.author {		display: none;
 }
 hr {
 			border-width: 0px; 
