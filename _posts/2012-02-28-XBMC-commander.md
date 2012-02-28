@@ -15,7 +15,7 @@ Hint: The 'Small Thumbnails' layout gets rid of the awful bookshelf and chalkboa
 
 Disclaimer: The App is the best one I've ever used for the purpose it serves. Still, it *could* be better. The layout should be switched for the whole app, not for every single media type, for example. Or the position of the 'Options' menu button.  
 But it's at good as it gets as far as XBMC Remote Apps go, and in this case, that's really quite good.
-</div>
+
 
 
 ---

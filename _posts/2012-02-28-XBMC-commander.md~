@@ -21,5 +21,6 @@ But it's at good as it gets as far as XBMC Remote Apps go, and in this case, tha
 ---
 
 1. <span id="fn1xbmc">I'm not linking it, because it's the devil.</span> [&#8617;](#fn1xbmcb)
+
 2. <span id="fn2xbmc">To be honest: Since iOS5, it was kinda buggy. I kept telling myself 'It's okay!', but it was a lie.</span> [&#8617;](#fn2xbmcb)
 
