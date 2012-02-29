@@ -21,7 +21,7 @@ Boy, was I wrong.
 <br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/blogger.png"><img src="http://blog.timmschoof.com/images/blogger.png"/></a><br/><small>Is blogger doing a geocities rememberance thing today? Oh no, they're serious about this design.</small></p>
 <br>
-I was like:
+
 <p style="text-align: center;"><a href="http://ragefac.es/314"><img src="http://blog.timmschoof.com/images/314.png" width="307" height="218"></a></p>
 
 To be more specific:
