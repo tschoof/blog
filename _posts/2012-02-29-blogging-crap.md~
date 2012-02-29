@@ -5,7 +5,7 @@ date: 2012-02-29 09:30:00
 category: tech
 published: true
 ---
-Recently, I worked a little bit on this blog[<sup id="02-28-fn1b">1</sup>](#02-29-fn1) and thought about how I'm gonna blog when I'm at the [re-publica](http://re-publica.de/12/). Installing and configuring all this git(hub) stuff on my laptop is the only way. I can write text on my iPad or iPhone, but I can't publish from it. Maybe there's a solution that involves a running 'server'[<sup id="02-28-fn2b">2</sup>](#02-29-fn2) and some scripts that detect changes aka new articles in a folder that's synced via dropbox - but that involves some effort. For me, at least.
+Recently, I worked a little bit on this blog[<sup id="02-29-fn1b">1</sup>](#02-29-fn1) and thought about how I'm gonna blog when I'm at the [re-publica](http://re-publica.de/12/). Installing and configuring all this git(hub) stuff on my laptop is the only way. I can write text on my iPad or iPhone, but I can't publish from it. Maybe there's a solution that involves a running 'server'[<sup id="02-29-fn2b">2</sup>](#02-29-fn2) and some scripts that detect changes aka new articles in a folder that's synced via dropbox - but that involves some effort. For me, at least.
 
 So I thought: 'Well, I used the wordpress software once, that's pretty huge, but there's all this easy-blogging tumblr stuff going on, right? All I need is a service sporting an iOS App that I can create drafts with and post from. Should be pretty easy to get a slick, nice-looking text-only blog going.'
 
@@ -30,7 +30,7 @@ I was like:
 * Blogger. I just couldn't get beyond that hideous sign up screen.
 * What's wrong with these services? Following people on Twitter makes sense, and maybe on Instagram. For consuming any other form of content, RSS is the way to go. Does Posterous really think a stream of only *their* content deserves an extra space in my daily routine of media consumption? That's cute. And dumb.
 
-I'm no web developer, I'm not a designer or programmer of some kind. I'm a law student who likes tech very much and is able to google the html and CSS snippets he needs. But all those 'easy blogging' services[<sup id="02-28-fn3b">3</sup>](#02-29-fn3) make the option of writing a script and running a server look very... easy.
+I'm no web developer, I'm not a designer or programmer of some kind. I'm a law student who likes tech very much and is able to google the html and CSS snippets he needs. But all those 'easy blogging' services[<sup id="02-29-fn3b">3</sup>](#02-29-fn3) make the option of writing a script and running a server look very... easy.
 
 
 ---

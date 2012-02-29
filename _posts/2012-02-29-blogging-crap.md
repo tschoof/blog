@@ -7,7 +7,9 @@ published: true
 ---
 Recently, I worked a little bit on this blog[<sup id="02-29-fn1b">1</sup>](#02-29-fn1) and thought about how I'm gonna blog when I'm at the [re-publica](http://re-publica.de/12/). Installing and configuring all this git(hub) stuff on my laptop is the only way. I can write text on my iPad or iPhone, but I can't publish from it. Maybe there's a solution that involves a running 'server'[<sup id="02-29-fn2b">2</sup>](#02-29-fn2) and some scripts that detect changes aka new articles in a folder that's synced via dropbox - but that involves some effort. For me, at least.
 
-So I thought: 'Well, I used the wordpress software once, that's pretty huge, but there's all this easy-blogging tumblr stuff going on, right? All I need is a service sporting an iOS App that I can create drafts with and post from. Should be pretty easy to get a slick, nice-looking text-only blog going.'
+So I thought: 
+
+> Well, I used the wordpress software once, that's pretty huge, but there's all this easy-blogging tumblr stuff going on, right? All I need is a service sporting an iOS App that I can create drafts with and post from. Should be pretty easy to get a slick, nice-looking text-only blog going.
 
 Boy, was I wrong.
 <br>
