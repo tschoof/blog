@@ -11,7 +11,7 @@ So I thought: 'Well, I used the wordpress software once, that's pretty huge, but
 
 Boy, was I wrong.
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/posterous.png"><img src="http://blog.timmschoof.com/images/posterous.jpg"/></a><br/><small>Spaces, hm? Okay, multiple blogs, I get it.<br>'SLIDESHOW', are you kidding me?</small></p>
+<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/posterous.png"><img src="http://blog.timmschoof.com/images/posterous.png"/></a><br/><small>Spaces, hm? Okay, multiple blogs, I get it.<br>'SLIDESHOW', are you kidding me?</small></p>
 <br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/tumblr.png"><img src="http://blog.timmschoof.com/images/tumblr.png"/></a><br/><small>Why sould I post a photo of me? Chat? FOLLOW?</small></p>
 <br>
