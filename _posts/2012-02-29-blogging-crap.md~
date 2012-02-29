@@ -18,11 +18,10 @@ Boy, was I wrong.
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/wp.png"><img src="http://blog.timmschoof.com/images/wp.png"/></a><br/><small>I just can't use a standard theme. But I know so little CSS, it ain't worth 30$/year. Also: WordPress lets you follow people now, too.</small></p>
 <br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/blogger.png"><img src="http://blog.timmschoof.com/images/blogger.png"/></a><br/><small>Is blogger doing a geocities rememberance thing today? Oh no, they're serious about this design.</small></p>
-<br><br>
+<br>
 I was like:
 <p style="text-align: center;"><a href="http://ragefac.es/314"><img src="http://blog.timmschoof.com/images/314.png"/></a></p>
 
-To be more specific:
 
 * Posterous tries to be tumblr. Nobody wants that. Posterous doesn't need to be thumblr, they could try to differentiate themselves and provide a service without all this 'follow' and 'easy publishing' crap. Instead, the posterous iOS app looks exactly like tumblr's, but yellow.
 * Posterous' iOS app doesn't support *online* drafts. So I can't start to write a post at home and finish it on the subway. Full mobile capability was one of the main reasons why I started looking for alternatives. With Dropbox and an iOS text editor, I have all my drafts and posts *with me*, at least.

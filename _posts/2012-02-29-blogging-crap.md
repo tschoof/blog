@@ -10,7 +10,7 @@ Recently, I worked a little bit on this blog[<sup id="02-28-fn1b">1</sup>](#02-2
 So I thought: 'Well, I used the wordpress software once, that's pretty huge, but there's all this easy-blogging tumblr stuff going on, right? All I need is a service sporting an iOS App that I can create drafts with and post from. Should be pretty easy to get a slick, nice-looking text-only blog going.'
 
 Boy, was I wrong.
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/posterous.png"><img src="http://blog.timmschoof.com/images/posterous.png"/></a><br/><small>Spaces, hm? Okay, multiple blogs, I get it.<br>'SLIDESHOW', are you kidding me?</small></p>
 <br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/tumblr.png"><img src="http://blog.timmschoof.com/images/tumblr.png"/></a><br/><small>Why sould I post a photo of me? Chat? FOLLOW?</small></p>
