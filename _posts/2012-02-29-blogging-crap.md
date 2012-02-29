@@ -27,7 +27,7 @@ I was like:
 To be more specific:
 
 * Posterous tries to be tumblr. Nobody wants that. Posterous doesn't need to be thumblr, they could try to differentiate themselves and provide a service without all this 'follow' and 'easy publishing' crap. Instead, the posterous iOS app looks exactly like tumblr's, but yellow.
-* Posterous' iOS app doesn't support *online* drafts. So I can't start to write a post at home and finish it on the subway. Full mobile capability was one of the main reasons why I started looking for alternatives. With Dropbox and an iOS text editor, I have all my drafts and posts *with me*, at least.
+* Posterous' iOS app doesn't support *online* drafts. So I can't start writing a post at home and finish it on the subway. Full mobile capability was one of the main reasons why I started looking for alternatives. With Dropbox and an iOS text editor, I have all my drafts and posts *with me*, at least.
 * WordPress.com is even worse, they go in all directions at once. They still do their serious publishing thing. But you can 'follow' people now, too. 
 * When you delete all the widgets from the sidebar(s), WordPress still displays a 'standard set'.
 * Blogger. I just couldn't get beyond that hideous sign up screen.
