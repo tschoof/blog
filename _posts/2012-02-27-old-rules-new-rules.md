@@ -29,8 +29,8 @@ TV isn't there yet. It's at the beginning of its own disruption, and some people
 
 Classical TV, whether in the US or in Europe, won't go away the day after tomorrow, but its relevance will begin to fade out soon, and with it will the money that's coming in. 'New revenue streams' is the keyword, I believe. The copying that currently is considered illegal is one of those streams, but seemingly nobody wants to put the 'revenue' back in it. It could be in there, trust me, just look at the iTunes music sales.
 
-One last note: I'll be damned if the new Apple TV doesn't offer something that's very relevant to this discussion. Even if it's not the the hardware itself, but the lack of DRM or something like that.
-</div>
+One last note: I'll be damned if the new Apple TV doesn't offer something that's very relevant to this discussion. Even if it's not the the hardware itself, but the lack of DRM or something like that.  
+**Update:** So, [1080p playback for the Apple TV, it is](http://9to5mac.com/2012/02/28/sources-new-apple-tv-launching-in-march-near-immediate-availability-hinted-for-new-ipads/). Maybe more.
 
 
 ---
