@@ -12,14 +12,14 @@ So I thought: 'Well, I used the wordpress software once, that's pretty huge, but
 Boy, was I wrong.
 
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/posterous.png"><img src="http://blog.timmschoof.com/images/posterous.jpg"/></a><br/><small>Spaces, hm? Okay, multiple blogs, I get it.<br>'SLIDESHOW', are you kidding me?</small></p>
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/tumblr.png"><img src="http://blog.timmschoof.com/images/tumblr.png"/></a><br/><small>Why sould I post a photo of me? Chat? FOLLOW?</small></p>
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/wp.png"><img src="http://blog.timmschoof.com/images/wp.png"/></a><br/><small>I just can't use a standard theme. But I know so little CSS, it ain't worth 30$/year. Also: WordPress lets you follow people now, too.</small></p>
-
+<br>
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/blogger.png"><img src="http://blog.timmschoof.com/images/blogger.png"/></a><br/><small>Is blogger doing a geocities rememberance thing today? Oh no, they're serious about this design.</small></p>
-
-<p style="text-align: center;"><a href="http://ragefac.es/314"><img src="http://blog.timmschoof.com/images/314.png"/></a>
+<br>
+<p style="text-align: center;"><a href="http://ragefac.es/314"><img src="http://blog.timmschoof.com/images/314.png"/></a></p>
 
 To be more specific:
 
