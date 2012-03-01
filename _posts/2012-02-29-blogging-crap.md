@@ -37,9 +37,9 @@ I'm not a web developer, I'm not a designer or programmer of some kind. I'm a la
 
 ---
 
-<span id="02-29-fn1">This footnote displays beautifully in Instapaper! And Instapaper now knows my name! These features are brought to you by [@talinee](https://twitter.com/talinee). Thx!</span> [&#8617;](#02-29-fn1b)
+<span id="02-29-fn1">1. This footnote displays beautifully in Instapaper! And Instapaper now knows my name! These features are brought to you by [@talinee](https://twitter.com/talinee). Thx!</span> [&#8617;](#02-29-fn1b)
 
-<span id="02-29-fn2">My desktop machine.</span> [&#8617;](#02-29-fn2b)
+<span id="02-29-fn2">2. My desktop machine.</span> [&#8617;](#02-29-fn2b)
 
-<span id="02-29-fn3">There are no 'blogging' services anymore, apparently.</span> [&#8617;](#02-29-fn3b)
+<span id="02-29-fn3">3. There are no 'blogging' services anymore, apparently.</span> [&#8617;](#02-29-fn3b)
 
