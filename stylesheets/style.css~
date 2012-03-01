@@ -127,7 +127,7 @@ table {
 }
 		h2 {  
 			font-weight: lighter;
-			font-size: 18px; 
+			font-size: 21px; 
 			line-height: 1.8; 
 			
 }
@@ -154,9 +154,7 @@ table {
 		#meta a {
 			text-decoration: none; 
 }
-		.author {
-			display:none;
-}
+
 #header {
 			float: left;
 			width: 870px;
@@ -225,7 +223,7 @@ blockquote {
 			padding-left: 10px;
 			opacity: 0.85;
 }
-.author{		display: none;
+.author {		display: none;
 }
 hr {
 			border-width: 0px; 
@@ -240,3 +238,11 @@ sup {vertical-align: top; font-size: 10px; font-weight: normal; margin: 0 0 0 2p
 .footnotes li {margin-left: 3%; margin-bottom: 1ex;}
 .footnotes li:before {display: none;}
 .footnotes hr {border-width: 0px; border-top: 1px solid #999;}
+
+/*/Buzzsprout/*/
+div.episode h3 { 
+			font-size: 18px; 
+}
+div.episode p { 
+			margin-top: 5px; 
+}
