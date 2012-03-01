@@ -36,6 +36,7 @@ To be more specific:
 I'm not a web developer, I'm not a designer or programmer of some kind. I'm a law student who likes tech very much and is able to google the html and CSS snippets he needs. But all those 'easy blogging' services[<sup id="02-29-fn3b">3</sup>](#02-29-fn3) make the option of writing a script and running a server look very... easy.
 
 <div class="instapaper_ignore">
+<hr>
 <ol>
 <li><span id="02-29-fn1">This footnote displays beautifully in Instapaper! And Instapaper now knows my name! These features are brought to you by [@talinee](https://twitter.com/talinee). Thx!</span> [&#8617;](#02-29-fn1b)</li>
 
