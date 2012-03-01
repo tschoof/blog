@@ -6,7 +6,7 @@ layout: default
 <div id="meta"><span style="display:none;"><a href="#" rel="author">Timm Schoof</a></span> <span class="date">{{ page.date | date: "%B %d, %Y" }}</span> | {{  page.category  }} | <a href="{{ page.url }}/#disqus_thread">comments coming soon</a></div>
 <div class="instapaper_body">
 {{ content }}
-
+</div>
 </div>
 <!-- DISQUS -->
 <div id="disqus_thread"></div>
