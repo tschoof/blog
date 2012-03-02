@@ -11,7 +11,7 @@
 			<a class="nav" href="/contact/">Contact</a><br>
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a>
-	
+			<a class="nav" href="/podcast/">Podcast</a><br><br>
 			<a class="nav" href="/search/">Search</a>
 		</div>
 		<div id="content">
