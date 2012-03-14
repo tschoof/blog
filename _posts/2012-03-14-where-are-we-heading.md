@@ -28,4 +28,4 @@ I recap: The Internet combined with the devices and technology we have today mea
 Of course, and maybe that's the most important thing to realize right now: The Internet can be controlled. Just look at China, or the conditions Telecomix fought and fights against mentioned above. By default it isn't, but it can be 'bad'. It can become an instrument of suppression. But just if someone makes it so. And people do, obviously. So, adding a little Internet to everything doesn't make everything better necessarily.  
 To ensure that it does, we have to keep working for a free and independent Internet. There will be a new ACTA/SOPA/PIPA.
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/shpeec.jpg"><img src="http://blog.timmschoof.com/images/speech.jpg"/></a><br/><small>I found this on Facebook. Chapeau, Facebook. Normally, you'd expect something of this quality linked on Twitter.</small></p>
+<p style="text-align: center;"><img src="http://blog.timmschoof.com/images/speech.jpg"/><br/><small>I found this on Facebook. Chapeau, Facebook. Normally, you'd expect something of this quality linked on Twitter.</small></p>
