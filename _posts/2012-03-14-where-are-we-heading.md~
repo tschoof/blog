@@ -7,7 +7,7 @@ published: true
 ---
 
 I just read '[The End of the Internet as we know it](http://www.spreeblick.com/2012/02/28/its-the-end-of-the-net-as-we-know-it/)' by Johnny Haeusler and '[Wir, die Netz-Kinder](http://www.zeit.de/digital/internet/2012-02/wir-die-netz-kinder/komplettansicht)' by Piotr Czerski (both in German). These two articles made me think. We have come a long way, the Internet is part of our life (Piotr does a good job of explaining who 'we' are).  
-But what's next? 'Where are we heading?', Johnny wonders. Are we one step away from a divided Internet? One that's like Facebook and offers bite-sized, easy-to-digest content? And one for the outlaws, hackers, Linux users? The thing is: Will the first one have free speech? Are we striving towards an even brighter future with consumers living in happy symbiotic relationships with each other and towards companies? Are we heading towards some dark future with google **finally** blackmailing everybody with all the information about them?
+But what's next? 'Where are we heading?', Johnny wonders. Are we one step away from a divided Internet? One that's like Facebook and offers bite-sized, easy-to-digest content? And one for the outlaws, hackers, Linux users? The thing is: Will the first one have free speech? Or are we striving towards an even brighter future with consumers living in happy symbiotic relationships with each other and towards companies? Or some dark future with google **finally** blackmailing everybody with all the information about them?
 
 At first, we relly should recognize that we have come a long way. Today, technology is so highly developed that it enables anybody and everybody to do anything.
 
