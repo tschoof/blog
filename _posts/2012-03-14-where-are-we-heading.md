@@ -23,7 +23,7 @@ There's gotta be something about this whole Internet thingy. The Internet and th
 
 Information is just all around us. Just like the force, but everyone is able to use it. When I'm looking for information, I automatically press ctrl+T and start typing. My browser opens a new tab and searches for whatever my text input is. It's like in gaming, when you don't have to think about which keys to press to make move xyz. If you're not a gamer: That's like not having to think about how to gear up or down while driving a car. Its like that, just with information. Its accessible, it s just there. Ideally, it appears in its purest state: linked, so one can reconstruct it. 
 
-I recap: The Internet combined with the devices and technology we have today means: Producing and consuming information times infinity. The sky is the limit.
+I recap: The Internet combined with the devices and technology we have today means: Producing and consuming information times infinity. The sky is the limit!
 
 Of course, and maybe that's the most important thing to realize right now: The Internet can be controlled. Just look at China, or the conditions Telecomix fought and fights against mentioned above. By default it isn't, but it can be 'bad'. It can become an instrument of suppression. But just if someone makes it so. And people do, obviously. So, adding a little Internet to everything doesn't make everything better necessarily.
 
