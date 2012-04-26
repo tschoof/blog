@@ -7,4 +7,4 @@ published: true
 ---
 The third episode of 'ungeheuerlich eschoofierend' is live: ['Und natürlich winkte er Beetlebum zu'](http://www.buzzsprout.com/episodes/converted/47034.mp3) - Go get it!
 
-We talk about Creative Commons Licenses, the re-publica in general and promote some sessions we think will be most fun or most interesting.
+We talk about [Creative Commons](http://creativecommons.org/) Licenses, the [re-publica](http://re-publica.de/12/) in general and promote some sessions we think will be most fun or most interesting.
