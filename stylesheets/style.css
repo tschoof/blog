@@ -243,6 +243,7 @@ sup {vertical-align: top; font-size: 10px; font-weight: normal; margin: 0 0 0 2p
 div.episode h3 { 
 			font-size: 18px;
 			margin-bottom: 5px; 
+			margin-top: 15px; 
 }
 div.episode p { 
 			margin-top: 15px; 
