@@ -241,7 +241,7 @@ sup {vertical-align: top; font-size: 10px; font-weight: normal; margin: 0 0 0 2p
 
 /*/Buzzsprout/*/
 div.episode h3 { 
-			margin-top: 30px;
+			margin-top: 35px;
 }
 div.episode p { 
 			
