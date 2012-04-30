@@ -9,4 +9,4 @@ Timo and I went out drinking and talked about cars, smoking and non-smoking, and
 
 Plus: The wonderful [Taalke](https://twitter.com/#!/talinee) was so kind to use her photoshop skills to get us some graphical real estate. A real artwork! We are delighted, and you should be, too.
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/artwork_ue.jpg"><img src="http://blog.timmschoof.com/images/artwork_ue.jpg"/></a></p>
+<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/artwork_ue.jpg"><img src="http://blog.timmschoof.com/images/artwork_ue.jpg" width="300px"; height="300px"; /></a></p>
