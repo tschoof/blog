@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ungeheuerlich eschoofierend &#35;4 - 'nachts sind alle Mütter blau'
+title: ungeheuerlich eschoofierend &#35;4 - 'Nachts sind alle Mütter blau'
 date: 2012-04-30 10:00:00
 category: podcast
 published: true
