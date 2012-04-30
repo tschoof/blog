@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ungeheuerlich eschoofierend &#35;2
+title: ungeheuerlich eschoofierend &#35;2
 date: 2012-04-06 14:00:00
 category: podcast
 published: true
