@@ -6,11 +6,10 @@ permalink: /podcast/
 **<h2>ungeheuerlich eschoofierend</h2>**
 It's a podcast, it's in German, featuring [Timo Heuer](https://twitter.com/theuer) and me, and awesome.
 
-Just copy the RSS feed URL further down and paste it to your favorite podcasting app ([Instacast](http://itunes.apple.com/de/app/instacast/id420368235?mt=8) on iOS, for example) and you're good to go!
+Just copy the [RSS feed URL](http://feeds.feedburner.com/ungeheuerlich_eschoofierend) and paste it to your favorite podcasting app ([Instacast](http://itunes.apple.com/de/app/instacast/id420368235?mt=8) on iOS, for example) and you're good to go!
 
 'ungeheuerlich eschoofierend' is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC By-Sa</a> License.
 
-[**Audio RSS feed**](http://feeds.feedburner.com/ungeheuerlich_eschoofierend)  
 'ungeheuerlich eschoofierend' on
 
 * [**iTunes**](http://itunes.apple.com/de/podcast/ungeheuerlich-eschoofierend/id507224771?l=en)  
