@@ -15,5 +15,6 @@ I just want to share some links/articles with you guys.
 * [Kaley Cuoco Bought a Shake Weight](http://www.youtube.com/watch?v=9C88Ydagh0Q) - Thx, [Markus](https://twitter.com/#!/fliegermarkus).
 * [John Siracusa on Pasta](http://siracusa.tumblr.com/post/17646045922/better-pasta) - Just some great advice. It's the little things that make pasta dishes great.
 * [Sascha Lobo reminds us](http://www.spiegel.de/netzwelt/web/0,1518,827995,00.html) (in German) that the Internet is driven by a few Social Networks and their contents could disappear just now. Just a hint that you might want to host your stuff yourself.
+* Timo's and my Podcast finally got a FB Fanpage. You [like that](https://www.facebook.com/ungeheuerlicheschoofierend)?
 
 See you in [Berlin](http://re-publica.de/12/).
