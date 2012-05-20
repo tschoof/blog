@@ -5,7 +5,7 @@ date: 2012-05-20 16:30:00
 category: life
 published: true
 ---
-I recently listened to a podcast where [Andy Ihnatko asked](http://5by5.tv/ia/24) and ruminated about the question:
+I recently listened to a podcast episode in which [Andy Ihnatko asked](http://5by5.tv/ia/24) and ruminated about the question:
 
 > Who would you be if you had nothing?
 
