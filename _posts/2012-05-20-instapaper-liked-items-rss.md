@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instapaper liked items RSS
+title: Instapaper liked items' RSS
 date: 2012-05-20 14:00:00
 category: tech
 published: true
