@@ -11,8 +11,8 @@ Thing is: It doesn't even matter if you believe that or don't. The second your d
 
 Good thing is: You can block the hell out of all those cookies ([Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)). Basically, there are a few plugins available for the most common browsers you should consider using.
 
-* Adblock Plus
-* Ghostery
-* Do Not Track Plus
+* [Adblock Plus](http://adblockplus.org/en/)
+* [Ghostery](http://www.ghostery.com/)
+* [Do Not Track Plus](http://abine.com/dntdetail.php)
 
 **[lifehacker.com shows you how exactly](http://lifehacker.com/5887140/everyones-trying-to-track-what-you-do-on-the-web-heres-how-to-stop-them)**.
