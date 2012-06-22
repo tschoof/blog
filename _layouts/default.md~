@@ -3,7 +3,7 @@
 	<div id="body">
 		<div id="header">
 			<a href="/" title="Home"> <img src="/images/header.png" alt="header.svg" width="283" height="137" type="image" ></a>
-			<a href="http://re-publica.de/12/" title="Meet timm in action @ re:publica 12"><img src="http://re-publica.de/banner/160x160-4.png" alt="re:publica 12" align="right" /></a>
+			
 		</div>
 
 		<div id="nav">
