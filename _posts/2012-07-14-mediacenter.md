@@ -11,17 +11,17 @@ Cutting the cord and stopping to complain about bad TV program has never been th
 
 Here's what you need/I recommend: 
 
-* [Zotac ZBox](http://www.amazon.de/Zotac-Barebone-PC-Intel-DDR3-800-supported/dp/B004LOAO66/ref=sr_1_4?ie=UTF8&qid=1342192465&sr=8-4)
-  * An almost empty and therefore highly customizable box, great place to start. Comes with a VESA mount, so you can hide it behind your HDTV.
-* [Some RAM](http://www.amazon.de/Channel-Hynix-Original-DDR3-1333-PC3-10600S/dp/B004P8FK1W/ref=sr_1_9?ie=UTF8&qid=1342294864&sr=8-9)
-  * DDR3 SO-DIMM, not sure about the clock speed, but 1066 MhZ works
+* [Zotac ZBox ID41 'naked'](http://www.amazon.de/Zotac-ZBOX-ID41-E-ZBOX-ID41-Mini-PC/dp/B004M397BO/ref=sr_1_1?s=computers&ie=UTF8&qid=1342300720&sr=1-1)
+  * An almost empty and therefore highly customizable box. Comes with a VESA mount, so you can hide it behind your HDTV.
+* [Some RAM](http://www.amazon.de/Dual-Channel-Kit-M471B5673EH1-CF8-DDR3-NOTEBOOKs/dp/B002ZI9OX4/ref=sr_1_7?s=computers&ie=UTF8&qid=1342300962&sr=1-7)
+  * DDR3 SO-DIMM, not sure about the clock speed, but 1066 MHz works
 * [Samsung 64GB SSD](http://www.amazon.de/gp/product/B007BBQPBO/ref=noref?ie=UTF8&psc=1&s=computers)
   * This depends on your needs. An SSD obviously reduces noise, heat, bootup time and power consumption, but you'll definitely need another (external) drive for all the movies. Since collections of movies and TV series tend to get bigger with time and internal storage is limited anyway, going with external storage seems plausible. 
   * Not convinced? A 'classic' approach would have to use something like [this](http://www.amazon.de/Western-Digital-WD7500BPKT-Scorpio-Festplatte/dp/B004I9J5OG/ref=sr_1_1?ie=UTF8&qid=1342194381&sr=8-1).
 * [External storage](http://www.amazon.de/gp/product/B004445JH2/ref=noref?ie=UTF8&psc=1&s=computers)
   * Plug in whatever floats your boat. Advise: The Zotac ZBox sports USB 3.0, you want that.
 
-The first-choice components set you back about **450€** (went for 3TB external storage, though). I assume you already own an HDTV and an HDMI cable.
+The first-choice components set you back about **480€** (went for 3TB external storage, though). I assume you already own an HDTV and an HDMI cable.
 
 Put everything together ([youtube helps](http://www.youtube.com/watch?v=aLMHMTVQCio)), and then put XBMCbuntu on it. [Here's how you go about that](http://wiki.xbmc.org/index.php?title=XBMCbuntu#How_To_Install_XBMCbuntu).
 
