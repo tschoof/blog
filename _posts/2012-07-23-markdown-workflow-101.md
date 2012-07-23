@@ -10,7 +10,7 @@ I am new to the Mac, and therefore new to many programs and possibilities a mark
 
 To make it short: [Marked.app](http://markedapp.com/) is the last markdown preview you'll ever need, or care about. PDF, custom CSS, auto refresh, it's all in there.
 
-The [Markdown Service Tools](http://brettterpstra.com/project/markdown-service-tools/) are nothing but **pure gold**. 'Link Selection' alone totally blows my mind. Note that you might want to [tell Lion to show your User Library Folder](http://osxdaily.com/2011/07/04/show-library-directory-in-mac-os-x-lion/), though.
+The [Markdown Service Tools](http://brettterpstra.com/project/markdown-service-tools/) are nothing but **pure gold**. 'Link Selection' alone totally blows my mind. Note that you might want to [tell Lion to show your User Library Folder](http://osxdaily.com/2011/07/04/show-library-directory-in-mac-os-x-lion/).
 
 Belated best wishes, Brett!
 
