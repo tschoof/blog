@@ -16,4 +16,4 @@ Belated best wishes, Brett!
 
 P.S.: I'm using Byword for text editing right now, but the things above are totally independent from that choice. That's the beauty of it. Add TextExpander to the mix, add some clever snippets (hat tip to Mr. Hackett for [this one](http://512pixels.net/2012/07/md-links/)) and see if you can stand the awesomeness.
 
-**Update**: The [Marked Bonus Pack](http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles) enables you to open the current document in Marked.app with shortcut. You want this.
+**Update:** The [Marked Bonus Pack](http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles) enables you to open the current document in Marked.app with shortcut. You want this.
