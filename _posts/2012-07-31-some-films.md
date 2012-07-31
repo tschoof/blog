@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Watched Recently
@@ -6,7 +5,6 @@ date: 2012-07-31 22:45:16
 category: movies and television
 published: true
 ---
-
 * [Stay](http://www.imdb.com/title/tt0371257/)
 	* I did like it. But it's still just 'psycho stuff'
 	* Can there be movies like this after *Fight Club* that don't leave you feeling cheated on after watching?
