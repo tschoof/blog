@@ -5,15 +5,15 @@ date: 2011-05-17 07:00:00
 category: life
 published: true
 ---
-I always went to bed very late. I often played computer games till 1:30 or 2:30 am and **never** went to bed before 1 am. I loved that. I was a school kid, so it worked most of the time. Since I became a student, my easy-going sleep cycle annoyed me more and more. I already wasn't on top of the day, felt behind when I got up at 9:30 pm[<sup id="fn1b">1</sup>](#fn1) and ate breakfast. I kept being late mentally which put me under pressure and didn't feel good. I knew that I had to change that habit. Knowing that but not being able to do so frustrated me even more.    
-But I was in good company. Keeping up late is the ultimate cool, that was a fact, I myself always had been suspicious of people who would to bed before midnight. My love for coffee and its caffeine were the best excuse one could think of to keep up late, be late in the morning and brag about crazy sleep hours. *Myself, 4 months ago:*
+I always went to bed very late. I often played games till 1:30 or 2:30 am and **never** went to bed before 1 am. I loved that. I went to school back then, so it worked most of the time. When I became a student, my easy-going sleep cycle annoyed me more and more. I already wasn't on top of the day, felt behind when I got up at 9:30 pm[<sup id="fn1b">1</sup>](#fn1) and ate breakfast. I kept being late mentally which put me under pressure and didn't feel good. I knew that I had to change that habit. Knowing that but not being able to do so frustrated me even more.    
+But I was in good company. Keeping up late is the ultimate cool, that was a fact, I myself always had been suspicious of people who went to bed before midnight. My love for coffee and its caffeine were the best excuse one could think of to keep up late, be late in the morning and brag about crazy sleep hours. *Myself, 4 months ago:*
 > I couldn't fall asleep one minute before 2 am, I tried!
 
 Yeah, you do. Just regularly get up at 6am and see how you will love to go to bed at 11 pm, even earlier, or midnight, depending on your needs. We owe it to our brains to sleep, that's a fact. Time measurement only has been around for a few hundred years, that's another fact. We depended on dawn and dusk before. Just think about all these studies reporting of health problems caused by shift work.  
-We shouldn't let time measurement go, of course. But I think being aware that it's artificial should allow us to consider some changes to our sleep rhythm - or care about sleep in the first place. It was when I first realized that I got a sleep mask, cause in cities like Hamburg it's never dark completely.
+We shouldn't let time measurement go, of course. But I think being aware that it's artificial should allow us to consider some changes to our sleep rhythm - or care about sleep in the first place. When I first realized that, I got a sleep mask, cause in cities like Hamburg it's never completely dark.
 
 Then, I came across [Nicolas Alpi's post](http://notgeeklycorrect.com/2011/01/24/5am-wake-up-is-it-crazy-to-wake-up-early) on rising early. It was exactly what I needed.  
- **#ProjectEarlyBird** went live on February 1st 2011, just when I started work on my first term paper. There was some serious synergy going on, because social life is reduced to a minimum during such workload. So, there was no distraction from 
+ **#ProjectEarlyBird** went live on February 1st 2011, just when I started to work on my first term paper. There was some serious synergy going on, because social life is reduced to a minimum during such workload. So, there was no distraction from 
 
 * getting up at **6 am**
 * (sometimes) running some 5 kilometers
