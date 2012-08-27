@@ -1,11 +1,10 @@
 ---
 layout: post
-title: What Mat Honan's Hackers taught us
+title: What Mat Honan&#39;s Hackers taught us
 date: 2012-08-27 20:12:16
 category: tech
 published: true
 ---
-
 
 You may have heard of Mat Honan's case. [He got hacked pretty bad](http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/). In the end, it was mostly Amazon's and Apple's crappy policies fault. But it would be short-sighted not to rethink your current setup. Just let me recap what happened to Mat.
 
