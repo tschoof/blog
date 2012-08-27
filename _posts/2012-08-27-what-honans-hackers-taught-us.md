@@ -17,7 +17,7 @@ Amazon and Apple have changed the policies that were enabled Honan's hackers to 
 
 So, I basically recommend to do what [Lifehacker suggests](http://lifehacker.com/5932501/strong-passwords-arent-enough-how-to-to-ensure-the-apple-and-amazon-exploit-never-happens-to-you). Like/plus this:
 
-* Use strong passwords. So, use 1Password or another password software.  
+* Use strong passwords. So, use [1Password](https://agilebits.com/onepassword) or another password software.  
 Yeah, everything depends on that one password then. But what's the alternative? I definitely chose one monster password with ultra complex individual passwords for every service behind it over one or two mediocre passwords that are worth nothing once **one** service is hacked. 
 * Use Two-Factor-Authentication with every Service that offers it. Currently: [Google](http://support.google.com/accounts/bin/answer.py?hl=en&amp;answer=180744), [Facebook](http://lifehacker.com/5801597/set-up-two+factor-authentication-in-facebook-for-better-security), [Dropbox](https://www.dropbox.com/help/363/en).
 * [Make the Google Recovery Mail Address](http://support.google.com/mail/bin/answer.py?hl=de&amp;answer=6566) (Since you're reading this, I assume you're a nerd and use Gmail) an address that is *not* an Apple-run one, or even better: one not even associated with an Apple ID. That way, if your Google Account gets hacked despite your efforts, the hacker can't remote wipe your Apple devices.  
