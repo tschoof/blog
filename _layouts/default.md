@@ -19,8 +19,7 @@
 			</div>
 		</div>
 		<div id="footer">
-		<p><a class="footer" href="http://creativecommons.org/licenses/by-sa/3.0/">CC By-Sa</a>. <a class="footer" href="http://font.ubuntu.com/">Ubuntu Font Family</a>. Proudly generated using <a class="footer" href="http://jekyllrb.com/">Jekyll</a>. Coming to you from the heart of Hamburg, Germany.
-		</p>
+		<p><a class="footer" href="http://creativecommons.org/licenses/by-sa/3.0/">CC By-Sa</a>. <a class="footer" href="http://font.ubuntu.com/">Ubuntu Font Family</a>. Proudly generated using <a class="footer" href="http://jekyllrb.com/">Jekyll</a>. Currently coming to you from Dublin, Ireland.</p>
 		</div>
 	</div>
 	
