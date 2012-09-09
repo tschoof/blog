@@ -34,7 +34,7 @@ I need to link to every album individually, by the way, because Spotify doesn't 
 
 * [The Velvet Underground & Nico](http://spoti.fi/Rsvk88)
 * [White Light / White Heat](http://spoti.fi/Qd4HzT)
-* [The Velvet Underground](http://spoti.fi/PTTiEQ) (My favourite album at the moment, really great. Wow.)
+* [The Velvet Underground](http://spoti.fi/PTTiEQ) (My favourite album at the moment, fuckin' amazing. Wow.)
 * [1969: The Velvet Underground Live](http://spoti.fi/TEr0Sy) (Very interesting to hear alternatve versions of some songs)
 * [Loaded](http://spoti.fi/Sv31Ya) (Or the [Fully Loaded Edition](http://spoti.fi/RsvrR8))
 * [V.U.](http://spoti.fi/Qd4I77)
