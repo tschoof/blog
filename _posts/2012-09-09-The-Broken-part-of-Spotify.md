@@ -11,7 +11,7 @@ I've had but one problem with Spotify for a long time: Its playlist philosophy. 
 
 ### Why it's broken
 But when you want to discover new music and/or new artists, that's not what you need, and Spotify acknowledges that. That's why when you click on an artist's name, there's his top five tracks and albums.  
-But this is where hell begins. Take [Elvis Presley](http://spoti.fi/Joh6Ms). How many 50 song Best-Of albums do you need? Try listen to his albums in chronological order to understand how his music developed via Spotify. It's impossible. I don't have anything against Best-Ofs, they're great for a quick overview of that artist's work. But again: You don't need twenty of them.
+But this also is where hell begins. Take [Elvis Presley](http://spoti.fi/Joh6Ms). How many 50 song Best-Of albums do you need? Try listen to his albums in chronological order to understand how his music developed via Spotify. It's impossible. I don't have anything against Best-Ofs, they're great for a quick overview of that artist's work. But again: You don't need twenty of them.
 
 It's even worse with [The Velvet Underground](http://spoti.fi/JQfJqL). All the music is there, but it's - you can't even say sorted *wrong*, because it isn't sorted at all. Again, "Top Hits". Then, "Albums". There's four Best-Ofs. Then, two albums. Then four more Best-Ofs. By the way: The year in brackets behind the Album's title is supposed to state the release date, I think. But since everything is digitally remastered by now and the most recent re-release date is shown, that information is useless.  
 Then, there's a 3CD-release containing the first three albums. But without stating that anywhere but on the cover, and the albums being **in.the.wrong.fucking.order.**
