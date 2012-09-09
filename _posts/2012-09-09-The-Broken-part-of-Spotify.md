@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Broken part of Spotify
+title: The Broken Part of Spotify
 date: 2012-09-09 15:25:50
 category: tech
 published: true
