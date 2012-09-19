@@ -2,7 +2,7 @@
 layout: post
 title: My first Day in Dublin
 date: 2012-09-05 17:23:08
-category: life
+category: dublin
 published: true
 ---
 

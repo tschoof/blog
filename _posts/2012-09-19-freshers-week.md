@@ -2,7 +2,7 @@
 layout: post
 title: Fresher&#8216;s Week at Trinity
 date: 2012-09-19 17:14:07
-category: life
+category: dublin
 published: true
 ---
 

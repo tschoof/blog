@@ -2,7 +2,7 @@
 layout: post
 title: Trinity College
 date: 2012-09-11 13:15:24
-category: life
+category: dublin
 published: true
 ---
 

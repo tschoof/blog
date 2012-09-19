@@ -2,7 +2,7 @@
 layout: post
 title: Wifi and Mobile Data in Dublin
 date: 2012-09-15 14:12:46
-category: tech
+category: dublin
 published: true
 ---
 ### Wifi
