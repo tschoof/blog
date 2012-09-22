@@ -13,7 +13,8 @@ Guess what: Foursquare does that. Or, if you don't know exactly what you want, y
 
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/list.jpg"><img src="http://blog.timmschoof.com/images/list.jpg"/></a></p>
 
-In the (iOS) app, you just go to your profile (bottom right), then to your lists, and then select one of them. Then tap on the map. There you go.  
+In the (iOS) app, you just go to your profile (bottom right), then to your lists, and then select one of them. Then tap on the map. There you go.
+
 I don't understand why Foursquare kind of buries this powerful feature just somewhere in the app. They really should embed your personal lists as an extra tab in the '**Explore**' section. But hey, nobody's perfect, and Foursquare's app has come a long way.  
 However: If you manage to get a few suggestions before you go some place, that's way better than the already okay 'Explore' feature, I think. They should let you opt out of suggestions of Starbucks coffee shops, though. But that's just me.  
 
