@@ -6,4 +6,6 @@ category: movies and television
 published: true
 ---
 
-'[Comedians in Cars getting Coffee](http://comediansincarsgettingcoffee.com)', a project by Jerry Seinfeld, is fun. Kudos to [Marcel for pointing that out](http://www.neunetz.com/2012/10/02/jerry-seinfelds-comedians-in-cars-getting-coffee/).
+'[Comedians in Cars getting Coffee](http://comediansincarsgettingcoffee.com)' is a TV show that doesn't air on TV. And that's not even the full story. It also is a project by Jerry Seinfeld (by now you should've followed the link). Fun and refreshing.
+
+Kudos to [Marcel for pointing that out](http://www.neunetz.com/2012/10/02/jerry-seinfelds-comedians-in-cars-getting-coffee/).
