@@ -38,3 +38,6 @@ And: I know you think I'm a whiny Hipster, but I'll soon receive a box from Appl
 Again: Just because there's no Apple Store around. That's a shitty experience. I get that Apple can't post iPhones around the world and risk not seeing them or any money again, but the difference in experience you get still sucks. 
 
 In a nutshell: Like Tim Cook said [in his letter concerning the new maps](https://www.apple.com/letter-from-tim-cook-on-maps/), Apple "*strives to make world-class products that deliver the best experience*". Apple has to keep that up on the hardware level and has to make sure the service experience doesn't spoil that.
+
+**Update**: I got [feedback from Kevin](https://alpha.app.net/kev_d/post/858165):
+> I used to run the Compu b service dept. Your experience isn’t unique, but Apples service (rough edges & all) is still markedly superior to Dell or other manufacturers
