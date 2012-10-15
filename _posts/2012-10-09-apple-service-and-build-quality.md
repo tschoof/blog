@@ -41,3 +41,5 @@ In a nutshell: Like Tim Cook said [in his letter concerning the new maps](https:
 
 **Update**: I got [feedback from Kevin](https://alpha.app.net/kev_d/post/858165):
 > I used to run the Compu b service dept. Your experience isn’t unique, but Apples service (rough edges & all) is still markedly superior to Dell or other manufacturers
+
+**Update 2**: Apparently Apple sent me an envelope that is only paid for within the UK, so I had to pay 5€ to get the package posted to Apple Service. Grand.
