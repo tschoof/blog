@@ -18,4 +18,4 @@ Or for the Irish in general, what do I know?
 
 Damn, why didn't I say I *feckin' love Dublin*?
 
-It is a very interesting constellation, having native speakers wondering all the time how the average Erasmus student's English is so good, and recognizing the tad of an inferiority complex most of them have because they're fluent in only one language. That makes me realize over and over again how it's really a very lucky situation to be the native speaker of some non-trivial language and hence be able to learn English as a second language.
+It is a very interesting situation, to have native speakers wondering all the time how the average Erasmus student's English is so good, and recognizing the tad of an inferiority complex most of them have because they're fluent in only one language. That makes me realize over and over again how it's really a very lucky situation to be the native speaker of some non-trivial language and hence be able to learn English as a second language.
