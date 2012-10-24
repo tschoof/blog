@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Usage and Response TIme
+title: Usage and Response Time
 date: 2012-10-24 10:41:36
 category: tech
 published: true
