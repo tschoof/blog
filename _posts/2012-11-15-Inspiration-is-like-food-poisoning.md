@@ -8,4 +8,4 @@ published: true
 
 [Solid gold by The Oatmeal, again](http://theoatmeal.com/comics/making_things).
 
-[via](http://512pixels.net/2012/11/shit/) 
+([via](http://512pixels.net/2012/11/shit/))
