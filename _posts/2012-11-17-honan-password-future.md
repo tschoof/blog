@@ -10,7 +10,8 @@ published: true
 
 Remember Mat Honan? Yeah, the *Wired* guy who got hacked. In the aftermath of somebody somewhat popular and well-known on the Internet, guides on how not to get hacked popped up. Most of them weren't that good, [so I wrote up what I felt they were lacking](http://blog.timmschoof.com/2012/08/27/what-honans-hackers-taught-us/).
 
-[Now Mat Honan's back and campaigns for password-less systems](http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/all/). He says he could get into your account. He's probably right. Truth is, what makes you and me 'safe' nowadays ist mostly that people capable of messing with our data in a sophisticated way find well-paid employment in some state department/agency or organised crime and work on juicier targets. But that's not what you could call a real 'defense', so back to topic:  
+[Now Mat Honan's back and campaigns for password-less systems](http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/all/). Why?  
+He says he could get into your account. He's probably right. Truth is, what makes you and me 'safe' nowadays ist mostly that people capable of messing with our data in a sophisticated way find well-paid employment in some state department/agency or organised crime and work on juicier targets. But that's not what you could call a real 'defense', so back to topic:  
 After the mandatory mentioning of how stupid it is to use unsafe or the same passwords over and over again, and how it has been shown that's what everybody does anyway, it gets interesting. 
 
 Honan says we have to go beyond safe passwords, safe secondary email addresses, two factor authentication and all the measures that make life online safer, but not really safe. He pledges for more than one or two factors, throws in biometrics and behavioral data, and social factors like confirmation through friends by photo if you suddenly log into your bank account from the bahamas.  
