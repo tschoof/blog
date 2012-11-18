@@ -10,4 +10,6 @@ published: true
 
 >  "I heard Michaloliakos say on TV that their sign isn't Hitler's sign but a patriotic one," she says, and then looks down at her feet. "It does upset me a bit. But I haven't heard of anyone else giving out food."
 
+> MP Panagiotaros owns a shop called Phalanga that sells military memorabilia; bovver boots and black gloves; ultra football shirts; kit by Pit Bull and Hooligan. Members of the military junta beam from photos on the wall. The heavy stuff is said to be kept in a back room.
+
 [This makes me speechless.](http://www.guardian.co.uk/world/2012/oct/26/golden-dawn-greece-far-right?CMP=twt_gu)
