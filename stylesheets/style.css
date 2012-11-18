@@ -74,7 +74,6 @@ table {
 }
 		a:hover { 
 			opacity: 0.6;
-			-moz-transition: 0.12s linear;
 }
 		a:visited { 
 			opacity: 0.6;
