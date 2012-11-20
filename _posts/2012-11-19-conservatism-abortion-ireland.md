@@ -7,11 +7,11 @@ published: true
 ---
 
 When I set foot in Ireland, I was somewhat aware of it being 'more conservative'. But coming from basically Catholic-free northern Germany, what does that mean anyway?  
-'Not that much, obviously', I thought, when I couldn't see too much everyday-Catholicism in the way most girls in Dublin dress up when they're going out. In other words: Religion seems to be really heart-warming and therefore allowing for even shorter skirts. Even another way to put it: Since prostitution is illegal in Ireland (Oh, yeah: thanks, conservatism), girls don't know that they dress like German prostitutes. 
+'Not that much, obviously', I thought, when I couldn't see too much everyday-Catholicism in the way most girls in Dublin dress up when they're going out. In other words: Religion seems to be really heart-warming and therefore allowing for even shorter skirts. Even another way to put it: Since prostitution is illegal in Ireland (Thanks, conservatism), girls don't know that they dress like German prostitutes. 
 
 But then I learned that there are only a few mixed schools here. And that drinking in public is illegal also. Points that may have an interesting (read: not positive) effect on society (I'm inclined to think that separate schools are the best way to disturb children's upbringing and general development), but they don't come close to what I learned when we looked at the '[X Case](https://en.wikipedia.org/wiki/Attorney_General_v._X)' in class: Here in Ireland, there's a disturbing position on abortion, to say the least.
 
-I will quit the jokes here and make the connection to current events for anybody wondering: This topic began to gain tragic attention a few days ago when a woman was refused an abortion, and died. [This article from Human Rights Watch expands further on the details](http://www.hrw.org/news/2012/11/16/ireland-death-woman-denied-abortion-should-spur-reform): 
+I will quit the jokes here and make the connection to current events for anybody wondering: This topic began to gain tragic attention a few days ago when a woman was refused an abortion, and died. [An article from Human Rights Watch expands further on the details](http://www.hrw.org/news/2012/11/16/ireland-death-woman-denied-abortion-should-spur-reform): 
 
 > Savita Halappanavar went to University Hospital Galway with pregnancy-related pains on October 21, and when she began to miscarry sought an abortion but was refused. She suffered a miscarriage and several days later died of blood poisoning.
 
