@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughs on the 13&quot; rMBP
+title: Thoughs on the 13&quot; retina MacBook Pro
 date: 2012-11-20 14:57:55
 category: tech
 published: true
