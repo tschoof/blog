@@ -219,7 +219,7 @@ blockquote {
 			border-left: 1px solid #999;
 			margin-left: 10px;
 			padding-left: 10px;
-			opacity: 0.7;
+			opacity: 0.8;
 }
 .author {		display: none;
 }
@@ -236,13 +236,3 @@ sup {vertical-align: top; font-size: 10px; font-weight: normal; margin: 0 0 0 2p
 .footnotes li {margin-left: 3%; margin-bottom: 1ex;}
 .footnotes li:before {display: none;}
 .footnotes hr {border-width: 0px; border-top: 1px solid #999;}
-
-/*/Buzzsprout/*/
-div.episode h3 { 
-			margin-top: 20px;
-}
-div.episode p.description {
- 			margin-bottom: 30px;			
-}
-
-
