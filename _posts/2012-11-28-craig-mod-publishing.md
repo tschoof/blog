@@ -20,3 +20,5 @@ Boom.
 Oh, [this interview with Brent Simmons](http://one37.net/blog/15/11/2012/real-life-with-brent-simmons), about writing and publishing also was recommended all over the internet yesterday. It strengthens Craig's point:
 
 > But I no longer believe that the current set of publishers will embrace the future, whatever it is, and I believe they’ll be replaced by new publications.
+
+I just came across even another interview: [Clayton Christensen on the news business](http://www.niemanlab.org/2012/10/clay-christensen-on-the-news-industry-we-didnt-quite-understand-how-quickly-things-fall-off-the-cliff/)
