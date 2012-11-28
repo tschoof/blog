@@ -16,3 +16,7 @@ When he talks about how there's no effortless way to pay writers, I [thought](ht
 > [...] you’ll notice something magical about Newsstand: given the proper container, it’s a background downloading, offline-friendly, cached RSS machine people can subscribe to. *For money*. 
 
 Boom.
+
+Oh, [this interview with Brent Simmons](http://one37.net/blog/15/11/2012/real-life-with-brent-simmons), about writing and publishing also was recommended all over the internet yesterday. It strengthens Craig's point:
+
+> But I no longer believe that the current set of publishers will embrace the future, whatever it is, and I believe they’ll be replaced by new publications.
