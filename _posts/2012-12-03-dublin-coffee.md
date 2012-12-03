@@ -15,15 +15,21 @@ So, here's the big tour. And, since you're not gonna make it to the end of this 
 
 * [3FE @ Grand Canal Street](https://foursquare.com/v/third-floor-espresso-3fe/4e4f9d76fa7626401eaba3d9)
 	* Modern, a tad cold maybe, but very good coffee. Brian drew me an absolutely amazing map of coffee places and pubs 3FE supplies when he heard that I'm a coffee nut and new in town, so I'd go for ‘lovely staff’.
+
 * [Coffeeangel](https://foursquare.com/v/coffee-angel/5087f96de4b02de3ef18b477)
 	* Great AeroPress coffee, nice and enthusiastic staff. They use a new variant of [Marco](http://marco.ie/boilers.html) gadget I haven't seen before, very impressive. Sadly, it's 'just' a pop up shop, so there are only two seats and it's very small. Several-hours-sessions wouldn't really fit the shop, for me being a coffee shop student to some extent, that's somewhat saddening. But anyway: Very good coffee shop. I wish all the best, even if for nothing more than another nice shop to study in for my 2nd semester here.
+
 * [Brother Hubbard](https://foursquare.com/v/brother-hubbard/4f633c67e4b075c711fe625d)
 	* Very good coffee, also serve food but didn't have any. Seems to be fancy, though. Runs out of food fairly ofte due to the no-fridge policy, so it's not that steady of a supply. One drawback: ‘Free Wifi’ is only available outside lunch hours, so... about four hours per day. It's a small shop, I get it, but that doesn't mean I have to like it, right? The shop is featured [here in the *Guardian*](http://www.guardian.co.uk/world/2012/nov/30/ireland-businesses-downturn), the article emphasizes how risky it is in these times to start a shop like this. Bonne chance anyway!
+
 * [Roasted Brown](https://foursquare.com/v/roasted-brown/4f200610e4b019c30573d770)
 	* My standard go-to when I don't have class weekdays, since it's the closest to Trinity with free (and steady) Wifi. Good coffee, also serve food but I didn't have any yet. Located in the ‘Filmbase’ building, so kind of an open space in between offices, nice atmosphere.
+
 * [Fixx Coffee](https://foursquare.com/v/fixx-coffeehouse/4c1b3487b4e62d7f9c03d993)
 	* The americano is a good tad worse than at the Hasbean-served coffee shops. Also no fancy filter coffee. Free Wifi and fairly comfortable, though.
+
 * [Cup](https://foursquare.com/v/cup/4f1825d6e4b0b4cc23ba17e6)
 	* Very close to Trinity, good americano, delicious scones, snacks and cakes. Only Eircom-10-Minute free Wifi, dealbreaker if you don't have company or just want to get work done. Also gets me worked up a bit because its interiour looks like many German bakeries. That is: nice, but very bright wood and colours. Not the sofa-, but the wooden-bench style. Not awfully comfortable to me. Get a glimpse [here](http://laboratorioespresso.blogspot.ie/2012/09/a-pretty-uber-cup-cafe.html). The fridge next to the entrance supports that notion, it shouts ‘Take a drink and *leave*’, but I guess that's just me.
+
 * [The Fumbally](https://foursquare.com/v/the-fumbally/4fda0049e4b040461ca28c55)
 	* I admit that the location screams ‘Hipster’, but it's very nice and there aren't that many hipsters around. Feels like a big hippy-commune living room, but in the best way possible. Very comfortable. Sofas or seats and a table. Slightly-less-than-very-good americano. Also serve food, had a very nice egg with tomatoes, garlic and cheese on bread. Free Wifi. Two minutes walk from St. Patrick's Cathedral.
