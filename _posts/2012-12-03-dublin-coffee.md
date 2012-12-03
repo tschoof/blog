@@ -33,3 +33,5 @@ So, here's the big tour. And, since you're not gonna make it to the end of this 
 
 * [The Fumbally](https://foursquare.com/v/the-fumbally/4fda0049e4b040461ca28c55)
 	* I admit that the location screams ‘Hipster’, but it's very nice and there aren't that many hipsters around. Feels like a big hippy-commune living room, but in the best way possible. Very comfortable. Sofas or seats and a table. Slightly-less-than-very-good americano. Also serve food, had a very nice egg with tomatoes, garlic and cheese on bread. Free Wifi. Two minutes walk from St. Patrick's Cathedral.
+
+**Update**: Oh, here's a nice article on *The Atlantic* about [how coffee is nothing but good for you](http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/).
