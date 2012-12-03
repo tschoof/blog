@@ -12,6 +12,7 @@ So, here's the big tour. And, since you're not gonna make it to the end of this 
 
 * [3FE @ Twisted Pepper](https://foursquare.com/v/third-floor-espresso-3fe/4b40fc16f964a520c7be25e3)
 	* Yeah, well, the Wifi is broken quite often. Very good coffee, nice staff, comfortable, music is good but repeats occasionally.
+
 * [3FE @ Grand Canal Street](https://foursquare.com/v/third-floor-espresso-3fe/4e4f9d76fa7626401eaba3d9)
 	* Modern, a tad cold maybe, but very good coffee. Brian drew me an absolutely amazing map of coffee places and pubs 3FE supplies when he heard that I'm a coffee nut and new in town, so I'd go for ‘lovely staff’.
 * [Coffeeangel](https://foursquare.com/v/coffee-angel/5087f96de4b02de3ef18b477)
