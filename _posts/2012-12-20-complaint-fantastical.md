@@ -5,6 +5,7 @@ date: 2012-12-20 13:35:16
 category: tech
 published: true
 ---
+**Update:** I had emailed the support, and they told me this bug was fixed. Good job, Flexibits!
 
 This is my only complaint about Fantastical on iOS so far, [besides the notifications that would be nice to have](http://www.leancrew.com/all-this/2012/12/the-fantastical-experiment-is-over/).
 
