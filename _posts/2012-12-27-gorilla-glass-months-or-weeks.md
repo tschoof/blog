@@ -12,7 +12,9 @@ I just finished reading the Steve Jobs Biography by Walter Isaacson. Very intere
 There's one thing that struck me when I read the book: The Gorilla Glass story. I had read [this Ney York Times article](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?_r=3&amp;pagewanted=all&amp;) that was [linked by John Gruber](http://daringfireball.net/linked/2012/01/21/apple-china) almost a year ago. It clearly says that Apple switched from plastic to glass for the screen of the iPhone within weeks, and that it was manufactured in China. 
 
 > In 2007, a little over a month before the iPhone was scheduled to appear in stores [...]
+
 > “I won’t sell a product that gets scratched,” he said tensely. The only solution was using unscratchable glass instead. “I want a glass screen, and I want it perfect in six weeks.” [...]
+
 > After one executive left that meeting, he booked a flight to Shenzhen, China. If Mr. Jobs wanted perfect, there was nowhere else to go.
 
 That doesn't quite fit the corresponding chapter in Isaacson's book and [this wikipedia article](http://en.wikipedia.org/wiki/Gorilla_glass), that ironically lists the NYT piece as a source.  
