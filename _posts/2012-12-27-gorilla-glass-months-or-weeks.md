@@ -23,4 +23,5 @@ I was confused because I knew I had heard something conflicting to the info in I
 
 However, if there's more detailed info about this I'd be happy if you could point me to it. 
 
+### Clickwheel iPhone?
 Also about the Isaacson book and conflicting info: I thought I had heard that the clickwheel iPhone actually has never been a real option, but the stuff in the book about P1 (clickwheel) and P2 (multitouch) draws a different picture. I'd also be happy about info on that. 
