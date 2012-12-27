@@ -8,6 +8,7 @@ published: true
 
 I just finished reading the Steve Jobs Biography by Walter Isaacson. Very interesting and insightful. Especially for somebody like me, who grew up during the 90s and early 2000s, because I just wasn't born when the now somewhat mature tech industry was starting out.
 
+### Conflicting info
 There's one thing that struck me when I read the book: The Gorilla Glass story. I had read [this Ney York Times article](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?_r=3&amp;pagewanted=all&amp;) that was [linked by John Gruber](http://daringfireball.net/linked/2012/01/21/apple-china) almost a year ago. It clearly says that Apple switched from plastic to glass for the screen of the iPhone within weeks, and that it was manufactured in China. 
 
 > In 2007, a little over a month before the iPhone was scheduled to appear in stores [...]
