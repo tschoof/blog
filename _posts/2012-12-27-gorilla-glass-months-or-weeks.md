@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gorilla Glass: Months or Weeks?
+title: Gorilla Glass&#58; Months or Weeks?
 date: 2012-12-27 17:17:02
 category: tech
 published: true
