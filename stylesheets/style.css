@@ -73,7 +73,9 @@ table {
 			color: #282828;
 }
 		a:hover { 
-			opacity: 0.6;
+			opacity: 0.6; 
+			-webkit-transition: 0.07s linear; 
+			-moz-transition: 0.07s linear;
 }
 		a:visited { 
 			opacity: 0.6;
