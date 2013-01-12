@@ -89,7 +89,7 @@ a.header {
 /* word-wrap: break-word; */
 
 @media only screen and (max-width: 400px) {
-		body { font-size:90%;}
+		body { font-size:130%;}
 }
 @media only screen and (max-width: 800px) {
                 body { font-size:100%;}
