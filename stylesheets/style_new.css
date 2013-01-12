@@ -56,7 +56,7 @@ body {
 		margin: 0 auto; 
 		max-width: 870px;
 		font-size: 100%;
-        line-height: 1.6875;
+        line-height: 1.6875em;
 }
 .wrap {
 		width:93%;
@@ -79,9 +79,8 @@ a:hover {
 }
 
 h1.header {
-		font-size: 2.61em;
+		font-size: 3.0em;
 		font-weight: lighter;
-		line-height: 1.0;
 		line-height:1.2em;
 		margin: 1.0em 0;
 }
@@ -103,5 +102,5 @@ a.header {
 	}   
 }
 @media only screen and (max-width: 400px) {
-		body { font-size:120%;}
+		body { font-size:90%;}
 }
