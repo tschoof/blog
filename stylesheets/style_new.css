@@ -57,7 +57,7 @@ body {
 #header {
 }
 
-h1#header {
+h1.header {
 		font-size: 30px;
-		color:green;
+		color: green;
 }
