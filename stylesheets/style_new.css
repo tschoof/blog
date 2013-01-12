@@ -53,6 +53,7 @@ table {
 body {
 		max-width: 870px;
 		font-family: "Ubuntu", sans-serif;
+		float: center;
 }
 
 #header { 
