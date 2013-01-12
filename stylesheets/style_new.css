@@ -54,9 +54,11 @@ table {
 #wrapper {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
+		width: 93%;
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
+        padding: 2%;
 }
 p {
 		font-size: 1em;	
