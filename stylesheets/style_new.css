@@ -52,10 +52,11 @@ table {
 
 body {
 		font-family: "Ubuntu", sans-serif;
-		margin: 0 auto; 
+		text-align: center;
 }
 wrapper {
 		max-width: 870px;
+		text-align: left;
 		margin: 0 auto; 
 }
 a {
