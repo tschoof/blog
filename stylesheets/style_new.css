@@ -57,6 +57,7 @@ body {
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875em;
+        overflow: hidden; 
 }
 .wrap {
 		width:93%;
