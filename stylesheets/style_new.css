@@ -58,6 +58,7 @@ wrapper {
 		max-width: 870px;
 		text-align: left;
 		margin: 0 auto; 
+		text-decoration: underline 1px solid;
 }
 a {
 		text-decoration: underline 1px solid;
