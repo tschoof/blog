@@ -53,6 +53,13 @@ table {
 @media only screen and (max-width: 400px) {
 		body { font-size:90%;}
 }
+@media only screen and (max-width: 800px) {
+                body { font-size:100%;}
+    }  
+ 
+@media only screen and (max-width: 1100px) {
+                body { font-size:120%;}
+    }  
 body {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
