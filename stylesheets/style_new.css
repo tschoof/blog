@@ -57,6 +57,6 @@ body {
 #header {
 }
 
-.header h1 {
+h1#header {
 		font-size: 20px;
 }
