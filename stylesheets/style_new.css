@@ -57,7 +57,7 @@ body {
 }
 a {
 		text-decoration: underline 1px solid;
-		
+		color: black;
 }
 #header { 
 		margin-top: 20px;
