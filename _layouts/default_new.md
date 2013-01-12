@@ -1,7 +1,6 @@
-{% include head_new.md %}
+{% include head_new.html %}
 <body>
-<div id="body">
-<div class="wrap">    
+<div id="wrapper">  
 		<div id="header">
 			<h1 class="header"><a class="header" title="Home" href="/">blog.&#8203;timmschoof.&#8203;com</a></h1>
 		</div>

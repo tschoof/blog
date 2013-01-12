@@ -55,7 +55,6 @@ table {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
 		max-width: 870px;
-		width:93%;
 		font-size: 100%;
         line-height: 1.6875;
 }
@@ -70,7 +69,21 @@ a {
 a:hover { 
 		
 }
+#header { 
+		margin: 40px auto 50px auto;
+		text-align: center;
+}
 
+h1.header {
+		font-size: 3.0em;
+		font-weight: lighter;
+		line-height:1.2em;
+		margin: 1.0em 0;
+}
+a.header { 
+		text-decoration: none;
+		color: black;
+}
 
 
 /* word-wrap: break-word; */
