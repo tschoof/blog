@@ -53,3 +53,10 @@ table {
 body {
 		font-family: "Ubuntu", sans-serif;
 }
+
+#header {
+}
+
+.header h {
+		font-size: 20px;
+}
