@@ -50,9 +50,12 @@ table {
 	My Stuff 
 */
 
-body {
+wrapper {
 		max-width: 870px;
 		margin: 0 auto; 
+}
+body {
+		
 		font-family: "Ubuntu", sans-serif;
 }
 a {

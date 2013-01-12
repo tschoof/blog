@@ -1,5 +1,6 @@
 {% include header_new.md %}
 <body>
+<div id="wrapper">
 	<div id="body">
 		<div id="header">
 			<h1 class="header"><a class="header" title="Home" href="/">blog.timmschoof.com</a></h1>
@@ -21,7 +22,7 @@
 		<p><a class="footer" href="http://creativecommons.org/licenses/by-sa/3.0/">CC By-Sa</a>. <a class="footer" href="http://font.ubuntu.com/">Ubuntu Font Family</a>. Proudly generated using <a class="footer" href="http://jekyllrb.com/">Jekyll</a>. Currently coming to you from <span style="color:#0B610B">Dublin, Ireland</span>.</p>
 		</div>
 	</div>
-	
+</div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'blogtimmschoof'; // required: replace example with your forum shortname
