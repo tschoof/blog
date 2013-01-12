@@ -6,7 +6,6 @@
 		<div id="header">
 			<h1 class="header"><a class="header" title="Home" href="/">blog.timmschoof.com</a></h1>
 		</div>
-
 		<div id="nav">
 			<a class="nav" href="http://timmschoof.com">About</a><br>
 			<a class="nav" href="/contact/">Contact</a><br>
