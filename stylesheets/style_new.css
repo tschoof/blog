@@ -54,7 +54,7 @@ table {
 body {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
-/*		max-width: 870px;*/
+		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
 }
@@ -102,6 +102,6 @@ a.header {
 		body { font-size:100%;}
 	}   
 }
-@media only screen and (max-width: 700px) {
-		body { font-size:150%;}
+@media only screen and (max-width: 400px) {
+		body { font-size:120%;}
 }
