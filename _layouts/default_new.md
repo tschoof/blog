@@ -3,7 +3,7 @@
 
 <div id="body">
 		<div id="header">
-			<h1 class="header"><a class="header" title="Home" href="/">blog.timmschoof.com</a></h1>
+			<h1 class="header"><a class="header" title="Home" href="/">blog.&#8203;timmschoof.&#8203;com</a></h1>
 		</div>
 		
 			<a class="nav" href="http://timmschoof.com">About</a><br>
