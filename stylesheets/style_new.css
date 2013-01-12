@@ -60,17 +60,6 @@ table {
         line-height: 1.6875;
         padding: 2%;
 }
-p {
-		font-size: 1em;	
-		margin: 1.68em 0;
-}
-a {
-		text-decoration: underline 1px solid;
-		color: black;
-}
-a:hover { 
-		
-}
 #header { 
 		margin: 40px auto 50px auto;
 		text-align: center;
@@ -86,6 +75,21 @@ a.header {
 		text-decoration: none;
 		color: black;
 }
+#container {
+		width: 100%;
+}
+p {
+		font-size: 1em;	
+		margin: 1.68em 0;
+}
+a {
+		text-decoration: underline 1px solid;
+		color: black;
+}
+a:hover { 
+		
+}
+
 
 
 /* word-wrap: break-word; */
