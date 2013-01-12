@@ -55,7 +55,10 @@ body {
 		margin: 0 auto; 
 		font-family: "Ubuntu", sans-serif;
 }
-
+a {
+		text-decoration: underline 1px solid;
+		
+}
 #header { 
 		margin-top: 20px;
 		text-align: center;
