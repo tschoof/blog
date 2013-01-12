@@ -52,8 +52,8 @@ table {
 
 body {
 		max-width: 870px;
+		margin: 0 auto; 
 		font-family: "Ubuntu", sans-serif;
-		float: center;
 }
 
 #header { 
