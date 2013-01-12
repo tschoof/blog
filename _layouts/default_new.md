@@ -12,7 +12,8 @@
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a><br><br>
 			<a class="nav" href="/search/">Search</a>
-		
+			</body>
+<!--		
 		<div id="content">
 			<div id="article-container">
 			{{ content }}
@@ -37,3 +38,4 @@
     }());
 </script>
 </body>
+-->
