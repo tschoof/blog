@@ -1,6 +1,5 @@
-{% include header_new.md %}
+{% include head_new.md %}
 <body>
-
 <div id="body">
 <div class="wrap">    
 		<div id="header">

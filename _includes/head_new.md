@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>  
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:light,lightitalic,regular,italic,bold&v1' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
+	<title>{{ page.title }} | {{ site.title }}</title>
+	<meta name="author" content="Timm Schoof" />
+	<meta name="keywords" content="Timm, Schoof, Tech, Blog, Apple, Jekyll, Ubuntu, Linux, Movies, Films, Food, Creative Commons" />
+	{% if page.description %}
+	<meta name="description" content="{{page.description}}" />
+	{% else %}
+	<meta name="description" content="{{site.description}}" />
+	{% endif %}
+	<meta name="generator" content="jekyll" />
+	<meta http-equiv="content-language" content="en">
+	<meta name="robots" content="all">
+	<link rel="Shortcut Icon" type="image/x-icon" href="/images/fav.png" />
+	<link rel="stylesheet" media="screen" href="/stylesheets/style_new.css"/>
+</head>
