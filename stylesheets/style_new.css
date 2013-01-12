@@ -52,6 +52,7 @@ table {
 
 body {
 		font-family: "Ubuntu", sans-serif;
+		text-align:center;
 }
 wrapper {
 		max-width: 870px;
