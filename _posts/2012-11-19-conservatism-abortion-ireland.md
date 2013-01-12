@@ -20,7 +20,7 @@ This is tragic, and  also inhumane. The medically necessary abortion was refused
 The problem doesn't lie 'just' with the medical staff, it is the legislation. Under the Irish Constitution, it *is* legal to get an abortion, but *only* in cases in which the life of the mother is at risk. In relation to the X case the Supreme Court established a test to determine whether an abortion complies with the Irish Constitution or not. But a process allowing women to exercise that right has *not* been implemented. The X case was **1992**.  
 In the [ABC v Ireland case from 2010](https://en.wikipedia.org/wiki/A,_B_and_C_v_Ireland), that lack actually was acknowledged as a violation of the European Convention on Human Rights.
 <br>
-<iframe width="670" height="377" src="https://www.youtube-nocookie.com/embed/uUDnNpjbmqA?rel=0" frameborder="0" allowfullscreen></iframe>
+<p style="text-align: center;"> <iframe width="670" height="377" src="https://www.youtube-nocookie.com/embed/uUDnNpjbmqA?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 This documentary was made this year, but before Savita Halappanavar's case happened. Tragically, it names and addresses exactly the failure in legislation that led to her death. The Expert Panel's report it mentioned was handed to Health Minister James O’Reilly by November 13, as the HRW article says.  
 For Ireland and Irish women, a liberal society and so on I sincerely hope that the [current protests going on](http://www.universitytimes.ie/2012/11/16/live-march-for-savita/) put enough pressure on the Parliament to end what has to be the longest legislative failure in history.  
