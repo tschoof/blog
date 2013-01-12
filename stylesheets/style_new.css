@@ -59,8 +59,9 @@ body {
 		font-size: 100%;
         line-height: 1.6875;
 }
-wrap {
-		margin: 0 auto; 
+.wrap {
+		width:70%;
+		margin:0 auto;
 }
 p {
 		font-size: 1em;	
