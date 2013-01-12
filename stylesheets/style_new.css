@@ -50,19 +50,7 @@ table {
 	My Stuff 
 */
 
-@media only screen and (max-width: 400px) {
-		body { font-size:90%;}
-}
-@media only screen and (max-width: 800px) {
-                body { font-size:100%;}
-}   
-@media only screen and (max-width: 1100px) {
-                body { font-size:120%;}
-}  
-@media only screen and (min-width: 1100px) {
-                body { font-size:120%;}
-                .wrap {max-width:770px;}
-}
+
 body {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
@@ -97,3 +85,17 @@ a.header {
 
 
 /* word-wrap: break-word; */
+
+@media only screen and (max-width: 400px) {
+		body { font-size:90%;}
+}
+@media only screen and (max-width: 800px) {
+                body { font-size:100%;}
+}   
+@media only screen and (max-width: 1100px) {
+                body { font-size:120%;}
+}  
+@media only screen and (min-width: 1100px) {
+                body { font-size:120%;}
+                .wrap {max-width:770px;}
+}
