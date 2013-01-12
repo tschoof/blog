@@ -74,12 +74,10 @@ table {
 }
 		a:hover { 
 			opacity: 0.6; 
-			-webkit-transition: 0.07s linear; 
-			-moz-transition: 0.07s linear;
+			 -webkit-transition: 0.09s linear; 
+			-moz-transition: 0.09s linear; 
 }
-		a:visited { 
-			opacity: 0.6;
-}
+		
 		p {
 			margin-top: 16px;
 			margin-bottom: 6px;
@@ -135,7 +133,15 @@ table {
 			font-weight: normal;
 			font-size: 18px;
 			line-height: 1.8;
-			margin-top: 10px;
+			margin-top: 12px;
+			margin-bottom: -11px;
+}
+
+.content h3 {
+			font-weight: normal;
+			font-size: 23px;
+			line-height: 1.8;
+			margin-top: 12px;
 			margin-bottom: -11px;
 }
 		.title, .title a { 	
