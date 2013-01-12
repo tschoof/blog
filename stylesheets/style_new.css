@@ -59,7 +59,9 @@ body {
 		font-size: 100%;
         line-height: 1.6875;
 }
-
+p {
+		font-size: 1em;	
+}
 a {
 		text-decoration: underline 1px solid;
 		color: black;
