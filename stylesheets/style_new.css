@@ -53,10 +53,7 @@ table {
 body {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
-		max-width: 870px;
-}
-wrapper {
-		color: green;
+		max-width: 850px;
 }
 a {
 		text-decoration: underline 1px solid;
