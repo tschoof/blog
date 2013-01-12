@@ -1,8 +1,8 @@
-{% include header.md %}
+{% include header_new.md %}
 <body>
 	<div id="body">
 		<div id="header">
-			<a href="/" title="Home"> <img src="/images/header.png" alt="header.svg" width="283" height="137" type="image" ></a>
+			<h><a href="/">blog.timmschoof.com</a></h>
 			
 		</div>
 
