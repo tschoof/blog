@@ -2,8 +2,7 @@
 <body>
 	<div id="body">
 		<div id="header">
-			<h1><a href="/">blog.timmschoof.com</a></h1>
-			
+			<h1 class="header"><a href="/">blog.timmschoof.com</a></h1>
 		</div>
 
 		<div id="nav">
