@@ -64,6 +64,11 @@ a {
 		text-decoration: underline 1px solid;
 		color: black;
 }
+a:hover { 
+			opacity: 0.6; 
+			 -webkit-transition: 0.09s linear; 
+			-moz-transition: 0.09s linear; 
+}
 #header { 
 		margin: 40px auto 50px auto;
 		text-align: center;
