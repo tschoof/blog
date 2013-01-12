@@ -65,11 +65,12 @@ a {
 		color: black;
 }
 a:hover { 
+			font-family: "Ubuntu", sans-serif;
 			text-decoration: underline 1px solid;
 			color: black;
 			opacity: 0.6; 
-			 -webkit-transition: 0.09s linear; 
-			-moz-transition: 0.09s linear; 
+		/*	 -webkit-transition: 0.09s linear; 
+			-moz-transition: 0.09s linear; */
 }
 #header { 
 		margin: 40px auto 50px auto;
