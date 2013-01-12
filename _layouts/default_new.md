@@ -1,7 +1,8 @@
 {% include header_new.md %}
 <body>
-<div id="wrapper">
-	<div id="body">
+
+<div id="body">
+	<div id="wrapper">
 		<div id="header">
 			<h1 class="header"><a class="header" title="Home" href="/">blog.timmschoof.com</a></h1>
 		</div>
