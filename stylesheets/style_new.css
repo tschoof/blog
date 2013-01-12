@@ -77,6 +77,7 @@ a:hover {
 h1.header {
 		font-size: 55px;
 		font-weight: lighter;
+		line-height: 1.0;
 }
 a.header { 
 		text-decoration: none;
