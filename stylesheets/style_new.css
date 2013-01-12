@@ -56,7 +56,7 @@ body {
 		margin: 0 auto; 
 		max-width: 870px;
 		font-size: 100%;
-        line-height: 1.6875em;
+        line-height: 1.6875;
 }
 .wrap {
 		width:93%;
@@ -102,5 +102,5 @@ a.header {
 	}   
 }
 @media only screen and (max-width: 400px) {
-		body { font-size:90%;}
+		body { font-size:30px;}
 }
