@@ -56,15 +56,12 @@ table {
 body {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
-		max-width: 870px;
-		min-width: 300px;
+/*		max-width: 870px;*/
 		padding: 7%;
 		font-size: 100%;
         line-height: 1.6875;
 }
-p,li {
-		max-width: 800px;
-}
+
 a {
 		text-decoration: underline 1px solid;
 		color: black;
