@@ -65,9 +65,7 @@ a {
 		color: black;
 }
 a:hover { 
-			opacity: 0.6; 
-	 -webkit-transition: 0.09s ; 
-			-moz-transition: 0.09s linear;
+		text-decoration: underline 2px solid;
 }
 #header { 
 		margin: 40px auto 50px auto;
