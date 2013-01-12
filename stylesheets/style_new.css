@@ -51,7 +51,7 @@ table {
 */
 
 body {
-		width: 870px;
+		max-width: 870px;
 		font-family: "Ubuntu", sans-serif;
 }
 
