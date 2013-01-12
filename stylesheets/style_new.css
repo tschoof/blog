@@ -65,6 +65,8 @@ a {
 		color: black;
 }
 a:hover { 
+			text-decoration: underline 1px solid;
+			color: black;
 			opacity: 0.6; 
 			 -webkit-transition: 0.09s linear; 
 			-moz-transition: 0.09s linear; 
