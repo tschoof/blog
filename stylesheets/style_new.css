@@ -51,13 +51,19 @@ table {
 */
 
 body {
+		width: 870px;
 		font-family: "Ubuntu", sans-serif;
 }
 
-#header {
+#header { 
+		margin-top: 20px;
 }
 
 h1.header {
 		font-size: 30px;
-		color: green;
 }
+a.header { 
+}
+
+
+/* word-wrap: break-word; */
