@@ -6,13 +6,13 @@
 		<div id="header">
 			<h1 class="header"><a class="header" title="Home" href="/">blog.timmschoof.com</a></h1>
 		</div>
-		<div id="nav">
+		
 			<a class="nav" href="http://timmschoof.com">About</a><br>
 			<a class="nav" href="/contact/">Contact</a><br>
 			<a class="nav" href="/archives/">Archives</a><br>
 			<a class="nav" href="http://feeds.feedburner.com/timmschoof">Subscribe</a><br><br>
 			<a class="nav" href="/search/">Search</a>
-		</div>
+		
 		<div id="content">
 			<div id="article-container">
 			{{ content }}
