@@ -50,6 +50,9 @@ table {
 	My Stuff 
 */
 
+@media only screen and (max-width: 400px) {
+		body { font-size:90%;}
+}
 body {
 		font-family: "Ubuntu", sans-serif;
 		margin: 0 auto; 
@@ -75,7 +78,7 @@ a:hover {
 }
 
 h1.header {
-		font-size: 55px;
+		font-size: 2.61em;
 		font-weight: lighter;
 		line-height: 1.0;
 }
