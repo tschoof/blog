@@ -12,9 +12,7 @@
 			<a class="nav" href="/search/">Search</a>
 
 		<div id="content">
-			<div id="article-container">
 			{{ content }}
-			</div>
 		</div>
 		<div id="footer">
 		<p><a class="footer" href="http://creativecommons.org/licenses/by-sa/3.0/">CC By-Sa</a>. <a class="footer" href="http://font.ubuntu.com/">Ubuntu Font Family</a>. Proudly generated using <a class="footer" href="http://jekyllrb.com/">Jekyll</a>. Currently coming to you from <span style="color:#0B610B">Dublin, Ireland</span>.</p>
