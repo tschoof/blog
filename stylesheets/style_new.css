@@ -57,8 +57,8 @@ body {
 		min-width: 300px;
 		padding: 7%;
 }
-p {
-		max-width: 700px;
+p,li {
+		max-width: 800px;
 }
 a {
 		text-decoration: underline 1px solid;
