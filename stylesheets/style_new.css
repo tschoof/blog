@@ -56,14 +56,20 @@ body {
 		font-weight: 300; 
 		background-color: #FFFFFF;
 }
-
-#wrapper {
-		margin: 0 auto; 
-		width: 93%;
-		max-width: 870px;
-		font-size: 100%;
-        line-height: 1.6875;
-        padding: 2%;
+p {
+		font-size: 1em;	
+		margin: 1.68em 0;
+}
+a {
+		color: #006699;
+		text-decoration: none;
+}
+a:hover { 
+		color: #66FF33;
+}
+h1 {
+}
+h2 {
 }
 #header { 
 		margin: 2em auto 2.2em auto;
@@ -83,19 +89,16 @@ a.header {
 		text-decoration: none;
 		color: white;
 }
+#wrapper {
+		margin: 0 auto; 
+		width: 93%;
+		max-width: 870px;
+		font-size: 100%;
+        line-height: 1.6875;
+        padding: 2%;
+}
 #content {
 		width: 100%;
-}
-p {
-		font-size: 1em;	
-		margin: 1.68em 0;
-}
-#content a {
-		color: #006699;
-		text-decoration: none;
-}
-#content a:hover { 
-		color: #66FF33;
 }
 #picture img {
 width: 100%;
