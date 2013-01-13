@@ -89,7 +89,7 @@ h1.header {
 		font-size: 3.0em;
 		font-weight: 300;
 		line-height:1.1em;
-		margin: 0.5em 0.5em;
+		margin: 0.5em 0;
 }
 a.header { 
 		text-decoration: none;
