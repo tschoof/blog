@@ -106,15 +106,15 @@ div#header a {
         padding: 0 5%;
 }
 #navigation {
+		margin: 0 auto;
 		clear:both;
 }
 div#navigation ul {
-		margin: 0 auto;
 		padding:0;
 		list-style:none;
 }
 div#navigation li{
-	width:6em;
+	width:5em;
 	display:inline-block;
 	text-align:center;
 }
