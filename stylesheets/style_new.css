@@ -70,6 +70,7 @@ body {
 		max-width: 100%;
 		padding: 1.0em 0.7em;
 		/* background-color: rgba(1,120,144,1.0); */
+		border-top: 0.5em solid rgba(1,120,144,1.0);
 		border-bottom: 0.5em solid rgba(1,120,144,1.0);
 }
 h1.header {
@@ -79,7 +80,7 @@ h1.header {
 }
 a.header { 
 		text-decoration: none;
-		color: white;
+		color: black;
 }
 #content {
 		width: 100%;
