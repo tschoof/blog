@@ -106,8 +106,17 @@ a.header {
         padding: 0 5%;
 }
 #navigation {
+		clear:both;
 }
-.navigation {
+div#navigation ul {
+		margin:0;
+		padding:0;
+		list-style:none;
+}
+div#navigation li{
+	width:155px;
+	display:inline-block;
+	text-align:center;
 }
 #content {
 		width: 100%;
