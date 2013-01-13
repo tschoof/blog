@@ -212,7 +212,7 @@ video {
 	height: 100%;
 }
 div#footer {
-		border-top: 5px solid black;
+		border-top: 0.25em solid black;
 		background-color: #D8D8D8;
 		position:relative;
    		bottom:0;
