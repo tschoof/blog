@@ -219,7 +219,7 @@ video {
    		width:100%;
    		height:100%;
    		text-align: center;
-   		padding-top: 0.2em;
+   		padding: 0.2em 0.1em;
    		line-height:1.0em;
 }
 @media only screen and (min-width: 68.75em) { /* ????px */
