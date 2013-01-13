@@ -245,7 +245,7 @@ div#footer p {
 		font-size: 1.0em;
 }
 		div#navigation li {
-		padding:0 3%;
+		padding: 0 2.5%;
 }
 }
 @media only screen and (max-width: 50em) { /* 800px */
