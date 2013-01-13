@@ -67,8 +67,7 @@ body {
 #header { 
 		margin: 2em auto 2.2em auto;
 		text-align: center;
-		border-bottom: 5px;
-		border-color: #017890;
+		background-color: #017890;
 }
 h1.header {
 		font-size: 3.0em;
@@ -97,7 +96,6 @@ p {
 width: 100%;
 }
 #footer {
-		width: 100%;
 		background-color: #424242;
 		color: #E6E6E6;
 		position:relative;
