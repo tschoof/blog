@@ -3,7 +3,7 @@ layout: default_new
 title: Home
 ---
 <div id="content">
-{% for post in site.posts limit: 3 %}
+{% for post in site.posts limit: 8 %}
 <h1 class="title"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
 <p class="post-date">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }} | <a href="{{ post.url }}/#disqus_thread">comments coming soon</a></p>
 {{ post.content }}
