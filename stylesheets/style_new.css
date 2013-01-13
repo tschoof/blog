@@ -100,10 +100,10 @@ width: 100%;
 		position:relative;
    		bottom:0;
    		width:100%;
-   		height:auto;
+   		height:100%;
+   		text-align: center;
 }
 p.footer {
-		margin-bottom: -1px;
 }
 
 @media only screen and (min-width: 1100px) {
