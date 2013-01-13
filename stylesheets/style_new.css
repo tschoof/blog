@@ -117,6 +117,7 @@ a.title {
 }
 a:hover.title {
 		color: #66CC00;
+		text-decoration: underline 1px solid black;
 }
 p.post-date {
 		margin: 0.3em 0;
