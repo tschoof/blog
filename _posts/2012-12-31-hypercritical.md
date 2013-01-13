@@ -6,7 +6,7 @@ category: tech
 published: true
 ---
 
-So, that's it. "[Hypercritical](http://5by5.tv/hypercritical)", one of my favourite podcasts, has had its run. Thanks a million to [John Siracusa](https://alpha.app.net/siracusa). And [Dan Benjamin](https://alpha.app.net/dan) for making John do the show in the first place.
+So, that's it. ‘[Hypercritical](http://5by5.tv/hypercritical)’, one of my favourite podcasts, has had its run. Thanks a million to [John Siracusa](https://alpha.app.net/siracusa). And [Dan Benjamin](https://alpha.app.net/dan) for making John do the show in the first place.
 
 In almost 100 episodes of awesomeness and epic rants, John Siracusa, the last real nerd out there, provided much insight on many, many topics around technology. I learned a ton about SSDs, programming languages, CPUs, the early days of Apple and much more. I had no idea of programming and many other topics, but through John's ability to explain stuff on an abstract level even enjoyed the very, very technical episodes. Just great.
 
