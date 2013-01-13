@@ -220,10 +220,9 @@ div#footer {
    		text-align: center;
 }
 div#footer p {
-		vertical-align: center; 
 		line-height: 1.3em;
 		color: #FF6600;
-		padding: 0.5em 0.3em;
+		padding: 0.5em 0.3em 0 0.3em;
 }
 @media only screen and (min-width: 68.75em) { /* ????px */
 		body { font-size:115%;} 
