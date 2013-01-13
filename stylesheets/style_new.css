@@ -111,6 +111,9 @@ a.header {
 a.title {
 		color: black;
 }
+p.post-date {
+		margin: 0.5em 0;
+}
 #picture img {
 width: 100%;
 }
