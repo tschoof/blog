@@ -106,7 +106,9 @@ a.header {
         padding: 0 5%;
 }
 #navigation {
-		display:inline;
+}
+.navigation {
+		display: inline;
 }
 #content {
 		width: 100%;
