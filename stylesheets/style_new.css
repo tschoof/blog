@@ -117,7 +117,7 @@ div#navigation ul {
 div#navigation li{
 	width:auto;
 	display:inline-block;
-	padding:0 1em;
+	padding:0 0.8em;
 }
 #content {
 		width: 100%;
