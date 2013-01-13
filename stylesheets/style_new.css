@@ -109,6 +109,7 @@ div#header a {
 		margin: 0 auto;
 }
 div#navigation ul {
+		float: center;
 		padding:0;
 		list-style:none;
 }
