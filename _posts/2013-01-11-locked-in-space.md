@@ -9,6 +9,6 @@ published: true
 I just found this, browsing my YouTube Favs. Amazing.<br>
 <div class="video-wrapper">
 <div class="video-container-16-9">
-<iframe width="1280" height="720" src="http://www.youtube.com/embed/Ws6AAhTw7RA"></iframe>
+<iframe  src="http://www.youtube.com/embed/Ws6AAhTw7RA"></iframe>
 </div>
 </div>
