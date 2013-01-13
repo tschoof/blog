@@ -217,6 +217,10 @@ video {
    		height:100%;
    		text-align: center;
 }
+@media only screen and (min-width: 64.00em) { /* ????px */
+		body { font-size:150%;} 
+}  	       
+
 @media only screen and (max-width: 25em) { /* 400px */
 		body { font-size:90%;}
 		div#header { 
@@ -234,8 +238,5 @@ video {
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
 }   
-@media only screen and (min-width: 64.00em) { /* ????px */
-		body { font-size:150%;} 
-}  	       
 
 /* word-wrap: break-word; */
