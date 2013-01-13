@@ -108,7 +108,7 @@ div#header a {
 #navigation {
 		width: 100%;
 }
-div#navigation ul a {
+div#navigation ul, a {
 		font-size: 1.2em;
 		color: #FF6600;
 		text-align:center;
