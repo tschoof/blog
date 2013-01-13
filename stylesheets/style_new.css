@@ -84,11 +84,11 @@ p {
 		font-size: 1em;	
 		margin: 1.68em 0;
 }
-a {
+#container a {
 		color: #017890;
 		text-decoration: none;
 }
-a:hover { 
+#container a:hover { 
 		color: #E95D22;
 }
 #picture img {
