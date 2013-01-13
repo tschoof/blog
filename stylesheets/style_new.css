@@ -103,7 +103,7 @@ width: 100%;
    		height:auto;
 }
 p.footer {
-
+		vertical-align: bottom; 
 }
 
 @media only screen and (min-width: 1100px) {
