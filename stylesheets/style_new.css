@@ -220,6 +220,7 @@ video {
    		height:100%;
    		text-align: center;
    		padding-top: 0.2em;
+   		line-height:1.0em;
 }
 @media only screen and (min-width: 68.75em) { /* ????px */
 		body { font-size:115%;} 
