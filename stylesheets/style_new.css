@@ -100,7 +100,7 @@ a.header {
 }
 #wrapper {
 		margin: 0 auto; 
-		max-width: 870px;
+	/*	max-width: 870px; */
 		font-size: 100%;
         line-height: 1.6875;
         padding: 0 5%;
@@ -126,6 +126,27 @@ img {
 video {
 		max-width: 100%;
 		height: auto;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.videoWrapper object,
+.videoWrapper embed,  {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 /* .video-container-16-9 {
     position: relative;
