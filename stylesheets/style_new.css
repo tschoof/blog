@@ -111,6 +111,9 @@ a.header {
 a.title {
 		color: black;
 }
+a:hover.title {
+		color: #66CC00;
+}
 p.post-date {
 		margin: 0.5em 0;
 }
