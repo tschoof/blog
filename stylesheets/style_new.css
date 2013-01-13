@@ -109,9 +109,10 @@ a.header {
 		width: 100%;
 }
 h1.title {
-		text-decoration: underline 1px solid black;
+		
 }
 a.title {
+		text-decoration: underline 1px solid black;
 		color: black;
 }
 a:hover.title {
