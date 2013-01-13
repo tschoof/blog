@@ -75,6 +75,10 @@ h1 {
 		margin-top: 0.8571em; /* 24px */
 }
 h2 {
+		font-weight: 400;
+		font-size: 1.5em; /* 24px */
+		line-height: 1.16; /* 28px */
+		margin-top: 0.9166em; /* 22px */
 }
 #header { 
 		margin: 2em auto 2.2em auto;
@@ -87,7 +91,7 @@ h2 {
 }
 h1.header {
 		font-size: 3.0em;
-		font-weight: 400;
+		font-weight: 300;
 		line-height:1.1em;
 		margin: 0.5em 0;
 }
