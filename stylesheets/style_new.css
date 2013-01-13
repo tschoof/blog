@@ -226,7 +226,7 @@ div#footer p {
 		padding: 0.5em 0.3em;
 		margin: 0;
 }
-@media only screen and (min-width: 68.75em) { /* ????px */
+@media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:115%;} 
 }  	       
 
