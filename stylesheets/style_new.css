@@ -55,6 +55,7 @@ body {
 		font-family: 'Ubuntu', sans-serif;
 		font-weight: 300; 
 		background-color: #FFFFFF;
+		padding 1em 20%; /* temp */
 }
 p {
 		font-size: 1em;	
@@ -67,7 +68,11 @@ a {
 a:hover { 
 		color: #66CC00;
 }
-h1 {
+h1 {	
+		font-weight: 400;
+		font-size: 1.75em; /* 28px */
+		line-height: 1.1428; /* 32px */
+		margin-top: 0.8571em; /* 24px */
 }
 h2 {
 }
