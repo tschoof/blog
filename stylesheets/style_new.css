@@ -109,11 +109,12 @@ div#header a {
 		clear:both;
 }
 div#navigation ul {
+		margin: 0 auto;
 		padding:0;
 		list-style:none;
 }
 div#navigation li{
-	width:3em;
+	width:6em;
 	display:inline-block;
 	text-align:center;
 }
