@@ -90,8 +90,8 @@ a:hover {
 width: 100%;
 }
 @media only screen and (min-width: 1100px) {
-		body { font-size:120%;}
-		.wrap {max-width:770px;}
+		body { font-size:115%;}
+		.wrap {max-width:800px;}
 }  	       
 @media only screen and (max-width: 800px) {
 		body { font-size:100%;}
