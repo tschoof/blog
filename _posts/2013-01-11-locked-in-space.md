@@ -6,9 +6,4 @@ category: tech
 published: true
 ---
 
-I just found this, browsing my YouTube Favs. Amazing.<br>
-<div class="video-wrapper">
-<div class="video-container-16-9">
-<iframe src="http://player.vimeo.com/video/6284199?title=0&byline=0&portrait=0"  frameborder="0"></iframe>
-</div>
-</div>
+I just found [this, browsing my YouTube Favs](https://www.youtube.com/watch?feature=player_embedded&amp;v=Ws6AAhTw7RA). Amazing.
