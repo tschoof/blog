@@ -112,12 +112,12 @@ h1.title {
 		
 }
 a.title {
-		text-decoration: underline 1px solid black;
+		text-decoration: underline;
 		color: black;
 }
 a:hover.title {
 		color: #66CC00;
-		text-decoration: underline 1px solid black;
+		text-decoration: underline;
 }
 p.post-date {
 		margin: 0.3em 0;
