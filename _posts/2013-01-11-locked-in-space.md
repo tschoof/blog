@@ -6,9 +6,9 @@ category: tech
 published: true
 ---
 
-I just found [this, browsing my YouTube Favs](https://www.youtube.com/watch?feature=player_embedded&amp;v=Ws6AAhTw7RA). Amazing.
-
-<div class="videoWrapper">
+I just found this, browsing my YouTube Favs. Amazing.
+<br>
+<div class="videoWrapper-16-9">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="http://www.youtube.com/embed/Ws6AAhTw7RA?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
