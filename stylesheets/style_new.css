@@ -106,7 +106,7 @@ div#header a {
         padding: 0 5%;
 }
 #navigation {
-		width:100%;
+		margin: 0 auto;
 }
 div#navigation ul {
 		padding:0;
@@ -114,7 +114,7 @@ div#navigation ul {
 }
 div#navigation li{
 	width:auto;
-	display:inline-block;
+	display:inline;
 	text-align:center;
 }
 #content {
