@@ -108,7 +108,7 @@ div#header a {
 #navigation {
 		width: 100%;
 }
-div#navigation ul, a {
+div#navigation ul, div#navigation a {
 		font-size: 1.2em;
 		color: #FF6600;
 		text-align:center;
@@ -227,8 +227,8 @@ video {
 		line-height:1.0em;
 		margin: 0.5em 0;
 }
-		div#navigation ul, a {
-		font-size: 1.2em;
+		div#navigation ul, div#navigation a {
+		font-size: 1.0em;
 }
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
