@@ -160,6 +160,36 @@ video {
 	width: 100%;
 	height: 100%;
 }
+.videoWrapper-16-10 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.videoWrapper-16-10 object,
+.videoWrapper-16-10 embed,  {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.videoWrapper-4-3 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.videoWrapper-4-3 object,
+.videoWrapper-4-3 embed,  {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
 #footer {
 		background-color: #424242;
 		color: #E6E6E6;
