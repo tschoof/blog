@@ -8,7 +8,7 @@ published: true
 
 I just finished reading the Steve Jobs Biography by Walter Isaacson. Very interesting and insightful. Especially for somebody like me, who grew up during the 90s and early 2000s, because I just wasn't born when the now somewhat mature tech industry was starting out.
 
-### Conflicting info
+## Conflicting info
 There's one thing that struck me when I read the book: The Gorilla Glass story. I had read [this Ney York Times article](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?_r=3&amp;pagewanted=all&amp;) that was [linked by John Gruber](http://daringfireball.net/linked/2012/01/21/apple-china) almost a year ago. It clearly says that Apple switched from plastic to glass for the screen of the iPhone within weeks, and that it was manufactured in China. 
 
 > In 2007, a little over a month before the iPhone was scheduled to appear in stores [...]
@@ -26,5 +26,5 @@ I was confused because I knew I had heard something conflicting to the info in I
 
 However, if there's more detailed info about this I'd be happy if you could point me to it. 
 
-### Clickwheel iPhone?
+## Clickwheel iPhone?
 Also about the Isaacson book and conflicting info: I thought I had heard that the clickwheel iPhone actually has never been a real option, but the stuff in the book about P1 (clickwheel) and P2 (multitouch) draws a different picture. I'd also be happy about info on that. 
