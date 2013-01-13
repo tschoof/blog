@@ -59,6 +59,7 @@ table {
 		font-size: 100%;
         line-height: 1.6875;
         padding: 2%;
+        padding-bottom:30px;
 }
 #header { 
 		margin: 2em auto 2.2em auto;
