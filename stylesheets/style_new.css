@@ -67,7 +67,7 @@ body {
 #header { 
 		margin: 2em auto 2.2em auto;
 		text-align: center;
-		border: 0.2em 0;
+		border-width: 0.2em 0;
 		border-color: #017890;
 }
 h1.header {
