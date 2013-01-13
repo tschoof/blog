@@ -67,7 +67,9 @@ body {
 #header { 
 		margin: 2em auto 2.2em auto;
 		text-align: center;
-		background-color: #017890;
+		width: 100%;
+		padding: 0.2em auto;
+		background-color: #E95D22;
 }
 h1.header {
 		font-size: 3.0em;
