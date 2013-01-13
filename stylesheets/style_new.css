@@ -79,6 +79,10 @@ a.header {
 p {
 		font-size: 1em;	
 		margin: 1.68em 0;
+		-webkit-margin-before: 0em;
+		-webkit-margin-after: 0em;
+		-webkit-margin-start: 0px;
+		-webkit-margin-end: 0px;
 }
 a {
 		text-decoration: underline 1px solid;
