@@ -64,7 +64,9 @@ a {
 		color: #006699;
 		text-decoration: none;
 }
-
+a:hover {
+		color: #66CC00;
+}
 h1 {	
 		font-weight: 400;
 		font-size: 1.75em; /* 28px */
