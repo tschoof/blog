@@ -61,13 +61,13 @@ table {
         padding: 2%;
 }
 #header { 
-		margin: 2em auto 2em auto;
+		margin: 2em auto 2.2em auto;
 		text-align: center;
 }
 h1.header {
 		font-size: 3.0em;
 		font-weight: lighter;
-		line-height:1.0em;
+		line-height:1.1em;
 }
 a.header { 
 		text-decoration: none;
