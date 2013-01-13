@@ -7,4 +7,6 @@ published: true
 ---
 
 I just found this, browsing my YouTube Favs. Amazing.<br>
-<p style="text-align: center;"> <iframe max-width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/Ws6AAhTw7RA?rel=0" frameborder="0" allowfullscreen></iframe><p>
+<div class="media-object-wrapper">
+<iframe class="media-object" src="http://www.youtube.com/embed/Ws6AAhTw7RA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>

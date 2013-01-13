@@ -112,18 +112,42 @@ h1.title {
 		
 }
 a.title {
-		text-decoration: underline;
 		color: black;
 }
 a:hover.title {
 		color: #66CC00;
-		text-decoration: underline;
 }
 p.post-date {
 		margin: 0.3em 0;
 }
-#picture img {
-width: 100%;
+img {
+		max-width: 100%;
+}
+video {
+		max-width: 100%;
+}
+.media-object-wrapper-16-9 {
+    padding-bottom: 56.25%; /* 16:9 */
+    width: 100%;
+    height: 0;
+    position: relative;
+}
+.media-object-wrapper-16-10 {
+    padding-bottom: 62.5%; /* 16:10 */
+    width: 100%;
+    height: 0;
+    position: relative;
+}
+.media-object-wrapper-4-3 {
+    padding-bottom: 75.0%; /* 4:3 */
+    width: 100%;
+    height: 0;
+    position: relative;
+}
+.media-object-wrapper iframe.media-object {
+    width: 100%;
+    height: 100%;
+    position: absolute;
 }
 #footer {
 		background-color: #424242;
@@ -134,8 +158,6 @@ width: 100%;
    		height:100%;
    		text-align: center;
 }
-
-
 @media only screen and (min-width: 1100px) {
 		body { font-size:115%;}
 }  	       
