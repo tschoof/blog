@@ -70,6 +70,7 @@ body {
 		max-width: 100%;
 		padding: 1.0em 0.7em;
 		background-color: rgba(1,120,144,1.0);
+		border-bottom: 1px solid black;
 }
 h1.header {
 		font-size: 3.0em;
