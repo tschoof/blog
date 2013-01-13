@@ -100,7 +100,6 @@ a.header {
 }
 #wrapper {
 		margin: 0 auto; 
-		
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
@@ -108,6 +107,9 @@ a.header {
 }
 #content {
 		width: 100%;
+}
+a.title {
+		color: black;
 }
 #picture img {
 width: 100%;
