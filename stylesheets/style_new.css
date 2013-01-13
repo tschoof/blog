@@ -52,12 +52,11 @@ table {
 */
 
 body {
-		font-family: "Ubuntu", sans-serif;
+		font-family: 'Ubuntu', sans-serif;
 		font-weight: 300; 
 }
 
 #wrapper {
-		
 		margin: 0 auto; 
 		width: 93%;
 		max-width: 870px;
@@ -86,10 +85,10 @@ p {
 		margin: 1.68em 0;
 }
 a {
-		text-decoration: underline 1px solid;
-		color: black;
+		color: #613D2D;
 }
 a:hover { 
+		color: #E95D22;
 }
 #picture img {
 width: 100%;
