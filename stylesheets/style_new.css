@@ -227,6 +227,8 @@ video {
 		line-height:1.0em;
 		margin: 0.5em 0;
 }
+		div#navigation ul, a {
+		font-size: 0.8em;
 }
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
