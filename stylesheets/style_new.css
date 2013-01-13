@@ -235,8 +235,12 @@ video {
 		div#navigation ul, div#navigation a {
 		font-size: 1.0em;
 }
+}
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
+		div#navigation li {
+		padding:0 3%;
+}
 }   
 
 /* word-wrap: break-word; */
