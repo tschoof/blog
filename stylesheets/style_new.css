@@ -217,8 +217,8 @@ video {
    		height:100%;
    		text-align: center;
 }
-@media only screen and (min-width: 64.00em) { /* ????px */
-		body { font-size:150%;} 
+@media only screen and (min-width: 68.75em) { /* ????px */
+		body { font-size:115%;} 
 }  	       
 
 @media only screen and (max-width: 25em) { /* 400px */
