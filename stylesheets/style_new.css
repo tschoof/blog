@@ -155,6 +155,7 @@ video {
 	height: 100%;
 }
 .video-wrapper {
+	width: 600px;
 	max-width: 100%;
 }
 #footer {
