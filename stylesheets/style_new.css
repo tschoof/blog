@@ -114,8 +114,8 @@ div#navigation ul {
 		list-style:none;
 }
 div#navigation li{
-	width:5em;
-	display:inline-block;
+	width:auto;
+	display:inline;
 	text-align:center;
 }
 #content {
