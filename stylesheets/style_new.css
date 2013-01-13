@@ -107,6 +107,7 @@ div#header a {
 }
 #navigation {
 		margin: 0 auto;
+		width:auto;
 		clear:both;
 }
 div#navigation ul {
