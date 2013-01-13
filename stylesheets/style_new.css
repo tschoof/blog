@@ -77,18 +77,18 @@ a.header {
 		text-decoration: none;
 		color: black;
 }
-#container {
+#content {
 		width: 100%;
 }
 p {
 		font-size: 1em;	
 		margin: 1.68em 0;
 }
-#container a {
+#content a {
 		color: #017890;
 		text-decoration: none;
 }
-#container a:hover { 
+#content a:hover { 
 		color: #E95D22;
 }
 #picture img {
