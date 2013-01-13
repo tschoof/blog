@@ -99,7 +99,8 @@ a.header {
 		color: white;
 }
 #wrapper {
-		width: 100%;
+		margin: 0 auto; 
+		
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
