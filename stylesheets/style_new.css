@@ -108,14 +108,13 @@ div#header a {
 #navigation {
 }
 div#navigation ul {
-		float: center;
+		text-align:center;
 		padding:0;
 		list-style:none;
 }
 div#navigation li{
 	width:auto;
 	display:inline;
-	text-align:center;
 }
 #content {
 		width: 100%;
