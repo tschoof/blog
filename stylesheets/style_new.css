@@ -59,7 +59,7 @@ body {
 }
 p {
 		font-size: 1em;	
-		margin: 1.4em 0;
+		margin: 1.1em 0;
 }
 a {
 		color: #006699;
@@ -78,7 +78,7 @@ h2 {
 		font-weight: 400;
 		font-size: 1.5em; /* 24px */
 		line-height: 1.16; /* 28px */
-		margin-top: 0.9166em; /* 22px */
+		margin-top: 1.4em; 
 }
 #header { 
 		margin: 2em auto 0.8em auto;
