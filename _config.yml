@@ -7,6 +7,3 @@ author: Timm Schoof
 permalink: /:year/:month/:day/:title
 description: "This is Timm Schoof's personal blog. It's covering tech, films, and general thoughts."
 paginate: 5
-pygments: true
-lsi: true
-production: false
