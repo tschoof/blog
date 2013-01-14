@@ -7,9 +7,7 @@ title: Home
 
    <!-- here add you post markup -->
    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-   <p class="author">
-    <span class="date">{{post.date}}</span>
-  </p>
+    <span class="post-meta">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }}</span>
   <div class="content">
     {{ post.content }}
   </div>
