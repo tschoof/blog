@@ -88,7 +88,7 @@ blockquote {
 }
 code {
 		font-family:"Courier New", Courier, monospace;
-		margin: 1em 1.5em 1em 2em;
+		margin: 1em 1.5em 0.5em 2em;
 		padding: 0.3em 0.3em;
 		background-color: #F2F2F2;
 }
