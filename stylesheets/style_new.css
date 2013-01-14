@@ -258,9 +258,9 @@ video {
 }
 div#footer {
 		position:relative;
-		margin: 6em auto;
+		margin: 6em auto 4em auto;
    		bottom:0;
-   		width:50%;
+   		width:90%;
    		height:100%;
    		text-align: center;
 }
