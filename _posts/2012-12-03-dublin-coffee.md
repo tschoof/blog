@@ -2,7 +2,7 @@
 layout: post
 title: Dublin Coffee
 date: 2012-12-03 10:28:10
-category: life
+category: dublin
 published: true
 ---
 
