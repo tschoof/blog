@@ -90,8 +90,6 @@ code {
 		font-family:"Courier New", Courier, monospace;
 		font-size: smaller;
 }
-
-
 ol {
 		list-style-type: decimal;
 }
@@ -105,9 +103,6 @@ ul p {
 ul ul {
 		list-style-type: circle;
 }
-ul li { padding: 0; margin: 0; }
-
-
 #header { 
 		margin: 2em auto 0.8em auto;
 		text-align: center;
