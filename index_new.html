@@ -7,8 +7,8 @@ title: Home
 {% for post in site.posts limit: 8 %}
 
    <!-- here add you post markup -->
-   <h1><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
-    <span class="post-meta">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }}</span>
+   <h1 class="title"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="post-meta">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }}</p>
   <div class="content">
     {{ post.content }}
   </div>
