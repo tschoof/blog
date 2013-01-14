@@ -3,6 +3,8 @@ layout: default_new
 title: Home
 ---
 
+{% for post in paginator.posts %}
+
    <h1 class="title"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
     <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{  post.category  }}</p>
   <div class="content">
