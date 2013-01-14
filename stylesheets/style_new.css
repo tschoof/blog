@@ -139,7 +139,7 @@ div#header a {
 		color: white;
 }
 #wrapper {
-		margin: 0 auto; 
+		margin: 0 auto 4em auto; 
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
@@ -178,10 +178,10 @@ a.title {
 a:hover.title {
 		color: #FF6600;
 }
-.post-date {
+.post-meta {
 		text-align: center;
 }
-p.post-date {
+p.post-meta {
 		margin: 0.15em 0;
 		font-size: 0.9em;
 }
@@ -257,12 +257,10 @@ video {
 	height: 100%;
 }
 div#footer {
-		border-top: 0.2em solid black;
-		background-color: #D8D8D8;
 		position:relative;
    		bottom:0;
-   		width:100%;
-   		height:100%;
+   		width:50%;
+   		height:5em;
    		text-align: center;
 }
 div#footer p {
