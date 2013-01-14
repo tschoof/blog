@@ -8,6 +8,7 @@ title: Home
 <p class="post-meta">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }}</p>
 {{ post.content }}
 {% endfor %}
+</div>
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -21,5 +22,4 @@ title: Home
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
 </div>
