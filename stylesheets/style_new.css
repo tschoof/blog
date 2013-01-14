@@ -93,7 +93,7 @@ code {
 ol {
 		list-style-type: decimal;
 }
-ul {
+p.ul {
 		list-style-type: disc;
 		margin-left: 1.5em;
 		margin-bottom: 0em;
