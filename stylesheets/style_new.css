@@ -62,12 +62,11 @@ p {
 		margin: 1.1em 0;
 }
 a {
-		color: #FF6600;
-		/* color: #006699; */ /* blue */
+		color: #3366CC;
 		text-decoration: none;
 }
 a:hover {
-		color: #66CC00;
+		color: #FF6600;
 }
 h1 {	
 		font-weight: 400;
