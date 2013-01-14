@@ -95,8 +95,8 @@ ol {
 }
 ul {
 		list-style-type: disc;
-		margin-left: 1em; 
-		line-height: 1em;
+		margin-left: 1em;
+		margin-bottom: 0.8em;
 }
 ul ul {
 		list-style-type: circle;
