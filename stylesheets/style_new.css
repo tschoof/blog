@@ -90,6 +90,15 @@ code {
 	font-family:"Courier New", Courier, monospace;
 	font-size: smaller;
 }	
+ol {
+	list-style-type: decimal;
+}
+ul {
+	list-style-type: disc;
+	list-style-position: outside;
+}
+li {
+}
 #header { 
 		margin: 2em auto 0.8em auto;
 		text-align: center;
