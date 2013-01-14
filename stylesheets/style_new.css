@@ -95,16 +95,14 @@ ol {
 		margin-left: 1.8em;
 }
 ol p {
-		margin-bottom: 0.4em;
+		margin-bottom: 0.5em;
 }
 ul {
 		list-style-type: disc;
-		color: #FF6600;
 		margin-left: 1.8em;
 }
 ul p {
-		margin-bottom: 0.4em;
-		color: #848484;
+		margin-bottom: 0.5em;
 }
 ul ul {
 		list-style-type: circle;
