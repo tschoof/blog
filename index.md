@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 <div id="article">
-<!-- {% for post in site.posts limit: 8 %} -->
+
+
+
 <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <div id="post-date">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }} | <a href="{{ post.url }}/#disqus_thread">comments coming soon</a></div>
 {{ post.content }}
