@@ -61,6 +61,12 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
+em {	/* italic */
+		font-style: italic;
+}
+strong {
+		font-weight: 400;
+}
 a {
 		color: #3366CC;
 		text-decoration: none;
