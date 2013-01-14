@@ -89,6 +89,8 @@ blockquote {
 code {
 		font-family:"Courier New", Courier, monospace;
 		font-size: smaller;
+		padding: 0 0.123em;
+		background-color: #F5F5F5;
 }
 ol {
 		list-style-type: decimal;
