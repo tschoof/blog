@@ -216,8 +216,6 @@ video {
 	width: 100%;
 	height: 100%;
 }
-.pagination {	
-}
 div#header { 
 		margin: 2em auto 0.8em auto;
 		text-align: center;
@@ -262,8 +260,6 @@ div#navigation li{
 	width:auto;
 	display:inline-block;
 	padding:0 5%;
-}
-div#pagination {
 }
 div#content-wrapper {
 		width: 100%;
