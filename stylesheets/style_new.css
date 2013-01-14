@@ -128,14 +128,17 @@ div#navigation li{
 #content {
 		width: 100%;
 }
-h1.title {
-		
+.title {
+		text-align: center;
 }
 a.title {
 		color: black;
 }
 a:hover.title {
 		color: #66CC00;
+}
+.post-date {
+		text-align: center;
 }
 p.post-date {
 		margin: 0.3em 0;
