@@ -185,7 +185,7 @@ a:hover.title {
 		text-align: center;
 }
 p.post-meta {
-		margin: 0.15em 0;
+		margin: 0.15em 0 0.2em 0;
 		font-size: 0.9em;
 }
 img {
@@ -194,6 +194,7 @@ img {
 }
 p.pic {
 		text-align: center;
+		font-size: 0.8em;
 }
 
 video {
