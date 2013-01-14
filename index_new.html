@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-{% for post in site.posts limit: 8 %}
+{% for post in paginator.posts %}
 
    <!-- here add you post markup -->
    <h1 class="title"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -14,7 +14,7 @@ title: Home
   </div>
 {% endfor %}
 
-<!--
+
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -78,4 +78,4 @@ title: Home
   </p>
   {% endif %}
 
-</div> -->
+</div> 
