@@ -95,8 +95,9 @@ ol {
 }
 ul {
 		list-style-type: disc;
-		margin-left: 1em;
-		margin-bottom: 0.5em;
+		margin-left: 1.5em;
+		margin-bottom: 0em;
+		margin-top: 0em;
 }
 ul ul {
 		list-style-type: circle;
