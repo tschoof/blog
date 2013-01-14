@@ -61,11 +61,15 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
-em {	/* italic */
+em {	
 		font-style: italic;
 }
 strong {
 		font-weight: 400;
+}
+em strong {
+		font-weight: 400;
+		font-style: italic;
 }
 a {
 		color: #3366CC;
