@@ -62,11 +62,12 @@ p {
 		margin: 1.1em 0;
 }
 a {
-		color: #006699;
+		color: #FF6600;
+		/* color: #006699; */ /* blue */
 		text-decoration: none;
 }
 a:hover {
-		color: #FF6600;
+		color: #66CC00;
 }
 h1 {	
 		font-weight: 400;
@@ -81,10 +82,15 @@ h2 {
 		margin-top: 1.4em; 
 }
 blockquote {
-	margin: 1em 2em 1em 2em;
+	margin: 1em 1.5em 1em 2em;
 	color: #848484;
 	border-left: 0.22em solid #FF6600;
-	padding-left: 1em; }
+	padding-left: 1em; 
+}
+code {
+	font-family:"Courier New", Courier, monospace;
+	font-size: smaller;
+}	
 #header { 
 		margin: 2em auto 0.8em auto;
 		text-align: center;
