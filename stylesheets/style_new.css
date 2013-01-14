@@ -266,7 +266,7 @@ div#footer {
 }
 div#footer p {
 		font-size: 0.9em;
-		line-height: 1em;
+		line-height: 1.2em;
 		margin: 1em 0;
 }
 @media only screen and (min-width: 68.75em) { /* 1100px */
