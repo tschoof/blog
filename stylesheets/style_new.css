@@ -264,7 +264,7 @@ div#navigation li{
 	display:inline-block;
 	padding:0 5%;
 }
-.content {
+div#content-wrapper {
 		width: 100%;
 }
 div#footer {
