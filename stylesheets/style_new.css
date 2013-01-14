@@ -102,6 +102,9 @@ code {
 		padding: 0.19em 0.3em;
 		background-color: #F2F2F2;
 }
+small {
+		font-size: 0.8em;
+}
 ol {
 		list-style-type: decimal;
 		margin-left: 1.8em;
