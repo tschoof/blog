@@ -2,13 +2,19 @@
 layout: default_new
 title: Home
 ---
-<div id="content">
+
 {% for post in paginator.posts %}
-<h1 class="title"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
-<p class="post-meta">{{ post.date |date: "%B %d, %Y" }} | {{  post.category  }}</p>
-{{ post.content }}
+
+   <!-- here add you post markup -->
+   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+   <p class="author">
+    <span class="date">{{post.date}}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
 {% endfor %}
-</div>
+
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
