@@ -139,7 +139,7 @@ div#header a {
 		color: white;
 }
 #wrapper {
-		margin: 0 auto 4em auto; 
+		margin: 0 auto 2em auto; 
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
@@ -258,7 +258,7 @@ video {
 }
 div#footer {
 		position:relative;
-		margin: 5em auto;
+		margin: 6em auto;
    		bottom:0;
    		width:50%;
    		height:100%;
@@ -267,7 +267,7 @@ div#footer {
 div#footer p {
 		font-size: 0.9em;
 		line-height: 1em;
-		margin: 1em;
+		margin: 1em 0;
 }
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:115%;} 
