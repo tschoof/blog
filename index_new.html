@@ -6,7 +6,7 @@ title: Home
 {% for post in site.posts limit: 8 %}
 
    <h1 class="title"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | <a class="post-meta" href="{{  post.category  }}"></a></p>
+    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | <a href="{{  post.category  }}"></a></p>
   <div class="content">
     {{ post.content }}
   </div>
