@@ -61,12 +61,8 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
-div#post-content p {
+.post-content {
 		color: rgb(40,40,40);
-}
-div#post-content a:hover {
-		color: #FF6600; 
-		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
 }
 em {	
 		font-style: italic;
@@ -97,7 +93,7 @@ h2 {
 		line-height: 1.16; /* 28px */
 		margin-top: 1.4em; 
 }
-blockquote, q, div#post-content blockquote {
+blockquote, q {
 		margin: 1em 1.5em 1em 2em;
 		color: #848484;
 		border-left: 0.22em solid #FF6600;
