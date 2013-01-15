@@ -261,6 +261,10 @@ div#footer p {
 		margin: 0;
 		padding: 1.1em 0 0 0;
 }
+div#footer a {
+		color: black;
+		text-decoration: underline 1px solid;
+}
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:115%;} 
 }  	       
