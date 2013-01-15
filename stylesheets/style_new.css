@@ -151,6 +151,11 @@ div#header a {
 		text-decoration: none;
 		color: white;
 }
+div#header a:hover { 
+		text-decoration: none;
+		color: white;
+		opacity: 1.0;
+}
 div#wrapper {
 		margin: 0 auto 2em auto; 
 		max-width: 870px;
