@@ -266,7 +266,7 @@ div#footer a {
 		border-bottom: 1px solid;
 }
 div#footer a:hover {
-		border-bottom: 1px dotted;
+		opacity: 0.9;
 		-webkit-transition: 3s linear;
 -moz-transition: 3s linear;
 -o-transition: 3s linear;
