@@ -85,6 +85,10 @@ a {
 a:hover {
 		color: #FF6600; 
 }
+a:hover.post-content {
+		color: #FF6600; 
+		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
+}
 h1 {	
 		font-weight: 400;
 		font-size: 1.75em; /* 28px */
