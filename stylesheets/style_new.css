@@ -148,7 +148,9 @@ p.pic {
 		text-align: center;
 		font-size: 0.8em;
 }
-
+p.content {
+		color: #151515
+}
 video {
 		max-width: 100%;
 		height: auto;
