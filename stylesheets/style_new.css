@@ -78,14 +78,14 @@ a {
 }
 a:hover {
 		color: #3366CC;
-		opacity: 0.95;  -webkit-transition: 0.2s linear; -moz-transition: 0.2s linear; 
+		opacity: 0.95;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear; 
 }
 /* a:visited {
 		color: #3366CC;
 }
 a:visited:hover {
 		color: grey;
-		opacity: 0.95;  -webkit-transition: 0.2s linear; -moz-transition: 0.2s linear; 
+		opacity: 0.95;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear; 
 } */
 h1 {	
 		font-weight: 400;
