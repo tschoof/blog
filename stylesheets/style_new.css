@@ -277,7 +277,7 @@ div#footer a:hover {
 }
 
 @media only screen and (min-width: 68.75em) { /* 1100px */
-		body { font-size:215%;} 
+		body, p { font-size:215%;} 
 }  	       
 @media only screen and (max-width: 31.25em) { /* 500px */
 		body { font-size:90%;}
