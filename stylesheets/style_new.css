@@ -265,6 +265,7 @@ div#footer a {
 		color: black;
 }
 div#footer a:hover {
+		text-decoration: underline;
 }
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:115%;} 
