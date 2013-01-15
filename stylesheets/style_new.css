@@ -277,7 +277,12 @@ div#footer a:hover {
 }
 
 
-
+@media only screen and (max-width: 50em) { /* 800px */
+		body { font-size:100%;}
+		div#navigation li {
+		padding:0 3%;
+}
+}
 @media only screen and (max-width: 31.25em) { /* 500px */
 		body { font-size:90%;}
 		div#header { 
@@ -294,15 +299,10 @@ div#footer a:hover {
 }
 }	       
 
-@media only screen and (max-width: 50em) { /* 800px */
-		body { font-size:100%;}
-		div#navigation li {
-		padding:0 3%;
-}
-}
+
 
 @media only screen and (min-width: 68.75em) { /* 1100px */
-		body { font-size:2em;} 
+		body { font-size:110%;} 
 }     
 
 /* word-wrap: break-word; */
