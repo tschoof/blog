@@ -97,10 +97,9 @@ h2 {
 		line-height: 1.16; /* 28px */
 		margin-top: 1.4em; 
 }
-blockquote, q {
+blockquote, q, div#post-content blockquote {
 		margin: 1em 1.5em 1em 2em;
-		/* color: #585858; */
-		color: red;
+		color: #848484;
 		border-left: 0.22em solid #FF6600;
 		padding-left: 1em; 
 }
