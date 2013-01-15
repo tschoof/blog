@@ -275,9 +275,8 @@ div#footer a {
 div#footer a:hover {
 		opacity: 0.5;  -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear; }
 }
-
 @media only screen and (min-width: 68.75em) { /* 1100px */
-		body, p { font-size:215%;} 
+		body { font-size:2em;} 
 }  	       
 @media only screen and (max-width: 31.25em) { /* 500px */
 		body { font-size:90%;}
