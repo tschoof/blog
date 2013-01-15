@@ -61,6 +61,13 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
+.post-content {
+		color: rgb(40,40,40);
+}
+a:hover.post-content {
+		color: #FF6600; 
+		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
+}
 em {	
 		font-style: italic;
 }
@@ -139,13 +146,6 @@ a:hover.title {
 p.post-meta {
 		margin: 0.15em 0 0.2em 0;
 		font-size: 0.9em;
-}
-.post-content {
-		color: rgb(40,40,40);
-}
-a:hover.post-content {
-		color: #FF6600; 
-		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
 }
 img {
 		max-width: 100%;
