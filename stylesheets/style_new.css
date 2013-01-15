@@ -30,7 +30,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background-color: #F7F7F7;
 }
 ol, ul {
 	list-style: none;
@@ -55,7 +54,7 @@ table {
 body {
 		font-family: 'Ubuntu', sans-serif;
 		font-weight: 300; 
-		background-color: #FFFFFF;
+		background-color: #F7F7F7;
 		font-size: 1em;	
 }
 p {
