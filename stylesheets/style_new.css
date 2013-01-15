@@ -263,9 +263,10 @@ div#footer p {
 }
 div#footer a {
 		color: black;
+		text-decoration: underline;
 }
 div#footer a:hover {
-		text-decoration: underline;
+		text-decoration: underline dotted;
 }
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:115%;} 
