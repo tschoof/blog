@@ -84,8 +84,8 @@ a:hover {
 		color: #3366CC;
 }
 a:visited:hover {
-		color: grey;
-		opacity: 0.95;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear; 
+		color: #3366CC;
+		opacity: 0.93;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear; 
 } */
 h1 {	
 		font-weight: 400;
