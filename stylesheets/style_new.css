@@ -93,7 +93,7 @@ h2 {
 		line-height: 1.16; /* 28px */
 		margin-top: 1.4em; 
 }
-blockquote {
+blockquote, q {
 		margin: 1em 1.5em 1em 2em;
 		color: #848484;
 		border-left: 0.22em solid #FF6600;
