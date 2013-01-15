@@ -166,10 +166,8 @@ div#wrapper {
         line-height: 1.6875;
         padding: 0 5%;
 }
-.title {
+.title, .post-meta {
 		text-align: center;
-}
-h1.title {
 }
 a.title {
 		color: black;
@@ -177,10 +175,7 @@ a.title {
 a:hover.title {
 		color: #FF6600;
 		opacity: 1.0;
-				-webkit-transition: 0; -moz-transition: 0;
-}
-.post-meta {
-		text-align: center;
+		-webkit-transition: 0; -moz-transition: 0;
 }
 p.post-meta {
 		margin: 0.15em 0 0.2em 0;
