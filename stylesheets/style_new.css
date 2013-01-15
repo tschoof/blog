@@ -61,6 +61,9 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
+p.content {
+		color: #151515
+}
 em {	
 		font-style: italic;
 }
@@ -147,9 +150,6 @@ img {
 p.pic {
 		text-align: center;
 		font-size: 0.8em;
-}
-p.content {
-		color: #151515
 }
 video {
 		max-width: 100%;
