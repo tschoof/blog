@@ -250,7 +250,7 @@ div#footer {
    		width:90%;
    		height:100%;
    		text-align: center;
-   		background-image: -webkit-linear-gradient(bottom, rgb(31,24,12) 2%, rgb(255,255,255) 0%, rgb(255,255,255) 100%);
+   		background-color: black;
 }
 div#footer p {
 		font-size: 0.9em;
