@@ -80,7 +80,7 @@ a {
 }
 a:hover {
 		color: #FF6600; 
-		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
+		opacity: 0.5; -webkit-transition: 0.09s ease; -moz-transition: 0.09s ease;
 }
 h1 {	
 		font-weight: 400;
