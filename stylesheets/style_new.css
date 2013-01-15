@@ -61,8 +61,8 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
-p.post-content {
-		color: rgb(57, 57, 57);
+.post-content {
+		color: rgb(57,57,57);
 }
 em {	
 		font-style: italic;
