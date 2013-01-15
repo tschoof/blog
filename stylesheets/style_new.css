@@ -242,7 +242,7 @@ div#wrapper {
         line-height: 1.6875;
         padding: 0 5%;
 }
-/*  div#navigation {
+/* div#navigation {
 		width: 100%;
 }
 div#navigation ul, div#navigation a {
@@ -260,8 +260,10 @@ div#navigation li{
 	width:auto;
 	display:inline-block;
 	padding:0 5%;
-}							*/
-
+} */
+div#content-wrapper {
+		width: 100%;
+}
 div#footer {
 		position:relative;
 		margin: 6em auto 4em auto;
