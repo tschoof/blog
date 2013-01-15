@@ -263,7 +263,7 @@ div#footer p {
 }
 div#footer a {
 		color: black;
-		border-bottom: 1px solid;
+		border-bottom: 1px dotted;
 }
 div#footer a:hover {
 		opacity: 0.5;  -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear; }
