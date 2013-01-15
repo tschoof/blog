@@ -160,7 +160,7 @@ div#header a:hover {
 		opacity: 1.0;
 }
 div#navigation {
-		width: 100%;
+		width: auto;
 }
 div#navigation ul, div#navigation a {
 		font-size: 1.2em;
