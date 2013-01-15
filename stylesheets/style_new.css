@@ -178,6 +178,7 @@ a.title {
 a:hover.title {
 		color: #FF6600;
 		opacity: 1.0;
+				-webkit-transition: 0; -moz-transition: 0;
 }
 .post-meta {
 		text-align: center;
