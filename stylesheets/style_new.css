@@ -161,6 +161,7 @@ div#header a:hover {
 }
 div#navigation {
 		width: auto;
+		text-align:center;
 }
 div#navigation ul, div#navigation a {
 		font-size: 1.2em;
