@@ -284,7 +284,7 @@ div#footer a:hover {
 }
 }
 @media only screen and (max-width: 31.25em) { /* 500px */
-		body { font-size:90%;}
+		body { font-size:90%;word-wrap: break-word;}
 		div#header { 
 		margin: 1em auto;
 		padding: 0.5em 0.4em; 
@@ -298,8 +298,6 @@ div#footer a:hover {
 		font-size: 1.0em;
 }
 }	       
-
-
 
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:110%;} 
