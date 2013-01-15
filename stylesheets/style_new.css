@@ -171,7 +171,8 @@ div#navigation ul, div#navigation a {
 		list-style:none;
 }
 div#navigation a:hover {
-
+		color: #3366CC;
+		opacity: 0.93;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear;
 }
 div#navigation li{
 	width:auto;
