@@ -61,10 +61,10 @@ p {
 		font-size: 1em;	
 		margin: 1.1em 0;
 }
-.post-content {
+div#post-content p {
 		color: rgb(40,40,40);
 }
-a:hover.post-content {
+div#post-centent a:hover {
 		color: #FF6600; 
 		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
 }
@@ -84,10 +84,6 @@ a {
 }
 a:hover {
 		color: #FF6600; 
-}
-a:hover.post-content {
-		color: #FF6600; 
-		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
 }
 h1 {	
 		font-weight: 400;
