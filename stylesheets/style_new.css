@@ -79,8 +79,8 @@ a {
 		text-decoration: none;
 }
 a:hover {
-		color: #FF6600;
-		-webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
+/*		color: #FF6600; */
+		opacity: 0.5; -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
 }
 h1 {	
 		font-weight: 400;
