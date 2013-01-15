@@ -62,7 +62,7 @@ p {
 		margin: 1.1em 0;
 }
 p.post-content {
-		color: #151515
+		color: rgb(57, 57, 57);
 }
 em {	
 		font-style: italic;
