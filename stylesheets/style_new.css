@@ -71,6 +71,7 @@ em strong {
 		font-style: italic;
 }
 a {
+		font-weight: 400;
 		color: #FF6600;
 		/* color: #3366CC; blue */
 		text-decoration: none;
