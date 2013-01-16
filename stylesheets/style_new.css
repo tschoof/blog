@@ -201,6 +201,10 @@ p.pic {
 		text-align: center;
 		font-size: 0.8em;
 }
+.post-content {
+		margin-bottom: 3em;
+}
+
 .videoWrapper-16-9 {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
