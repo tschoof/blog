@@ -71,15 +71,13 @@ em strong {
 		font-style: italic;
 }
 a {
-		font-weight: 400;
 		color: #FF6600;
 		/* color: #3366CC; blue */
 		text-decoration: none;
 }
 a:hover {
-/*		color: #3366CC;*/
-		/*opacity: 0.93;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear; */
-		 opacity: 0.5;  -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear;
+		color: #3366CC;
+		opacity: 0.93;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear;
 }
 /* a:visited {
 		color: #3366CC;
