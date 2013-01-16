@@ -30,7 +30,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	-webkit-font-smoothing: antialiased;
 }
 ol, ul {
 	list-style: none;
@@ -78,7 +77,7 @@ a {
 }
 a:hover {
 		color: #3366CC;
-		opacity: 0.93;  -webkit-transition: 0.13s linear;
+		opacity: 0.93;
 }
 /* a:visited {
 		color: #3366CC;
