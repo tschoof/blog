@@ -77,7 +77,6 @@ a {
 }
 a:hover {
 		color: #6699CC;
-		opacity: 1.0;
 }
 /* a:visited {
 		color: #3366CC;
@@ -171,8 +170,7 @@ div#navigation ul, div#navigation a {
 		list-style:none;
 }
 div#navigation a:hover {
-		color: #3366CC;
-		opacity: 0.93;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear;
+		color: #6699CC;
 }
 div#navigation li{
 	width:auto;
