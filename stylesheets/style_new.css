@@ -78,13 +78,6 @@ a {
 a:hover {
 		color: #6699CC;
 }
-/* a:visited {
-		color: #3366CC;
-}
-a:visited:hover {
-		color: #3366CC;
-		opacity: 0.93;  -webkit-transition: 0.13s linear; -moz-transition: 0.13s linear; 
-} */
 h1 {	
 		font-weight: 400;
 		font-size: 1.75em; /* 28px */
@@ -303,7 +296,7 @@ div#footer a:hover {
 }
 }
 @media only screen and (max-width: 31.25em) { /* 500px */
-		body { font-size:90%;word-wrap: break-word;}
+		body { font-size:93%;word-wrap: break-word;}
 		div#header { 
 		margin: 1em auto;
 		padding: 0.5em 0.4em; 
@@ -319,5 +312,5 @@ div#footer a:hover {
 }	       
 
 @media only screen and (min-width: 68.75em) { /* 1100px */
-		body { font-size:110%;} 
+		body { font-size:111%;} 
 }   
