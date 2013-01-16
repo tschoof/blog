@@ -76,8 +76,8 @@ a {
 		text-decoration: none;
 }
 a:hover {
-		color: #3366CC;
-		opacity: 0.93;
+		color: #6699CC;
+		opacity: 1.0;
 }
 /* a:visited {
 		color: #3366CC;
