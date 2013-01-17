@@ -107,10 +107,10 @@ small {
 }
 hr { 	
 		width: 70%;
-		color: black;
+		color: #FAFAFA;
 		height: 1em;
 		background-color: #FAFAFA;
-		border-bottom: 1em solid FF6600;
+		border-bottom: 1em solid #FF6600;
 }
 ol {
 		list-style-type: decimal;
