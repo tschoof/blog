@@ -293,14 +293,14 @@ div#footer a:hover {
 		opacity: 0.95;  
 }
 div#footer ul {
-		list-style:none;
-		margin: 0;
+		list-style:none; 
+		margin: 1em;
 		width: inherit;
 		max-width: 100%;
 		background-color: #FF6600;
 }
 div#footer li{
-	display:inline-block;
+/*	display:inline-block; */
 	padding: 0 2em;
 } 
 
