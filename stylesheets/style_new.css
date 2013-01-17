@@ -108,7 +108,8 @@ small {
 hr { 	
 		width: 70%;
 		color: #FF6600;
-		height: 0.2em;
+		height: 1em;
+		background-color: #FAFAFA;
 }
 ol {
 		list-style-type: decimal;
