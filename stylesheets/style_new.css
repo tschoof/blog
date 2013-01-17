@@ -298,11 +298,11 @@ div#footer ul {
 		padding: 1em;
 		width: inherit;
 		max-width: 100%;
-		background-color: #FF6600;
+		background-color: #FAFAFA;
 }
 div#footer li{
 /*	display:inline-block; */
-	padding: 0 2em;
+	padding: 1em 2em;
 } 
 
 @media only screen and (max-width: 50em) { /* 800px */
