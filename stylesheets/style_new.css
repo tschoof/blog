@@ -110,7 +110,7 @@ hr {
 		color: black;
 		height: 1em;
 		background-color: #FAFAFA;
-		border: 1px solid black;
+		border-bottom: 1em solid FF6600;
 }
 ol {
 		list-style-type: decimal;
