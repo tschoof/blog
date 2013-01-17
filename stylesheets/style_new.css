@@ -277,6 +277,7 @@ div#footer {
    		height:100%;
    		text-align: center;
    		background-color: #DDDDDD; 
+   		border-top: 0.2em solid #FF6600;
 }
 div#footer p {
 		font-size: 0.9em;
@@ -289,14 +290,19 @@ div#footer a {
 		border-bottom: 1px dotted;
 }
 div#footer a:hover {
-		opacity: 0.5;  -webkit-transition: 0.09s linear; -moz-transition: 0.09s linear; }
+		opacity: 0.95;  
 }
-
+div#footer ul {
+		list-style:none;
+		padding: 1.1em 0 0 0;
+}
+div#footer li{
+	display:inline-block;
+} 
 
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
-		div#navigation li {
-		padding:0 3%; }
+		
 		div#header { 
 		margin-bottom: 5em;
 }
@@ -310,6 +316,5 @@ div#footer a:hover {
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:111%;} 
 		div#header { 
-		margin-bottom: 5em;
-}
+		margin-bottom: 5em;}
 }   
