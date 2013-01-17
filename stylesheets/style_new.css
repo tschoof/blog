@@ -295,11 +295,10 @@ div#footer p {
 		padding: 1.5em;
 }
 div#footer a {
-		color: black;
-		border-bottom: 1px dotted;
+		color: #FF6600;
 }
 div#footer a:hover {
-		opacity: 0.95;  
+		opacity: 0.5;  
 }
 div#footer ul {
 		list-style:none; 
