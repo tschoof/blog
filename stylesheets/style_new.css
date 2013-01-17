@@ -295,6 +295,7 @@ div#footer a:hover {
 div#footer ul {
 		list-style:none;
 		padding: 1.1em 0 0 0;
+		background-color: #FF6600;
 }
 div#footer li{
 	display:inline-block;
