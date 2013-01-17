@@ -294,7 +294,8 @@ div#footer a:hover {
 }
 div#footer ul {
 		list-style:none;
-		width: 100%;
+		margin: 0;
+		max-width: 100%;
 		background-color: #FF6600;
 }
 div#footer li{
