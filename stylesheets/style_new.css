@@ -105,6 +105,11 @@ code {
 small {
 		font-size: 0.8em;
 }
+hr { 	
+		width: 70%;
+		color: #FF6600;
+		height: 0.2em;
+}
 ol {
 		list-style-type: decimal;
 		margin-left: 1.8em;
