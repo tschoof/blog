@@ -310,6 +310,7 @@ div#footer ul {
 }
 div#footer li{
 	display:inline-block;
+	width: 30%;
 	padding: 1em 2em;
 } 
 
