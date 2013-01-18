@@ -311,7 +311,7 @@ div#footer ul {
 div#footer li{
 	display:inline-block;
 	width: 25%;
-	padding: 1em 2em;
+	padding: 1em 1em;
 } 
 
 @media only screen and (max-width: 50em) { /* 800px */
