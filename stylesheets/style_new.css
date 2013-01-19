@@ -324,7 +324,7 @@ div#footer li{
 			height: 1.5em;
 			display:inline;
 			font-family: 'Ubuntu', sans-serif;
-			width: 12em;
+			width: 20em;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
