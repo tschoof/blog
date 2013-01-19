@@ -285,11 +285,11 @@ p.pic {
 	width: 100%;
 	height: 100%;
 }
-div#article-text {
+div#article-container {
 
 		margin-bottom: 7em;
 }
-div#instapaper-body {
+div#article-text {
 		margin-top: 3em;
 }
 div#footer {
