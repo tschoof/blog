@@ -8,4 +8,4 @@ published: true
 
 There's <del>great</del> important, frightening but also inspiring stuff in this. Don't omit the questions at the end.
 
-<iframe width="670" height="377" src="https://www.youtube-nocookie.com/embed/sKOk4Y4inVY" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper-16-9"><iframe width="1280" height="720" src="https://www.youtube.com/embed/sKOk4Y4inVY?rel=0" frameborder="0" allowfullscreen></iframe></div>
