@@ -325,9 +325,9 @@ div#footer li{
 		height: 1.8em;
 		margin: 0 25%;
 		text-align: center;
-		-webkit-border-radius: 12px;
--moz-border-radius: 12px;
-border-radius: 12px;
+		-webkit-border-radius: 0.5em;
+-moz-border-radius: 0.5em;
+border-radius: 0.5em;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
