@@ -330,6 +330,7 @@ div#footer li{
 		border-radius: 0.5em;
 		background-color: #E6E6E6;
 		color: black;
+		border: 1px solid #353535;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
