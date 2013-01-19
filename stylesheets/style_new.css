@@ -315,6 +315,7 @@ div#footer li{
 } 
 
 #search input {
+		width: 100%;
 		padding: 0 20%;
 		font-family: 'Ubuntu', sans-serif;
 }
