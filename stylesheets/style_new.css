@@ -298,6 +298,7 @@ div#footer p {
 }
 div#footer a {
 		color: #FF6600;
+		line-height: 1.3em;
 }
 div#footer a:hover {
 		opacity: 0.5;  
