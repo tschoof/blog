@@ -314,11 +314,9 @@ div#footer li{
 	padding: 1em 1em;
 } 
 
-div#search input {
+#search input {
 		width: 66%;
-		font-family:  'Ubuntu', sans-serif;
-		
-		
+		font-family: 'Ubuntu', sans-serif;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
