@@ -30,17 +30,7 @@ title: Home
   </p>
   {% endif %}
 
-    {% for count in (2..paginator.total_pages) %}
-    <li class="page">
-      {% if count == paginator.page %}
-      <span class="current-page">{{count}}</span>
-      {% else %}
-      <a href="/page{{count}}">{{count}}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ul>
-
+  
   {% if paginator.next_page %}
   <p class="next">
     <a href="/page{{paginator.next_page}}">Older Posts</a>
