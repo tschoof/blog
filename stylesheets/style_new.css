@@ -314,6 +314,10 @@ div#footer li{
 	padding: 1em 1em;
 } 
 
+div#search {
+		
+}
+
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
 		
