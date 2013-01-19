@@ -315,12 +315,14 @@ div#footer li{
 } 
 
 div#search {
+		width: 66%;
+		font-family:  'Ubuntu', sans-serif;
+		
 		
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}
-		
 }
 @media only screen and (max-width: 31.25em) { /* 500px */
 		body { font-size:90%;word-wrap: break-word;}
