@@ -295,7 +295,8 @@ div#article-text {
 
 .pagination {
 		text-align: center;
-		width: 70%;
+		width: 100%;
+		padding: 0 15% 0 15%;
 }
 div#footer {
 		position:relative;
