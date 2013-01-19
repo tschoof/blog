@@ -316,7 +316,7 @@ div#footer li{
 
 
 #search {
-		margin: 0.8em auto 0;
+		margin: 0 auto;
 
 }
 
@@ -324,7 +324,7 @@ div#footer li{
 			height: 1.5em;
 			display:inline;
 			font-family: 'Ubuntu', sans-serif;
-			width: 40%;
+			width: 12em;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
