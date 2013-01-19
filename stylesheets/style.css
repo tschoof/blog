@@ -84,6 +84,7 @@ h1 {
 		font-size: 1.75em; /* 28px */
 		line-height: 1.1428; /* 32px */
 		margin-top: 0em; 
+		text-align: center;
 }
 h2 {
 		font-weight: 400;
