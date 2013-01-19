@@ -296,7 +296,7 @@ div#post-pagination {
 		width: 60%;
 		margin: 0 auto 0 auto;
 }
-div#post-navigation a:hover {
+div#post-pagination a:hover {
 		opacity: 0.5;  
 }
 .previous {
