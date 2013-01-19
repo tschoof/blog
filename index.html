@@ -17,9 +17,9 @@ title: Home
   {% if paginator.previous_page %}
   <p class="previous">
     {% if paginator.previous_page == 1 %}
-    <a href="/">Home</a>
+    <a href="/">Newer Posts</a>
     {% else %}
-    <a href="/page{{paginator.previous_page}}"><< Newer Posts</a>
+    <a href="/page{{paginator.previous_page}}">Newer Posts</a>
     {% endif %}
   </p>
   {% else %}
@@ -31,7 +31,7 @@ title: Home
   
   {% if paginator.next_page %}
   <p class="next">
-    <a href="/page{{paginator.next_page}}">Older Posts >></a>
+    <a href="/page{{paginator.next_page}}">Older Posts</a>
   </p>
   {% else %}
   <p class="next disabled">
