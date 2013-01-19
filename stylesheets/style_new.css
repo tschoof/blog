@@ -298,7 +298,6 @@ div#footer p {
 }
 div#footer a {
 		color: #FF6600;
-		font-size: 0.9em;
 		line-height: 1.3em;
 }
 div#footer a:hover {
@@ -335,6 +334,11 @@ div#footer li{
 		background-color: #DFDFDF;
 		color: black;
 		border: 1px solid #B8B8B8;
+}
+#search input:focus {
+	outline:none;
+    border-color:#9ecaed;
+    box-shadow:0 0 10px #9ecaed;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
