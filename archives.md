@@ -3,7 +3,7 @@ layout: default
 title: Archives
 permalink: /archives/
 ---
-<h2>Archives</h2>
+<h1 class="page">Archives</h1>
 <div id="post_links">
 	<ul>
 	{% for post in site.posts %}
