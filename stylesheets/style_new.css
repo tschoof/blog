@@ -303,14 +303,14 @@ div#footer a:hover {
 div#footer ul {
 		list-style:none; 
 		margin: 0;
-		padding: 2em 15% 1.5em 15%;
+		padding: 2em 8% 1.5em 8%;
 		width: inherit;
 		max-width: 100%;
 		background-color: #FAFAFA;
 }
 div#footer li{
 	display:inline-block;
-	width: 25%;
+	width: 22%;
 	padding: 1em 1em;
 } 
 
