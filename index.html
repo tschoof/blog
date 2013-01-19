@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 {% for post in paginator.posts %}
-<!-- {% for post in site.posts limit: 8 %} -->
 
    <h1 class="title"><a title="Permalink" class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
     <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{  post.category  }}</p>
