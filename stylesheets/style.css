@@ -389,7 +389,7 @@ div#footer li{
 				padding-right: 2.5%;
 		}
 		div#footer p {
-		font-size: 0.88em;}
+		font-size: 80%;}
 }	       
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:112%;} 
