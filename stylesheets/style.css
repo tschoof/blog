@@ -296,6 +296,7 @@ div#article-text {
 .pagination {
 		text-align: center;
 		width: 90%;
+		margin: 0 auto;
 }
 .previous {
 		float: left;
