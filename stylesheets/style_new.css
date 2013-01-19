@@ -322,6 +322,7 @@ div#footer li{
 		width: 40%;
 		font-family: 'Ubuntu', sans-serif;
 		height: 1.5em;
+				text-align: center; 
 		display:block-inline;
 }
 
