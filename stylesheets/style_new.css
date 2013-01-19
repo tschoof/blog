@@ -320,7 +320,7 @@ div#footer li{
 }
 
 #search input {
-	/*	width: ;*/
+		width: 40%;
 		height: 1.5em;
 		margin: 0 30%;	
 }
