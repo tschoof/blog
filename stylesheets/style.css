@@ -289,8 +289,8 @@ div#article-container {
 
 		margin-bottom: 5em;
 }
-div#instapaper_body {
-		padding-top: 3em;
+.instapaper_body {
+		margin-top: 3em;
 }
 div#footer {
 		position:relative;
