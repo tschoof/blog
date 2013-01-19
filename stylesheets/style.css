@@ -339,7 +339,7 @@ div#footer ul {
 div#footer li{
 	display:inline-block;
 	width: 23%;
-	padding: 1em 1em;
+	padding: 1em 0;
 } 
 
 
