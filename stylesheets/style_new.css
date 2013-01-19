@@ -315,10 +315,11 @@ div#footer li{
 } 
 
 #search {
-
+	
 }
 
 #search input {
+		float: center;
 		width: 30%;
 		font-family: 'Ubuntu', sans-serif;
 }
