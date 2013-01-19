@@ -295,10 +295,13 @@ div#article-text {
 
 .pagination {
 		text-align: center;
-		width: 100%;
+		width: 90%;
 }
 .previous {
 		float: left;
+}
+.next {
+		float: right;
 }
 div#footer {
 		position:relative;
