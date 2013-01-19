@@ -323,7 +323,8 @@ div#footer li{
 		width: 50%;
 		max-width: 25em;
 		height: 1.8em;
-		margin: 0 25%;	
+		margin: 0 25%;
+		text-align: center;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
