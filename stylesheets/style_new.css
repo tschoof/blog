@@ -346,10 +346,10 @@ div#footer li{
 		margin-bottom: 5em;
 }
 		div#footer ul {
-				padding: 2em 3%;
+				padding: 2em 2.5%;
 		}
 			div#footer li {
-			padding: 1em 0.7em;
+			padding: 1em 0.5em;
 			}
 }	       
 @media only screen and (min-width: 68.75em) { /* 1100px */
