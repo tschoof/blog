@@ -340,6 +340,9 @@ div#footer li{
 		.post-content {
 		margin-bottom: 5em;
 }
+		div#footer ul {
+				padding: 2em 5%;
+		}
 }	       
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:112%;} 
