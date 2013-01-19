@@ -317,12 +317,12 @@ div#footer li{
 
 #search {
 		margin: 0.8em auto 0;
-		display:block;
+		display:inline;
 }
 
 #search input {
 			height: 1.5em;
-			display:block;
+			display:inline;
 			font-family: 'Ubuntu', sans-serif;
 			width: 30%;
 }
