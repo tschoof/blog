@@ -302,6 +302,7 @@ div#post-pagination {
 }
 .next {
 		float: right;
+		margin-bottom: 2em;
 }
 div#footer {
 		position:relative;
