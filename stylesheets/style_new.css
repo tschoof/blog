@@ -314,8 +314,12 @@ div#footer li{
 	padding: 1em 1em;
 } 
 
-#search input {
+#search {
 		margin: 0 20%;
+}
+
+#search input {
+		
 		font-family: 'Ubuntu', sans-serif;
 }
 
