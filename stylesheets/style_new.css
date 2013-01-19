@@ -317,13 +317,12 @@ div#footer li{
 
 #search {
 		margin: 0 auto;
-		display:inline-block;
 }
 
 #search input {
 		width: 22em;
 		height: 1.5em;
-			
+		margin: 0 auto;	
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
