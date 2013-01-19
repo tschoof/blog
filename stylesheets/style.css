@@ -292,6 +292,11 @@ div#article-container {
 div#article-text {
 		margin-top: 3em;
 }
+
+.pagination {
+		text-align: center;
+		width: 70%;
+}
 div#footer {
 		position:relative;
 		margin: 0 0 0 0;
