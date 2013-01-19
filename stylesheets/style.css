@@ -111,7 +111,7 @@ small {
 		font-size: 0.8em;
 }
 hr { 	
-		margin: 2em 17% 0 17%;
+		margin: 3em 17% 0 17%;
 		background-color: #FAFAFA;
   		border-color: #FF6600;
 		border-style: solid;
@@ -295,7 +295,7 @@ div#article-text {
 
 div#post-pagination {
 		width: 70%;
-		margin: 0 auto 2.5em auto;
+		margin: 0 auto 0 auto;
 }
 .previous {
 		float: left;
