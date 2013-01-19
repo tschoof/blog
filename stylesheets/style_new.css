@@ -315,14 +315,13 @@ div#footer li{
 } 
 
 #searchcontainer {
-		width: 40%;
 		margin: 0 20%;
 }
 
 #search input {
-		width: 100%;
 		font-family: 'Ubuntu', sans-serif;
 		height: 1.5em;
+			width: 40%;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
