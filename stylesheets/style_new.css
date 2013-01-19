@@ -318,7 +318,7 @@ div#footer li{
 		body { font-size:100%;}
 		
 		div#header { 
-/*		margin-bottom: ; */
+		margin-bottom: 4em; 
 }
 }
 @media only screen and (max-width: 31.25em) { /* 500px */
@@ -329,6 +329,6 @@ div#footer li{
 }	       
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:112%;} 
-/*		div#header { 
-		margin-bottom: 5em;} */
+		div#header { 
+		margin-bottom: 4em;} 
 }   
