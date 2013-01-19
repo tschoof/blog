@@ -321,6 +321,7 @@ div#footer li{
 
 #search input {
 		width: 40%;
+		max-width: 22em;
 		height: 1.5em;
 		margin: 0 30%;	
 }
