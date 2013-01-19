@@ -88,7 +88,6 @@ h1 {
 }
 .page h1 {
 		text-align: center;
-		margin-bottom: 4em;
 }
 h2 {
 		font-weight: 400;
@@ -130,6 +129,9 @@ ol p {
 ul {
 		list-style-type: disc;
 		margin-left: 1.8em;
+}
+.post-list ul {
+		margin-top: 4em;
 }
 ul p {
 		margin-bottom: 0.5em;
