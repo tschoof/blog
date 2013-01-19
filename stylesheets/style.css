@@ -293,7 +293,7 @@ div#article-text {
 		margin-top: 3em;
 }
 
-.pagination {
+div#post-pagination {
 		width: 70%;
 		margin: 0 auto 2.5em auto;
 }
