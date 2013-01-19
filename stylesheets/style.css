@@ -298,6 +298,7 @@ div#post-pagination {
 }
 div#post-pagination a:hover {
 		opacity: 0.5;  
+		color: #FF6600;
 }
 .previous {
 		float: left;
