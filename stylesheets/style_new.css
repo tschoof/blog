@@ -192,7 +192,7 @@ div#wrapper {
 		text-align: center;
 }
 a.title {
-			color: #2E2E2E;
+		color: #2E2E2E;
 }
 a:hover.title {
 		color: #FF6600;
@@ -293,7 +293,7 @@ div#footer p {
 		font-size: 0.9em;
 		line-height: 1.5em;
 		margin: 0;
-		padding: 1.5em 1.3em 3.5em 1.3em;
+		padding: 1.2em 1.3em 3.5em 1.3em;
 		color: #424242;
 }
 div#footer a {
@@ -305,7 +305,7 @@ div#footer a:hover {
 div#footer ul {
 		list-style:none; 
 		margin: 0;
-		padding: 2em 15% 1.5em 15%;
+		padding: 1.8em 15% 1.2em 15%;
 		width: inherit;
 		max-width: 100%;
 		background-color: #FAFAFA;
