@@ -118,6 +118,7 @@ hr {
   		border-width: 0.12em 0 0;
   		clear: both;
   		height: 0;
+  		max-width: 870px;
 }
 ol {
 		list-style-type: decimal;
@@ -368,7 +369,7 @@ div#footer li{
 #search input:focus {
 	outline:none;
     border-color:#FF6600;;
-    box-shadow:0 0 0.4em #FF9B58;
+    box-shadow:0 0 1px #FF9B58;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
