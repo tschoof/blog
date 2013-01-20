@@ -391,6 +391,9 @@ div#footer li{
 		}
 		div#footer p {
 		font-size: 80%;}
+		div#post-pagination {
+		width: 80%;
+}
 		hr {
 		margin-left: 11%;
 		margin-right: 11%; }
