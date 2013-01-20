@@ -302,11 +302,11 @@ div#post-pagination a:hover {
 		color: #FF6600;
 }
 .previous {
-		float: left;
+		float: right;
 		margin-bottom: 2em;
 }
 .next {
-		float: right;
+		float: left;
 		margin-bottom: 2em;
 }
 div#footer {
