@@ -369,7 +369,7 @@ div#footer li{
 #search input:focus {
 	outline:none;
     border-color: #FF6600;
-    box-shadow:0 0 0.4em #FF9B58;
+    box-shadow:0 0 0.3em #FF9B58;
 }
 
 @media only screen and (max-width: 50em) { /* 800px */
