@@ -6,4 +6,4 @@ email: hello@timmschoof.com
 author: Timm Schoof
 permalink: /:year/:month/:day/:title
 description: "This is Timm Schoof's personal blog."
-paginate: 3
+paginate: 5
