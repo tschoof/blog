@@ -391,6 +391,9 @@ div#footer li{
 		}
 		div#footer p {
 		font-size: 80%;}
+		hr {
+		margin-left: 11%;
+		margin-right: 11%; }
 }	       
 @media only screen and (min-width: 68.75em) { /* 1100px */
 		body { font-size:112%;} 
