@@ -364,7 +364,7 @@ div#footer li{
 		border-radius: 0.8em;
 		background-color: #DFDFDF;
 		color: black;
-		border: 1px solid #B8B8B8;
+/*		border: 1px solid #B8B8B8; */
 }
 #search input:focus {
 	outline:none;
