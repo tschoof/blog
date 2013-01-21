@@ -26,5 +26,6 @@ The articles mentioned above are the first two about meditation in Dan Benjamin'
 Recommended across the board: [Mindfulness in Plain English](http://www.urbandharma.org/udharma4/mpe.html). Yes, a book. It's free. PDF, ePub, Amazon, no excuses. Great stuff in it. Maybe some passages from it will make it in a 'Quotes'-Post.
 
 ---
+<br>
 1. No, I'm not on drugs, it just came out that way.
  2. I'm inclined to say 'trash' to emphasize that I don't have much to worry about, and instead concern myself with thoughts that are really just junk. 

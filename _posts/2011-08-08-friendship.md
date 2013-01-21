@@ -22,5 +22,6 @@ Back to the peer groups: They were torn away by their member's differing interes
 That's my interpretation of my experience. Maybe it differs a lot from the experience others had, maybe law students manage it totally different from the pedagogues or people doing cultural studies, doing less weed and stuff, I don't know. 
 
 ---
+<br>
 1. Anyway: The vast majority of the time, I used it to provide tech support to my classmates. Maybe that's why I still despise IM somehow.
 2. You really shouldn't listen to me talking about (possible) long-term-relationships.

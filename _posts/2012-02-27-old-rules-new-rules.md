@@ -35,7 +35,7 @@ One last note: I'll be damned if the new Apple TV doesn't offer something that's
 
 
 ---
-
+<br>
 1. <span id="fn1">I ain't buyin' that, because I don't get what I pay for. I don't blame Apple, though, because clearly it's the studios who want to 'protect' their content. 'Protect = not sell', that is.</span> [&#8617;](#fn1b)
 
 2. <span id="fn2">As you can see, even that whole music thing isn't fully developped yet. But way further than movies and television.</span> [&#8617;](#fn2b)

@@ -16,6 +16,7 @@ Here I am, this is me, and this is my Twitter account. And I want you to know th
 This isn't meant to be part of the debate about Google's real name policy. I didn't chose to, but if someone has built an online identity with an alias or wants to do so, that's fine and a whole different thing. 
 
 ---
+<br>
 1. It also made me think about how I handle my email. Although I use many addresses on different domains that I own or control additionally to my gmail address, I rely heavily on gmail to handle them. If gmail broke away, I wouldn't lose the addresses of course, but effectively just check half of them. Not that bad, but not quite optimal. 
 2. On Facebook, you can be 'Aladdin', 'Jack Sparrow' or 'Hannibal Lecter', that doesn't change anything. You're you, and your 700 Facebook 'friends' know that behind that fake name it's you, having that FarmVille request. If not, maybe the incredibly cheap-looking shot of you posing in front of your dirtky bathroom mirror your girlfriend finds so cute, taken with the incredibly ugly first 5 MP-flash Sony candy bar mobile phone gives them an idea. It's *so* annoying. Thank you.
 3. And because it was fun.

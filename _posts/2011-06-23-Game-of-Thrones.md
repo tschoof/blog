@@ -22,6 +22,7 @@ Can't wait for the second season. I just ***attention, spoiling 9th episode*** w
 Do watch this. 
 
 ---
+<br>
 1. Medieval people seem to scheme like masterminds, unimaginable for my modern age, lazy brain. 
 2. Well, the unseathing of the swords gives you an idea. I'd like an instrument like this nowadays. Imagine you walking down the street, someone gets in your way. Instead of walking by, doing nothing, you unsheathe your sword. Depending on how sophisticated you pull it off, you got yourself a slave, get  offered a match with his daughter or lose your head in duel. 
 3. eBook, of course. Interesting: the English kindle edition is [5,67€](http://www.amazon.de/Game-Thrones-Song-Fire-ebook/dp/B000QCS8TW/ref=sr_1_2?ie=UTF8&m=A11MW6AJTK8WZ7&s=digital-text&qid=1308776721&sr=1-2), but in Germany there's a fixed price for books (hooray), so even the German eBook is [9,99€](http://www.amazon.de/Das-Lied-von-Feuer-ebook/dp/B004OVEY4O/ref=sr_1_5?ie=UTF8&m=A11MW6AJTK8WZ7&s=digital-text&qid=1308776721&sr=1-5). Almost as twice as much. The German publishers really must hate progress.

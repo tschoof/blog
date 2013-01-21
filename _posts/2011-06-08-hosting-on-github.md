@@ -19,5 +19,6 @@ Of course this alone didn't do the trick. I had to wait some very uncomfortable 
 But hey, that's how you *get* experience, I guess. And now this baby's completely hosted on github, which I find very compelling because of the easy deployment (and no monthly costs for webspace). Let's see how long git's free 300Mb suffocate.
 
 ---
+<br>
 1. It's recommended that you rip off other people's work.
 2. Well, that's what **I** think happened. If I'm wrong and you know what really happened, please give me a shout. 

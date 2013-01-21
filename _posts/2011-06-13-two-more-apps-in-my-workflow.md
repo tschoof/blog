@@ -5,6 +5,7 @@ date: 2011-06-13 19:00:00
 category: tech
 published: true
 ---
+
 When I wrote about my [iOS-centric workflow](http://blog.timmschoof.com/2011/06/05/my-iOS-workflow), or: funflow, I forgot to mention two apps.
 
 First, the important one: [**1Password Pro**](http://itunes.apple.com/us/app/1password-pro/id319898689?mt=8). I keep all my passwords and account logins in it. It's one of the apps I launch most often, because it's all in one place. Once I got away from the foolish 'same password for every account' policy, I learned that one safe place to keep all the individually generated passwords is the only way to go. Of course, if my master password gets cracked my other passwords are worth nothing, that's the downside. Still, I think it's the only reasonable way to handle today's requirements of amounts of logins and passwords.  

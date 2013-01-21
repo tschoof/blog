@@ -371,7 +371,7 @@ div#footer li{
     border-color: #FF6600;
     box-shadow:0 0 0.3em #FF9B58;
 }
-sup { vertical-align: top; font-size: 0.6em; }
+sup { vertical-align: top; font-size: 0.6em; padding-left: 1px; }
 
 @media only screen and (max-width: 50em) { /* 800px */
 		body { font-size:100%;}

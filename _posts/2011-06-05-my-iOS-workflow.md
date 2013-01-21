@@ -80,6 +80,7 @@ I never will understand why Apple's clock app doesn't offer multiple timers. But
 This was a huge one, I hope it's of use to you.
 
 ---
+<br>
 1. As much as one can **need** a gadget.   
 2. Of course, all the documents I need and use are stored in Dropbox. Needless to say that if you don't already use Dropbox, you **need** to do so. [Sign up](http://db.tt/X3XjJMl).
 3. recent documents view, animations for example, and overall look & feel
