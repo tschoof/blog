@@ -364,12 +364,12 @@ div#footer li{
 		border-radius: 0.8em;
 		background-color: #DFDFDF;
 		color: black;
-		border: 2px solid #B8B8B8; 
+		border: 0.125em solid #B8B8B8; 
 }
 #search input:focus {
 	outline:none;
     border-color: #FF6600;
-    box-shadow:0 0 0.3em #FF9B58;
+    box-shadow:0 0 0.35em #FF9B58;
 }
 sup { vertical-align: top; font-size: 0.6em; padding-left: 1px; }
 
