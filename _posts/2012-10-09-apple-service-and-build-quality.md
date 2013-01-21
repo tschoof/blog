@@ -11,7 +11,7 @@ During the last two months, I went to an Apple Store or Reseller about eight tim
 
 I spent several hours in Apple Stores or talking to Apple Support staff because of broken hardware, and that sucks.  There are quite a few things that are wrong with Apple's service. 
 
-### Build Quality
+## Build Quality
 In my experience, Apple has always had a reputation for good build quality. They do  unibody MacBooks a while now, but there still are other companies around that build 'business' laptops that are made of plastic material and never have heard of 'sturdiness'. So, in comparison: Apple laptops? Good build quality.  
 But most units Apple sells aren't laptops anymore. When I got the '[fat nano](http://en.wikipedia.org/wiki/Ipod_nano)' (nano third generation), I managed to get a replacement from Amazon because I thought the center button was loose. It was turning a little, just not as fix as you'd expect it to be, and I found that very annoying. Turns out it was the same with the replacement and every one of my friends' nanos I looked at afterwards. I figured that's what you get when you buy a product that's sold in such ridiculously large quantities.
 
@@ -30,7 +30,7 @@ I can use the MacBook, no problem. But, depending on the temperature and the pos
 
 But: Apple clearly has to put some effort in, it can't be that the iDevices are of so much worse average quality than the MacBooks. But the PR-hogwash about production tolerances with the iPhone 5 seem to go in that direction. But the low build quality I experienced is not my only concern. 
 
-### No Apple Store around? Suck it up.
+## No Apple Store around? Suck it up.
 Since I'm from Hamburg, I'm used to having an Apple Store nearby. And when you go there and they can't resolve the problem at once, they basically throw replacement units at you. That's good. But when there's no Apple Store in your area, tough luck. When I called Apple Care regarding my latest iPhone problem, I already had reset my iPhone once, just to rule a software problem out. The support guy made me reset the iPhone again, now by using my Mac to download a new batch of iOS 6. Doing so, including backup and setting the iPhone up again took me roughly 1,5 hours. Just to recognize the persistence of the problem at the end of the process. **Pure joy.**  
 I'm not stupid, I think I recognize a hardware problem when I see one. That Apple Care deals with a lot of people who don't really can't (or: shouldn't) be my problem and therefore I shouldn't have to reset my iPhone another fancy way 'just to make sure'.
 

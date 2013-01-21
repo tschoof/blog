@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Burritos and Twitter in Dublin

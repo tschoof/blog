@@ -10,7 +10,7 @@ You may have heard of Mat Honan's case. [He got hacked pretty bad](http://www.wi
 
 The hackers wanted his Twitter Account. They got the link to his personal website on his Twitter profile. On his personal website, they found his Gmail address. On the [Google Account Recovery pagge](https://www.google.com/accounts/recovery/), they saw that his (partially displayed) recovery email address was an apple-run @me.com address. Basically, the rest is Apple's and Amazon's fault. They got access to his Amazon account, got the last four digits of the credit card and used that information to get into his Apple ID. The email address associated with it was the Google Account Recovery address mentioned above, so we've come full circle. 
 
-### Countermeasures
+## Countermeasures
 I was disappointed with most articles claiming to be a step-by-step guide on how to prevent this from happening to you. So here's my two cents.  
 The answer (of course) can't be not to have your website displayed on the twitter profile page or to use different names on every platform.  
 Amazon and Apple have changed the policies which enabled Honan's hackers to do what they did. But that doesn't mean you can relax. There are other ways, and other service providers may have crappy policies in place.
