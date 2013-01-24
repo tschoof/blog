@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="article-container">
-<h1><a href="{{ page.url }}" class="title">{{ page.title }}</a></h1>
+<h1><a class="title" href="{{ page.url }}" class="title">{{ page.title }}</a></h1>
 <p class="post-meta"><span style="display:none;"><a href="#" rel="author">Timm Schoof</a></span> {{ page.date | date: "%B %d, %Y" }} | {{  page.category  }}</p>
 <div id="article-text">
 {{ content }}
