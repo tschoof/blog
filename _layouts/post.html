@@ -9,4 +9,11 @@ layout: default
 </div>
 </div>
 
-<a href="{{ page.previous.url }}/" title="View {{ page.previous.title }}">View previous article</a>
+{% for post in site.pages limit:1 %}
+
+{% if page.previous %}
+<a href="{{ page.previous.url }}/" title="{{ page.previous.title }}">Previous Post</a>
+{% endif %}
+{% if page.next %}
+<a href="{{ page.next.url }}/" title="{{ page.next.title }}">Next Post</a>
+{% endif %}
