@@ -11,8 +11,9 @@ layout: default
 
 
 
+{% if page.previous %}
 <a href="{{ page.previous.url }}/" title="{{ page.previous.title }}">Previous Post</a>
-
-
+{% endif %}
+{% if page.next %}
 <a href="{{ page.next.url }}/" title="{{ page.next.title }}">Next Post</a>
-
+{% endif %}
