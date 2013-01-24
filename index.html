@@ -5,7 +5,7 @@ title: Home
 {% for post in paginator.posts %}
 
    <h1 class="title"><a title="Permalink" class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{  post.category  }}</p>
+    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | <a href="/categories/{{ post.category }}/">{{ post.category }}</a></p>
   <div class="post-content">
     {{ post.content }}
   </div>
