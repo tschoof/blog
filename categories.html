@@ -5,10 +5,10 @@ permalink: /categories/
 ---
 <h1 class="page">Categories</h1>
 
-<ul class="post-list" list-decoration="none">
+<ul class="post-list">
 {% for category in site.categories %}
 
-<li text-align="center"><a href="/categories/{{ category[0] }}/">{{ category[0] }}</a></li>
+<li><a href="/categories/{{ category[0] }}/">{{ category[0] }}</a></li>
 
 {% endfor %}
 
