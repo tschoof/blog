@@ -304,6 +304,7 @@ div#post-pagination a:hover {
 		color: #FF6600;
 }
 div#prevnext {
+		text-align: center;
 		width: 80%;
 }
 .previous {
