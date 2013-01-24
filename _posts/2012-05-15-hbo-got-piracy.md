@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: HBO, GoT and Piracy
@@ -6,6 +5,7 @@ date: 2012-05-15 14:30:00
 category: tech
 published: true
 ---
+
 Erik Kain:  
 > I do think that the internet is the future of television, and that the current model is flawed. I don’t like the fact that high-quality television requires de facto subsidies from the myriad other low-quality channels out there. But the contradiction remains: a la carte cable or stand-alone services would save customers money, but would also vastly restrict what sort of quality programming would be available.
 
