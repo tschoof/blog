@@ -363,8 +363,8 @@ div#footer li{
 		-moz-border-radius: 1em;
 		border-radius: 1em;
 		-moz-background-clip: padding;
--webkit-background-clip: padding-box;
-background-clip: padding-box;
+		-webkit-background-clip: padding-box;
+		background-clip: padding-box;
 		background-color: #DFDFDF;
 		color: black;
 		border: 0.125em solid #B8B8B8; 
@@ -387,7 +387,7 @@ sup { vertical-align: top; font-size: 0.6em; padding-left: 1px; }
 		div#header {
 				margin-bottom: 3em; }
 		.post-content {
-		margin-bottom: 5em;
+		margin-bottom: 5.5em;
 }
 		div#footer ul {
 				padding-left: 2%;
