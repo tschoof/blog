@@ -303,6 +303,10 @@ div#post-pagination a:hover {
 		opacity: 0.5;  
 		color: #FF6600;
 }
+div#prevnext {
+		width: 90%;
+		margin-top: 2em;
+}
 .previous {
 		float: right;
 		margin-bottom: 2em;
