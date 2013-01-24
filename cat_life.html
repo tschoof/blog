@@ -1,0 +1,12 @@
+---
+layout: default
+title: Archives
+permalink: /categories/life/
+---
+<h1 class="page">Category: life</h1>
+
+<ul class="post-list">
+{% for post in site.categories.life %} 
+<li><span>{{ post.date | date_to_string }}</span> <a  href="{{ post.url }}">{{ post.title }}</a></li><br>
+{% endfor %}
+</ul>
