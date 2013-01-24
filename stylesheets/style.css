@@ -306,6 +306,7 @@ div#post-pagination a:hover {
 div#prevnext {
 		text-align: center;
 		width: 80%;
+		margin: auto;
 }
 .previous {
 		float: right;
