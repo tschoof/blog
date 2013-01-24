@@ -362,6 +362,9 @@ div#footer li{
 		-webkit-border-radius: 1em;
 		-moz-border-radius: 1em;
 		border-radius: 1em;
+		-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
 		background-color: #DFDFDF;
 		color: black;
 		border: 0.125em solid #B8B8B8; 
