@@ -308,6 +308,9 @@ div#prevnext {
 		width: 80%;
 		margin: auto;
 }
+div#prevnext a {
+		font-size: 2em;
+}
 .previous {
 		float: right;
 		margin-bottom: 2em;
