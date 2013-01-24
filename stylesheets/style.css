@@ -303,17 +303,6 @@ div#post-pagination a:hover {
 		opacity: 0.5;  
 		color: #FF6600;
 }
-div#post-prevnext {
-		width: 66%;
-		margin: 0 auto 0 auto;
-}
-div#post-prevnext a {
-		font-size: 2.3em;
-}
-div#post-prevnext a:hover {
-		opacity: 0.5;  
-		color: #FF6600;
-}
 .previous {
 		float: right;
 		margin-bottom: 2em;
