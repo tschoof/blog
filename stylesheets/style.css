@@ -309,7 +309,7 @@ div#prevnext {
 		margin: auto;
 }
 div#prevnext a {
-
+		font-size: 200%;
 }
 .previous {
 		float: right;
