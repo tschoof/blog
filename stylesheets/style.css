@@ -359,9 +359,9 @@ div#footer li{
 		height: 1.5em;
 		margin: 0 25%;
 		text-align: center;
-		-webkit-border-radius: 0.8em;
-		-moz-border-radius: 0.8em;
-		border-radius: 0.8em;
+		-webkit-border-radius: 1em;
+		-moz-border-radius: 1em;
+		border-radius: 1em;
 		background-color: #DFDFDF;
 		color: black;
 		border: 0.125em solid #B8B8B8; 

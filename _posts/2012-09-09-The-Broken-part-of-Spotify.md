@@ -22,7 +22,7 @@ I kind of need what iTunes offers with its "Smart Playlists": An overview. And n
 You could say: Go to your "Starred" playlist and then look at the individual artists. And I think that could work. But for that to be feasible, the state described above desperately needs to change.
 
 ## What we need
-<br>
+
 * There should be an additional "Best Of" section so that the actual "Albums" section can become such.
 * The albums should be appear as albums, not as a bunch of tracks on some compilation. Spotify should get some interns to do that.
 * Albums should be sorted chronologically .
