@@ -8,11 +8,11 @@ layout: default
 {{ content }}
 </div>
 </div>
-<div id="post-pagination" class="pagination">
+<div id="post-prevnext" class="pagination">
 {% if page.previous %}
 <p class="next"><a href="{{ page.previous.url }}/" title="View previous post - {{ page.previous.title }}">&larr;</a></p>
 {% endif %}
 {% if page.next %}
-<p font-size="2em" class="previous"><a href="{{ page.next.url }}/" title="View next post - {{ page.next.title }}">&rarr;</a></p>
+<p class="previous"><a href="{{ page.next.url }}/" title="View next post - {{ page.next.title }}">&rarr;</a></p>
 {% endif %}
 </div>
