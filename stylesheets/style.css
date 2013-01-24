@@ -307,9 +307,8 @@ div#post-prevnext {
 		width: 90%;
 		margin: 0 auto 0 auto;
 }
-div#post-prevnext p {
+div#post-prevnext a {
 		font-size: 2.3em;
-		line-height: 0.7em;
 }
 div#post-prevnext a:hover {
 		opacity: 0.5;  
