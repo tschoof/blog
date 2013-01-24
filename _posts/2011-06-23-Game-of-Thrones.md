@@ -2,7 +2,7 @@
 layout: post
 title: Game of Thrones
 date: 2011-06-23 07:30:00
-category: movies and television
+category: movies_and_television
 published: true
 ---
 *This post is intended to be spoiler-free till the last paragraph*  

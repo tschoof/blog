@@ -2,7 +2,7 @@
 layout: post
 title: $145 million and no quality check
 date: 2012-05-08 17:00:00
-category: movies and television
+category: movies_and_television
 published: true
 ---
 I just watched 'Mission Impossible - Ghost Protocol'. What a bad movie. Embarrassingly so, really. By all means, it's a 'Blockbuster': High prodction value, multiple well-known actors and so on. I just can't understand how such a movie can turn out so bad. It's not that I had expected a deep, meaningful film. I expected action, explosions, jokes and so on, but I also expect good craftsmanship. The Budget of $145 million should enable the crew to consult someone to tell them: *'That's crappy, don't do that'* from time to time. Apparently, this only applied to the first 18.5 minutes of the film which are okay. After that, it's down.the.hill.

@@ -2,7 +2,7 @@
 layout: post
 title: GoldenEye
 date: 2011-07-05 11:00:00
-category: movies and television
+category: movies_and_television
 published: true
 ---
 Watching this film shocked me. It was the first Bond film that came out when I was old enough to recognize. '[GoldenEye](http://www.imdb.com/title/tt0113189/)' was the first Bond after a six-year interruption caused by a lawsuit (what else?) after Dalton's second and unfortunately, last part as 007 in '[License to Kill](http://www.imdb.com/title/tt0097742/)'.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scott Pilgrim
-category: movies and television
+category: movies_and_television
 published: true
 date: 2012-01-22 13:40:00
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Watched Recently
 date: 2012-07-31 22:45:16
-category: movies and television
+category: movies_and_television
 published: true
 ---
 * [Stay](http://www.imdb.com/title/tt0371257/)  

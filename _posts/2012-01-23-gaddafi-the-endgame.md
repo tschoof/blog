@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaddafi&#58; The Endgame
-category: movies and television
+category: movies_and_television
 published: true
 date: 2012-01-23 09:00:00
 ---
