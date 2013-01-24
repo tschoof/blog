@@ -1,0 +1,19 @@
+---
+layout: default
+title: Archives
+permalink: /categories/
+---
+<h1 class="page">Categories</h1>
+
+<ul class="post-list">
+{% for category in site.categories %}
+
+<li><a href="/categories/{{ category[0] }}.html">{{ category[0] }}</a></li>
+
+{% endfor %}
+
+</ul>
+
+
+
+
