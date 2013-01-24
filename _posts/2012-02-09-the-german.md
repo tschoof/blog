@@ -2,7 +2,7 @@
 layout: post
 title: The German
 date: 2012-02-09 15:26:00
-category: movies and television
+category: movies_and_television
 published: true
 ---
 <iframe src="http://player.vimeo.com/video/31202906?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="670" height="377" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
