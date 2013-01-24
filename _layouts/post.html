@@ -11,9 +11,9 @@ layout: default
 
 <div id="prevnext">
 {% if page.previous %}
-<a class="next" href="{{ page.previous.url }}/" title="Previous Post: {{ page.previous.title }}">&larr;</a>
+<a class="next" href="{{ page.previous.url }}/" title="Previous Post: {{ page.previous.title }}"><<</a>
 {% endif %}
 {% if page.next %}
-<a class="previous" href="{{ page.next.url }}/" title="Next Post: {{ page.next.title }}">&rarr;</a>
+<a class="previous" href="{{ page.next.url }}/" title="Next Post: {{ page.next.title }}">>></a>
 {% endif %}
 </div>
