@@ -311,6 +311,10 @@ div#prevnext {
 div#prevnext a {
 		font-size: 170%;
 }
+div#prevnext a:hover {
+		opacity: 0.5;  
+		color: #FF6600;
+}
 .previous {
 		float: right;
 		margin-bottom: 2em;
