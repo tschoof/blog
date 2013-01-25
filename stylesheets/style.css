@@ -306,10 +306,10 @@ div#post-pagination a:hover {
 div#prevnext {
 		text-align: center;
 		width: 80%;
-		margin: 0 auto -2em 0;
+		margin: 0 auto;
 }
 div#prevnext a {
-		font-size: 150%;
+		font-size: 170%;
 }
 .previous {
 		float: right;
@@ -318,6 +318,14 @@ div#prevnext a {
 .next {
 		float: left;
 		margin-bottom: 2em;
+}
+.previouspost {
+		float: right;
+		margin-bottom: 0.5em;
+}
+.nextpost {
+		float: left;
+		margin-bottom: 0.5em;
 }
 div#footer {
 		position:relative;
