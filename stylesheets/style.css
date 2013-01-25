@@ -289,7 +289,7 @@ p.pic {
 	height: 100%;
 }
 div#article-container {
-		margin-bottom: 7em;
+		margin-bottom: 4em;
 }
 div#article-text {
 		margin-top: 3em;
@@ -306,7 +306,7 @@ div#post-pagination a:hover {
 div#prevnext {
 		text-align: center;
 		width: 80%;
-		margin: auto;
+		margin: 1em auto;
 }
 div#prevnext a {
 		font-size: 150%;
