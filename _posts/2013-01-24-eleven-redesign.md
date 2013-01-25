@@ -41,8 +41,9 @@ The only thing that bothers me is what seems to be a rendering bug in Safari, si
 If you have any idea of how I can change my *border-radius* so that Safari doesn't mess it up, please don't hold back! 
 
 ## Future
-At some point I'd like to implement category pages that are linked from the category tag just beneath the article titles. This also isn't a hard problem, but it involves tinkering with YAML and stuff, and I didn't find a Jekyll-related tutorial that is close enough to my needs yet.  
-‘Next/Previous’ article links when viewing a single article fall in the same category. 
+<s>At some point I'd like to implement category pages that are linked from the category tag just beneath the article titles. This also isn't a hard problem, but it involves tinkering with YAML and stuff, and I didn't find a Jekyll-related tutorial that is close enough to my needs yet.  
+‘Next/Previous’ article links when viewing a single article fall in the same category.</s>  
+Now I just need to find a place and layout for this [Categories Page](http://blog.timmschoof.com/categories/).
 
 ## Feedback
 I tested the new sites on a MacBook, an iPhone an iPad mini, and some low-resolution Android smartphone, and am content the results with regard to repsonsiveness and readability. If you, however, have problems with this site or my Personal Page on any device, please contact me (email, twitter, ADN, it's all on... guess where, on the [Personal Page](http://timmschoof.com)) and I will try to improve the experience.  
