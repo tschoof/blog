@@ -306,7 +306,7 @@ div#post-pagination a:hover {
 div#prevnext {
 		text-align: center;
 		width: 80%;
-		margin: 0 auto;
+		margin: 0 auto -2em 0;
 }
 div#prevnext a {
 		font-size: 150%;
