@@ -321,11 +321,11 @@ div#prevnext a {
 }
 .previouspost {
 		float: right;
-		margin-bottom: 0.5em;
+		margin-bottom: 0.75em;
 }
 .nextpost {
 		float: left;
-		margin-bottom: 0.5em;
+		margin-bottom: 0.75em;
 }
 div#footer {
 		position:relative;
