@@ -2,7 +2,7 @@
 layout: post
 title: Where are we heading?
 date: 2012-03-14 21:10:00
-category: podcast
+category: tech
 published: true
 ---
 
