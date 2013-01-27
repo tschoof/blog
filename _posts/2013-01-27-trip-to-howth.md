@@ -10,6 +10,6 @@ published: true
 
 Since we're a few international students here in Dublin, we want to get to know Ireland, so we jump on a train or a bus and go places. And on those trips, my iPhone gets some photo business, and I'm always surprised how good iPhone photos look on a big screen, and how capable iPhoto for me as an absolute photo beginner is. 
 
-This time, we went to [Howth](http://en.wikipedia.org/wiki/Howth). Check out the [album on Flickr]. 
+This time, we went to [Howth](http://en.wikipedia.org/wiki/Howth). Check out the [album on Flickr](http://www.flickr.com/photos/timm_schoof/sets/72157632627104098/). 
 
 
