@@ -105,7 +105,10 @@ code {
 		font-family:"Courier New", Courier, monospace;
 /*		margin: 1em 1.5em 0.5em 2em; */
 		padding: 0.19em 0.3em;
-		background-color: #A6A6A6;
+		background-color: #989898;
+		-webkit-border-radius: 0.3em;
+		-moz-border-radius: 0.3em;
+		border-radius: 0.3em;
 }
 small {
 		font-size: 0.8em;
