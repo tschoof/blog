@@ -2,7 +2,7 @@
 layout: post
 title: Rammstein in Bremen
 date: 2011-12-06 21:00:00
-category: music
+category: life
 published: true
 ---
 Last week, I went to a Rammstein concert in Bremen. Great experience, spectacular. Yeah, it's expensive, but someone has to pay for all the pyrotechhnics. All in all, it was more like a(n awesome) show than a gig. That's the impression I get when I read an [article about the concert in Berlin](http://www.zeit.de/kultur/2011-11/rammstein-made-in-germany) that mentions the exact same songs that were played in Bremen. That's the tradeoff, I guess, for all the pyrotechnics, an extremely well designed stage setting for each song, a plastic penis with a pumping rate like a firehose, a rubber boat and a foam cannon (painted to imitate a giant penis, of course). That's the effects and all.

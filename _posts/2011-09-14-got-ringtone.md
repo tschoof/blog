@@ -2,7 +2,7 @@
 layout: post
 title: 'Ringring, #GoT style'
 date: 2011-09-14 21:00:00
-category: ringring
+category: tech
 ---
 I thought it would be nice to have a song from the Game of Thrones OST for a ringtone. Enjoy.
 <br>
