@@ -104,7 +104,7 @@ blockquote, q {
 code {
 		font-family:"Courier New", Courier, monospace;
 /*		margin: 1em 1.5em 0.5em 2em; */
-		padding: 0.19em 0.3em;
+		padding: 0.1em 0.1em;
 		background-color: #989898;
 		-webkit-border-radius: 0.3em;
 		-moz-border-radius: 0.3em;
