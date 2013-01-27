@@ -18,7 +18,7 @@ layout: nil
       <title>{{ post.title }}</title>
       <link>http://blog.timmschoof.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>Timm Schoof</author>
+      <author>hello@timmschoof.com</author>
       <guid>http://blog.timmschoof.com{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
