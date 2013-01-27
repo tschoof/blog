@@ -103,9 +103,9 @@ blockquote, q {
 }
 code {
 		font-family:"Courier New", Courier, monospace;
-/*		margin: 1em 1.5em 0.5em 2em;
-		padding: 0.19em 0.3em;*/
-		background-color: #FFB482;
+/*		margin: 1em 1.5em 0.5em 2em; */
+		padding: 0.19em 0.3em;
+		background-color: #F8DAC5;
 }
 small {
 		font-size: 0.8em;
