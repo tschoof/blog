@@ -1,14 +1,14 @@
 ---
 layout: nil
 ---
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
   <title>blog.timmschoof.com</title>
   <link href="http://blog.timmschoof.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.timmschoof.com/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://blog.timmschoof.com</id>
+  <id>http://blog.timmschoof.com/</id>
   <author>
     <name>Timm Schoof</name>
     <email>hello@timmschoof.com</email>
