@@ -14,7 +14,7 @@ layout: nil
     <email>hello@timmschoof.com</email>
   </author>
   
-  {% for post in site.posts %}
+  {% for post in site.posts limit:10 %}
   <entry>
     <id>http://blog.timmschoof.com{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://blog.timmschoof.com{{ post.url }}"/>

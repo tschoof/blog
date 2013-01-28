@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>blog.timmschoof.com</title>
+    <link>http://blog.timmschoof.com/</link>
+    <atom:link href="http://feeds.feedburner.com/timmschoof" rel="self" type="application/rss+xml" />
+    <description>This is Timm Schoof's personal blog. It's covering tech, films, and general thoughts.</description>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {% for post in site.posts limit:5 %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://blog.timmschoof.com{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>Timm Schoof</author>
+      <guid>http://blog.timmschoof.com{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel> 
+</rss>
