@@ -5,7 +5,7 @@ date: 2013-01-29 17:26:48
 category: tech
 published: true
 ---
-## New Media Controls
+
 Today, [iOS 6.1 arrived](http://www.loopinsight.com/2013/01/28/ios-6-1-released/). With its changes regarding the lock screen media controls, it shows that iOS is in a weird place design-wise:
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/controls_1.jpg"></p>
