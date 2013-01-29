@@ -30,6 +30,8 @@ Looking at the Settings app and the Notifications section in it, even tech-savvy
 
 The [overlay that the new sharing panel is](http://blog.timmschoof.com/images/sharingpanel.jpg) might be somewhere in the middle here. Not terrible, but also clearly not one thing: Well designed. And when new feautures aren't implemented well, but more crammed in, as it's the case in both these cases, that just leaves a bad taste in my mouth. A few months back, [Martin Weigert already feared for iOS' well-being](http://martinweigert.com/why-i-worry-about-apple-and-ios-6/) and had good points.
 
+**Update**: [This](http://cl.ly/MX99) looks buggy.
+
 ## Jony Ive to the Rescue!
 All this makes more obvious that something needs to be done about iOS. Something big, meaning: Full redesign, optics and mechanics. 
 
