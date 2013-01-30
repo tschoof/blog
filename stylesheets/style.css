@@ -229,7 +229,12 @@ p.pic {
 .post-content {
 		margin-bottom: 8.3em;
 }
-
+.videoWrapper-2-1 {
+	position: relative;
+	padding-bottom: 50.00%; /* 2:1 */
+	padding-top: 1.6em;
+	height: 0;
+}
 .videoWrapper-16-9 {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
@@ -287,6 +292,21 @@ p.pic {
 }
 .videoWrapper-4-3 object,
 .videoWrapper-4-3 embed,  {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.videoWrapper-2-1 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.videoWrapper-2-1 object,
+.videoWrapper-2-1 embed,  {
 	position: absolute;
 	top: 0;
 	left: 0;
