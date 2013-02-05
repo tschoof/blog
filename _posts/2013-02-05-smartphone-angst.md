@@ -43,5 +43,5 @@ Without the pressure of everyone using Napster to get music for free, nothing wo
 What do we learn from that? If the prosecution had beaten down Napster (or done it more quickly), similar services and its users, we'd still have to get up and leave the house in order to buy music. Imagine that. And yes, I am serious. You may wonder if I'm deducing a moral justification for what people call ‘piracy’ here? May be. For the sake of disruption? Hell yes. 
 
 All that being said, I get the appeal of sitting by the fire and reading a book without technology. Even ‘taking a break’, if you will. But after that, I'd like to turn on some nice music without leaving my humongous, comfortable armchair: via AirPlay, of course. So, if you can't manage your smartphone behaviour, that's fine, go back to your dumbphone, I'll evolve without you. But don't you dare confuse your dumbphone with a moral high ground card. 
-<br><br>
+<br>
 *Thanks a million to [Veronica](http://boardingwiththebangladeshis.wordpress.com), who helped me edit this article. And  to [Iven](http://ivenwinkelmann.com), who came up with the title.* 
