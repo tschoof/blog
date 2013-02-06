@@ -30,7 +30,7 @@ I bet he's right. Another quote regarding *House of Cards* episode lengths, from
 
 Now, people who don't use their smartphones anymore because they ‘take over their lives’ would be the same people who argue that they need commercial breaks because without them, they wouldn't know when to take a piss and get a beer.
 
-## *My phone can make calls, that's enough!*
+## 'My phone can make calls, that's enough!'
 But it's even more than that. If we shy away from a new tool or new way of doing something, then we miss out on much more than just a slightly better way of doing something we've already been able to do. The iPhone, for example, is not a better way of making calls. It is that, too, but it also is a frakkin' computer in your pocket. Although I *replaced* my N6300 with a 3GS back in 2009, I did not and do not just use my iPhone for calls. In fact, making regular calls is an activity I almost never perform, as other people under 25 also don't, I would guess. 
 
 There's a quote stuck in my head that's very fitting here. I can't remember the exact words and who said them, but it was something along the lines of: 
