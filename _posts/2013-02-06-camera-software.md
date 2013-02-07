@@ -6,7 +6,7 @@ category: tech
 published: true
 ---
 
-I completely agreed with [John Siracusa's CES-inspired article](http://hypercritical.co/2013/01/07/ces-worse-products-through-software) about how some hardware manufacturers don't care about software, what makes for severely worse products.
+I completely agreed with [John Siracusa's CES-inspired article](http://hypercritical.co/2013/01/07/ces-worse-products-through-software) about how some hardware manufacturers don't care about software, and how that makes for severely worse products. Great piece.
 
 Completely unrelated and yet so akin, Bryan Jones, in [a very insightful piece on the evolution of smartphone cameras](http://prometheus.med.utah.edu/~bwjones/2012/12/the-iphone-as-camera-where-to-now/), mentions that camera manufacturers fall within that category. He even compares them to car manufacturers, Siracusa's go-to example for nearly everything: 
 
