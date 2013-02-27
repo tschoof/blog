@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galway and beyond
+title: Galway and Beyond
 date: 2013-02-27 13:41:34
 category: dublin
 published: true
