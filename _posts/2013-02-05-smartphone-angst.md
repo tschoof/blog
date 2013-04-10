@@ -45,3 +45,5 @@ What do we learn from that? If the prosecution had beaten down Napster (or done 
 All that being said, I get the appeal of sitting by the fire and reading a book without technology. Even ‘taking a break’, if you will. But after that, I'd like to turn on some nice music without leaving my humongous, comfortable armchair: via AirPlay, of course. So, if you can't manage your smartphone behaviour, that's fine, go back to your dumbphone, I'll evolve without you. But don't you dare confuse your dumbphone with a moral high ground card. 
 <br>
 *Thanks a million to [Veronica](http://boardingwiththebangladeshis.wordpress.com), who helped me edit this article. And  to [Iven](http://ivenwinkelmann.com), who came up with the title.* 
+<br>
+**Update:** John Siracusa wrote a piece about [Technological Conservatism](http://hypercritical.co/2013/04/07/technological-conservatism) that fits in here really well. 
