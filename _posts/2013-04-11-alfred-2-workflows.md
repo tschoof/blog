@@ -20,7 +20,7 @@ But, of course, the workflows.
 
 [Alfredworkflow.com](http://www.alfredworkflow.com) is a good place to look if you just want to get started with a few simple workflows, or just browse to see what they're like. The Alfred Forum also has a [corner for workflows](http://www.alfredforum.com/forum/3-share-your-workflows/). Here are [a few more suggestions](http://blog.alfredapp.com/2013/04/03/alfred-v2-workflows-a-few-of-our-favourites-so-far/) from the Alfred folks themselves. [Florian Pellet has quite a few workflows](http://florianpellet.com/alfred/) he's working on. [Simon as well](http://simonbs.dk).
 
-## My favourites
+## My favourite Workflows
 You can tweak workflows however you like regarding modifier keys, exchanging shortcuts for keywords and the other way around etc., or even alter the scripts contained in them. It doesn't get more personalised and individual than this.
 
 * There is a big group of ‘suggest’ workflows. Searching [Google](http://tedwise.com/2013/03/04/alfred-2-workflows/), [Amazon](http://dferg.us/amazon-suggest-workflow/), [IMDB](https://github.com/Dexwell/alfred-imdb-suggest), [piratebay](http://florianpellet.com/alfred/), [YouTube](https://github.com/simonbs/alfred-youtube-workflow) and [Wikipedia](http://www.alfredforum.com/topic/1005-wikipedia-workflow-alternate/?hl=wikipedia) with suggestions makes way more sense.  
