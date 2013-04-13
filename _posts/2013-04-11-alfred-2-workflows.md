@@ -37,3 +37,5 @@ I also made a ‘reverse’ version of this workflow that opens a URL from the c
 ## Themes
 
 As far as theming goes: You might be interested in the [blur hack](http://www.alfredforum.com/topic/289-cheeky-little-transparency-blur-hack-in-b78-now-available/). [This theme](http://www.alfredforum.com/topic/1881-os-x-dock/#entry10016) goes well with it. [The forum](http://www.alfredforum.com/forum/4-v2-themes/) has more. 
+
+**Update:** [Alphred](http://www.alfredforum.com/topic/1955-alphred-appnet-distraction-free-posting-workflow/) by [mina](https://alpha.app.net/mina/) lets you post to app.net :)
