@@ -38,7 +38,7 @@ Search is a whole different thing. I realise that a script that indexes the cont
 The only thing that bothers me is what seems to be a rendering bug in Safari, since Chrome does a perfect job:
 <p class="pic"><img src="http://blog.timmschoof.com/images/safaribug.png"><br>This site's search box, Safari 6.0.2</p>
 
-If you have any idea of how I can change my *border-radius* so that Safari doesn't mess it up, please don't hold back! 
+<s>If you have any idea of how I can change my *border-radius* so that Safari doesn't mess it up, please don't hold back!</s> Since Safari 6.0.4, it displays correctly :)
 
 ## Future
 <s>At some point I'd like to implement category pages that are linked from the category tag just beneath the article titles. This also isn't a hard problem, but it involves tinkering with YAML and stuff, and I didn't find a Jekyll-related tutorial that is close enough to my needs yet.  
