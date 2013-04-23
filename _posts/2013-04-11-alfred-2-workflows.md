@@ -49,6 +49,7 @@ From the shownotes of that episode, I highly recommend [Tim Stringer's Screencas
 At first I thought I didn't need a shortcut to launch Safari, cause it's running all the time anyway. But the shortcuts also unhide apps (and unhide if you check the right box), and that is quite handy. Hotkeys for folders, and searches from selection are also quite nifty. Tim takes his time in the Screencast, but it's worth it.
 
 I discovered a few more ‘top notch’ workflows
+
 * [EggTimer](http://geekzone.philosophicalzombie.net/post/45984228801/eggtimer2) is very nice, does what it says.
 * [Skype Call](http://guiguan.github.io/Skype-Call/) is quite amazing, lets you call phone numers or skype contacts from Alfred, in a very fast manner.
 
