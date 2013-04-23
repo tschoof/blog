@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alfred 2 and some Workflows
+title: Alfred 2 and some Workflows (Updated)
 date: 2013-04-11 17:15:24
 category: tech
 published: true
@@ -31,11 +31,23 @@ Many of these workflows are out there in several varities, these particular ones
 * [Open current Safari tab in Chrome](http://www.alfredforum.com/topic/533-open-current-safari-tab-in-chrome/) by runar – Does what it says, for all Flash-less Safari users out there. I was able to uninstall a Safari extension that did the same because of this simple workflow. Less clutter.
 * [Domainr workflow](http://www.alfredforum.com/topic/1485-domainr-workflow/) by dingyi – Checks for availability of an URL, with different TLDs. If you're a URL buying junkie, don't get this.
 * [URL to Clipboard](https://dl.dropboxusercontent.com/u/7586201/URLtoClipboard.alfredworkflow) by Michael Matochkin – Copies the URL of the current Safari Tab, which doesn't have to be active or even in the front, to the clipboard. I can't find the original source, so I uploaded it to my Dropbox.  
-I also made a ‘reverse’ version of this workflow that opens a URL from the clipboard in a new Safari tab and brings it to the front. [Here](https://dl.dropboxusercontent.com/u/7586201/Clipboard_URL_to_Safari_Tab.alfredworkflow) you go. (I use cmd+alt+U and shift+cmd+alt+U as hotkeys, respectively)
+I also made a ‘reverse’ version of this workflow that opens a URL from the clipboard in a new Safari tab and brings it to the front. [Here](http://cl.ly/0x2O15380I3p) you go (**updated, see further down**). (I use cmd+alt+U and shift+cmd+alt+U as hotkeys, respectively)
 * If you're like me and don't like having stuff in your menubar the [battery workflow](http://www.alfredforum.com/topic/1211-battery-view-summary-stats-about-your-laptop-battery/?hl=%2Bbattery+%2Bworkflow#entry6850) and the [date and time calculator](http://www.alfredforum.com/topic/1663-display-and-calculate-with-current-date-and-time/?hl=%2Bdate+%2Bcalculator) workflow come in handy.
 
 ## Themes
-
 As far as theming goes: You might be interested in the [blur hack](http://www.alfredforum.com/topic/289-cheeky-little-transparency-blur-hack-in-b78-now-available/). [This theme](http://www.alfredforum.com/topic/1881-os-x-dock/#entry10016) goes well with it. [The forum](http://www.alfredforum.com/forum/4-v2-themes/) has more. 
 
 **Update:** [Alphred](http://www.alfredforum.com/topic/1955-alphred-appnet-distraction-free-posting-workflow/) by [mina](https://alpha.app.net/mina/) lets you post to app.net :)
+
+## *Bigger Update, April 23*
+I figured out a bit more about Alfred, but didn't want to spread it out into another post, so here we go:
+
+The [Mac Power Users Episode on Alfred](http://macpowerusers.com/2013/04/mac-power-users-133-alfred-2/) made me aware of a few core functionalities I had missed, like the action menu. Once Alfred recognises an app, you can go to the actions menu via the right arrow key, and with another stroke, you're in its recent documents.  
+If it's a folder or a file, the action menu lets you perform other actions. Here the buffer comes in, which lets you perform actions on multiple files. Going through a few documents you want to send via email is way more efficiet all of a sudden.  Powerful stuff. 
+
+From the shownotes of that episode, I highly recommend [Tim Stringer's Screencast](http://technicallysimple.com/screencasts/alfred-2-hotkeys/) made me realise *how* easy it is to make workflows for really rudimental stuff, and *how* much sense it makes.  
+At first I thought I didn't need a shortcut to launch Safari, cause it's running all the time anyway. But the shortcuts also unhide apps (and unhide if you check the right box), and that is quite handy. Hotkeys for folders, and searches from selection are also quite nifty. Tim takes his time in the Screencast, but it's worth it.
+
+I updated the above mentioned [URL to Safari Tab Workflow](http://cl.ly/0x2O15380I3p) from a crappy script to built-in functions, so that it actually only works with URLs.
+
+Finally, my global ‘[New Byword Document](http://cl.ly/1E390g2r3q0d)’ workflow is in shareable shape. It should work in every situation, with Byword running or not. Also shouldn't be too hard to edit it to fit the texteditor of your choice.
