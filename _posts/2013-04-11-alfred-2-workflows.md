@@ -48,9 +48,9 @@ If it's a folder or a file, the action menu lets you perform other actions. Here
 From the shownotes of that episode, I highly recommend [Tim Stringer's Screencast](http://technicallysimple.com/screencasts/alfred-2-hotkeys/) made me realise *how* easy it is to make workflows for really rudimental stuff, and *how* much sense it makes.  
 At first I thought I didn't need a shortcut to launch Safari, cause it's running all the time anyway. But the shortcuts also unhide apps (and unhide if you check the right box), and that is quite handy. Hotkeys for folders, and searches from selection are also quite nifty. Tim takes his time in the Screencast, but it's worth it.
 
-I discovered a few more ‘top notch’ workflows:  
-[EggTimer](http://geekzone.philosophicalzombie.net/post/45984228801/eggtimer2) is very nice, does what it says.  
-[Skype Call](http://guiguan.github.io/Skype-Call/) is quite amazing, lets you call phone numers or skype contacts from Alfred, in a very fast manner.
+I discovered a few more ‘top notch’ workflows
+* [EggTimer](http://geekzone.philosophicalzombie.net/post/45984228801/eggtimer2) is very nice, does what it says.
+* [Skype Call](http://guiguan.github.io/Skype-Call/) is quite amazing, lets you call phone numers or skype contacts from Alfred, in a very fast manner.
 
 I updated the above mentioned [URL to Safari Tab Workflow](http://cl.ly/0x2O15380I3p) from a crappy script to built-in functions, so that it actually only works with URLs.
 
