@@ -37,7 +37,7 @@ I also made a ‘reverse’ version of this workflow that opens a URL from the c
 ## Themes
 As far as theming goes: You might be interested in the [blur hack](http://www.alfredforum.com/topic/289-cheeky-little-transparency-blur-hack-in-b78-now-available/). [This theme](http://www.alfredforum.com/topic/1881-os-x-dock/#entry10016) goes well with it. [The forum](http://www.alfredforum.com/forum/4-v2-themes/) has more. 
 
-**Update:** [Alphred](http://www.alfredforum.com/topic/1955-alphred-appnet-distraction-free-posting-workflow/) by [mina](https://alpha.app.net/mina/) lets you post to app.net :)
+**Update:** [Alphred 2](https://directory.app.net/app/191/alphred-for-alfred-2/) by [mina](https://alpha.app.net/mina/) lets you post to app.net, now with PMs, sharing of the frontmost Safari tab and more :)
 
 ## *Bigger Update, April 23*
 I figured out a bit more about Alfred, but didn't want to spread it out into another post, so here we go:
@@ -47,6 +47,10 @@ If it's a folder or a file, the action menu lets you perform other actions. Here
 
 From the shownotes of that episode, I highly recommend [Tim Stringer's Screencast](http://technicallysimple.com/screencasts/alfred-2-hotkeys/) made me realise *how* easy it is to make workflows for really rudimental stuff, and *how* much sense it makes.  
 At first I thought I didn't need a shortcut to launch Safari, cause it's running all the time anyway. But the shortcuts also unhide apps (and unhide if you check the right box), and that is quite handy. Hotkeys for folders, and searches from selection are also quite nifty. Tim takes his time in the Screencast, but it's worth it.
+
+I discovered a few more ‘top notch’ workflows:  
+[EggTimer](http://geekzone.philosophicalzombie.net/post/45984228801/eggtimer2) is very nice, does what it says.  
+[Skype Call](http://guiguan.github.io/Skype-Call/) is quite amazing, lets you call phone numers or skype contacts from Alfred, in a very fast manner.
 
 I updated the above mentioned [URL to Safari Tab Workflow](http://cl.ly/0x2O15380I3p) from a crappy script to built-in functions, so that it actually only works with URLs.
 
