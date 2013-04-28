@@ -20,6 +20,6 @@ The necessity of the slash before `#disqus_thread` depends on how you style your
 I couldn't get the whole data-disqus-identifier thing to work, but it works fine without. As long as I don't migrate the blog, at least.
 
 **Disqus and CSS**  
-Probably it isn't helpful for anyone but me, but [here's the CSS](http://dl.dropbox.com/u/7586201/disqus.css) I styled Disqus with. For applying custom CSS to Disqus, just log in to it, go to [disqus.com/admin/settings/appearance/](http://disqus.com/admin/settings/appearance/) and paste yours in the Custom CSS box at the bottom.
+Probably it isn't helpful for anyone but me, but [here's the CSS](https://adn-uf-01.s3.amazonaws.com/adn-uf-01/Zz/5A/9R/Zz5A9RlI5V6DkIPbpgUddCpgPRqhZ-qlSirqlMVSczc?Signature=aUlFdHmNkHYC%2Fr84VtVDFMIb2Uo%3D&Expires=1367179200&AWSAccessKeyId=AKIAIKZV7DVMMUT2ECFQ&response-cache-control=public%2C%20max-age%3D7200%2C%20s-maxage%3D172800&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27disqus.css) I styled Disqus with. For applying custom CSS to Disqus, just log in to it, go to [disqus.com/admin/settings/appearance/](http://disqus.com/admin/settings/appearance/) and paste yours in the Custom CSS box at the bottom.
 
 For additional info, you can check out [my setup on github](https://github.com/tschoof/blog).
