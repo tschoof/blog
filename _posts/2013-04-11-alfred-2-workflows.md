@@ -51,7 +51,7 @@ At first I thought I didn't need a shortcut to launch Safari, cause it's running
 I discovered two more ‘top notch’ workflows
 
 * [EggTimer](http://geekzone.philosophicalzombie.net/post/45984228801/eggtimer2) is very nice, does what it says in a nice way.
-* [Skype Call](http://guiguan.github.io/Skype-Call/) is quite amazing, lets you call phone numers or skype contacts from Alfred, in a very fast manner.
+* [Uni Call](http://guiguan.github.io/Uni-Call/) is quite amazing, lets you call phone numers or skype or facetime contacts from Alfred, in a very fast manner.
 
 I updated the above mentioned [URL to Safari Tab Workflow](http://cl.ly/0x2O15380I3p) from a crappy script to built-in functions, so that it actually only works with URLs.
 
