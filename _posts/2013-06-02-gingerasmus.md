@@ -5,7 +5,8 @@ date: 2013-06-02 21:12:25
 category: dublin
 published: true
 ---
-<p class="pic"><img src="http://blog.timmschoof.com/images/trinityend.jpg"><br></p>
+
+<p class="pic"><a href="http://www.flickr.com/photos/timm_schoof/8550251609/in/set-72157632725073677"><img src="http://blog.timmschoof.com/images/trinityend.jpg"></a><br></p>
 
 Everything comes to an end, one way or the other. So does my academic year abroad, 9 months of raging being abroadness, also known as *Erasmus*. More or less now-ish. [Hi Hamburg, I am back](http://gph.is/XM0MBE).
 
