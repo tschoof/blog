@@ -5,6 +5,7 @@ date: 2012-05-20 14:30:00
 category: life
 published: true
 ---
+
 <div class="videoWrapper-16-10">http://www.youtube.com/watch?v=rGDl6-lyfMY</div>
 
 I think this documentary is very interesting and fascinating.  
