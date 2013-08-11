@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#60;&#47;gingerasmus&#62;
+title: "&#60;&#47;gingerasmus&#62;"
 date: 2013-06-02 21:12:25
 category: dublin
 published: true
