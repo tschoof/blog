@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#60;&#47;Hypercritical&#62;
+title: "&#60;&#47;Hypercritical&#62;"
 date: 2012-12-31 0:49:02
 category: tech
 published: true
