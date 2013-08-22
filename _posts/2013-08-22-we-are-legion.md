@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&#x0022;We Are Legion&#x0022;"
+title: "&#x0022;Anonymous&#x003A; We Are Legion&#x0022;"
 date: 2013-08-22 2:39:21
 category: tech
 published: true
