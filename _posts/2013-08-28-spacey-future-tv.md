@@ -6,11 +6,11 @@ category: movies_and_television
 published: true
 ---
 
-
+<br>
 <div class="videoWrapper-16-10"><iframe width="1280" height="960" src="//www.youtube-nocookie.com/embed/P0ukYf_xvgc" frameborder="0" allowfullscreen></iframe></div>
 
 Yes. Kevin Spacey on TV, the future of TV, pilots and House of Cards. 
 
-I also talk about Netflix and their model in [this article](http://blog.timmschoof.com/2013/02/05/smartphone-angst/).
+I also talk about Netflix and how House of Cards is special in [this article](http://blog.timmschoof.com/2013/02/05/smartphone-angst/).
 
 Thanks to [Timo](http://timoheuer.com/) for linking the video to me.
