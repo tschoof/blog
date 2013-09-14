@@ -12,4 +12,4 @@ I live on the 4th floor, and at night I can directly see into the light sources 
 
 > Most people don’t notice bad nighttime lighting; if you do, it can make you slightly crazed. When I’m driving at night, my wife has to tell me to watch the road instead of looking back over my shoulder at a yard whose trees have floodlights in their branches, or at an empty parking lot so bright that you could deliver babies in it
 
-[via kottke.org](http://kottke.org/13/09/the-night-light)
+via [kottke.org](http://kottke.org/13/09/the-night-light)
