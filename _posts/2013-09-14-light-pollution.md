@@ -6,7 +6,7 @@ category: life
 published: true
 ---
 
-I live on the 4th floor, and at night I can directly see into the light sources of all the road lights. There's just no way this is necessary. And then there's the glowing sky over Hamburg's busy port. And all the shop windows at night.
+I live on the 4th floor, and at night I can directly see the light sources of all the road lights outside my window. There's just no way this is necessary. And then there's the glowing sky over Hamburg's busy port. And all the shop windows at night. And so on.
 
 [This excellent piece](http://www.newyorker.com/reporting/2007/08/20/070820fa_fact_owen?currentPage=all) in *The New Yorker* from 2007 points out all the serious effects of light pollution: It is disturbing sleep, causes health issues, benefits crime, costs a ton of money, wastes energy and endangers animal populations.
 
