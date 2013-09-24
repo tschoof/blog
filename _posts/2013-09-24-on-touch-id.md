@@ -8,12 +8,10 @@ published: true
 
 <center>
 
-<blockquote>
 A room within a room<br>
 A door behind a door<br>
 Touch, where do you lead?<br>
 I need something more
-</blockquote>
 <em><small>Paul Williams, "Touch"</em></small>
 
 </center>
