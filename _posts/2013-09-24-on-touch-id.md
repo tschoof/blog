@@ -17,7 +17,7 @@ I need something more<br>
 </center>
 </p>
 
-Naturally, Touch ID was defeated ([By the CCC, yay Germany!](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid#.Uj9Bk6z0SqM.twitter)) in only a matter of hours after the iPhone 5S was available. And people are all over it. Bottom line: This end-user product doesn't provide military-grade security. No shit.
+Naturally, Touch ID was defeated ([By the CCC, yay Germany!](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid#.Uj9Bk6z0SqM.twitter)) only in a matter of hours after the iPhone 5S was available. And people are all over it. Bottom line: This end-user product doesn't provide military-grade security. No shit.
 
 *See!? Using biometric for security doesn't make sense!*
 
