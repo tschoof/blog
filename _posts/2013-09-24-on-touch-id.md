@@ -12,25 +12,25 @@ published: true
 A room within a room<br>
 A door behind a door<br>
 Touch, where do you lead?<br>
-I need something more<br>
+I need something more
 </blockquote>
-<em><small>Daft Punk, "Touch"</em></small>
+<em><small>Paul Williams, "Touch"</em></small>
 
 </center>
 
-Oh well. Of course, Touch ID was defeated ([By the CCC, yay Germany!](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid#.Uj9Bk6z0SqM.twitter)) in only a matter of hours after the iPhone 5S was available. And people are all over it. Bottom line: This end-user product doesn't provide military-grade security. Oh, surprise.
+Naturally, Touch ID was defeated ([By the CCC, yay Germany!](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid#.Uj9Bk6z0SqM.twitter)) in only a matter of hours after the iPhone 5S was available. And people are all over it. Bottom line: This end-user product doesn't provide military-grade security. Oh, surprise.
 
-> *See!? Using biometric for security doesn't make sense!*
+*See!? Using biometric for security doesn't make sense!*
 
-> Duh, of course it's hackable, but it's better than **nothing**, and pin codes are a pain in the ass!
+Duh, of course it's hackable, but it's better than **nothing**, and pin codes are a pain in the ass!
 
-> *But it's so easy!*
+*But it's so easy!*
 
-> Only if you're the FBI!
+Only if you're the FBI!
 
-> *Or a private eye!*
+*Or a private eye!*
 
-> Dude, we're not saying it's perfect, but it's better than a pin code nobody is using!
+Dude, we're not saying it's perfect, but it's better than a pin code nobody is using!
 
 A level of security that is annoying and therefore not used is weaker than weak security, got it? [Apparently not](http://arstechnica.com/security/2013/09/defeating-apples-touch-id-its-easier-than-you-may-think/): 
 
