@@ -8,10 +8,12 @@ published: true
 
 <center>
 
-> A room within a room
-> A door behind a door
-> Touch, where do you lead?
-> I need something more
+<blockquote>
+A room within a room<br>
+A door behind a door<br>
+Touch, where do you lead?<br>
+I need something more<br>
+</blockquote>
 
 </center>
 
