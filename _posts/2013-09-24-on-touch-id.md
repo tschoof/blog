@@ -30,7 +30,7 @@ Only if you're the FBI!
 
 *Or a private eye!*
 
-Dude, we're not saying it's perfect, but it's better than a pin code nobody is using!
+Dude, nobody's saying it's perfect, but it's better than a pin code nobody is using!
 
 A level of security that is annoying and therefore not used is weaker than weak security, got it? [Apparently not](http://arstechnica.com/security/2013/09/defeating-apples-touch-id-its-easier-than-you-may-think/): 
 
@@ -38,5 +38,6 @@ A level of security that is annoying and therefore not used is weaker than weak 
 
 No offense, but somebody's in need of a reality check here.
 
-Spending quite some time in university libraries, I see people leaving their laptops unattended, user accounts logged in and sure as hell with all their passwords readily available in Chrome.  
-Considering that, I can't believe we're having a discussion about somebody going to the lengths of obtaining and forging your finger print. I can't remember where I‘ve read it, put as it was put recently: If you're facing that, you have way more to worry about than your phone's contents.
+Spending quite some time in university libraries, I see people leaving their laptops unattended, user accounts logged in and sure as hell with all their passwords (pardon: the one password) readily available in Chrome's preferences.
+
+Considering that, I can't believe we're having a discussion about somebody going to the lengths of obtaining and forging your finger print. I can't remember where I‘ve read it, but: If you're facing *that*, you have way more to worry about than your phone's contents.
