@@ -3,17 +3,17 @@ layout: post
 title: "On Touch ID"
 date: 2013-09-24 11:57:05
 category: tech
-published: false
+published: true
 ---
 
-<p class="pic">
+<center>
 
 > A room within a room
 > A door behind a door
 > Touch, where do you lead?
 > I need something more
 
-</p>
+</center>
 
 Oh well. Of course, Touch ID was defeated ([By the CCC, yay Germany!](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid#.Uj9Bk6z0SqM.twitter)) in only a matter of hours after the iPhone 5S was available. And people are all over it. Bottom line: This end-user product doesn't provide military-grade security. Oh, surprise.
 
