@@ -7,7 +7,6 @@ published: true
 ---
 
 <center>
-<br>
 A room within a room<br>
 A door behind a door<br>
 Touch, where do you lead?<br>
@@ -15,7 +14,7 @@ I need something more<br>
 <em><small>Paul Williams, "Touch"</em></small>
 
 </center>
-
+<br>
 Naturally, Touch ID was defeated ([By the CCC, yay Germany!](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid#.Uj9Bk6z0SqM.twitter)) in only a matter of hours after the iPhone 5S was available. And people are all over it. Bottom line: This end-user product doesn't provide military-grade security. Oh, surprise.
 
 *See!? Using biometric for security doesn't make sense!*
