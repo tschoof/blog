@@ -11,6 +11,8 @@ Check out the [short piece on gawker](http://gawker.com/russell-brand-may-have-s
 
 <div class="videoWrapper-16-9"><iframe width="960" height="720" src="//www.youtube-nocookie.com/embed/3YR4CseY9pk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
+<br>
+
 Weirdly fitting words by [Mark Sample](https://twitter.com/samplereality):
 
 > "Low point" is the term for when the worst part of a disaster has come to pass. Our disasters increasingly have no low point.
@@ -18,5 +20,7 @@ Weirdly fitting words by [Mark Sample](https://twitter.com/samplereality):
 > After the low point of a disaster is reached, things begin to get better. When there is no clear low point, society endures chronic trauma.
 
 > Disasters with no clear low point: global warming, mass extinction, colony collapse disorder, ocean acidification, Fukushima.
+
+Hm.
 
 via [kottke.org](http://kottke.org/13/10/cdc-official-weve-reached-the-end-of-antibiotics)
