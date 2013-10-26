@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "For me&#x002C; it&#x0027;s real"
+title: "&#x0022;For me&#x002C; it&#x0027;s real&#x0022;"
 date: 2013-10-26 19:20:38
 category: life
 published: true
 ---
 
-Say what you will about Russel Brand, but I do like his attitude. He's authentic and is *saying* something meaningful in an *interview*. Check out the [short piece on gawker](http://gawker.com/russell-brand-may-have-started-a-revolution-last-night-1451318185) about the interview.
+Say what you will about Russel Brand, I do like his attitude. He's authentic and is *saying* something meaningful in an *interview*. He totally gets that he's not the leader of a revolution, but also that he doesn't have to act dumb because he's an **actor**.  
+Check out the [short piece on gawker](http://gawker.com/russell-brand-may-have-started-a-revolution-last-night-1451318185) about the interview.
 
 <div class="videoWrapper-16-9"><iframe width="960" height="720" src="//www.youtube-nocookie.com/embed/3YR4CseY9pk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
