@@ -1,6 +1,6 @@
 ---
 layout: post
-title: $145 million and no quality check
+title: $145 million and no quality control
 date: 2012-05-08 17:00:00
 category: movies_and_television
 published: true
