@@ -395,7 +395,7 @@ div#footer li{
 	padding: 1em 0;
 } 
 div#searchbox {
-	text-align: center;
+	margin: auto;
 	max-width: 50%;
 }
 
