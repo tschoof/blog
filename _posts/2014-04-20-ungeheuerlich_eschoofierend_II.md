@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ungeheuerlich eschoofierend II"
+title: "*ungeheuerlich eschoofierend*"
 date: 2014-04-20 15:45:23
 category: life
 published: true
