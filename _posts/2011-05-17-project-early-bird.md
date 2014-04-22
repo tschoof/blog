@@ -20,7 +20,7 @@ Then, I came across [Nicolas Alpi's post](http://notgeeklycorrect.com/2011/01/24
 * (sometimes) running some 5 kilometers
 * having breakfast/reading feeds/checking twitter/[<sup id="fn2b">2</sup>](#fn2)
 * having some free time/cleaning/dishes/collecting 'next steps' for the term paper
-* arriving at the bibliotheca at about **10 am**
+* arriving at the library at about **10 am**
 * having dinner at about **12:30 pm**[<sup id="fn3b">3</sup>](#fn3)
 * continuing to work at about **1:30 pm**
 * going home at about **6 pm** and feeling awkwardly good about it[<sup id="fn4b">4</sup>](#fn4)
