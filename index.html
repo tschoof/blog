@@ -1,0 +1,42 @@
+---
+layout: default
+title: Home
+---
+{% for post in paginator.posts %}
+
+   <h1 class="title"><a title="Permalink" class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | <a class="post-meta" href="/categories/{{ post.category }}/">{{ post.category }}</a></p>
+  <div class="post-content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+
+<div id="post-pagination" class="pagination">
+
+  {% if paginator.previous_page %}
+  <p class="previous">
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Newer Posts</a>
+    {% else %}
+    <a href="/page{{paginator.previous_page}}">Newer Posts</a>
+    {% endif %}
+  </p>
+  {% else %}
+  <p class="previous disabled">
+    <span></span>
+  </p>
+  {% endif %}
+
+  
+  {% if paginator.next_page %}
+  <p class="next">
+    <a href="/page{{paginator.next_page}}">Older Posts</a>
+  </p>
+  {% else %}
+  <p class="next disabled">
+    <span></span>
+  </p>
+  {% endif %}
+
+</div>

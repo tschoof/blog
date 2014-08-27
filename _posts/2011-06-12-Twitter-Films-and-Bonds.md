@@ -2,7 +2,11 @@
 layout: post
 title: Twitter, Films and Bonds
 date: 2011-06-12 23:00:00
+<<<<<<< HEAD
 category: films
+=======
+category: movies_and_television
+>>>>>>> gh-pages
 published: true
 ---
 Some time ago, on a Sunday evening, I had an idea. Everyone in Germany watches 'Tatort' on Sunday evenings, and so my Twitter timeline's full of it, too. The 'Tatort', somehow, isn't for me. Call me arrogant but I have to tell you that most of the time, I can't even stand original German TV anymore, not just the badly synchronized, US stuff. Maybe I just watch badly acted scenes whenever I peek in a German channel. However, I thought it would be great if everyone would watch something **good** and tweet or blog about it. Like a book club, just for films.
@@ -16,4 +20,8 @@ During the Roger Moore period, which sadly lasted more than a decade, you may st
 That's it for now, I just wanted to address what I think is an interesting kind of film criticism and getting it out there. Maybe we/me/whoever can start a little something like this some time, realized through blogposts, another podcast, or just Twitter, we'll see. 
 
 ---
+<<<<<<< HEAD
+=======
+<br>
+>>>>>>> gh-pages
 1. Which ones exactly are the worst is subject to heavy discussion, like you may have guessed. But I'm sure it's consent that quite a few, if not - let's say the worst two to three - are to find in Moore's era.

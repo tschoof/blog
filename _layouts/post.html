@@ -2,6 +2,24 @@
 layout: default
 ---
 <div id="article-container">
+<<<<<<< HEAD
 <h2 class="title">{{ page.title }}</h2>
 {{ content }}
 </div>
+=======
+<h1><a class="title" href="{{ page.url }}" class="title">{{ page.title }}</a></h1>
+<p class="post-meta"><span style="display:none;"><a href="#" rel="author">Timm Schoof</a></span> {{ page.date | date: "%B %d, %Y" }} | <a class="post-meta" href="/categories/{{ page.category }}/">{{ page.category }}</a></p>
+<div id="article-text">
+{{ content }}
+</div>
+</div>
+
+<div id="prevnext">
+{% if page.previous %}
+<a class="nextpost" href="{{ page.previous.url }}/" title="Previous Post: {{ page.previous.title }}"><<</a>
+{% endif %}
+{% if page.next %}
+<a class="previouspost" href="{{ page.next.url }}/" title="Next Post: {{ page.next.title }}">>></a>
+{% endif %}
+</div>
+>>>>>>> gh-pages

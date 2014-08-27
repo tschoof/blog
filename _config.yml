@@ -5,3 +5,8 @@ url: http://blog.timmschoof.com
 email: hello@timmschoof.com
 author: Timm Schoof
 permalink: /:year/:month/:day/:title
+<<<<<<< HEAD
+=======
+description: "This is Timm Schoof's personal blog."
+paginate: 7
+>>>>>>> gh-pages

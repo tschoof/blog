@@ -19,4 +19,8 @@ On unix systems, the OS reigns over all the drivers, unless you decide break the
 That's it, I probably went way out of my technological expertise with this one. But hey, point for unix there: You don't even have to understand it entirely in order to use it on an advanced level.
 
 ---
+<<<<<<< HEAD
+=======
+<br>
+>>>>>>> gh-pages
 1. To be honest: Windows 7 is the first iteration that recognized my LAN controller correctly on first boot, but I bet there are configurations out there which aren't that lucky.

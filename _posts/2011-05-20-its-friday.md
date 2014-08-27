@@ -10,5 +10,9 @@ It's warm, the sun's shining. I'm on the train from Pinneberg, where my sister l
 I sincerely hope you forgive me this one pathetic 'Oh my god my life's so awesome right now'-post. Have a great weekend.  
 
 ---
+<<<<<<< HEAD
+=======
+<br>
+>>>>>>> gh-pages
 1. We lawyered around a little, always a great exercise.
 2. Read: And night, we might drink one or two beers

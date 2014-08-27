@@ -20,5 +20,9 @@ It's like the postponing of 'do something that's fun for you' to reach a higher 
 Well, the above seems very obvious to me now that I read it, but it took me quite some time and thinking to get there.
 
 ---
+<<<<<<< HEAD
+=======
+<br>
+>>>>>>> gh-pages
 1. Still looking at you, mark I got in French in 7th grade, still looking.
 2. The latter is more productive procrastinating, but it still isn't studying.
