@@ -44,8 +44,7 @@ A side note: This is supposed to be about privacy. Well, I have to be honest: Iâ
 The decision's severe consequences come from the inapt application of "full effect" privacy principles to an information and communication context. 
 
 ## Inconsistencies and backfiring
-On top of that, there are several weirdnesses and inconsistencies.
-
+On top of that, there are several weirdnesses and inconsistencies.  
 Normally, you're redirected to a Google page with a TLD according to the country you're located in, for example [google.de](http://www.google.de/) in Germany. On Google's main page though, you can switch to [google.com](https://www.google.com/?gws_rd=ssl) (link in the bottom right corner) and hereby get to unaltered search results. Yes, it is that easy.  
 On one hand that is good, because that means all of the stuff I described above is easy to circumvent. On the other hand: The fact that wrong regulation is easy to circumvent doesn't make it right or even less dangerous. Even more dangerous actually, because it makes the slippery slope that this is seem more harmless.
 
