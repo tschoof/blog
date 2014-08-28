@@ -3,7 +3,7 @@ layout: post
 title: "Aiming to save privacy&#x002C; jeopardizing freedom of speech&#x003A; The &#x0022;Right to be forgotten&#x0022;"
 date: 2014-08-28 11:39:45
 category: law
-published: false
+published: true
 ---
 
 
