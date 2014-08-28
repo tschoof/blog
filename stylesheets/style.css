@@ -93,7 +93,8 @@ h2 {
 		font-weight: 400;
 		font-size: 1.4em; 
 		line-height: 1.12; 
-		margin-top: 1.2em; 
+		margin-top: 1.2em;
+		margin-bottom: 0.2em; 
 }
 blockquote, q {
 		margin: 1em 1.5em 1em 2em;
