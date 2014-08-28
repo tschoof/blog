@@ -7,7 +7,7 @@ published: true
 ---
 
 
-Google strives to make every kind of information searchable. A fascinating, and to some somewhat sinister goal. Now, the ECJ has decided that every citizen of the EU has a "Right to be forgotten" that is enforceable against Google (press release, .pdf – [En](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-05/cp140070en.pdf), [Ger](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-05/cp140070de.pdf)). Surely, that is for the better, no?
+Google strives to make every kind of information searchable. A fascinating, and to some somewhat sinister goal. Now, the [European Court of Justice](http://en.wikipedia.org/wiki/European_Court_of_Justice) has decided that every citizen of the EU has a "Right to be forgotten" that is enforceable against Google (press release, .pdf – [En](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-05/cp140070en.pdf), [Ger](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-05/cp140070de.pdf)). Surely, that is for the better, no?
 
 No, it is not. Not at all. Except for one detail: The ECJ ruled that European Privacy laws are applicable to Google's services offered in the EU, even though it's incorporated in California. That makes sense. Ok.  
 Let's take a closer look at the ECJ's decision.
