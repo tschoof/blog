@@ -13,7 +13,7 @@ No, it is not. Not at all. Except for one detail: The ECJ ruled that European Pr
 Let's take a closer look at the ECJ's decision.
 
 ## No balance
-If an individual wishes for links to be removed from the results for a search for their name, Google has to do so. While there are exceptions for public figures, the rule is that privacy trumps freedom of speech and freedom of information. That's it. There's no balancing by the ECJ, as there ought to be whenever fundamental values like this collide. That is the most fundamental problem.
+If an individual wishes for links to be removed from the results for a search for their name, Google has to do so. While there are exceptions for public figures, the rule is that privacy trumps freedom of speech and freedom of information. That's it. There's no balancing by the ECJ, as there ought to be whenever fundamental values like these collide. That is the most fundamental problem.
 
 ## Invisible information
 A very, very disturbing consequence of that lack of balance is that the ECJ separates information itself from its discoverability. I'll give an example: An individual requests the removal of a newspaper article about themself. Google complies with the request. The article, on the newspaper's website, stays online. *Technically*, the article is still "out there". The point is that nowadays, what Google doesn't find also doesn't exist, as far as the general public is concerned. And the ECJ explicitly knows that.  
