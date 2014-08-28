@@ -59,7 +59,7 @@ body {
 		color: #2E2E2E;
 }
 p {
-		margin: 0.7em 0 1.0em 0;
+		margin: 0.7em 0 0.8em 0;
 }
 em {	
 		font-style: italic;
@@ -82,7 +82,7 @@ a:hover {
 h1 {	
 		font-weight: 400;
 		font-size: 1.75em; /* 28px */
-		line-height: 1.1428; /* 32px */
+		line-height: 1.2; /* 32px */
 		margin-top: 0em; 
 		text-align: center;
 }
@@ -94,7 +94,7 @@ h2 {
 		font-size: 1.4em; 
 		line-height: 1.12; 
 		margin-top: 1.2em;
-		margin-bottom: 0.2em; 
+		margin-bottom: 0.0em; 
 }
 blockquote, q {
 		margin: 1em 1.5em 1em 2em;
