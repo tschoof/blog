@@ -40,7 +40,7 @@ Nobody could blame Google for defaulting to make the decisions so that there's t
 That means trusting Google with going to court in the name of the freedom of speech. I'm not entirely convinced that's what the ECJ intended.
 
 ## Privacy who?
-A side note: This is supposed to be about privacy. Well, I have to be honest: I’m a law student, and not since yesterday. But "privacy" for me was more the kind of thing that allowed you to go to Deutsche Telekom and request all of the information they have about you, [like Malte Spitz did](http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz/komplettansicht). Search results are nothing more than links to publicly available websites. "Privacy" wouldn't have come to my mind in a thousand years. And, at least before the ECJ’s decision, many others wouldn’t have either. Now, of course, nobody can afford to even express this thought.  
+A side note: This is supposed to be about privacy. Well, I have to be honest: I’m a law student, and not since yesterday. But "privacy" for me was more the kind of thing that allowed you to go to Deutsche Telekom and request all of the information they have about you, [like Malte Spitz did](http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz/komplettansicht). Search results are nothing more than links to publicly available websites. "Privacy" wouldn't have come to my mind in a thousand years. And, at least before the ECJ’s decision, many others wouldn’t have thought of it either. Now, of course, nobody can afford to even express this thought.  
 The decision's severe consequences come from the inapt application of "full effect" privacy principles to an information and communication context. 
 
 ## Inconsistencies and backfiring
