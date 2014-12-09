@@ -240,8 +240,8 @@ p.pic {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 1.6em;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
+	padding-left: -1em;
+	padding-right: -1em;
 	height: 0;
 }
 .videoWrapper-16-10 {
