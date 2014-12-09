@@ -59,7 +59,7 @@ body {
 		color: #2E2E2E;
 }
 p {
-		margin: 0.7em 1em 0.8em 1em;
+		margin: 0.7em 0 0.8em 0;
 }
 em {	
 		font-style: italic;
@@ -198,7 +198,7 @@ div#wrapper {
 		max-width: 870px;
 		font-size: 100%;
         line-height: 1.6875;
-        padding: 0 5%;
+        padding: 0 10%;
 }
 .title, .post-meta {
 		text-align: center;
