@@ -6,6 +6,7 @@ category: tech
 published: true
 ---
 
+
 Once again, Something seems to be happening with podcasts. There were roughly 500 articles and blogposts (I checked) written about *Serial*, so people seem more likely to know what podcasts are. It's not quite a gold rush like I've heard it was around 2004, but it's something.  
 Caused by this, there was more talk about the medium itself, and I found myself thinking more and more about all the ideas and observations that were brought up.  
 
@@ -41,7 +42,7 @@ I think that's why the daily routine of most people is a very hostile environmen
 So, podcasts have to exist in a different space. Mobile. Hands-free. Commute. Dishes, laundry and the like. That is why podcasts, when they streak the user's attention, need to be easy to be saved for 'later'. That gap is incredibly hard to bridge. The real sad part is how hard it even is for somebody who has made the intellectual leap and said: "*Yeah, on my way home, I'm gonna listen to that episode*" to make the technological one.  
 Technology is supposed to connect people to content, but at the same time, and necessarily so, stands **between** people and content. In an almost literal sense, the latter is the case with technology and podcasting.
 
-I needed, and you, if you're reading this, probably need to realize that **we are nerds**. Things we don't even think about, things we at best subconsciously recognize are inconvenient, for others are either hurdles that are very annoying to overcome, or brick walls that are impossible to. In that state of mind, witnessing the following as just mind-boggling.
+I alluded to this earlier already: I needed, and you, if you're reading this, probably need to realize that **we are nerds**. Things we don't even think about, things we at best subconsciously recognize are inconvenient, for others are either hurdles that are very annoying to overcome, or brick walls that are impossible to. In that state of mind, witnessing the following was just mind-boggling.
 
 I recently recommended the [*How does a farmer work?* episode of the *Working* podcast](http://www.slate.com/articles/podcasts/working/2014/12/david_plotz_talks_to_fruit_farmer_eddie_rankin_about_growing_the_perfect.html) to my sister. She doesn't really listen to podcasts, but she is a real foodie and I thought she might be intersted in how the interviewee grows certain kinds of apples.
  
