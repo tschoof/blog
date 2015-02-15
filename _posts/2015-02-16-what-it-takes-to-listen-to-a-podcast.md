@@ -16,7 +16,7 @@ There's a lot to say about the mechanisms of this medium, how it works, and more
 * Discovery is a big problem. There are podcast directories, sure, and iTunes is fine for being the place where all the podcasts are. But you likely won't find your new favorite podcast by searching through the genre lists.
 * There is the underlying technology, both for consuming and for producing podcasts that has multiple intertwined problems
 	* Onboarding experience
-	* Sharing, linking, resulting in a total lack of 'quotability'
+	* Sharing, linking, resulting in a total lack of 'quotability', as Jason and Myke [talked about on the latest episode of *Upgrade*](http://www.relay.fm/upgrade/22) and German Podcaster Tim Pritlove also got at when talking about transcripts, chapter marks and the like back [in 2011](http://der-lautsprecher.de/ls003) 
 	* Navigation of large backlogs
 
 All of these are certainly important and/or interesting. In this post, I am picking what I find to be the most fundamental, and if you look at it chronologically from a user's perspective, literally the **first** problem: The onboarding experience of listening to podcasts. Somebody's first podcast episode. 
