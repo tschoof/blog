@@ -41,7 +41,7 @@ I think that's why the daily routine of most people is a very hostile environmen
 ## Listening is about as demanding as recording
 So, podcasts have to exist in a different space. Mobile. Hands-free. Commute. Dishes, laundry and the like. That is why podcasts, when they streak the user's attention, need to be easy to be saved for 'later'. That gap is incredibly hard to bridge. The real sad part is how hard it is for a user who has actually made that leap and said: 'Yeah, on my way home, I'm gonna listen to that episode'.
 
-I recently recommended the ['How does a farmer work?' episode of the 'Working' podcast](http://www.slate.com/articles/podcasts/working/2014/12/david_plotz_talks_to_fruit_farmer_eddie_rankin_about_growing_the_perfect.html) to my sister. She doesn't really listen to podcasts, but she is a real foodie and I thought she might be intersted in how the interviewee grows certain kinds of apples.
+I recently recommended the ['How does a farmer work?' episode of the *Working* podcast](http://www.slate.com/articles/podcasts/working/2014/12/david_plotz_talks_to_fruit_farmer_eddie_rankin_about_growing_the_perfect.html) to my sister. She doesn't really listen to podcasts, but she is a real foodie and I thought she might be intersted in how the interviewee grows certain kinds of apples.
  
  I needed, and you, if you're reading this, probably need to realize that **we are nerds**. Things we don't even think about, things we at best subconsciously recognize are inconvenient, for others are either hurdles that are very annoying to overcome, or brick walls that are impossible to. In that state of mind, witnessing the process from my sister's perspective was just mind-boggling.
  
