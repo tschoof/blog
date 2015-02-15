@@ -6,8 +6,6 @@ category: tech
 published: true
 ---
 
-# What it Takes to Listen to a Podcast
-
 Once again, Something seems to be happening with podcasts. There were roughly 500 articles and blogposts (I checked) written about *Serial*, so people seem more likely to know what podcasts are. It's not quite a gold rush like I've heard it was around 2004, but it's something.  
 Caused by this, there was more talk about the medium itself, and I found myself thinking more and more about all the ideas and observations that were brought up.  
 
