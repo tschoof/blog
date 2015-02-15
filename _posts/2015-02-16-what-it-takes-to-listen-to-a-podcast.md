@@ -3,7 +3,7 @@ layout: post
 title: "What it Takes to Listen to a Podcast"
 date: 2015-02-15 23:59:44
 category: tech
-published: false
+published: true
 ---
 
 # What it Takes to Listen to a Podcast
