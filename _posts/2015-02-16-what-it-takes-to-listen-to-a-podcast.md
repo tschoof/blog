@@ -7,40 +7,42 @@ published: true
 ---
 
 
-Once again, Something seems to be happening with podcasts. There were roughly 500 articles and blogposts (I checked) written about *Serial*, so people seem more likely to know what podcasts are. It's not quite a gold rush like I've heard it was around 2004, but it's something.  
+Once again, something seems to be happening with podcasts. There were roughly 500 articles and blogposts written about [*Serial*](http://serialpodcast.org/), so people seem more likely to know what podcasts are. It's not quite a gold rush like I've heard it was around 2004, but it's something.  
 Caused by this, there was more talk about the medium itself, and I found myself thinking more and more about all the ideas and observations that were brought up.  
 
-There's a lot to say about the mechanisms of this medium, how it works, and more importantly how it does not (yet). Podcasting is so much rooted in tech geekdom that not all of the problems are easy to see or grasp for everyone involved. That could be the **cause** for many of them. Acknowledging either way that podcasting can't retrospectively change its roots, let's just take stock for now:
+There's a lot to say about the mechanisms of this medium, how it works, and more importantly how it does not -- yet. Podcasting is so much rooted in tech geekdom that not all of the problems are easy to see or grasp for everyone involved. Actually, that could be the **cause** for many of them. Acknowledging that podcasting can't retrospectively change its roots, let's just take stock for now:
 
-* There's the whole white media thing (hello again, [*Serial*](http://www.theawl.com/2014/11/serial-and-white-reporter-privilege)). 
-* There's the (also white) 'dudes talking about tech for (four) hours' phenomenon, which has multiple layers (quality, topical and conceptual monoculture) as [Dave Wiskus points out](https://www.youtube.com/watch?v=tRofTIM1sP0&amp;spfreload=10).
-* Discovery is a big problem. There are podcast directories, sure, and iTunes is fine for being the place where all the podcasts are. But you likely won't find your new favorite podcast by searching through the genre lists.
+* There's the whole 'white media' thing (hello again, [*Serial*](http://www.theawl.com/2014/11/serial-and-white-reporter-privilege)). 
+* There's the (also white) 'dudes talking about tech for (four) hours' phenomenon, which has multiple layers (quality, topical and conceptual monoculture, as well as 'white media') as [Dave Wiskus points out](https://www.youtube.com/watch?v=tRofTIM1sP0&amp;spfreload=10).
+* Discovery is a big problem. There are podcast directories, sure, and iTunes is fine for being the place where all the podcasts are. But you likely won't find your new favorite podcast by browsing a genre list.
 * There is the underlying technology, both for consuming and for producing podcasts that has multiple intertwined problems
-	* Onboarding experience
-	* Sharing, linking, resulting in a total lack of 'quotability', as Jason and Myke [talked about on the latest episode of *Upgrade*](http://www.relay.fm/upgrade/22) and German Podcaster Tim Pritlove also got at when talking about transcripts, chapter marks and the like back [in 2011](http://der-lautsprecher.de/ls003) 
-	* Navigation of large backlogs
+	* The onboarding experience is basically nonexistent
+	* Sharing and linking of content is hard, resulting in a total lack of 'quotability', as Jason and Myke [talked about on the latest episode of *Upgrade*](http://www.relay.fm/upgrade/22). German Podcaster Tim Pritlove also [got at this when he talked about transcripts, chapter marks and the like back in 2011](http://der-lautsprecher.de/ls003) 
+	* Navigation of large backlogs is cumbersome
 
-All of these are certainly important and/or interesting. In this post, I am picking what I find to be the most fundamental, and if you look at it chronologically from a user's perspective, literally the **first** problem: The onboarding experience of listening to podcasts. Somebody's first podcast episode. 
+All of these are certainly important and/or interesting in itself. In this post, I am picking what I find to be the most fundamental, and if you look at it chronologically from a user's perspective, literally the **first** problem: The onboarding experience: Somebody's first podcast episode. 
 
 ## Nobody listens to a Podcast by Accident
 
-But before I look at that specifically, I want to present my theory why podcasts are such a different beast in today's media landscape. This namely is why nobody finds himself on a podcast's website, clicks &#9654; and by that become an avid podcast listener.
-
-One could rant about how it is 2015 and in the podcast discussion it is **audio** we are talking about, and how it is unbelievable that we haven't solved this yet. But that would miss the point. The problem, when you think about it, is actually pretty complex and hard to solve. Spoken word audio cannot be handled like text or video, or even like music. It exists in a totally different space. In the average day of the average human in our modern world, it requires a very specific state of mind to be able to even **begin** listening to spoken word audio.
+But before I look at that specifically, I want to present my theory why podcasts are so different from everything else in today's media landscape. This namely is why nobody finds himself on a podcast's website, clicks &#9654; and by that became an avid podcast listener.  
+One could rant about how it is 2015 and it is **audio** we're talking about, how it is unbelievable that we haven't solved this yet. But that would miss the point: The problem, when you think about it, is actually pretty complex and hard to solve. Spoken word audio cannot be handled like text or video, or even like music. It exists in a totally different space. In the average day of the average human in our modern world, it requires a very specific state of mind to be able to even **begin** listening to spoken word audio.
 
 ## What about Text and Music?
-We are reading, looking at our phones, skimming Facebook and Twitter all day. And yes, you might think, we are listening to music all the time! That is correct. But music just goes too well with skimming text and looking at pictures, and with working, depending on what you do. And let's be honest, few people commute or walk around town with their eyes closed, focusing on the music they're listening to. Spoken word audio though requires you to pay attention and therefore doesn't go well with reading, skimming Facebook and the like.
+We are reading, looking at our phones, skimming Facebook and Twitter all day. And yes, you might think, we are listening to music all the time! That is correct. But music just goes too well with skimming text and looking at pictures. And with working, depending on what you do.  
+Let's be honest, few people commute or walk around town with their eyes closed, focusing on the music they're listening to. Spoken word audio though requires you to pay attention and therefore doesn't go well with everything just mentioned.
 
 ## What about Video?
-But what about YouTube? Video adds another dimension, requires much more attention from the user and a higher-bandwith connection than text or music. Much, much more so than a podcast, certainly. Still, people are watching videos on YouTube all day long, regardless of them being at their desktop or on their smartphone! Why is it then, that videos are so shareable and go viral all the time, while podcasts aren't at all?
+But what about YouTube? Video adds another dimension, requires much more attention from the user and a higher-bandwith connection than text or music. Much, much more so than a podcast, certainly! Still, people are watching videos on YouTube all day long! Why is it then, that videos are so shareable and go viral all the time, while podcasts aren't at all?
 
-Here, I think, duration is the key element. I have no data to back this up, but let's just agree that the "watched all the way through"-rate of a YouTube video significantly drops with every minute or even second that it is longer (some statisticians may just have died. Also: Sorry, Dr. Drang.). Podcast episodes rarely come in under 20 minutes, the attention span equivalent to about 200 funny YouTube videos and 1000 gifs.
+Here, I think, duration is the key element. I have no data to back this up, but let's just agree that the "watched all the way through"-rate of a YouTube video significantly drops with every minute or even second that it is longer (some statisticians may just have died. Also: Sorry, Dr. Drang). Podcast episodes rarely come in under 20 minutes, the attention span equivalent to about 200 funny YouTube videos and 1000 gifs.
 
 ## Listen to it Later
-I think that's why the daily routine of most people is a very hostile environment for opportunities to getting into podcasts: When we're most likely to stumble across a link or a reference to one, we're the least likely to follow it and end up listening to it. That is why podcasts cannot and do not spread like articles or videos (or gifs, god forbid). They just **die** out there, man.
+I think that's why the daily routine of most people is a very hostile environment for opportunities for 'getting into podcasts': When we're most likely to stumble across a link or a reference to one, we're the least likely to end up listening to it. That is why podcasts cannot and do not spread like articles or videos or gifs. They just **die** out there, man.
 
-So, podcasts have to exist in a different space. Mobile. Hands-free. Commute. Dishes, laundry and the like. That is why podcasts, when they streak the user's attention, need to be easy to be saved for 'later'. That gap is incredibly hard to bridge. The real sad part is how hard it even is for somebody who has made the intellectual leap and said: "*Yeah, on my way home, I'm gonna listen to that episode*" to make the technological one.  
-Technology is supposed to connect people to content, but at the same time, and necessarily so, stands **between** people and content. In an almost literal sense, the latter is the case with technology and podcasting.
+So, podcasts have to exist in a different space: Mobile. Hands-free. Commute. Dishes, laundry and the like. That is why podcasts, when they streak the user's attention, need to be easily 'saved for later'. That is hard to pull off.  
+The real sad part is how hard it is for somebody who even **has** made the intellectual leap and said "*Yeah, on my way home, I'm gonna listen to that episode*" to follow through and make the technological one as well.  
+
+Technology is supposed to connect people to content, but at the same time, and necessarily so, stands **between** people and content. In an almost literal and very sad sense, the latter is the case with technology and podcasting.
 
 I alluded to this earlier already: I needed, and you, if you're reading this, probably need to realize that **we are nerds**. Things we don't even think about, things we at best subconsciously recognize are inconvenient, for others are either hurdles that are very annoying to overcome, or brick walls that are impossible to. In that state of mind, witnessing the following was just mind-boggling.
 
