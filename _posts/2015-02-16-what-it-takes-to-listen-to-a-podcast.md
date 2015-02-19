@@ -91,5 +91,5 @@ Anyway, I hope something happens in this regard. I hope this article helps to id
 
 **Update**:
 
-Thanks a lot to Jason to so kindly mention my article, or rather my feedback email, on the [latest episode of *Upgrade*](http://www.relay.fm/upgrade/23)! Interesting thoughts about how Apple might be in the best positin to do some (more) ground work for podcasts.  
+Thanks a lot to Jason to so kindly mention my article, or rather my feedback email, on the [latest episode of *Upgrade*](http://www.relay.fm/upgrade/23). Interesting thoughts about how Apple might be in the best position to do some (more) ground work for podcasts.  
 Make sure to listen to (at least) that intersting bit, starting at minute 08:00 ;-)
