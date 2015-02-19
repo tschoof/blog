@@ -88,3 +88,8 @@ Of course, there's the idea of chapter marks out there, and in some way there ar
 We also have to keep in mind that every bolted-on convention puts the single best (and only good one, one could argue) thing about the technology at risk: Its openness, it being decentralized and stupidly simple (from a technological point of view): Just an RSS feed with linked audio files and some descriptive text. So beautiful.
 
 Anyway, I hope something happens in this regard. I hope this article helps to identify problems that keep podcasting back. There is so much great content out there, it would be a real bummer if we can't figure out how to make it more accessible for everyone. Thank you.
+
+**Update**:
+
+Thanks a lot to Jason to so kindly mention my article, or rather my feedback email, on the [latest episode of *Upgrade*](http://www.relay.fm/upgrade/23)! Interesting thoughts about how Apple might be in the best positin to do some (more) ground work for podcasts.  
+Make sure to listen to (at least) that intersting bit, starting at minute 08:00 ;-)
