@@ -6,7 +6,7 @@ category: tech
 published: true
 ---
 
-Here's an AppleScript that passes variables (episode title and description)  to a bash script, opens it in a terminal window and runs it letting you watch how it generates a podcast-ready mp3 file. I've put it into an Automator workflow that accepts audio files.
+Here's an AppleScript that passes variables (episode title and description)  to a bash script, opens it in a terminal window and runs it, letting you watch how it generates a podcast-ready mp3 file. I've put it into an Automator workflow that accepts audio files.
 
 <script src="http://pastebin.com/embed_js.php?i=PAtEKm0J"></script>
 <br>
