@@ -15,4 +15,4 @@ The website also sports the podlove subscribe button now, an attempt to [make su
 
 I am doing the editing, and *boy* is that fun. Audio and audio editing was completely new to me, and I found and still find it interesting to dive in. It's the best and the worst: Every little detail is a potential rabbit hole, from the microphone to the bitrate of the audio file you put out into the world. But it also is tremendous fun, and I honestly think *ue* is a pretty good sounding podcast by now. 
 
-So, if you speak or understand German: the latest episode of *ungeheuerlich eschoofierend* is about user interfaces – in general, and especially in public toilets. It may be my most siracusa-like performance *yet*. Cheers!
+So, if you speak or understand German: [the latest episode of *ungeheuerlich eschoofierend* is about **user interfaces**](http://www.ungeheuerlich.org/episoden/026) – in general, and especially in public toilets. It may be my most siracusa-like performance *yet*. Cheers!
