@@ -2,7 +2,7 @@
 layout: post
 title: "What it Takes to Listen to a Podcast"
 date: 2015-02-15 23:59:44
-category: [podcasts, life]
+category: "podcasts" "life"
 published: true
 ---
 
