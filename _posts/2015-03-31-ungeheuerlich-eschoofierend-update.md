@@ -6,7 +6,7 @@ category: podcasts
 published: true
 ---
 
-I don't really know why I stopped to post about the podcast my pal Timo and me are doing here – probably because of the different languages, now that I think about it. Meh, who cares?! Anyway, it's time for a little update.
+I don't really know why I stopped to post about the podcast my pal [Timo](http://timoheuer.com/) and me are doing here – probably because of the different languages, now that I think about it. Meh, who cares?! Anyway, it's time for a little update.
 
 While [*ungeheuerlich eschoofierend*](http://www.ungeheuerlich.org/) is somehow getting *zero* traction, it is more and more fun for me: We're getting better at identifying and talking about topics, and there is a trend more the 30-minutes episode, which is a comfortable length I feel like. 
 
