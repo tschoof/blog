@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ungeheuerlich eschoofierend update"
+title: "&#x0022;ungeheuerlich eschoofierend&#x0022; update"
 date: 2015-03-31 18:51:29
 category: podcasts
 published: true
