@@ -16,9 +16,9 @@ Currently I'm thinking about ideas for a new podacst project. Something law-rela
 
 
 ## Podcasting Community
-Anyway, the first Podcaster Meetup in Hamburg happened, and I think that's one of the ways the community can continue (or: start, for the cyncics out there) to develop this unique and awesome medium. If you are even only slightly interested in Podcasts and live in or around Hamburg, I urge you to keep an eye on the [meetup group](http://podcasting.meetup.com/cities/de/hamburg/).
+Anyway, the first **Podcaster Meetup in Hamburg** happened, and I think that's one of the ways the community can continue (or: start, for the cyncics out there) to develop this unique and awesome medium. If you are even only slightly interested in Podcasts and live in or around Hamburg, I urge you to keep an eye on the [meetup group](http://podcasting.meetup.com/cities/de/hamburg/).
 
-And for non-meatspace meetups, there is [*Sendegate*](https://sendegate.de/), a forum-like place for discussions for the German podcast community. When I first came across *Sendegate*, it seemed only to be concerned with Podlove-related stuff, but it turns out that's not true. Same here: If you're interested at all, give it a try!
+And for non-meatspace meetups, there is [*Sendegate*](https://sendegate.de/), a **forum-like place for discussions for the German podcast community**. When I first came across *Sendegate*, it seemed only to be concerned with Podlove-related stuff, but it turns out that's not true. Same here: If you're interested at all, give it a try!
 
 ## A Recommendation
 
