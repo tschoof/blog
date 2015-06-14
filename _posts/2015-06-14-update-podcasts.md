@@ -2,7 +2,7 @@
 layout: post
 title: "A short Update on a few things Podcasts"
 date: 2015-06-14 15:09:49
-category: tech
+category: podcasts
 published: true
 ---
 
