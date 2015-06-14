@@ -2,7 +2,7 @@
 layout: post
 title: "AppleScript for generating podcast-ready mp3s"
 date: 2015-03-21 12:40:20
-category: tech
+category: podcasts
 published: true
 ---
 
