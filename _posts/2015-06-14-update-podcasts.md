@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A short Update on Podcasts"
+title: "A short Update on a few things Podcasts"
 date: 2015-06-14 15:09:49
 category: tech
 published: true
