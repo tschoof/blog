@@ -22,5 +22,5 @@ And for non-meatspace meetups, there is [*Sendegate*](https://sendegate.de/), a 
 
 ## A Recommendation
 
-After the [accidental tech podcast](http://atp.fm/) had a discussion about women in tech, they did a host-switch with Rocket. Rocket is an awesome tech podcast hosted by Brainna Wu, Christina Warren and Simone De Rochefort. I had listened to the first episode of Rocket and hadn't liked it, but by now they've really found their voice and I really, really like it.  
-So, there's a recommendation for an all-female hosted tech podcast: [**Rocket**](https://www.relay.fm/rocket)
+After the [accidental tech podcast](http://atp.fm/) had a discussion about women in tech, they did a host-switch with Rocket. Rocket is an awesome tech podcast hosted by Brainna Wu, Christina Warren and Simone De Rochefort. I had listened to the first episode of Rocket and wasn't a fan. But by now they've really found their voice and I really, really like it. They're funny, witty and on top of their game in their respective fields. Thumbs up!  
+[**Rocket**](https://www.relay.fm/rocket)
