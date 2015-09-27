@@ -39,7 +39,7 @@ His point and mine, I guess, are kind of aligned in that we're both saying: The 
 
 All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.**  
 <br>
-<br>
+<br><br>
 <p class="pic"><img src="http://blog.timmschoof.com/images/shark.jpg"><br></p>
 
 ##Just try it.
