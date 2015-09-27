@@ -83,8 +83,6 @@ I also really enjoy the Cameras or Whatever podcast. They say it's a "podcast fo
 
 
 <br>
-<p class="pic"><img src="http://blog.timmschoof.com/images/flower.jpg"><br></p>
-
 <p class="pic"><img src="http://blog.timmschoof.com/images/walker.jpg"><br></p>
 
 ##Focal length
