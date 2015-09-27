@@ -8,6 +8,7 @@ published: true
 
 <p class="pic"><a href="http://www.flickr.com/photos/timm_schoof/8550251609/in/set-72157632725073677"><img src="http://blog.timmschoof.com/images/trinityend.jpg"></a><br></p>
 
+
 Everything comes to an end, one way or the other. So does my academic year abroad, 9 months of raging being abroadness, also known as *Erasmus*. More or less now-ish. [Hi Hamburg, I am back](http://gph.is/XM0MBE).
 
 What can I say? It's been a blast. I want to thank, [wholeheartedly](http://blog.timmschoof.com/2012/10/19/wholeheartedly/), the very special people who I hope know that I mean them by this: People with whom I've had conversations valuable as gold, moments of pure joy and experiences I treasure. Thank you. I was very lucky to meet you, and I am very happy to think of some of you as my friends, and I am not the person to throw that term around just like that. 
