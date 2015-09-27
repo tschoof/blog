@@ -85,6 +85,8 @@ I also really enjoy the Cameras or Whatever podcast. They say it's a "podcast fo
 <br>
 <p class="pic"><img src="http://blog.timmschoof.com/images/flower.jpg"><br></p>
 
+<p class="pic"><img src="http://blog.timmschoof.com/images/walker.jpg"><br></p>
+
 ##Focal length
 An extra word on focal length: One could think it's as easy as googling the definition... but it is not. All the graphics and examples like "greater focal length brings you closer" really didn't do it for me, until I saw one specific graphic that I can't find anymore.  🎉
 Everything that focal lenght was to me were random numbers. Missing was a reference. But there is one, and it is our, the "regular" human field of view. Of course we have very wide peripheral vision, but the FOV people with glasses have for example, the "main" part of the vision is roughly equivalent to a 40-50mm focal length. Therefore lenses in that range are called "standard" lenses.  
