@@ -3,10 +3,10 @@ layout: post
 title: "Getting into Photography in 2015"
 date: 2015-09-28 12:07:54
 category: life
-published: false
+published: true
 ---
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/lensgrab.jpg"><br></p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/m.jpg"><br></p>
 
 I've always struggled with photography. After a trip to London at the age of 15, I realized that I had taken the worst pictures *ever*, and was really disappointed. So naturally, that was it for me and photography – at least for the next few years. Then, the iPhones came but I never quite got beyond taking snapshots. I also was just disappointed when they didn't work. Or didn't in Instagram's square format – which, admittedly, is a bit less of a problem now, because the [squares are gone now](http://www.theverge.com/2015/8/27/9212523/instagram-full-size-photos-portrait-landscape) (the joy, *the joy*!).
 
@@ -83,7 +83,7 @@ I also really enjoy the Cameras or Whatever podcast. They say it's a "podcast fo
 
 
 <br>
-<p class="pic"><img src="http://blog.timmschoof.com/images/tower.jpg"><br></p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/flower.jpg"><br></p>
 
 ##Focal length
 An extra word on focal length: One could think it's as easy as googling the definition... but it is not. All the graphics and examples like "greater focal length brings you closer" really didn't do it for me, until I saw one specific graphic that I can't find anymore.  🎉
