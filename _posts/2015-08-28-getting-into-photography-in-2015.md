@@ -3,7 +3,7 @@ layout: post
 title: "Getting into Photography in 2015"
 date: 2015-09-28 12:07:54
 category: life
-published: true
+published: false
 ---
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/lensgrab.jpg"><br></p>
