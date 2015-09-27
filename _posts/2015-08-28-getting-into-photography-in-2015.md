@@ -52,10 +52,11 @@ If there are no manual-mode masters in your life, or if you want to dive in deep
 On the other hand, I do google stuff like any sane person nowadays should. Somewhere between those extremes, there are (YouTube) tutorials. I fully acknowledge that I am the last person to say this, but YouTube is awesome! There are also great for-pay tutorials on sites like [lynda.com](http://www.lynda.com) where you don't have to pick the good tutorials out of the sea of the not-so-great ones. With a little effort though, you can find something that really kickstarts almost anything you're not so skilled at *yet* on YouTube.  
 Anyway, I feel like for photography, there are very bad tutorials, especially the more general ones. So I'm just gonna throw a bunch of links in here :)
 
-In this episode of the excellent [What's Tech podcast](http://www.theverge.com/whatstech/2015/4/28/8505035/cameras-photography-explainer-whats-tech), Chris Plante (yes, from the article mentioned above) and Sean O'Kane explain what DSLRs, mirrorless cameras, ISO, shutter speed, and RAW are – *recommended*.
+In this episode of the excellent [What's Tech podcast](http://www.theverge.com/whatstech/2015/4/28/8505035/cameras-photography-explainer-whats-tech), Chris Plante (yes, from the article mentioned above) and Sean O'Kane explain what DSLRs, mirrorless cameras, ISO, shutter speed, and RAW are – *recommended*.  
+
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202905516&color=ff5500"></iframe>
-
+<br>
 **Videos**  
 
 * I think the [Photography 101 by Jeff Cable](http://www.youtube.com/watch?v=ksqfTapOk3o) is as good a 101 as any. Note that he doesn't mention almost any specific values for shutter speed or ISO, since the talk is about general principles.
