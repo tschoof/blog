@@ -37,7 +37,8 @@ Let's [hear Chris Plante](http://www.theverge.com/2015/1/20/7852911/why-you-shou
 
 His point and mine, I guess, are kind of aligned in that we're both saying: The in-between state of smartphone photography is nice and all, but it might *really* pay off for you to dive in deeper.
 
-All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.** 
+All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.**  
+<br>
 <br>
 <p class="pic"><img src="http://blog.timmschoof.com/images/shark.jpg"><br></p>
 
