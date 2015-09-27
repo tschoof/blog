@@ -7,6 +7,7 @@ published: true
 ---
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/m.jpg"><br></p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/21772001021/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/m.jpg"></a></p>
 
 I've always struggled with photography. After a trip to London at the age of 15, I realized that I had taken the worst pictures *ever*, and was really disappointed. So naturally, that was it for me and photography – at least for the next few years. Then, the iPhones came but I never quite got beyond taking snapshots. I also was just disappointed when they didn't work. Or didn't in Instagram's square format – which, admittedly, is a bit less of a problem now, because the [squares are gone now](http://www.theverge.com/2015/8/27/9212523/instagram-full-size-photos-portrait-landscape) (the joy, *the joy*!).
 
