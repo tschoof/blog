@@ -39,7 +39,7 @@ His point and mine, I guess, are kind of aligned in that we're both saying: The 
 
 All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.**  
 <br><br>
-<p class="pic"><img src="http://blog.timmschoof.com/images/shark.jpg"><br></p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/shark.jpg"></a></p>
 
 ##Just try it.
 That's enough for a motivational speech, let's get a little more hands-on:
@@ -83,7 +83,7 @@ I also really enjoy the Cameras or Whatever podcast. They say it's a "podcast fo
 
 
 <br>
-<p class="pic"><img src="http://blog.timmschoof.com/images/walker.jpg"><br></p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20458819624/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/walker.jpg"></a></p>
 
 ##Focal length
 An extra word on focal length: One could think it's as easy as googling the definition... but it is not. All the graphics and examples like "greater focal length brings you closer" really didn't do it for me, until I saw one specific graphic that I can't find anymore.  🎉
