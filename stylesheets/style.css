@@ -220,9 +220,8 @@ a:hover.post-meta {
 		color: #FF6600;
 }
 img {
-		max-width: 115%;
+		max-width: 100%;
 		height: auto;
-		text-align: center;
 }
 p.pic {
 		text-align: center;
