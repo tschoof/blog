@@ -56,7 +56,6 @@ Anyway, I feel like for photography, there are very bad tutorials, especially th
 In this episode of the excellent [What's Tech podcast](http://www.theverge.com/whatstech/2015/4/28/8505035/cameras-photography-explainer-whats-tech), Chris Plante (yes, from the article mentioned above) and Sean O'Kane explain what DSLRs, mirrorless cameras, ISO, shutter speed, and RAW are – *recommended*.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202905516&color=ff5500"></iframe>
-<br>
 
 **Videos**  
 
