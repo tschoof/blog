@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Getting into Photography in 2015"
-date: 2015-09-28 12:07:54
+date: 2015-09-28 08:07:54
 category: life
-published: false
+published: true
 ---
 
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/21772001021/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/m.jpg"></a><br>a portrait – © Timm Schoof</p>
