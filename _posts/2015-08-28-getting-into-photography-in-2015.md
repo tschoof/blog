@@ -76,11 +76,11 @@ In this episode of the excellent [What's Tech podcast](http://www.theverge.com/w
 **Cameras or Whatever**  
 I also really enjoy the [*Cameras or Whatever* podcast](http://stalman.com/camerasorwhatever/). They say it's a "podcast for the working photographer", but I didn't find that to be a barrier for me as a beginner. I started with these episodes because they hit topics that were also wandering around my head. This order should be roughly equivalent to the relevance to beginners I think:
 
-* [03 – prime vs zoom lenses](http://stalman.com/camerasorwhatever/3) - [Overcast link](https://overcast.fm/+D7s5_U1_0)
-* [17 – instafame](http://stalman.com/camerasorwhatever/17) - [Overcast Link](https://overcast.fm/+D7s6WCGLw)
-* [20 – street photography](http://stalman.com/camerasorwhatever/20) - [Overcast Link](https://overcast.fm/+D7s6qcrOU)
-* [24 – review of the canon 50mm f1,8 stm](http://stalman.com/camerasorwhatever/24) - [Overcast Link](https://overcast.fm/+D7s4-MFe0)
-* [14 – flickr is still cool](http://stalman.com/camerasorwhatever/14) - [Overcast Link](https://overcast.fm/+D7s73u0rY)
+* [03 – prime vs zoom lenses](http://stalman.com/camerasorwhatever/3) – [Overcast link](https://overcast.fm/+D7s5_U1_0)
+* [17 – instafame](http://stalman.com/camerasorwhatever/17) – [Overcast Link](https://overcast.fm/+D7s6WCGLw)
+* [20 – street photography](http://stalman.com/camerasorwhatever/20) – [Overcast Link](https://overcast.fm/+D7s6qcrOU)
+* [24 – review of the canon 50mm f1,8 stm](http://stalman.com/camerasorwhatever/24) – [Overcast Link](https://overcast.fm/+D7s4-MFe0)
+* [14 – flickr is still cool](http://stalman.com/camerasorwhatever/14) – [Overcast Link](https://overcast.fm/+D7s73u0rY)
 * [16 – lightroom keywords](http://stalman.com/camerasorwhatever/16) – [Overcast Link](https://overcast.fm/+D7s5HGrTo)
 
 
