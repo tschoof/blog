@@ -6,7 +6,8 @@ category: life
 published: false
 ---
 
-<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/21772001021/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/m.jpg"></a></p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/21772001021/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/m.jpg"></a><br>a portrait – © Timm Schoof</p>
+
 
 I've always struggled with photography. After a trip to London at the age of 15, I realized that I had taken the worst pictures *ever*, and was really disappointed. So naturally, that was it for me and photography – at least for the next few years. Then, the iPhones came but I never quite got beyond taking snapshots. I also was just disappointed when they didn't work. Or didn't in Instagram's square format – which, admittedly, is a bit less of a problem now, because the [squares are gone now](http://www.theverge.com/2015/8/27/9212523/instagram-full-size-photos-portrait-landscape) (the joy, *the joy*!).
 
@@ -38,9 +39,8 @@ Let's [hear Chris Plante](http://www.theverge.com/2015/1/20/7852911/why-you-shou
 His point and mine, I guess, are kind of aligned in that we're both saying: The in-between state of smartphone photography is nice and all, but it might *really* pay off for you to dive in deeper.
 
 All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.**  
-<br><br>
+<br>
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/shark.jpg"></a></p>
-
 ##Just try it.
 That's enough for a motivational speech, let's get a little more hands-on:
 
@@ -72,14 +72,14 @@ In this episode of the excellent [What's Tech podcast](http://www.theverge.com/w
 * For info on specific camera models, I liked [The Camera Store TV's videos](https://www.youtube.com/user/TheCameraStoreTV) a lot.
 
 **Cameras or Whatever**  
-I also really enjoy the Cameras or Whatever podcast. They say it's a "podcast for the working photographer", but I didn't find that to be a barrier for me as a beginner. I started with these episodes because they hit topics that were also wandering around my head. This order should be roughly equivalent to the relevance to beginners I think:
+I also really enjoy the [*Cameras or Whatever* podcast](http://stalman.com/camerasorwhatever/). They say it's a "podcast for the working photographer", but I didn't find that to be a barrier for me as a beginner. I started with these episodes because they hit topics that were also wandering around my head. This order should be roughly equivalent to the relevance to beginners I think:
 
-* [03 – prime vs zoom lenses](http://stalman.com/camerasorwhatever/3)
-* [17 – instafame](http://stalman.com/camerasorwhatever/17)
-* [20 – street photography](http://stalman.com/camerasorwhatever/20)
-* [24 – review of the canon 50mm f1,8 stm](http://stalman.com/camerasorwhatever/24)
-* [14 – flickr is still cool](http://stalman.com/camerasorwhatever/14)
-* [16 – lightroom keywords](http://stalman.com/camerasorwhatever/16)
+* [03 – prime vs zoom lenses](http://stalman.com/camerasorwhatever/3) - [Overcast link](https://overcast.fm/+D7s5_U1_0)
+* [17 – instafame](http://stalman.com/camerasorwhatever/17) - [Overcast Link](https://overcast.fm/+D7s6WCGLw)
+* [20 – street photography](http://stalman.com/camerasorwhatever/20) - [Overcast Link](https://overcast.fm/+D7s6qcrOU)
+* [24 – review of the canon 50mm f1,8 stm](http://stalman.com/camerasorwhatever/24) - [Overcast Link](https://overcast.fm/+D7s4-MFe0)
+* [14 – flickr is still cool](http://stalman.com/camerasorwhatever/14) - [Overcast Link](https://overcast.fm/+D7s73u0rY)
+* [16 – lightroom keywords](http://stalman.com/camerasorwhatever/16) – [Overcast Link](https://overcast.fm/+D7s5HGrTo)
 
 
 <br>
@@ -88,7 +88,7 @@ I also really enjoy the Cameras or Whatever podcast. They say it's a "podcast fo
 ##Focal length
 An extra word on focal length: One could think it's as easy as googling the definition... but it is not. All the graphics and examples like "greater focal length brings you closer" really didn't do it for me, until I saw one specific graphic that I can't find anymore.  🎉
 Everything that focal lenght was to me were random numbers. Missing was a reference. But there is one, and it is our, the "regular" human field of view. Of course we have very wide peripheral vision, but the FOV people with glasses have for example, the "main" part of the vision is roughly equivalent to a 40-50mm focal length. Therefore lenses in that range are called "standard" lenses.  
-I found [this graphic by Panasonic](http://av.jpn.support.panasonic.com/support/global/cs/dsc/knowhow/knowhow12.html) okay-ish. It comes close to the one I am not able to find.
+I find [this diagram by Panasonic](http://av.jpn.support.panasonic.com/support/global/cs/dsc/knowhow/knowhow12.html) to be okay-ish. It comes close to the one I am not able to find.
 
 Also handy, because you can play with the different examples and it also incorporates the focal length's effect on the perspective is [this site](http://www.sony.net/Products/di/en-us/products/lenses/basics/focalLength.html)  by Sony – I think you can see the compression effect pretty well in the example with the fountain.
 
