@@ -42,11 +42,13 @@ All of this goes to say: If you sense that you have a thing for visual works, go
 <br>
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/shark.jpg"></a></p>
 ##Just try it.
-That's enough for a motivational speech, let's get a little more hands-on:
+That's enough for a motivational speech, let's get a little more hands-on.
 
 If you know somebody who knows how to shoot a camera in manual mode, just buy them a beer or guilt them into explaining the basic controls to you. For me, it started to click a short time after I had taken two photos of a lamp post next to me, one with a large and one with a very small aperture. From there, I was motivated enough and internalized "the triangle" in no time.
 
 If you can, try out **aperture priority** mode. It's called **A**, **Av** or something like that on your camera's mode dial. The aperture has the biggest stylistic impact on your picture most of the time, therefore it makes sense to adjust it manually and let the camera figure out the rest, which then is ISO and shutter speed. You worry about those later and only appreciate the effect aperture has on the picture. Not convinced? Try to be convinced by [this video](http://www.youtube.com/watch?v=pUlg4KFLaP0)!
+
+##Online Resources against Roadblocks
 
 If there are no manual-mode masters in your life, or if you want to dive in deeper: The internet has got you covered! I mean: I do like to figure stuff out by myself. I consider looking at a manual a failure, either for me or (more likely) for the manufacturer.  
 On the other hand, I do google stuff like any sane person nowadays should. Somewhere between those extremes, there are (YouTube) tutorials. I fully acknowledge that I am the last person to say this, but YouTube is awesome! There are also great for-pay tutorials on sites like [lynda.com](http://www.lynda.com) where you don't have to pick the good tutorials out of the sea of the not-so-great ones. With a little effort though, you can find something that really kickstarts almost anything you're not so skilled at *yet* on YouTube.  
