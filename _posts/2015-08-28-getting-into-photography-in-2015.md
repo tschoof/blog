@@ -59,7 +59,8 @@ In this episode of the excellent [What's Tech podcast](http://www.theverge.com/w
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202905516&color=ff5500"></iframe>
 <br>
-**Videos**  
+**Videos**
+
 * I think the [Photography 101 by Jeff Cable](http://www.youtube.com/watch?v=ksqfTapOk3o) is as good a 101 as any. Note that he doesn't mention almost any specific values for shutter speed or ISO, since the talk is about general principles.
 
 * Also, a bit more hands-on-camera, this [playlist with a selection of videos from a *DSLRlounge* tutorial](https://www.youtube.com/playlist?list=PLOO4twNsXoAC9EPqg3L-iTg6zspoI8yxX). 
