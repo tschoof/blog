@@ -15,7 +15,7 @@ I've always struggled with photography. After a trip to London at the age of 15,
 
 ## Don't we all take photos?
 But, *haven't* I been a "photographer" anyway? Aren't we all, nowadays?  
-Well, yes and no. I watched photography from a distance. A few times I had fooled myself into thinking that I'd learn about exposure, aperture and all that complicated stuff  just from an old book I had found in my father's collection. My best guess is that I opened it once, saw a formula, and never opened it again. I never got to know the different factors that make up a picture, like the triangle of aperture, shutter speed and ISO. Or even optics in general: The focal length and the aperture's effect on the picture.
+Well, yes and no. I watched photography from a distance. A few times I had fooled myself into thinking that I'd learn about exposure, aperture and all that complicated stuff  just from an old book I had found in my father's collection. My best guess is that I opened it once, saw a formula, and never opened it again. I never got to know basics like the triangle of aperture, shutter speed and ISO. Or optics in general: What is the focal length, what is the aperture?
 Being a technical person, I still knew what a DSLR was – but not much more, nothing that brought me closer to the very matter of photography. With only a smartphone, I realize now, I had no "way in".
 
 A few months ago, I finally accepted a friend's offer to borrow his DSLR, and everything changed. Turns out, dialing in all the settings individually really opens up the process/mystery of how a photo comes together.
