@@ -67,6 +67,8 @@ In this episode of the excellent [What's Tech podcast](http://www.theverge.com/w
 
 * Already concerned with post-processing in Lightroom, not *very* good and very basic (but still good for picking up Lightroom shortcuts): I watched this [series by *Photos in Color*](https://www.youtube.com/playlist?list=PL3jDvU7Nxe6GB4Wi01s9kN27XHVPso6D9)
 
+* (*Update*) Maybe even better of a primer for Lightroom (without all the keyboard shortcuts though), going through all the functionality is this: [Top 10 Tips for Optimizing photos on Lihtroom](http://www.youtube.com/watch?v=PhOF_L0eesw) (don't mind the title, it's really more of a 101)
+
 *With all of the above, don't mind the theme music, and/or dad jokes.*
 
 * Oh, and I found the [Michromatic channel](https://www.youtube.com/channel/UCR197vf4rMrxZn-S_H0nE8w) nice for micro-four-thirds related stuff, but more on that later. 
