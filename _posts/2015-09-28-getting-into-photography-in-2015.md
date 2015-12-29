@@ -97,6 +97,6 @@ I find [this diagram by Panasonic](http://av.jpn.support.panasonic.com/support/g
 Also handy, because you can play with the different examples and it also incorporates the focal length's effect on the perspective is [this site](http://www.sony.net/Products/di/en-us/products/lenses/basics/focalLength.html)  by Sony – I think you can see the compression effect pretty well in the example with the fountain.
 
 ##There's more
-Of course it can always get more complicated, if you want it to. I only really learned about mirrorless cameras when I thought that I had settled on getting a used prosumer/enthusiast DSLR for myself. I now own a mirrorless camera. But that's another post, probably the next one in this (two-part) series! (It's an Olympus E-M10, and the post is coming up, really!)
+Of course it can always get more complicated, if you want it to. I only really learned about mirrorless cameras when I thought that I had settled on getting a used prosumer/enthusiast DSLR for myself. I now own a mirrorless camera. <del>But that's another post, probably the next one in this (two-part) series!</del> Here it is: [Choosing a Camera in 2015](http://blog.timmschoof.com/2015/12/29/choosing-a-camera-in-2015/)
 
 **Update**: I stumbled across [Shawn Blanc's post about how the iPhone made him want more out of his photography (and which camera to pick for that)](http://shawnblanc.net/2012/11/hunting-for-the-best-mirrorless-camera/). Interesting to see his angle on this topic.
