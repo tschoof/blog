@@ -24,7 +24,7 @@ The Wikipedia definition also throws an "*interchangeable lens*" property in the
 
 Anyway, the next kind of camera is, of course, a [**compact** or **point-and-shoot camera**](https://en.wikipedia.org/wiki/Point-and-shoot_camera). These are "mirrorless" as well, but have a fixed lens. While you're just getting ready to be snobby and disregard these cameras (I certainly would), let me tell you that "compact" – actual surprise! – doesn't necessarily mean "crappy". To pick a popular current example: The Fuji X100 models are well-reviewed, loved as a fun camera by seasoned photographers, have a large sensor (more on that later) – and cost over 1000€/$, if that convinces you.
 
-<p class="pic"><a href="https://www.flickr.com/photos/janitors/16130683260"><img src="http://blog.timmschoof.com/images/X100T.jpg"></a><br>Fuji X100T – photo by Kārlis Dambrāns, used under [CC-BY](https://creativecommons.org/licenses/by/2.0/)</p> 
+<p class="pic"><a href="https://www.flickr.com/photos/janitors/16130683260"><img src="http://blog.timmschoof.com/images/X100T.jpg"></a><br>Fuji X100T – photo by Kārlis Dambrāns, used under <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a></p> 
 
 
 ## Kinds of Sensors
@@ -45,13 +45,14 @@ Do you want to tap on a touchscreen to focus and take the picture? Then you don'
 
 Here's an example: The Olympus E-PL7 and the E-M10 are almost identical looking at the specs. The PL has one manual control dial instead of two, some buttons, a little extra grip and the EVF, but comes with a screen that folds down 180 degrees (sick selfie capability!). These two cameras will take the exact identical picture, though. It's literally "only" the described differences in the body. Here's a [side by side view](http://cameradecision.com/compare-size/Olympus-PEN-E-PL7-vs-Olympus-OM-D-E-M10), and here is the E-PL5 in all its glory:
 
-<p class="pic"><a href="https://commons.wikimedia.org/wiki/File:Olympus_E-PL7.jpg"><img src="http://blog.timmschoof.com/images/pl7.jpg"></a><br>Olympus E-PL7 – photo by PetarM, used under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)</p>
+<p class="pic"><a href="https://commons.wikimedia.org/wiki/File:Olympus_E-PL7.jpg"><img src="http://blog.timmschoof.com/images/pl7.jpg"></a><br>Olympus E-PL7 – photo by PetarM, used under <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a></p>
+
+
 
 ## Choosing the E-M10
 What helped me figure out that I wanted an E-M10 probably was handling my friend's 40D. Not that I didn't like it, actually the opposite: I loved it, especially that it felt like an analog tool, almost like a hammer (yeah, with dials, but still).
 
 <p class="pic"><a href="https://www.flickr.com/photos/cubmundo/6376129973"><img src="http://blog.timmschoof.com/images/40D.jpg"></a><br>Canon 40D – photo by cubmundo, used under <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a></p>
-
 
 
 I almost settled for a used 60D, which would've cost around 400€ and has some nice improvements over the 40D: More resolution without worse low light performance, more focus points, SD instead of CF cards. That sounded nice to me.
@@ -77,7 +78,9 @@ Another thing that I liked about the 40D was the little knob-thingy above the co
 
 The E-M10 has 81 focus points. Guess what doesn't work with 81 focus points: Pushing once to select the right one. So you have to use the 4-way dial on the camera's back, which for me is the weakest spot in day to day use. Pressing the dial ten or twelve times to get to the right point for the specific shot just isn't fun. But it is possible without taking the camera from your eye, so it's acceptable for me. The E-M10 II (released in August this year) goes at this with a touchscreen that acts as a trackpad ("[AF targeting pad](http://www.dpreview.com/reviews/bang-for-the-buck-olympus-om-d-e-m10-ii-review/4")" when you hold the camera up. I don't know how well that works, but the solution probably is somewhere along those lines. (I guess this is where the focus-and-recompose photographers cheer.)
 
-<p class="pic"><a href="http://blog.timmschoof.com/images/EM10-hands-close.jpg"><img src="http://blog.timmschoof.com/images/EM10-hands-close.jpg"></a><br>Olympus E-M10, with the Olympus 45mm f1.8 lens – photo by [Silvan Dähn](http://silvandaehn.com/)</p>
+<p class="pic"><a href="http://blog.timmschoof.com/images/EM10-hands-close.jpg"><img src="http://blog.timmschoof.com/images/EM10-hands-close.jpg"></a><br>Olympus E-M10, with the Olympus 45mm f1.8 lens – photo by <a href="http://silvandaehn.com/">Silvan Dähn</a></p>
+
+
 
 ## Handling the E-M10
 
@@ -87,7 +90,7 @@ Another gripe: although **Auto ISO** is a nice feature, it is badly implemented:
 
 Enough with the negative though. There's talk about the short **battery life** with mirrorless cameras. While you are not gonna get close to a DSLR's, I found very long shooting sessions with several hundred (ca. 500 with one charge? I don't remember for sure, but up there somewhere) exposures were no problem at all, meaning it's not close to annoyingly short for me. With the E-M10, the key is to use the EVF and have the main screen not act as a viewfinder and suck battery when you don't even need it. This way, waiting for a shot, you can dial the settings in, and the camera just lights up a display instead of transmitting the sensor image to the screen as well.
 
-<p class="pic"><a href="http://blog.timmschoof.com/images/EM10-street-hold.jpg"><img src="http://blog.timmschoof.com/images/EM10-street-hold.jpg"></a><br>Olympus E-M10, with the Olympus 45mm f1.8 lens – and me, not knowing how to hold a camera – photo by [Silvan Dähn](http://silvandaehn.com/)</p>
+<p class="pic"><a href="http://blog.timmschoof.com/images/EM10-street-hold.jpg"><img src="http://blog.timmschoof.com/images/EM10-street-hold.jpg"></a><br>Olympus E-M10, with the Olympus 45mm f1.8 lens – and me, not knowing how to hold a camera – photo by <a href="http://silvandaehn.com/">Silvan Dähn</a></p>
 
 ## Closing thoughts
 
