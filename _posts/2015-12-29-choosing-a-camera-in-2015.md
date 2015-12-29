@@ -8,7 +8,7 @@ published: true
 
 
 
-So, [in my last post](http://blog.timmschoof.com/2015/09/28/getting-into-photography-in-2015/) I wrote about photography in general, and specifically about what helped me along the very first steps. In this one, I want to share the considerations and decisions that led to me going for the **Olympus OM-D E-M10** (can you get *all* the hyphens right?), a mirrorless camera. Yes, just before 2015 runs out. Since I try and do sustainable blogging though, the broad strokes should stay relevant until the camera landscape changes dramatically.
+So, [in my last post I wrote about photography in general](http://blog.timmschoof.com/2015/09/28/getting-into-photography-in-2015/), and specifically about what helped me along the very first steps. In this one, I want to share the considerations and decisions that led to me going for the **Olympus OM-D E-M10** (can you get *all* the hyphens right?), a mirrorless camera. Yes, just before 2015 runs out. Since I try and do sustainable blogging though, the broad strokes should stay relevant until the camera landscape changes dramatically.
 
 I'm gonna try and give a quick and reasonably simplified overview of the current landscape in cameras first, how they differ, then describe what I find important interacting with a camera, how I almost setteld for a used DSLR, but then opted for a part of the mirrorless future. At the end I can't help it and give a few tips on using the E-M10.
 
