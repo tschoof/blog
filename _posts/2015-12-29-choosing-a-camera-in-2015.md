@@ -50,7 +50,9 @@ Here's an example: The Olympus E-PL7 and the E-M10 are almost identical looking 
 ## Choosing the E-M10
 What helped me figure out that I wanted an E-M10 probably was handling my friend's 40D. Not that I didn't like it, actually the opposite: I loved it, especially that it felt like an analog tool, almost like a hammer (yeah, with dials, but still).
 
-<p class="pic"><a href="https://www.flickr.com/photos/cubmundo/6376129973"><img src="http://blog.timmschoof.com/images/40D.jpg"></a><br>Canon 40D – photo by cubmundo, used under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)</p>
+<p class="pic"><a href="https://www.flickr.com/photos/cubmundo/6376129973"><img src="http://blog.timmschoof.com/images/40D.jpg"></a><br>Canon 40D – photo by cubmundo, used under <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a></p>
+
+
 
 I almost settled for a used 60D, which would've cost around 400€ and has some nice improvements over the 40D: More resolution without worse low light performance, more focus points, SD instead of CF cards. That sounded nice to me.
 
