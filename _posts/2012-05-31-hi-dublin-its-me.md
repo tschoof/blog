@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Hi Dublin, it's me!
+title: "Hi Dublin, it's me!"
 date: 2012-05-31 20:30:00
 category: life
 published: true
 ---
+
+
 So, from early September on I'm gonna be studying in Dublin at Trinity College for the whole academic year, thanks to the [Erasmus Programme](http://en.wikipedia.org/wiki/Erasmus_Programme). I think that's pretty awesome (actually, I still can't believe it).
 
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/infomatique/6995209237/"><img src="http://blog.timmschoof.com/images/tcd.jpg"/></a><br/><small>Yes, that's right. Campus of Trinity College. | Picture: <a href="http://www.flickr.com/photos/infomatique/">infomatique</a>, CC-By-SA</small></p>
