@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#34;Comedians in Cars getting Coffee&#34;
+title: "&#34;Comedians in Cars getting Coffee&#34;"
 date: 2012-10-08 23:20:04
 category: movies_and_television
 published: true
