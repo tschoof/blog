@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Fresher&#8216;s Week at Trinity
+title: "Fresher&#8216;s Week at Trinity"
 date: 2012-09-19 17:14:07
 category: dublin
 published: true
 ---
+
 
 <p style="text-align: center;"><a href="http://blog.timmschoof.com/images/soc.jpeg"><img src="http://blog.timmschoof.com/images/soc.jpeg"/></a><br/><small>I joined a few societies</small></p>
 

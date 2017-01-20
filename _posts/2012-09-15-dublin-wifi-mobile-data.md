@@ -5,6 +5,8 @@ date: 2012-09-15 14:12:46
 category: dublin
 published: true
 ---
+
+
 ## Wifi
 I expected the wifi situation in Dublin to be good. And it is. Even the smallest café or shop you might spend more than 15 minutes in offers free wifi with a not necessarily great, but pretty decent downstream. But the average (!) household in my perception has a downstream of over 20 Mbit available. This is very different from Hamburg, or Germany in general. It really isn't that hard, Germany should get there. But with phenomenons like the "Störerhaftung" (the operator of a wifi basically is responsible for what happens by use of his wifi), this isn't gonna happen.  
 Which is a shame. And embarrassing for Germany.

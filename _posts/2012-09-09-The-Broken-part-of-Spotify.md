@@ -6,6 +6,7 @@ category: tech
 published: true
 ---
 
+
 ## Spotify's Concept
 I've had but one problem with Spotify for a long time: Its playlist philosophy. With Spotify, the playlist is what once was a mixtape. "*I've made this awesome mix, check it out, it's genre A and B, your favourite music and some new stuff you may like!*" That's fine and I use them like that, too. 
 
