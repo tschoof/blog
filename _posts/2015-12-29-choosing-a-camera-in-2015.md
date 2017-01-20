@@ -32,10 +32,9 @@ When you're talking cameras and lenses, you almost always are also talking [sens
 
 The sensor of a digital camera is what film is in a film camera. And sensors come in different sizes. 35mm film is referred to as "full frame" ("Vollformat", or perplexingly, "Kleinbild" in German, which translates to "small picture"). High-end DSLRs and some Sony mirrorless cameras have **full frame** sensors. Everything smaller than full frame is also referred to as **a** "crop sensor". A very widespread sensor size is **APS-C**. Fuji and Sony use APS-C for some of their mirrorless cameras, and it's also used in most consumer/prosumer-DSLRs. Relevant to my angle here is also the even smaller **four thirds** size used in the MFT systems mentioned above. Here, the crop factor is 2x, by the way. So if a lens is a 25mm, it has the properties of a 50mm lens on a full frame (35mm – confused yet?) sensor. People talk about 50mm being the "35mm equivalent" of that lens.
 
-These cover the most relevant I think. And just if you were wondering (I was), there's also something bigger, [medium format](https://en.wikipedia.org/wiki/Medium_format_(film)). You like graphics? Here's a graphic: 
+These cover the most relevant I think. And just if you were wondering (I was), there's also something bigger, [medium format](https://en.wikipedia.org/wiki/Medium_format_(film)). You like graphics? Here's a graphic:
 
-<p class="pic"><a href=""><img src="http://blog.timmschoof.com/images/sensor_sizes_overlaid_inside_2014.png"></a>
-<br>Sensor Sizes [by MarcusGR, used under CC BY-SA](https://commons.wikimedia.org/wiki/File:Sensor_sizes_overlaid_inside_2014.png)</p>
+<p class="pic"><a href=""><img src="http://blog.timmschoof.com/images/sensor_sizes_overlaid_inside_2014.png"></a><br>Sensor Sizes [by MarcusGR, used under CC BY-SA](https://commons.wikimedia.org/wiki/File:Sensor_sizes_overlaid_inside_2014.png)</p>
 
 The bigger the sensor, the more information it can capture (d'uh). But there are two different ways to go about that: A sensor bigger than another can either be filled with *more pixels*, or with the same number of, but *bigger pixels*. More pixels allow for more detail (a.k.a. resolution), bigger pixels allow for more light to be caught (good low light performance, meaning less noise, therefore higher ISO allowing for shorter exposure possible). Those pixels, of course, are the **megapixels** everyone was talking about a few years ago. 
 
