@@ -34,7 +34,8 @@ The sensor of a digital camera is what film is in a film camera. And sensors com
 
 These cover the most relevant I think. And just if you were wondering (I was), there's also something bigger, [medium format](https://en.wikipedia.org/wiki/Medium_format_(film)). You like graphics? Here's a graphic: 
 
-<p class="pic"><a href=""><img src="http://blog.timmschoof.com/images/sensor_sizes_overlaid_inside_2014.png"></a><br>Sensor Sizes [by MarcusGR, used under CC BY-SA](https://commons.wikimedia.org/wiki/File:Sensor_sizes_overlaid_inside_2014.png)</p>
+<p class="pic"><a href=""><img src="http://blog.timmschoof.com/images/sensor_sizes_overlaid_inside_2014.png"></a>
+<br>Sensor Sizes [by MarcusGR, used under CC BY-SA](https://commons.wikimedia.org/wiki/File:Sensor_sizes_overlaid_inside_2014.png)</p>
 
 The bigger the sensor, the more information it can capture (d'uh). But there are two different ways to go about that: A sensor bigger than another can either be filled with *more pixels*, or with the same number of, but *bigger pixels*. More pixels allow for more detail (a.k.a. resolution), bigger pixels allow for more light to be caught (good low light performance, meaning less noise, therefore higher ISO allowing for shorter exposure possible). Those pixels, of course, are the **megapixels** everyone was talking about a few years ago. 
 
