@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#x0022;I really wish it had the buttons&#x0022;
+title: \&#x0022;I really wish it had the buttons\&#x0022;
 date: 2013-02-08 18:45:09
 category: tech
 published: true
