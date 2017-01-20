@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I really wish it had the buttons"
+title: ""I really wish it had the buttons""
 date: 2013-02-08 18:45:09
 category: tech
 published: true
