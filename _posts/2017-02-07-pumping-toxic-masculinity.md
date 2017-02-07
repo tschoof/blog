@@ -34,5 +34,4 @@ If a team for a health app is 95% dudes, they're gonna [forget that half of the 
 
 Amazing, what a 40-year old documentary about bodybuilding can teach us about diversity and feminism.
 
-
-[Pumping Iron is available for streaming on Netflix](https://www.netflix.com/search?q=pumping%20iron).
+[*Pumping Iron* is available for streaming on Netflix](https://www.netflix.com/search?q=pumping%20iron).
