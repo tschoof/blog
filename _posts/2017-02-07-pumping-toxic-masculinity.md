@@ -26,7 +26,7 @@ Again, am I naive? It's not that easy. I am not against being good at what you d
 
 Even from a strictly competitive point of view it doesn't make sense: Do you want a good bodybuilder (if you want one at all), or someone who is good at messing with other people's heads? Mind you, in order to protect oneself from that kind of manipulation, they simply need to turn off their emotions. Oh, sweet success!
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/the-terminator-toy-crush"></a></p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/the-terminator-toy-crush"></p>
 
 So let me reiterate: Do you want a good bodybuilder, or an emotionally starved jock (or say... Terminator) who will do anything to succeed? 
 
