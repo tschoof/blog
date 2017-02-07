@@ -8,6 +8,7 @@ published: true
 
 
 
+
 *Pumping Iron* is a 1977 documentary about bodybuilding, or rather about Arnold Schwarzenegger winning his sixth Mr. Olympia title. At the time, the documentary boosted Schwarzenegger's image. I find that fascinating, as I was repulsed by it. Albeit not because of the insight into the world of bodybuilding, but how openly Schwarzenegger talks, even brags about how he manipulates competitors.  
 This is him having breakfast with Lou Ferrigno, his competitor, and Lou's parents. Lou's father was also his trainer.
 
