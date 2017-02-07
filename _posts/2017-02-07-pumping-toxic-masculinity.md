@@ -3,7 +3,7 @@ layout: post
 title: Pumping Toxic Masculinity
 date: 2017-02-07 12:00:00
 category: life
-published: true
+published: false
 ---
 
 
@@ -34,6 +34,6 @@ So let me reiterate: Do you want a good bodybuilder, or an emotionally starved j
 Of course, this is also an argument for diversity, tolerance and openness. First of all, these are the right values whatever you're doing. Second of all, and a selling point in a capitalist world: You build better products with these in mind.  
 If a team for a health app is 95% dudes, they're gonna [forget that half of the earth's population menstruates](https://techcrunch.com/2015/06/09/apple-stops-ignoring-womens-health-with-ios-9-healthkit-update-now-featuring-period-tracking/). If your only value is success at all cost, you have already lost humanity, and you'll lose in the market place in the long term as well.
 
-Amazing, what a 40-year old documentary about bodybuilding can teach us about diversity and feminism.
+Amazing what a 40-year old documentary about bodybuilding can teach us about diversity and feminism.
 
 [*Pumping Iron* is available for streaming on Netflix](https://www.netflix.com/search?q=pumping%20iron).
