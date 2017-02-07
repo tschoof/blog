@@ -12,7 +12,8 @@ published: true
 *Pumping Iron* is a 1977 documentary about bodybuilding, or rather about Arnold Schwarzenegger winning his sixth Mr. Olympia title. At the time, the documentary boosted Schwarzenegger's image. I find that fascinating, as I was repulsed by it. Albeit not because of the insight into the world of bodybuilding, but how openly Schwarzenegger talks, even brags about how he manipulates competitors.  
 This is him having breakfast with Lou Ferrigno, his competitor, and Lou's parents. Lou's father was also his trainer.
 
-<div class="videoWrapper-%fillpopup:name=Aspect Ratio:default=16-9:16-10:4-3:2-1%">https://www.youtube.com/watch?v=PNiJSR07w5w</div>
+<div class="videoWrapper-16-9"><iframe width="1280" height="960" src="http://www.youtube-nocookie.com/embed/PNiJSR07w5w" frameborder="0" allowfullscreen></iframe></div>
+
 
 Schwarzenegger also explicitly says that he'd give Franco Columbu, a competitor he was friends with, wrong advice to have an advantage. Call me naive, but I think these aren't very good traits, for nobody. 
 
