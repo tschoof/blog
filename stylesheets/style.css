@@ -223,6 +223,10 @@ img {
 		max-width: 100%;
 		height: auto;
 }
+gif {
+		max-width: 200%;
+		height: auto;
+}
 p.pic {
 		text-align: center;
 		font-size: 0.8em;
