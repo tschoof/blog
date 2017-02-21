@@ -5,6 +5,8 @@ date: 2011-08-03 12:00:00
 category: life
 published: true
 ---
+
+
 I started to meditate on a daily basis. At first, I planned to release this post one month into it, but decided to get it out there to motivate myself. Also, I had an empowering talk about meditation that reminded me of the power of sharing.<sup>1</sup> A talk that, and this I find quite amazing, just developed because I 'hearted' two articles about meditation on Instapaper, which was publicized in my Twitter stream and then seen by my dialog partner. 
 
 Meditation. Seriously? Like my best friend would say: '**You're such a HIPPIE!**'
@@ -25,7 +27,10 @@ On the seventh day, I didn't lose count either, but also didn't feel very focuse
 The articles mentioned above are the first two about meditation in Dan Benjamin's blog [Hivelogic](http://hivelogic.com/). Here [they](http://hivelogic.com/articles/an-introduction-to-mindfulness-meditation/) [are](http://hivelogic.com/articles/how-to-start-a-meditation-practice/).  
 Recommended across the board: [Mindfulness in Plain English](http://www.urbandharma.org/udharma4/mpe.html). Yes, a book. It's free. PDF, ePub, Amazon, no excuses. Great stuff in it. Maybe some passages from it will make it in a 'Quotes'-Post.
 
+
 ---
+
 <br>
+
 1. No, I'm not on drugs, it just came out that way.
  2. I'm inclined to say 'trash' to emphasize that I don't have much to worry about, and instead concern myself with thoughts that are really just junk. 
