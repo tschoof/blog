@@ -11,7 +11,7 @@ published: true
 
 Take a look at Schwarzenegger having breakfast with Lou Ferrigno and his parents. Lou's father was also his trainer.
 
-<div class="videoWrapper-16-9"><iframe width="1280" height="960" src="http://www.youtube-nocookie.com/embed/PNiJSR07w5w" frameborder="0" allowfullscreen></iframe></div><br>
+<div class="videoWrapper-16-9"><iframe width="1280" height="960" src="http://www.youtube-nocookie.com/embed/PNiJSR07w5w" frameborder="0" allowfullscreen></iframe></div>
 
 Schwarzenegger also explicitly says that he'd give Franco Columbu, a competitor he was friends with, wrong advice to have an advantage. Call me naive, but I think these aren't very good traits, for nobody. 
 
