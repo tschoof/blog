@@ -12,7 +12,7 @@ published: true
 Take a look at Schwarzenegger having breakfast with Lou Ferrigno and his parents. Lou's father was also his trainer.
 
 <div class="videoWrapper-16-9"><iframe width="1280" height="960" src="http://www.youtube-nocookie.com/embed/PNiJSR07w5w" frameborder="0" allowfullscreen></iframe></div>
-
+  
 Schwarzenegger also explicitly says that he'd give Franco Columbu, a competitor he was friends with, wrong advice to have an advantage. Call me naive, but I think these aren't very good traits, for nobody. 
 
 In order not to be vulnerable to any kind of negative impact himself, Schwarzenegger basically shut down his emotions, he explains. To the point that when his father died two months before a competition, Schwarzenegger wasn't affected by it. Overall, Schwarzenegger's behavior might be a perfect example of [toxic masculinity](https://en.wikipedia.org/wiki/Toxic_masculinity): Be dominant, be aggressive to win at whatever cost, don't show feelings.
