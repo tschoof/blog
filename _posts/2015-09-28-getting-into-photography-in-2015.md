@@ -21,7 +21,7 @@ Being a technical person, I still knew what a DSLR was – but not much more, no
 
 A few months ago, I finally accepted a friend's offer to borrow his DSLR, and everything changed. Turns out, dialing in all the settings individually really opens up the process/mystery of how a photo comes together.
 
-##Old Cameras are like Guitars
+## Old Cameras are like Guitars
 
 But let me back up a bit. I found that photography as a hobby is a bit like learning to play the guitar. You might not have a close friend who is a famous rockstar, but you probably have a few friends or relatives who at least at some point *have* played the guitar – and still have one sitting in their basement.  
 Same with photography: I bet you know someone who has a camera just lying around. And I'm not even only talking about an old point-and-shoot, but a consumer-level DSLR, like the Canon X00D ("Rebel" outside the EU) or the Nikon DXX00 models. Any of those, and probably a *lot* of other cameras out there are totally sufficient to find out whether or not photography is a thing you're interested in *just by playing with them*. You won't break anything, can learn everything there is to know, see which parameter has what effect in the end result. 
@@ -46,7 +46,7 @@ All of this goes to say: If you sense that you have a thing for visual works, go
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/shark.jpg"></a></p>
 
 
-##Just try it.
+## Just try it.
 
 That's enough for a motivational speech, let's get a little more hands-on.
 
@@ -54,7 +54,7 @@ If you know somebody who knows how to shoot a camera in manual mode, just buy th
 
 If you can, try out **aperture priority** mode. It's called **A**, **Av** or something like that on your camera's mode dial. The aperture has the biggest stylistic impact on your picture most of the time, therefore it makes sense to adjust it manually and let the camera figure out the rest, which then is ISO and shutter speed. You worry about those later and only appreciate the effect aperture has on the picture. Not convinced? Try to be convinced by [this video](http://www.youtube.com/watch?v=pUlg4KFLaP0)!
 
-##Online Resources against Roadblocks
+## Online Resources against Roadblocks
 
 If there are no manual-mode masters in your life, or if you want to dive in deeper: The internet has got you covered! I mean: I do like to figure stuff out by myself. I consider looking at a manual a failure, either for me or (more likely) for the manufacturer.  
 On the other hand, I do google stuff like any sane person nowadays should. Somewhere between those extremes, there are (YouTube) tutorials. I fully acknowledge that I am the last person to say this, but YouTube is awesome! There are also great for-pay tutorials on sites like [lynda.com](http://www.lynda.com) where you don't have to pick the good tutorials out of the sea of the not-so-great ones. With a little effort though, you can find something that really kickstarts almost anything you're not so skilled at *yet* on YouTube.  
@@ -95,7 +95,7 @@ I also really enjoy the [*Cameras or Whatever* podcast](http://stalman.com/camer
 <br>
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20458819624/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/walker.jpg"></a></p>
 
-##Focal length
+## Focal length
 
 An extra word on focal length: One could think it's as easy as googling the definition... but it is not. All the graphics and examples like "greater focal length brings you closer" really didn't do it for me, until I saw one specific graphic that I can't find anymore.  🎉  
 Everything that focal lenght was to me were random numbers. Missing was a reference. But there is one, and it is our, the "regular" human field of view. Of course we have very wide peripheral vision, but the FOV people with glasses have for example, the "main" part of the vision is roughly equivalent to a 40-50mm focal length. Therefore lenses in that range are called "standard" lenses.  
@@ -103,7 +103,7 @@ I find [this diagram by Panasonic](http://av.jpn.support.panasonic.com/support/g
 
 Also handy, because you can play with the different examples and it also incorporates the focal length's effect on the perspective is [this site](http://www.sony.net/Products/di/en-us/products/lenses/basics/focalLength.html)  by Sony – I think you can see the compression effect pretty well in the example with the fountain.
 
-##There's more
+## There's more
 
 Of course it can always get more complicated, if you want it to. I only really learned about mirrorless cameras when I thought that I had settled on getting a used prosumer/enthusiast DSLR for myself. I now own a mirrorless camera. <del>But that's another post, probably the next one in this (two-part) series!</del> Here it is: [Choosing a Camera in 2015](http://blog.timmschoof.com/2015/12/29/choosing-a-camera-in-2015/)
 
