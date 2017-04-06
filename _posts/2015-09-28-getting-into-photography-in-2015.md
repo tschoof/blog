@@ -14,6 +14,7 @@ I've always struggled with photography. After a trip to London at the age of 15,
 
 
 ## Don't we all take photos?
+
 But, *haven't* I been a "photographer" anyway? Aren't we all, nowadays?  
 Well, yes and no. I watched photography from a distance. A few times I had fooled myself into thinking that I'd learn about exposure, aperture and all that complicated stuff  just from an old book I had found in my father's collection. My best guess is that I opened it once, saw a formula, and never opened it again. I never got to know basics like the triangle of aperture, shutter speed and ISO. Or optics in general: What is the focal length, what is the aperture?
 Being a technical person, I still knew what a DSLR was – but not much more, nothing that brought me closer to the very matter of photography. With only a smartphone, I realize now, I had no "way in".
@@ -21,10 +22,12 @@ Being a technical person, I still knew what a DSLR was – but not much more, no
 A few months ago, I finally accepted a friend's offer to borrow his DSLR, and everything changed. Turns out, dialing in all the settings individually really opens up the process/mystery of how a photo comes together.
 
 ##Old Cameras are like Guitars
+
 But let me back up a bit. I found that photography as a hobby is a bit like learning to play the guitar. You might not have a close friend who is a famous rockstar, but you probably have a few friends or relatives who at least at some point *have* played the guitar – and still have one sitting in their basement.  
 Same with photography: I bet you know someone who has a camera just lying around. And I'm not even only talking about an old point-and-shoot, but a consumer-level DSLR, like the Canon X00D ("Rebel" outside the EU) or the Nikon DXX00 models. Any of those, and probably a *lot* of other cameras out there are totally sufficient to find out whether or not photography is a thing you're interested in *just by playing with them*. You won't break anything, can learn everything there is to know, see which parameter has what effect in the end result. 
 
 ## Why your Smartphone still isn't "good enough"
+
 To circle back to the smartphone question: *Yes*, the cameras in smartphones nowadays are actually black-magic awesome, especially considering their size. Over the last few years, every time I was beginning to realize I'm interested in taking pictures, visual arts etc., that fact popped into my mind. And I stopped there, just short of  seriously considering what would happen if I took a more serious camera in my hand, and tried to understand it.  
 Yes, I know that there are very, very talented photographers out there who take marvellous pictures with their iPhones. Some of them have never used anything but an iPhone, but many use and have used all kinds of cameras before – for several decades, even.  
 The thing is, though, that the iPhone has a special camera (a very special camera for very general purposes, one could say). Learning, or getting better at photography with it is a *bit* like learning how to drive in city traffic using the Mars rover. There *are* fashion shoots done entirely on an iPhone, but they're still stunts.  
@@ -41,7 +44,10 @@ His point and mine, I guess, are kind of aligned in that we're both saying: The 
 All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.**  
 <br>
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/shark.jpg"></a></p>
+
+
 ##Just try it.
+
 That's enough for a motivational speech, let's get a little more hands-on.
 
 If you know somebody who knows how to shoot a camera in manual mode, just buy them a beer or guilt them into explaining the basic controls to you. For me, it started to click a short time after I had taken two photos of a lamp post next to me, one with a large and one with a very small aperture. From there, I was motivated enough and internalized "the triangle" in no time.
@@ -90,6 +96,7 @@ I also really enjoy the [*Cameras or Whatever* podcast](http://stalman.com/camer
 <p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20458819624/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/walker.jpg"></a></p>
 
 ##Focal length
+
 An extra word on focal length: One could think it's as easy as googling the definition... but it is not. All the graphics and examples like "greater focal length brings you closer" really didn't do it for me, until I saw one specific graphic that I can't find anymore.  🎉  
 Everything that focal lenght was to me were random numbers. Missing was a reference. But there is one, and it is our, the "regular" human field of view. Of course we have very wide peripheral vision, but the FOV people with glasses have for example, the "main" part of the vision is roughly equivalent to a 40-50mm focal length. Therefore lenses in that range are called "standard" lenses.  
 I find [this diagram by Panasonic](http://av.jpn.support.panasonic.com/support/global/cs/dsc/knowhow/knowhow12.html) to be okay-ish. It comes close to the one I am not able to find.
@@ -97,6 +104,7 @@ I find [this diagram by Panasonic](http://av.jpn.support.panasonic.com/support/g
 Also handy, because you can play with the different examples and it also incorporates the focal length's effect on the perspective is [this site](http://www.sony.net/Products/di/en-us/products/lenses/basics/focalLength.html)  by Sony – I think you can see the compression effect pretty well in the example with the fountain.
 
 ##There's more
+
 Of course it can always get more complicated, if you want it to. I only really learned about mirrorless cameras when I thought that I had settled on getting a used prosumer/enthusiast DSLR for myself. I now own a mirrorless camera. <del>But that's another post, probably the next one in this (two-part) series!</del> Here it is: [Choosing a Camera in 2015](http://blog.timmschoof.com/2015/12/29/choosing-a-camera-in-2015/)
 
 **Update**: I stumbled across [Shawn Blanc's post about how the iPhone made him want more out of his photography (and which camera to pick for that)](http://shawnblanc.net/2012/11/hunting-for-the-best-mirrorless-camera/). Interesting to see his angle on this topic.
