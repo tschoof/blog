@@ -1,14 +1,18 @@
 ---
 layout: post  
-title: Die Sonne über Altona  
+title: New Podcast&#x003A; Die Sonne über Altona  
 date: 2017-06-08 06:00:00  
 category: podcasts  
 published: true  
 ---
 
 
+I'm 
+
+
+
 Test
 
-
-<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=medium-dark' width='70%' margin-left='auto' margin-right='auto'></iframe>
+<div text-align: center>
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=medium-dark' width='70%'></iframe></div>
 
