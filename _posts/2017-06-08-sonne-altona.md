@@ -10,5 +10,5 @@ published: true
 Test
 
 
-<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=medium-dark' width='70%'></iframe>
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=medium-dark' width='70%' float='center'></iframe>
 
