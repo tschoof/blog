@@ -11,5 +11,4 @@ published: true
 
 Test 
 
-
-<iframe frameborder='0' height='330px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=large' width='100%'></iframe>
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=medium-light' width='100%'></iframe>
