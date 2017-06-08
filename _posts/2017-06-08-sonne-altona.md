@@ -1,8 +1,9 @@
 
+
 ---
 layout: post
-title: "New Podcast: Die Sonne über Altona"
-date: 2017-06-06 06:00:00
+title: Die Sonne über Altona
+date: 2017-06-08 06:00:00
 category: technology
 published: true
 ---
