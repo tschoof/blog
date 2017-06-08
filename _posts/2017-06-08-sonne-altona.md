@@ -7,7 +7,7 @@ published: true
 ---
 
 
-I'm excited to finally share my new Podcast with you! [***Die Sonne über Altona***](http://sonnealtona.de/) is co-hosted by my friend [Alina](https://twitter.com/Oladi_Naht) and me. We talk about everything that's near and dear to our hearts. We talk (in German) about pop culture, politics & society, design, art and everything in between.
+I'm excited to finally share my new Podcast with you! [***Die Sonne über Altona***](http://sonnealtona.de/) is co-hosted by my friend [Alina](https://twitter.com/Oladi_Naht) and me. We talk (in German) about everything that's near and dear to our hearts: pop culture, politics & society, design, art and everything in between.
 
 The first episode is about a very German topic as well: traffic lights signal transmitters (and of course: their design flaws). It's pretty good.
 
