@@ -13,5 +13,3 @@ published: true
 This is an interesting doucmentary. About the early and not-so-early days of Anonymous, Telecomix and LulzSec. It is partisan, for sure. But that also means it's not made by people who don't understand the Internet and therefore have no idea what they're talking about. 
 
 So, interesting to see what happened 2007-ish – I would've thought that I was somewhat conscious back then, but apparently was rather ignorant to stuff like ‘chanology’ etc. Or busy with other things (yeah that must have been it).
-
-Thanks to [Felix](http://felixkruse.de) for pointing me to this documentary. 
