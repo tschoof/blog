@@ -2,7 +2,7 @@
 layout: post
 title: "Wireless Everything"
 date: 2017-07-23 16:00
-category: technology
+category: tech
 published: true
 ---
 
