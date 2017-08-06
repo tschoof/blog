@@ -7,7 +7,7 @@ published: true
 ---
 
 
-I'm kind of a technology believer, but sometimes even *I* don't anticipate *how* awesome something is gonna be.
+I'm kind of a technology believer, but sometimes even I don't anticipate *how* awesome something is gonna be.
 
 Wirelessness is one of those things. I long had the idea of getting Bluetooth headphones, but somehow didn't get around to it. The early in-ear models with their neck bands always seemed like a flawed design to me, and the really big models are kind of pointless anyway. I liked on-ear models better, despite their bulkiness, because even that allowed for them to have decent battery life and enough space for some controls.
 
