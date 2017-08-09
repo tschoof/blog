@@ -13,7 +13,7 @@ The PS4 seemed to produce faulty shadow graphics, the run of prints had a few pi
 
 I get it: Customer service, customer support is expensive. You need scripted responses and standard procedures to manage the volume of requestst that hit your infrastructure every second. But at the point where that system leads to totally unnecessary costs *and* a crappy experience for the customer, you need to acknowledge that it's just not working.
 
-##More like *New LOLker*, amirite?
+## More like *New LOLker*, amirite?
 
 Another example which shows that taking customer service requests seriously can lead to a much, much better product – or, at least, a less bad product:
 
@@ -21,7 +21,7 @@ I couldn't log in to my newyorker.com account, got a *wrong password* message. I
 
 When I pointed, eh, *wanted to* point this out in my customer service chat, [this happened](https://twitter.com/tschoof/status/854786813344587776):
 
-<p class="pic"><a href="http://blog.timmschoof.com/images/newyorker_cs.jpg"><img src="http://blog.timmschoof.com/images/newyorker_cs.jpg"></a>
+<p class="pic"><a href="http://blog.timmschoof.com/images/newyorker_cs.jpg"><img src="http://blog.timmschoof.com/images/newyorker_cs.jpg"></a></p>
 
 This was of course after the "*let me reset your password for you*"-dance which I had to go through *again* despite having explained that I had already done so.
 
