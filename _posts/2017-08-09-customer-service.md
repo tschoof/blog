@@ -22,7 +22,7 @@ I couldn't log in to my newyorker.com account, got a *wrong password* message. I
 When I pointed, eh, *wanted to* point this out in my customer service chat, [this happened](https://twitter.com/tschoof/status/854786813344587776):
 
 <p class="pic"><a href="http://blog.timmschoof.com/images/newyorker_cs.jpg"><img src="http://blog.timmschoof.com/images/newyorker_cs.jpg"></a></p>
-
+<br>
 This was of course after the "*let me reset your password for you*"-dance which I had to go through *again* despite having explained that I had already done so.
 
 With somethiong like this, no smug realism-cutthroat-capitalist-this-is-just-how-it-is attitude can justify the abysmal quality of the vast majority of customer service experiences. Security (and that's a big one!) aside, it simply *has* to be more expensive to deal with all the requests this bug generates than to fix the underlying problem. But seemingly, again, "inquiring about/fixing the underlying problem" is not a common action customer service representatives are allowed or motivated to undertake. 
