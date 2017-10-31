@@ -20,4 +20,4 @@ Getting into podcasts is hard, [as we all know](http://blog.timmschoof.com/2015/
 
 And here's the first episode: 
 
-<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/70699?style=medium-dark' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/a171172b?color=3d3d3d' width='100%'></iframe>
