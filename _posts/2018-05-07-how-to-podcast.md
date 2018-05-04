@@ -522,8 +522,12 @@ With this article, I try and do my part in making podcasting more accessible. Or
 
 ## My Podcast<a name="MyPodcast"></a>
 
-Oh: If you want to hear what this "know how" sounds like, give my podcast a listen (it's German though): [Die Sonne über Altona](http://sonnealtona.de/) – as I write this, there are 42 episodes released. Naturally, the latest episode sounds the best I think. If you're wondering what my first podcast episode sounded like, [look no further](http://www.ungeheuerlich.org/episoden/1-craft-beer) – one track, recorded on an iPhone (4?).
+Oh: If you want to hear what this "know how" sounds like, give my podcast a listen (it's German though): [Die Sonne über Altona](http://sonnealtona.de/) – as I write this, there are 42 episodes released. Naturally, the latest episode sounds the best I think. 
 
-If you have any input or questions, please don't hesitate and [contact me](http://timmschoof.com/).  
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/00655738?color=3d3d3d' width='100%'></iframe>
 
-Thank you.
+If you're wondering what our first episode sounded like, [look no further](http://blog.timmschoof.com/2017/06/08/sonne-altona/). Quite a step up! I'll even share the [first podcas episode I ever did](http://www.ungeheuerlich.org/episoden/1-craft-beer). One track, recorded on... an iPhone 4S I think.
+
+Again, if you have any input or questions, please don't hesitate and [contact me](http://timmschoof.com/).  
+
+Thank you so much for reading/skimming/being interested :) Cheers!
