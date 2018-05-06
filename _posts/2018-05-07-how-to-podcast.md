@@ -13,10 +13,10 @@ published: false
 
 After sinking what must be hundreds of hours into podcast production, I think I can give a few pointers for podcasters looking to improve their sound and/or workflow. This is probably a little heavy for beginners. But maybe also just something to come back to :) 
 
-I record a podacst wit a friend, in a room of my flat. My setup and preferences are derived from that, so [ymmv](https://www.urbandictionary.com/define.php?term=ymmv) as they say.  
-Disclaimer: Since I'm not a pro, take all of this with a grain of salt. If you're a pro or have more insight on a specific aspect, I'd be more than appreciative if you [contacted](http://timmschoof.com/) me for corrections, hints etc.
+I record a podacst with a friend, in a room of my flat. My setup and preferences are derived from that, so [ymmv](https://www.urbandictionary.com/define.php?term=ymmv) as they say.  
+Disclaimer: Since I'm not a pro, take all of this with a grain of salt. If you're a pro or have more insight into a specific aspect, I'd be more than appreciative if you [contacted](http://timmschoof.com/) me for corrections, hints etc.
 
-I'm gonna go through *all* the different areas (which is probably a bad idea). I'm gonna do my very best to 
+I'm gonna go through *all* the different areas (which is probably a bad idea). I'm gonna do my very best to:
 
 * describe *why* a certain aspect is important, 
 * show/explain *how I* deal with it, and then 
@@ -29,7 +29,7 @@ I'm gonna go through *all* the different areas (which is probably a bad idea). I
 * <a href="#Introduction">Introduction</a>
 * <a href="#AudioChain">Audio Chain</a>
 * <a href="#Record">How to Record</a>
-* <a href="#microphones">microphones</a>
+* <a href="#microphones">Microphones</a>
 * <a href="#Hardware">Other Hardware</a>
 	* <a href="#Recorder">Digital Recorder</a>
 	* <a href="#Interface">Interface</a>
@@ -61,7 +61,7 @@ There are many variations to this. But essentially, that's it.
 <p></p>
 ### Quality
 
-Long story short: I record 24 bit. 16 bit are probably enough, though, [Paul argues](http://www.producenewmedia.com/16-bit-audio/). In my humble opinion: If this is what you're arguing over, **a)** your podcast sounds perfect or **b)** there's bigger fish to fry. Don't worry about it for now, I'll <a href="#dither">come back to it later</a>.
+Long story short: I record 24 bit. 16 bit are probably enough though, [Paul argues](http://www.producenewmedia.com/16-bit-audio/). In my humble opinion: If this is what you're arguing over, **a)** your podcast sounds perfect or **b)** there's bigger fish to fry. Don't worry about it for now, I'll <a href="#dither">come back to it later</a>.
 And the Hz? To my knowledge, there is no practical benefit to recording more than 44,1kHz.
 
 ### Levels
@@ -70,7 +70,7 @@ Before considering gear, let's take a moment and think about what the goal is in
 
 > You want to capture the spoken words in the best way possible
 
-*Best way possible* in recording terms means *as loud as possible, but not too loud*. Okay. *too loud* means *clipping*, which means (over) 0dB, which means *distortion*. **Which you don't want**. Therefore, in order to protect against clipping, you need some headroom. -6 to -12 dB as *maximum* signal level is recommended. 
+*Best way possible* in recording terms means *as loud as possible, but not too loud*. Okay. *too loud* [means *clipping*](https://en.wikipedia.org/wiki/Clipping_(audio)), which means *distortion*. **Which you don't want**. Therefore, in order to protect against [clipping, which means the signal exceedig 0dB](https://manual.audacityteam.org/man/glossary.html#clipping), you need some headroom. -6 to -12 dBFS as *maximum* signal level is recommended. [Wikipedia explains what dB*FS* means](https://en.wikipedia.org/wiki/DBFS). My understanding: It specifies the digital range of lebvels.
 
 Since every speaker (and every microphone) is different, this of course means that there's just no way to figure it out in advance. A good way is to just have every speaker talk for a bit. What I imagine must be hardest for non-pros is to be careful enough. I bet the more professional you are, the more you keep the level on the quiet side.  
 Two factors: People tend to get more excited during a conversation than during test sentences. And: clipping is worse than a recording that's too silent.  
@@ -94,7 +94,7 @@ Consider the room you want to record in. Think about a bathroom, or some noisy r
 Take some time to consider *how* to speak into a microphone. I have searched for a proper tutorial for a long time, and have the feeling there just isn't one very good one to point people towards. I guess [this one will do](https://www.youtube.com/watch?v=AgK8g9O19T4).
 
 * Get as close to the microphone as you can without introducing breathing noises or heavy bass from the [proximity effect](http://www.neumann.com/homestudio/en/what-is-the-proximity-effect)
-* Generally, putting the microphone slightly off-angle helps with p-sounds
+* Generally, putting the microphone slightly off-angle helps with p-sounds (*[plosives](https://transom.org/2016/p-pops-plosives/)*, as the pros say)
 * Don't vary distance or position of the microphone relative to your mouth throughout the recording. You'll have enough variation in volume to deal with simply from being more or less excited while talking.
 * The previous point doesn't apply if you laugh loudly, or scream: For these instances, try to train yourself to increase distance to the microphone so that the recording doesn't clip. It'll absolutely still come across in the recording, don't worry.
 
@@ -113,7 +113,7 @@ I went with the widely recommended [Sony MDR-7506](https://www.amazon.de/Sony-MD
 ## Microphones<a name="Microphones"></a>
 Aaaaah, microphones. The never ending topic. Good news: It's not as complicated as you might think from all the talk. [Marco's guide](https://marco.org/podcasting-microphones) is the best place to start.
 
-There are two basic types of microphones, condenser and dynamicrophone, and it's good to know the basics. Others have written everything there is to write about this and how it's relevant for podcasters: [Marco's take](https://marco.org/podcasting-microphones#condenserdynamic) is as good as any. microphones come in the USB and the XLR variety, [Marco also writes about this](https://marco.org/podcasting-microphones#xlrusb).
+There are two basic types of microphones, condenser and dynamic microphones, and it's good to know the basics. Others have written everything there is to write about this and how it's relevant for podcasters: [Marco's take](https://marco.org/podcasting-microphones#condenserdynamic) is as good as any. Microphones come in the USB and the XLR variety, [Marco also writes about this](https://marco.org/podcasting-microphones#xlrusb).
 
 Quite some time ago I made [a little video](https://www.youtube.com/watch?v=AsgWldhZSIM) in which I recommended the Blue Yeti. It's quite popular, and it's the [Wirecutter pick](https://thewirecutter.com/reviews/the-best-usb-microphone/) (for USB microphones).  
 But: I was wrong. It *has* nice sound (because it's a large diaphragm condenser microphone). But if you're not in a studio or don't want to build a pillow fort every time you're recording, rejection of room noise and echo becomes an important quality in a microphone. 
@@ -124,16 +124,16 @@ The **Shure SM58** is a solid microphone for podcasting. It doesn't sound as cle
 Only bad thing: It does need quite a bit of gain, so it should be paired with an at least "okay" microphone preamp (either extra, or built into an interface or recorder, more on that later).  
 For 100€ new, and 50-60€ used, you can't go wrong. [Beware of fakes, though](https://fakesm58.wordpress.com/).
 
-The **Shure Beta 58A** is an "updated" SM58, and hence also solid.h Beware: It's not necessarily *better* than the SM58. Depending on voice and microphone technique of the speaker, the sound characteristics (more high-end) and more directional pickup pattern may or may not be an advantage.  
+The **Shure Beta 58A** is an "updated" SM58, and hence also solid. Beware: It's not necessarily *better* than the SM58. Depending on voice and microphone technique of the speaker, the sound characteristics (more high-end) and more directional pickup pattern may or may not be an advantage.  
 I mainly tried the Beta 58A because it offers more gain than the SM58, about 4 dB – what I didn't know was that the signal-to-noise-ratio is *the same* as the SM58's. So the noise got louder with the signal. I still like the Beta 58A for my voice, though.  
 For 175€ new, and 80-140€ used, it can absolutely be worth it. [Beware of fakes as well!](http://www.ziggysono.com/upload/104ShureAgainstCouterfeit.pdf)
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/pc_002.jpg"></a><br>Shure Beta 58A – mine lacks the trademark blue rubber ring on the cage</p>
 
-Right now I'm using the **Shure Beta 87A**, which is a condenser microphone – pause for effect – but allegedly with the good characteristics of a dynamicrophone microphone! This I can corroborate. The rejection is great. When you turn your head, the drop in volume is tremendous, which also means less opportunity for nasty room echo to get in there.
+Right now I'm using the **Shure Beta 87A**, which is a condenser microphone – pause for effect – but allegedly with the good characteristics of a dynamic microphone microphone! This I can corroborate. The rejection is great. When you turn your head, the drop in volume is tremendous, which also means less opportunity for nasty room echo to get in there.
 
 I wasn't immediately impressed by the sound quality. I guess I expected Blue Yeti-level clarity which the 87A probably can't deliver because it's a small condenser(?). But it does sound "nicer" than the 58s.  
-What I found curious is that it also needs *almost as much* gain as the dynamicrophones. Overall, I'm not totally overwhelmed by the Beta 87A, but still think I'll keep it. Or at least use it for some time to really get used to it.  
+What I found curious is that it also needs *almost as much* gain as the dynamic microphones. Overall, I'm not totally overwhelmed by the Beta 87A, but still think I'll keep it. Or at least use it for some time to really get used to it.  
 
 For 300€ new and about 220€ used, this is not a win as clear-cut as I'd like it to be.
 
@@ -141,7 +141,7 @@ For 300€ new and about 220€ used, this is not a win as clear-cut as I'd like
 
 ###USB
 
-If an USB microphone is for you and you're in the US, the [Audio Technica ATR 2100](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamicrophone-microphone/dp/B004QJOZS4) seems to be a tremendous pick as well as a great value. In Europe, you can't get it. But it's supposed to be the same as the EU-available [Samson Q2U](https://www.amazon.de/Samson-Recording-Handmikrofon-Cakewalk-software/dp/B001R747SG).  
+If an USB microphone is for you and you're in the US, the [Audio Technica ATR 2100](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-dynamic microphone-microphone/dp/B004QJOZS4) seems to be a tremendous pick as well as a great value. In Europe, you can't get it. But it's supposed to be the same as the EU-available [Samson Q2U](https://www.amazon.de/Samson-Recording-Handmikrofon-Cakewalk-software/dp/B001R747SG).  
 I have no experience with these microphones, so I can't speak to them. And with the EU version, the deal isn't quite as great. 
 
 ## Other Hardware<a name="Hardware"></a>
@@ -150,7 +150,7 @@ I have no experience with these microphones, so I can't speak to them. And with 
 
 The sound has to be recorded *onto* something. This is either your PC, or a digital recorder. Let's focus on digital recorders. They're great. With a digital recorder, your podcast setup can become mobile!
 
-Besides usability and some ruggedness, for podcasters the most important property is how much **noise** the preamps generate. Especially if you use a dynamicrophone microphone, there can be significant noise introduced with all the gain that is needed. 
+Besides usability and some ruggedness, for podcasters the most important property is how much **noise** the preamps generate. Especially if you use a dynamic microphone microphone, there can be significant noise introduced with all the gain that is needed. 
 
 In podcaster circles, people recommend the Zoom H6 oder Zoom H5. In my opinion, those are **not suited** for podcasters because there's no real use for the built-in microphones. The budget that goes towards those can't be spent on better internal preamps without having a more expensive product: The H5 is 280€, while my recommendation is 170€.
 
@@ -168,7 +168,7 @@ If you decide to go the XLR route and want to record onto your PC, you'll need a
 
 Hands down, I think the Tascam US-2x2 is great. [Jason thinks so too](https://sixcolors.com/post/2016/04/low-cost-usb-audio-interfaces-review-cheap-xlr/), [as well as the Wirecutter](https://thewirecutter.com/reviews/best-usb-audio-interface/). Who'd be arguing against this? It's 125€.
 
-A little more color on the US-2x2: The microphone preamps are [one class up](http://tascam.com/product/us-2x2/) ("Ultra-HDDA") from [the ones](http://tascam.com/product/us-2x2/) in the DR-60D MkII ("HDDA"). As an interface connected to your PC it's not as portable. Have your priorities in order an make a decision, both are great picks.
+A little more color on the US-2x2: The microphone preamps are [one class up](http://tascam.com/product/us-2x2/) ("Ultra-HDDA") from [the ones](http://tascam.com/product/us-2x2/) in the DR-60D MkII ("HDDA"). As an interface connected to your PC it's not as portable. Have your priorities in order and make a decision, both are great picks.
 
 
 
@@ -291,7 +291,7 @@ In my experience, using the **Learn** function doesn't offer any benefit. But th
 
 ###NR with Brusfri, 60€ / sometimes on sale
 Much more satisifed I am with [Brusfri](https://klevgrand.se/products/brusfri/). It works in a way that lends itself well to continuous noise like hiss or hum. Which I *have* to think is what most podcasters are dealing with, right?  
-I was really blown away. You have to feed Brusfri some pure noise since there's no auto/dynamicrophone mode, but *boy* does it work. In my experience, there is minimum risk of producing artifacts or muffled sound. In most cases, I even reduce the threshold to somewhere between 40% and 20% and still get stellar noise reduction.
+I was really blown away. You have to feed Brusfri some pure noise since there's no auto/dynamic microphone mode, but *boy* does it work. In my experience, there is minimum risk of producing artifacts or muffled sound. In most cases, I even reduce the threshold to somewhere between 40% and 20% and still get stellar noise reduction.
 
 Some negative: The interface is a little heavy on the hipster – which is to say it's a little user hostile. Some sliders as well as having values readable with*out* having to hover would do wonders to its usability.
 
@@ -333,10 +333,10 @@ What I think are the most important takeaways:
 
 ## Mixing: Compression<a name="Compression"></a>
 
-Compression in podcasting is done to improve intelligibility. It's an important tool to reach a more even volume on each track. Why is that important, as long as everything is loud *enough*? Well, it's not fun to listen to voices of constantly changing volume. This also goes into the topic of loudness standards, but more on that later. Just keep in mind that compression is about reducing the **Dynamicrophone Range**, the gap between the loudest and quietest part of a given signal.
+Compression in podcasting is done to improve intelligibility. It's an important tool to reach a more even volume on each track. Why is that important, as long as everything is loud *enough*? Well, it's not fun to listen to voices of constantly changing volume. This also goes into the topic of loudness standards, but more on that later. Just keep in mind that compression is about reducing the **dynamic microphone Range**, the gap between the loudest and quietest part of a given signal.
 
 It takes some mental pull-ups to wrap your head around the concept. I'll give a short explanation a go. Compression somehow is associated with raising the volume of the signal. This is wrong – but only kind of. What compression does is leveling out the signal. The signal that exceeds the **Threshold** is knocked down by a certain amount. That amount is defined by the **Ratio**.
-So far, the loudest parts of the audio got quieter. This means that the **Dynamicrophone Range** is reduced.  
+So far, the loudest parts of the audio got quieter. This means that the **dynamic microphone Range** is reduced.  
 After compression, typically some **Makeup Gain** is applied. The now "smoothed out" signal as a whole is turned up by a certain amount. This is where compression gets its false reputation from.
 
 Beware: Compression is complicated enough in practice that I wouldn't trust a random YouTube tutorial on the topic. I'm positive that everything a podcaster needs in this regard is *at least* touched on in [Episode 88 of *The Podcasters' Studio* with Randy Coppinger](http://thepodcastersstudio.com/tps088-compression-for-podcasts-with-randy-coppinger/) ([Overcast link](https://overcast.fm/+I1X6mUeE)) that I mentioned before. Randy and Ray go into great detail on almost everything – *and* compression ;-)
