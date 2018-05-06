@@ -551,7 +551,7 @@ With this article, I try and do my part in making podcasting more accessible. Or
 
 ## My Podcast<a name="MyPodcast"></a>
 
-If you want to hear what all of this know-how sounds like, give my podcast a listen (it's German though): [Die Sonne über Altona](http://sonnealtona.de/) – as I write this, there are 42 episodes released. Naturally, the latest episode sounds the best I think. 
+If you want to hear what all of this know-how sounds like, give my podcast a listen (it's German though): [Die Sonne über Altona](http://sonnealtona.de/) – as I write this, there are 42 episodes released. Naturally, I think the latest episode sounds the best. 
 
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/00655738?color=3d3d3d' width='100%'></iframe>
 
