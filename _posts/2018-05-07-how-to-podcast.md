@@ -399,7 +399,7 @@ Loudness *standard*? This is where the whole loudness thing goes a little furthe
 
 There have alway been meters in audio, but for a long time there was no objective way to measure "loudness". Peak loudness or even RMS *are* measurements, but they are based upon the energy within a given signal. This doesn't correlate to how loud a program is perceived by a human ear. This is because our ear has a built-in equalizer, doesn't have the same response to different frequency ranges (babies crying, evolution and stuff). The loudness standard gods came up with a measurement that simply takes this "ear EQ" into account. It's called LUFS. You'll love it. 
 
-In the real world, this means that you can use a Loudness Meter in your DAW of choice, most have one by now. Note that using a Loudness Meter as you go is great for tweaking and experimenting. But generally, you'll need to look at a file – or a track – as a whole, and listening through all the way just to get a loudness reading is a non-starter. "Offline measuring" is what you want. 
+In the real world, this means that you can use a Loudness Meter in your DAW of choice, most have one by now. Note that using a Loudness Meter as you go is great for tweaking and experimenting. But generally, you'll need to look at a file – or a track – as a whole, and listening through all the way just to get a loudness reading is a non-starter. "Offline measuring" is what you want, and the resulting reading is called the "integrated" loudness.
 
 If you're on a Mac, I can recommend [r128x](https://github.com/audionuma/r128x).  
 The iZotope suites include a "Waveform Statistics" tool that I also like.
