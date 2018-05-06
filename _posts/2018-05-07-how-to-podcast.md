@@ -91,7 +91,7 @@ Consider the room you want to record in. Think about a bathroom, or some noisy r
 
 ### Microphone Technique
 
-Take some time to consider *how* to speak into a microphone. I have searched for a proper tutorial for a long time, and have the feeling there just isn't one very good one to point people towards. I guess [this one will do](https://www.youtube.com/watch?v=AgK8g9O19T4).
+Take some time to consider *how* to speak into a microphone. I have searched for a proper tutorial for a long time, and have the feeling there just isn't one very good one to point people towards. I guess [this one will do](https://www.youtube.com/watch?v=AgK8g9O19T4). I also like [this post on transom.org](https://transom.org/2016/p-pops-plosives/) (same link as below).
 
 * Get as close to the microphone as you can without introducing breathing noises or heavy bass from the [proximity effect](http://www.neumann.com/homestudio/en/what-is-the-proximity-effect)
 * Generally, putting the microphone slightly off-angle helps with p-sounds (*[plosives](https://transom.org/2016/p-pops-plosives/)*, as the pros say)
