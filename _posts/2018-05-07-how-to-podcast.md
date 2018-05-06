@@ -46,7 +46,7 @@ I'm gonna go through *all* the different areas (which is probably a bad idea). I
 * <a href="#Loudness">Loudness Standards</a>
 * <a href="#Exporting">Exporting</a>
 * <a href="#Hosting">Hosting</a>
-* <a href="#dbx">dbx 286</a>
+* <a href="#dbx">Live signal processing with a dbx 286</a>
 * <a href="#Thanks">Thanks</a>
 * <a href="#MyPodcast">My Podcast</a>
 
@@ -91,12 +91,22 @@ Consider the room you want to record in. Think about a bathroom, or some noisy r
 
 ### Microphone Technique
 
-Take some time to consider *how* to speak into a microphone. I have searched for a proper tutorial for a long time, and have the feeling there just isn't one very good one to point people towards. I guess [this one will do](https://www.youtube.com/watch?v=AgK8g9O19T4). I also like [this post on transom.org](https://transom.org/2016/p-pops-plosives/) (same link as below).
+> *Know the instrument, love the instrument – and use it wisely*
+
+Take some time to consider *how* to speak into a microphone. It's not as easy as it seems! And once it's easy, it's not easy to be really consistent.  
+
+I really like [this post on transom.org](https://transom.org/2016/p-pops-plosives/). It says it's about "plosives", but covers a lot of ground.
+
+There's also this lovely video (quoted above):
+
+<div class="videoWrapper-4-3"><iframe width="1024" height="768" src="http://www.youtube-nocookie.com/embed/K8GBbvo-J9U?rel=0" frameborder="0" allowfullscreen></iframe></div>
+  
+My takeaways:
 
 * Get as close to the microphone as you can without introducing breathing noises or heavy bass from the [proximity effect](http://www.neumann.com/homestudio/en/what-is-the-proximity-effect)
-* Generally, putting the microphone slightly off-angle helps with p-sounds (*[plosives](https://transom.org/2016/p-pops-plosives/)*, as the pros say)
+* Generally, putting the microphone slightly off-angle helps with plosives (the post on transom.org explains what I'm talking about)
 * Don't vary distance or position of the microphone relative to your mouth throughout the recording. You'll have enough variation in volume to deal with simply from being more or less excited while talking.
-* The previous point doesn't apply if you laugh loudly, or scream: For these instances, try to train yourself to increase distance to the microphone so that the recording doesn't clip. It'll absolutely still come across in the recording, don't worry.
+* The previous doesn't apply if you laugh loudly, or scream: For these instances, try to train yourself to increase distance to the microphone so that the recording doesn't clip. It'll absolutely still come across in the recording, don't worry.
 
 <p></p>
 ### Headphones (for monitoring and editing)
