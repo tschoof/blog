@@ -485,7 +485,7 @@ Not quite a tool *exporting*, but promoting: The folks at NPR released an [Audio
 
 ## Hosting<a name="Hosting"></a>
 
-Whatever you do, don't host on SoundCloud. Its future is uncertain, they hide your mp3s from you, and even with a paid plan you haver very littel control over your feed/files.
+Whatever you do, don't host on SoundCloud. Its future is uncertain, they hide your mp3s from you, and even with a paid plan you haver very little control over your feed/files.
 
 I use [Simplecast](http://simplecast.com/). It's pretty solid I'd say. They could make the included website a little more customizable and finally come out with more detailed statistics. But overall im pretty happy. Their customer service is responsive, overall they strike a good balance between customizablity and usability, and they can [put you on Spotify](https://open.spotify.com/show/4TLAmx64foh62SJNBwqxQ2)! They also offer a snazzy embeddable player that I'm using <a href="#MyPodcast">later in this article</a>.
 
