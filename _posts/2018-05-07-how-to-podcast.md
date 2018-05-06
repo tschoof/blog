@@ -45,7 +45,8 @@ I'm gonna go through *all* the different areas (which is probably a bad idea). I
 	* <a href="#Limiting">Limiting</a>
 * <a href="#Loudness">Loudness Standards</a>
 * <a href="#Exporting">Exporting</a>
-* <a href="#dbx">DBX 286</a>
+* <a href="#Hosting">Hosting</a>
+* <a href="#dbx">dbx 286</a>
 * <a href="#Thanks">Thanks</a>
 * <a href="#MyPodcast">My Podcast</a>
 
@@ -198,7 +199,7 @@ The settings I use: 4%; 0,6; 0,2; 0,4.
 Audacity is free, and it's very powerful. I use it for recording, and it's fine for file conversion and all kinds of little jobs that come up once you're dealing with audio.  
 But, and this is a big *but*, for real editing it's no good at all, because it only does *destructive* editing. You're going to be sad when you apply some effects, edit a whole episode and then discover that you accidentally chopped up the first sentence. You're going to have to do it all.over.again. That's when you'll "graduate" from Audacity to something else at the latest.
 
-But, as I said, Audacity is a versatile tool. Further down I explain how I have used Audacity as a noise reduction tool to pretty good effect.
+But, as I said, Audacity is a versatile tool. Further down I explain how I have used Audacity as a noise reduction tool to pretty good effect. I also *still* use it simply for recording on my laptop. While it is not pretty by any stretch of the imagination, it allows to show big db-meters (Logic does not). 
 
 ### SoX, free (but a command line utility)
 
@@ -221,7 +222,12 @@ I've only used Audacity and Logic Pro X, so I can't really speak in depth about 
 
 * Adobe Audition, 24€/month
   As well as Logic Pro X, it's probably a bit overkill for podcast editing. But it has decent noise reduction built-in, so that's something. The subscription price is really steep for non-professionals, though.
+  
+### Wise Words
 
+Whatever software you end up using, take time to get comfortable with it. I found that many, many aspects of podcast production are repetitive. This means they should either be automated, or if that's not possible then at least handled in the most efficient way possible. So using **templates**, **keyboard shortcuts** and any other feature that saves you from repetitive manual labor is crucial.
+
+For Logic Pro X, I already mentioned (again, check out [Brett Terpstra's post](http://brettterpstra.com/2017/12/12/a-few-tips-for-podcast-editing-in-logic/)) Templates, Strip Silence and Ripple Delete. This last one sadly may not be feasible if you are working on more than three tracks at a time.
 
 ## Editing<a name="Editing"></a>
 This one's totally up to you. How much you want to craft your mono/dialogue, how many "um"s you take out – it's your decision. Successful podcasts are found in all varieties, from three-hour ramblings to tightly edited 20 minutes.
@@ -477,6 +483,19 @@ That’s Marco’s theory and I [found](https://www.audiorecording.me/dithering-
 
 Not quite a tool *exporting*, but promoting: The folks at NPR released an [Audiogram](https://github.com/nprapps/npr-audiogram) tool. With this, you can create a video file out of a snippet. Great for [promoting an upcoming episode](https://twitter.com/sonne_altona/status/988667009855520768/video/1) on social media.
 
+## Hosting<a name="Hosting"></a>
+
+Whatever you do, don't host on SoundCloud. Its future is uncertain, they hide your mp3s from you, and even with a paid plan you haver very littel control over your feed/files.
+
+I use [Simplecast](http://simplecast.com/). It's pretty solid I'd say. They could make the included website a little more customizable and finally come out with more detailed statistics. But overall im pretty happy. Their customer service is responsive, overall they strike a good balance between customizablity and usability, and they can [put you on Spotify](https://open.spotify.com/show/4TLAmx64foh62SJNBwqxQ2)! They also offer a snazzy embeddable player that I'm using <a href="#MyPodcast">later in this article</a>.
+
+I bet you also don't go wrong with choosing Dan Benjamin's (of [5by5](http://5by5.tv/) fame) [Fireside.fm](https://fireside.fm/).
+
+The omnipresent (as podcast advertiser) [Squarespace](https://www.squarespace.com/) also does podcast hosting – but you have to twist its arm a little bit to get there. I remember quite some forum-hopping and hassle to have everything just-so for [my old podcast](http://www.ungeheuerlich.org/).  
+Also: the last time I observed a friend set up her website on Squarespace, it felt a little like... I'm gonna say it: Wordpress (if you don't know Wordpress: It's powerful, but boy is it ugly and hard to use).
+
+There's also [libsyn](https://www.libsyn.com/) –  big podcasts use it, I've heard only good things about it. But I have no idea how well suited it is for smaller endeavours.
+
 ## Live signal processing with a dbx 286<a name="dbx"></a>
 
 You know what's fun? Taking everything you've learned and throwing it out the window.  
@@ -522,7 +541,7 @@ With this article, I try and do my part in making podcasting more accessible. Or
 
 ## My Podcast<a name="MyPodcast"></a>
 
-Oh: If you want to hear what this "know how" sounds like, give my podcast a listen (it's German though): [Die Sonne über Altona](http://sonnealtona.de/) – as I write this, there are 42 episodes released. Naturally, the latest episode sounds the best I think. 
+If you want to hear what all of this know-how sounds like, give my podcast a listen (it's German though): [Die Sonne über Altona](http://sonnealtona.de/) – as I write this, there are 42 episodes released. Naturally, the latest episode sounds the best I think. 
 
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/00655738?color=3d3d3d' width='100%'></iframe>
 
