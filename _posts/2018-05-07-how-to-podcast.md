@@ -14,6 +14,7 @@ published: false
 After sinking what must be hundreds of hours into podcast production, I think I can give a few pointers for podcasters looking to improve their sound and/or workflow. This is probably a little heavy for beginners. But maybe also just something to come back to :) 
 
 I record a podacst with a friend, in a room of my flat. My setup and preferences are derived from that, so [ymmv](https://www.urbandictionary.com/define.php?term=ymmv) as they say.  
+
 Disclaimer: Since I'm not a pro, take all of this with a grain of salt. If you're a pro or have more insight into a specific aspect, I'd be more than appreciative if you [contacted](http://timmschoof.com/) me for corrections, hints etc.
 
 I'm gonna go through *all* the different areas (which is probably a bad idea). I'm gonna do my very best to:
@@ -242,7 +243,11 @@ For Logic Pro X, I already mentioned (again, check out [Brett Terpstra's post](h
 ## Editing<a name="Editing"></a>
 This one's totally up to you. How much you want to craft your mono/dialogue, how many "um"s you take out – it's your decision. Successful podcasts are found in all varieties, from three-hour ramblings to tightly edited 20 minutes.
 
-One word of advice: While I support the idea that not everything has to be crafted to the n-th degree, you're asking your listeners for their time. In my opinion, you should have an awareness of that. If you think the appeal of your show is your *raw, unedited* personality – better make sure that's really the case. 
+I talk about methods, hard- and software in this post. But once you arrive at a setup, the editing is where most of the time goes. While everything else is important for how your podcast sounds, the editing brings the content in shape for a really good listening experience.
+
+I spend 2-4 hours per episode, and a considerable amount of is listening through and straightening out the conversation. "Um"s, fillers, false starts, sentences that go nowhere, chop chop! This inevitably also has to do with me and my co-host not being professionally trained, not talking into microphones for a living. [But then again, who does](https://www.youtube.com/watch?v=bAZqE2DnxUI)?
+
+You may go for "less editing", and more power to you. One word of advice though: While I support the idea that not everything has to be crafted to the n-th degree, you're asking your listeners for their time. In my opinion, you should have an awareness of that. If you think the appeal of your show is your *raw, unedited* personality – better make sure that's really the case. 
 
 My point is that, when in doubt, you should be a ruthless editor.
 <p></p>
