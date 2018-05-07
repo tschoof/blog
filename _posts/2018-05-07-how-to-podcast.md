@@ -13,7 +13,7 @@ published: true
 
 After sinking what must be hundreds of hours into podcast production, I think I can give a few pointers for podcasters looking to improve their sound and/or workflow. This is probably a little heavy for beginners. But maybe also just something to come back to :) 
 
-I record a podacst with a friend, in a room of my flat. My setup and preferences are derived from that, so [ymmv](https://www.urbandictionary.com/define.php?term=ymmv) as they say.  
+I record a podcast with a friend, in a room of my flat. My setup and preferences are derived from that, so [ymmv](https://www.urbandictionary.com/define.php?term=ymmv) as they say.  
 
 Disclaimer: Since I'm not a pro, take all of this with a grain of salt. If you're a pro or have more insight into a specific aspect, I'd be more than appreciative if you [contacted](http://timmschoof.com/) me for corrections, hints etc.
 
