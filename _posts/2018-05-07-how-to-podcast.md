@@ -72,7 +72,7 @@ Before considering gear, let's take a moment and think about what the goal is in
 
 > You want to capture the spoken words in the best way possible
 
-*Best way possible* in recording terms means *as loud as possible, but not too loud*. Okay. *too loud* [means *clipping*](https://en.wikipedia.org/wiki/Clipping_(audio)), which means *distortion*. **Which you don't want**. Therefore, in order to protect against [clipping, which means the signal exceedig 0dB](https://manual.audacityteam.org/man/glossary.html#clipping), you need some headroom. -6 to -12 dBFS as *maximum* signal level is recommended. [Wikipedia explains what dB*FS* means](https://en.wikipedia.org/wiki/DBFS). My understanding: It specifies the digital range of lebvels.
+*Best way possible* in recording terms means *as loud as possible, but not too loud*. Okay. *too loud* [means *clipping*](https://en.wikipedia.org/wiki/Clipping_(audio)), which means *distortion*. **Which you don't want**. Therefore, in order to protect against [clipping, which means the signal exceedig 0dB](https://manual.audacityteam.org/man/glossary.html#clipping), you need some headroom. -6 to -12 dBFS as *maximum* signal level is recommended. [Wikipedia explains what dB*FS* means](https://en.wikipedia.org/wiki/DBFS). My understanding: It specifies the digital range of levels.
 
 Since every speaker (and every microphone) is different, this of course means that there's just no way to figure it out in advance. A good way is to just have every speaker talk for a bit. What I imagine must be hardest for non-pros is to be careful enough. I bet the more professional you are, the more you keep the level on the quiet side.  
 Two factors: People tend to get more excited during a conversation than during test sentences. And: clipping is worse than a recording that's too silent.  
@@ -106,7 +106,7 @@ There's also this lovely video (quoted above):
 My takeaways:
 
 * Get as close to the microphone as you can without introducing breathing noises or heavy bass from the [proximity effect](http://www.neumann.com/homestudio/en/what-is-the-proximity-effect)
-* Generally, putting the microphone slightly off-angle helps with plosives (the post on transom.org explains what I'm talking about)
+* Generally, putting the microphone slightly off-axis helps with plosives (the post on transom.org explains what I'm talking about)
 * Don't vary distance or position of the microphone relative to your mouth throughout the recording. You'll have enough variation in volume to deal with simply from being more or less excited while talking.
 * The previous doesn't apply if you laugh loudly, or scream: For these instances, try to train yourself to increase distance to the microphone so that the recording doesn't clip. It'll absolutely still come across in the recording, don't worry.
 
@@ -142,7 +142,7 @@ For 175€ new, and 80-140€ used, it can absolutely be worth it. [Beware of fa
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/pc_002.jpg"><br>Shure Beta 58A – mine lacks the trademark blue rubber ring on the cage</p>
 
-Right now I'm using the **Shure Beta 87A**, which is a condenser microphone – pause for effect – but allegedly with the good characteristics of a dynamic microphone microphone! This I can corroborate. The rejection is great. When you turn your head, the drop in volume is tremendous, which also means less opportunity for nasty room echo to get in there.
+Right now I'm using the **Shure Beta 87A**, which is a condenser microphone – pause for effect – but allegedly with the good characteristics of a dynamic microphone! This I can corroborate. The rejection is great. When you turn your head, the drop in volume is tremendous, which also means less opportunity for nasty room echo to get in there.
 
 I wasn't immediately impressed by the sound quality. I guess I expected Blue Yeti-level clarity which the 87A probably can't deliver because it's a small condenser(?). But it does sound "nicer" than the 58s.  
 What I found curious is that it also needs *almost as much* gain as the dynamic microphones. Overall, I'm not totally overwhelmed by the Beta 87A, but still think I'll keep it. Or at least use it for some time to really get used to it.  
@@ -349,10 +349,10 @@ What I think are the most important takeaways:
 
 ## Mixing: Compression<a name="Compression"></a>
 
-Compression in podcasting is done to improve intelligibility. It's an important tool to reach a more even volume on each track. Why is that important, as long as everything is loud *enough*? Well, it's not fun to listen to voices of constantly changing volume. This also goes into the topic of loudness standards, but more on that later. Just keep in mind that compression is about reducing the **dynamic microphone Range**, the gap between the loudest and quietest part of a given signal.
+Dynamics compression in podcasting is done to improve intelligibility. It's an important tool to reach a more even volume on each track. Why is that important, as long as everything is loud *enough*? Well, it's not fun to listen to voices of constantly changing volume. This also goes into the topic of loudness standards, but more on that later. Just keep in mind that compression is about reducing the **dynamic Range**, the gap between the loudest and quietest part of a given signal.
 
 It takes some mental pull-ups to wrap your head around the concept. I'll give a short explanation a go. Compression somehow is associated with raising the volume of the signal. This is wrong – but only kind of. What compression does is leveling out the signal. The signal that exceeds the **Threshold** is knocked down by a certain amount. That amount is defined by the **Ratio**.
-So far, the loudest parts of the audio got quieter. This means that the **dynamic microphone Range** is reduced.  
+So far, the loudest parts of the audio got quieter. This means that the **dynamic Range** is reduced.  
 After compression, typically some **Makeup Gain** is applied. The now "smoothed out" signal as a whole is turned up by a certain amount. This is where compression gets its false reputation from.
 
 Beware: Compression is complicated enough in practice that I wouldn't trust a random YouTube tutorial on the topic. I'm positive that everything a podcaster needs in this regard is *at least* touched on in [Episode 88 of *The Podcasters' Studio* with Randy Coppinger](http://thepodcastersstudio.com/tps088-compression-for-podcasts-with-randy-coppinger/) ([Overcast link](https://overcast.fm/+I1X6mUeE)) that I mentioned before. Randy and Ray go into great detail on almost everything – *and* compression ;-)
@@ -383,11 +383,11 @@ Limiting is basically the same as compression – only viewed from the "other si
 
 While you can definitely use in the mixing of each track, it's more of a mastering tool I think. It's a way of making sure that nothing exceeds 0dB. 
 
-Important to know: A lossless file, like a wav from your editing suite, will peak exactly where it "should". If you limit to -1dB, the .wav will peak at -1dB. But nobody distributes their podcast as .wav, because that'd be ridiculous. Once you convert to a lossy format like mp3, there will be higher peaks. This has to do with the way compression works: There are simply not as many data points, and by "jumping" from one to the next, there can be higher peaks than in the original file.
+Important to know: A lossless file, like a wav from your editing suite, will peak exactly where it "should". If you limit to -1dB, the .wav will peak at -1dB. But nobody distributes their podcast as .wav, because that'd be ridiculous. Once you convert to a lossy format like mp3, there will be higher peaks. This has to do with the way data compression works: There are simply not as many data points, and by "jumping" from one to the next, there can be higher peaks than in the original file.
 
 For this reason, once you talk limiting, it's common to not use dB = decibel, but dBTP = decibel true peak. A dBTP value is arrived at by simply oversampling the signal, usually 4X. So, if you limit at the master stage, definitely set everything you can to dBTP.
 
-How much higher the peaks will be depends on the amount of compression. You want just one value? Okay, -2dBTP are [considered safe](http://www.producenewmedia.com/loudness-compliance-summarization/) for most applications. Don't worry about the "loudness compliance" part for now, we'll get to that <a href="#Loudness">almost immedialtely</a>.
+How much higher the peaks will be depends on the amount of data compression (how lossy the final mp3 will be). You want just one value? Okay, -2dBTP are [considered safe](http://www.producenewmedia.com/loudness-compliance-summarization/) for most applications. Don't worry about the "loudness compliance" part for now, we'll get to that <a href="#Loudness">almost immedialtely</a>.
 
 Logic Pro X's limiter plugin is... "a little weird". In order not to produce a limited but also quieter signal, you have to "add" gain that *matches* the negative output level ([Thank you Paul!](https://twitter.com/produceNewMedia/status/963433047663276032)). 
 
@@ -413,7 +413,7 @@ Loudness *standard*? This is where the whole loudness thing goes a little furthe
 
 ### Metering<a name="Metering"></a>
 
-There have alway been meters in audio, but for a long time there was no objective way to measure "loudness". Peak loudness or even RMS *are* measurements, but they are based upon the energy within a given signal. This doesn't correlate to how loud a program is perceived by a human ear. This is because our ear has a built-in equalizer, doesn't have the same response to different frequency ranges (babies crying, evolution and stuff). The loudness standard gods came up with a measurement that simply takes this "ear EQ" into account. It's called LUFS. You'll love it. 
+There have alway been meters in audio, but for a long time there was no objective way to measure "loudness". Peak amplitude or even RMS *are* measurements, but they are based upon the energy within a given signal. This doesn't correlate to how loud a program is *perceived* by a human ear. This is because our ear has a built-in equalizer, doesn't have the same response to different frequency ranges (babies crying, evolution and stuff). The loudness standard gods came up with a measurement that simply takes this "ear EQ" into account. It's called LUFS – Loudness Units Full Scale. I bet you're already in love with it. 
 
 In the real world, this means that you can use a Loudness Meter in your DAW of choice, most have one by now. Note that using a Loudness Meter as you go is great for tweaking and experimenting. But generally, you'll need to look at a file – or a track – as a whole, and listening through all the way just to get a loudness reading is a non-starter. "Offline measuring" is what you want, and the resulting reading is called the "integrated" loudness.
 
@@ -447,7 +447,7 @@ This is a **variable step**, the offset is different for each track and each rec
 	* Use a Limiter set to -9 dBTP (in terms of risking intersample peaking this works out for me because I release a 128kbps mp3), Lookahead 1.5ms and a Release of 150ms
 	* (If you use Logic, be aware of the weirdness I pointed out when talking about limiting)
 * Step 3: Apply 8dB of gain on the *Master Track*
-* Result: After bouncing, you should end up with a file that measures at -16 LUFS (stereo)/ -19 (mono). It also should have a loudness range somewhere south of 8dB. If you end up with a higher value, you might need to put some more compression on one or multiple tracks.
+* Result: After bouncing, you should end up with a file that measures at -16 LUFS (stereo)/ -19 (mono). It also should have a **loudness range** somewhere south of 8 LU. If you end up with a higher value, you might need to put some more dynamics compression on one or multiple tracks.
 
 For all the remaining why and how (Why -27LUFS, why three steps, why why whyyyy?) – here are my top 5 resources:
 
@@ -532,7 +532,7 @@ A word on the different versions: The dbx 286A seems to be almost indistinguisha
 
 Some resources:  
 
-* [Paul on Gain Staging](http://www.producenewmedia.com/microphone-preamp-level-and-gain-staging/)
+* [Paul on Gain Staging](http://www.producenewmedia.com/mic-preamp-level-and-gain-staging/)
 * [Paul also praising the dbx 286](http://www.producenewmedia.com/dbx-286s-beyond-the-basics/)
 
  
