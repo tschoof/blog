@@ -87,7 +87,7 @@ I'm not giving the recording levels I use, because they're meaningless for every
 
 This is mostly derived from this article: [Noterepeat.com: Gain Staging 101 – How to get a clean loud signal](https://www.noterepeat.com/articles/q-and-a/20-gain-staging-101).
 
-###Recording Space
+### Recording Space
 Consider the room you want to record in. Think about a bathroom, or some noisy restaurant: The less fabric and the more hard surfaces there are, the more echo you'll have. This is bad for podcasting. You don't need to build a sound booth though, just consider some things and you'll do fine. Ray talks about the room [specifically in this video](https://www.youtube.com/watch?v=3cckIFFeZcU&amp;list=PLnkXFSi7atP6ZxCLAMLFKrs6ps0OeXarD&amp;index=2).
 
 ### Microphone Technique
@@ -129,7 +129,7 @@ There are two basic types of microphones, condenser and dynamic microphones, and
 Quite some time ago I made [a little video](https://www.youtube.com/watch?v=AsgWldhZSIM) in which I recommended the Blue Yeti. It's quite popular, and it's the [Wirecutter pick](https://thewirecutter.com/reviews/the-best-usb-microphone/) (for USB microphones).  
 But: I was wrong. It *has* nice sound (because it's a large diaphragm condenser microphone). But if you're not in a studio or don't want to build a pillow fort every time you're recording, rejection of room noise and echo becomes an important quality in a microphone. 
 
-###XLR
+### XLR
 
 The **Shure SM58** is a solid microphone for podcasting. It doesn't sound as clear as the Blue Yeti, but it makes recording two people in one room feasible with minimum effort. And it sounds absolutely more than "good enough".  
 Only bad thing: It does need quite a bit of gain, so it should be paired with an at least "okay" microphone preamp (either extra, or built into an interface or recorder, more on that later).  
@@ -150,7 +150,7 @@ For 300€ new and about 220€ used, this is not a win as clear-cut as I'd like
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/pc_009.jpg"><br>Shure Beta 87A</p>
 
-###USB
+### USB
 
 If an USB microphone is for you and you're in the US, the [Audio Technica ATR 2100](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-dynamic microphone-microphone/dp/B004QJOZS4) seems to be a tremendous pick as well as a great value. In Europe, you can't get it. But it's supposed to be the same as the EU-available [Samson Q2U](https://www.amazon.de/Samson-Recording-Handmikrofon-Cakewalk-software/dp/B001R747SG).  
 I have no experience with these microphones, so I can't speak to them. And with the EU version, the deal isn't quite as great. 
