@@ -48,6 +48,7 @@ I'm gonna go through *all* the different areas (which is probably a bad idea). I
 * <a href="#Exporting">Exporting</a>
 * <a href="#Hosting">Hosting</a>
 * <a href="#dbx">Live signal processing with a dbx 286</a>
+* <a href="#Resources">More Resources</a>
 * <a href="#Thanks">Thanks</a>
 * <a href="#MyPodcast">My Podcast</a>
 
@@ -533,6 +534,17 @@ Some resources:
 
 * [Paul on Gain Staging](http://www.producenewmedia.com/microphone-preamp-level-and-gain-staging/)
 * [Paul also praising the dbx 286](http://www.producenewmedia.com/dbx-286s-beyond-the-basics/)
+
+ 
+## More Resources<a name="Resources"></a>
+
+Even with all the sections, there are still "miscellaneous" resources I want to mention:
+
+* Episode 58 & 59 of *The Podcasters' Studio* – Ray talks post production in general with Joe Glider
+	* [Episode 58](http://thepodcastersstudio.com/tps-ep-058-audio-post-production-with-joe-gilder-part-1/) ([Overcast Link](https://overcast.fm/+I1WJap34))
+	* [Episode 59](http://thepodcastersstudio.com/tps-ep-059-part-two-audio-post-production-for-podcasters-with-joe-gilder/) ([Overcast Link](https://overcast.fm/+I1VLYYuk))
+* [Episode 101](http://thepodcastersstudio.com/tps101-podcasting-101-how-to-start-a-podcast/) of *The Podcasters' Studio* – A guide on how to start a Podcast. Okay, you're beyond that if you've made it here, but it's a good reminder of what the basics are. 
+* I'm sorry to link my own post here. But if you've made it here you also might be interested in how podcasts could be made more accessible for listeners: [What it Takes to Listen to a Podcast](http://blog.timmschoof.com/2015/02/15/what-it-takes-to-listen-to-a-podcast/)
 
 
 ## Thanks<a name="Thanks"></a>
