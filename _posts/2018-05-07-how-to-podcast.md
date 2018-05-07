@@ -7,7 +7,7 @@ published: true
 ---
 
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_006.jpg"></a></p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/pc_006.jpg"></p>
 
 <a name="Introduction">
 
