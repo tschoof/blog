@@ -60,7 +60,7 @@ body {
 }
 p {
 		margin: 0.7em 0 1.0em 0;
-		text-indent: 10%;
+		text-indent: 3%;
 }
 em {	
 		font-style: italic;
@@ -237,6 +237,7 @@ img {
 p.pic {
 		text-align: center;
 		font-size: 0.8em;
+		text-indent: 0%;
 }
 .post-content {
 		margin-bottom: 8.3em;
