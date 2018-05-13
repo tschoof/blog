@@ -305,7 +305,7 @@ In my experience, using the **Learn** function doesn't offer any benefit. But th
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/izonr.png"><br>iZotope Voice De-Noise in action</p>
 
-###NR with Brusfri, 60€ / sometimes on sale
+### NR with Brusfri, 60€ / sometimes on sale
 Much more satisifed I am with [Brusfri](https://klevgrand.se/products/brusfri/). It works in a way that lends itself well to continuous noise like hiss or hum. Which I *have* to think is what most podcasters are dealing with, right?  
 I was really blown away. You have to feed Brusfri some pure noise since there's no auto/dynamic microphone mode, but *boy* does it work. In my experience, there is minimum risk of producing artifacts or muffled sound. In most cases, I even reduce the threshold to somewhere between 40% and 20% and still get stellar noise reduction.
 
