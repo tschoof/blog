@@ -60,6 +60,7 @@ body {
 }
 p {
 		margin: 0.7em 0 1.0em 0;
+		text-indent: 10%;
 }
 em {	
 		font-style: italic;
