@@ -381,7 +381,7 @@ BUT you can also leave the makeup gain be and use a separate gain adjustment lat
 
 Limiting is basically the same as compression – only viewed from the "other side". It's a basically a compressor with an infinitely high ratio that slams the signal down once it reaches the set threshold. 
 
-While you can definitely use in the mixing of each track, it's more of a mastering tool I think. It's a way of making sure that nothing exceeds 0dB. 
+While you can definitely use it in the mixing of each track, it's more of a mastering tool I think. It's a way of making sure that nothing exceeds 0dB. 
 
 Important to know: A lossless file, like a wav from your editing suite, will peak exactly where it "should". If you limit to -1dB, the .wav will peak at -1dB. But nobody distributes their podcast as .wav, because that'd be ridiculous. Once you convert to a lossy format like mp3, there will be higher peaks. This has to do with the way data compression works: There are simply not as many data points, and by "jumping" from one to the next, there can be higher peaks than in the original file.
 
@@ -428,7 +428,7 @@ Another point of confusion might be that stereo and mono handle differently. The
 
 Now that we've covered the basics, let's dive right in. I promise it's less confusing once you've applied the workflow yourself. In a nutshell, the loudness workflow is this:
 
-1. Make each track equally loud
+* Make each track equally loud
 * Limit for headroom 
 * Add gain
 
