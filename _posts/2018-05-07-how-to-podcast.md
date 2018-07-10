@@ -125,29 +125,25 @@ I went with the widely recommended [Sony MDR-7506](https://www.amazon.de/Sony-MD
 ## Microphones<a name="Microphones"></a>
 Aaaaah, microphones. The never ending topic. Good news: It's not as complicated as you might think from all the talk. [Marco's guide](https://marco.org/podcasting-microphones) is the best place to start.
 
-There are two basic types of microphones, condenser and dynamic microphones, and it's good to know the basics. Others have written everything there is to write about this and how it's relevant for podcasters: [Marco's take](https://marco.org/podcasting-microphones#condenserdynamic) is as good as any. Microphones come in the USB and the XLR variety, [Marco also writes about this](https://marco.org/podcasting-microphones#xlrusb).
+There are two basic types of microphones, condenser and dynamic microphones, and it's good to know the basics. Others have written everything there is to write about this and how it's relevant for podcasters: [Marco's take](https://marco.org/podcasting-microphones#condenserdynamic) is as good as any. Both dynamic and condenser Microphones come in the USB and the XLR variety, [Marco also writes about this](https://marco.org/podcasting-microphones#xlrusb).
 
-Quite some time ago I made [a little video](https://www.youtube.com/watch?v=AsgWldhZSIM) in which I recommended the Blue Yeti. It's quite popular, and it's the [Wirecutter pick](https://thewirecutter.com/reviews/the-best-usb-microphone/) (for USB microphones).  
+Quite some time ago I made [a little video](https://www.youtube.com/watch?v=AsgWldhZSIM) in which I recommended the Blue Yeti. It's quite popular (the Yeti, not my video), and it's the [Wirecutter pick](https://thewirecutter.com/reviews/the-best-usb-microphone/) (for USB microphones).  
 But: I was wrong. It *has* nice sound (because it's a large diaphragm condenser microphone). But if you're not in a studio or don't want to build a pillow fort every time you're recording, rejection of room noise and echo becomes an important quality in a microphone. 
 
 ### XLR
 
 The **Shure SM58** is a solid microphone for podcasting. It doesn't sound as clear as the Blue Yeti, but it makes recording two people in one room feasible with minimum effort. And it sounds absolutely more than "good enough".  
-Only bad thing: It does need quite a bit of gain, so it should be paired with an at least "okay" microphone preamp (either extra, or built into an interface or recorder, more on that later).  
-For 100€ new, and 50-60€ used, you can't go wrong. [Beware of fakes, though](https://fakesm58.wordpress.com/).
+Only bad thing: It does need quite a bit of gain, so it should be paired with an at least "okay" microphone preamp (either extra, or built into an interface or recorder, more on that later). For 100€ new, and 50-60€ used, you can't go wrong. [Beware of fakes, though](https://fakesm58.wordpress.com/).
 
-The **Shure Beta 58A** is an "updated" SM58, and hence also solid. Beware: It's not necessarily *better* than the SM58. Depending on voice and microphone technique of the speaker, the sound characteristics (more high-end) and more directional pickup pattern may or may not be an advantage.  
-I mainly tried the Beta 58A because it offers more gain than the SM58, about 4 dB – what I didn't know was that the signal-to-noise-ratio is *the same* as the SM58's. So the noise got louder with the signal. I still like the Beta 58A for my voice, though.  
-For 175€ new, and 80-140€ used, it can absolutely be worth it. [Beware of fakes as well!](http://www.ziggysono.com/upload/104ShureAgainstCouterfeit.pdf)
+The **Shure Beta 58A** is an "updated" SM58, and hence also solid. Beware: It's not necessarily *better* than the SM58. Depending on voice and microphone technique of the speaker, the sound characteristics (more high end) and more directional pickup pattern may or may not be an advantage.  
+I mainly tried the Beta 58A because it offers more gain than the SM58, about 4 dB – what I didn't know was that the signal-to-noise-ratio is *the same* as the SM58's. So the noise got louder with the signal. I still like the Beta 58A for my voice, though. For 175€ new, and 80-140€ used, it can absolutely be worth it. [Beware of fakes as well!](http://www.ziggysono.com/upload/104ShureAgainstCouterfeit.pdf)
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/pc_002.jpg"><br>Shure Beta 58A – mine lacks the trademark blue rubber ring on the cage</p>
 
 Right now I'm using the **Shure Beta 87A**, which is a condenser microphone – pause for effect – but allegedly with the good characteristics of a dynamic microphone! This I can corroborate. The rejection is great. When you turn your head, the drop in volume is tremendous, which also means less opportunity for nasty room echo to get in there.
 
 I wasn't immediately impressed by the sound quality. I guess I expected Blue Yeti-level clarity which the 87A probably can't deliver because it's a small condenser(?). But it does sound "nicer" than the 58s.  
-What I found curious is that it also needs *almost as much* gain as the dynamic microphones. Overall, I'm not totally overwhelmed by the Beta 87A, but still think I'll keep it. Or at least use it for some time to really get used to it.  
-
-For 300€ new and about 220€ used, this is not a win as clear-cut as I'd like it to be.
+What I found curious is that it also needs *almost as much* gain as the dynamic microphones. Overall, I'm not totally overwhelmed by the Beta 87A, but still think I'll keep it. Or at least use it for some time to really get used to it. For 300€ new and about 220€ used, this is not a win as clear-cut as I'd like it to be.
 
 <p class="pic"><img src="http://blog.timmschoof.com/images/pc_009.jpg"><br>Shure Beta 87A</p>
 
