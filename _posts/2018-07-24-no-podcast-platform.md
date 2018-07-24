@@ -30,7 +30,7 @@ But looking at Twitter right now, and how Instagram has influenced photography, 
 
 * [Manton Reece: *Anchor on free podcasting*](https://manton.org/2018/07/23/anchor-on-free.html)
 * [sixcolors.com: *There’s No Such Thing As Free Podcast Hosting*](https://sixcolors.com/link/2018/07/why-you-should-never-pay-for-podcast-hosting/)
-* [Apple Podcast's Steven Wilson tweets](https://twitter.com/StephenWilson/status/1021508797599281153)
+* [Apple Podcast's Steve Wilson tweets](https://twitter.com/StephenWilson/status/1021508797599281153)
 * [This article condensed into a(n early morning) tweet](https://twitter.com/tschoof/status/1021511534126747649)
 * [Dave Winer has an important point](https://twitter.com/davewiner/status/1005860107022979072)
 * [Matt Birchler on a different, but kinda related topic: Premium Podcasts](https://birchtree.me/blog/its-not-netflix-for-podcasts/)
