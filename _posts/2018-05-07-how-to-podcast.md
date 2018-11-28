@@ -116,7 +116,7 @@ My takeaways:
 While you record, you should monitor what you're capturing. It could be argued that once the proper input gain is set, there's no need for that – but you're on the other side of that argument once you discover that you've captured a high pitched noise with your signal in that otherwise exquisite one-hour conversation. 
 
 For checking what you're recording, honestly any pair of headphones works as long as it's not letting through too much sound. But you need monitoring headphones anyway, for editing.  
-What is different about monitors compared to "regular" headphones? Well, monitors are meant to be neutral, not color the sound themselves. If you like all of your music with some extra bass, you dial that on on your receiver's EQ. But imagine an audio engineer would do the same *while mixing/mastering*. Everybody *but* her would receive an end product mixed with *too little* bass.  
+What is different about monitors compared to "regular" headphones? Well, monitors are meant to be neutral, not color the sound themselves. If you like all of your music with some extra bass, you dial that in on your receiver's EQ. But imagine an audio engineer would do the same *while mixing/mastering*. Everybody *but* her would receive an end product mixed with *too little* bass.  
 
 This goes into mixing and mastering as well, but this much I'll say here: Remember that you're producing your podcast to be listened to in any situation. Over a car stereo, through earbuds on a train, through a smartphone speaker turned up all the way, anything. You can – and should – still make decisions on what your podcast should sound like, absolutely! But those can't be based upon one level of  indirection – namely your favorite headphones for listening to EDM. 
 
