@@ -1,0 +1,12 @@
+---
+layout: default
+title: Category&#58; photography
+permalink: /categories/photography/
+---
+<h1 class="page">Category: photography</h1>
+
+<ul class="post-list">
+{% for post in site.categories.photography %} 
+<li><span>{{ post.date | date_to_string }}</span> <a  href="{{ post.url }}">{{ post.title }}</a></li><br>
+{% endfor %}
+</ul>

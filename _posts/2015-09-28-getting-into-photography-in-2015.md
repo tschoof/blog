@@ -2,7 +2,7 @@
 layout: post
 title: "Getting into Photography in 2015"
 date: 2015-09-28 08:07:54
-category: life
+category: photography
 published: true
 ---
 

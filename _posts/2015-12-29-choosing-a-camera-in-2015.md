@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing a Camera in 2015"
 date: 2015-12-29 11:28:40
-category: life
+category: photography
 published: true
 ---
 
