@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Importin files into Lightroom CC"
+title: "Importing photos into Lightroom CC"
 date: 2018-12-28 18:12
 category: tech
 published: true
