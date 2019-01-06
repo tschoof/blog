@@ -6,7 +6,7 @@ category: dublin
 published: true
 ---
 
-<p style="text-align: center;"><a href="https://picasaweb.google.com/106968071585582631939/TripToScotland?authuser=0&feat=directlink"><img src="http://blog.timmschoof.com/images/scotlandcover.jpg"/></a><br/><small>Click on picture for full gallery</small></p>
+<p style="text-align: center;"><a href="https://picasaweb.google.com/106968071585582631939/TripToScotland?authuser=0&feat=directlink"><img src="https://blog.timmschoof.com/images/scotlandcover.jpg"/></a><br/><small>Click on picture for full gallery</small></p>
 
 7 international students, 'Reading Week', Scotland's sheer being there and cheap Ryanair flights equal a great trip. I did like Glasgow, and especially the orchestra jam session in the bar '[Bloc](https://foursquare.com/v/bloc/4bc0841cf8219c7407a4b110)' on monday.  
 However, if you contemplate staying in the '[BlueSky Hostel](https://foursquare.com/v/bluesky-hostel/4e45388418a8f9804cb70e4f)', be advised: Due to a broken lock, we were trapped in our room in the morning hours of our second and last day in the hostel. The hostel staff (okay, one guy - who had been nice and helpful before, though) blamed us, essentially saying we were too stupid to operate the lock, then at first refused to give us our deposit money back (I had torn off the door handle, trying to open the door). If you don't like being trapped and blamed for it, chose another hostel.

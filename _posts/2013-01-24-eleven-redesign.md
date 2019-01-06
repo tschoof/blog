@@ -8,7 +8,7 @@ published: true
 
 As you may have noticed (since you're reading this), I have redesigned this blog and my personal page. [The Personal Page package by Naz Hamid](http://thepersonalpage.me) got an update several months ago, now all responsive. So I implemented it and rebuilt my page over Christmas break.
 
-<p class="pic"><a href="http://timmschoof.com"><img src="http://blog.timmschoof.com/images/pp.jpg"></a><br>Redesigned Personal Page</p>
+<p class="pic"><a href="http://timmschoof.com"><img src="https://blog.timmschoof.com/images/pp.jpg"></a><br>Redesigned Personal Page</p>
 
 When I finally felt comfortable with it and had returned to Dublin, I got punched in the face by a few knackers, so that I spent some time in bed, rocking a minor concussion. I began watching The Sopranos (omg how awesome, I had no idea!) and redesigning my blog.
 
@@ -36,14 +36,14 @@ Well, this is pretty simple. I have no idea why I didn't do this earleir, becaus
 Search is a whole different thing. I realise that a script that indexes the content of every article whose output is then searched by another script is a pretty simple thing programming-wise, but I'm not nearly skilled enough to pull that off. So I was very, very happy when I found [Pat Dryburgh's article](http://patdryburgh.com/blog/adding-a-custom-duckduckgo-search-bar-to-your-site/) on how he had built the custom Duckduckgo search box on [Ben Brooks' page](http://brooksreview.net). Beautiful, simple, customisable. 
 
 The only thing that bothers me is what seems to be a rendering bug in Safari, since Chrome does a perfect job:
-<p class="pic"><img src="http://blog.timmschoof.com/images/safaribug.png"><br>This site's search box, Safari 6.0.2</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/safaribug.png"><br>This site's search box, Safari 6.0.2</p>
 
 <s>If you have any idea of how I can change my *border-radius* so that Safari doesn't mess it up, please don't hold back!</s> Since Safari 6.0.4, it displays correctly :)
 
 ## Future
 <s>At some point I'd like to implement category pages that are linked from the category tag just beneath the article titles. This also isn't a hard problem, but it involves tinkering with YAML and stuff, and I didn't find a Jekyll-related tutorial that is close enough to my needs yet.  
 ‘Next/Previous’ article links when viewing a single article fall in the same category.</s>  
-Now I just need to find a place and layout for the [Categories Page](http://blog.timmschoof.com/categories/).
+Now I just need to find a place and layout for the [Categories Page](https://blog.timmschoof.com/categories/).
 
 ## Feedback
 I tested the new sites on a MacBook, an iPhone an iPad mini, and some low-resolution Android smartphone, and am content the results with regard to repsonsiveness and readability. If you, however, have problems with this site or my Personal Page on any device, please contact me (email, twitter, ADN, it's all on... guess where, on the [Personal Page](http://timmschoof.com)) and I will try to improve the experience.  

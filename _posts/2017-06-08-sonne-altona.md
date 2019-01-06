@@ -15,7 +15,7 @@ We're having so much fun doing this project, and would love for you to give us a
 
 Special thanks to [Maggy](http://www.margaretelaue.de/), who came up with our beautiful logo!
 
-Getting into podcasts is hard, [as we all know](http://blog.timmschoof.com/2015/02/15/what-it-takes-to-listen-to-a-podcast/), so I'd appreciate any help in spreading the word. These are all the places for sharing and liking and following:  
+Getting into podcasts is hard, [as we all know](https://blog.timmschoof.com/2015/02/15/what-it-takes-to-listen-to-a-podcast/), so I'd appreciate any help in spreading the word. These are all the places for sharing and liking and following:  
 [sonnealtona.de](http://sonnealtona.de) (our website is pretty!) – [RSS](https://rss.simplecast.com/podcasts/2627/rss) – [Apple Podcasts](https://itunes.apple.com/de/podcast/die-sonne-über-altona/id1244439233) – [Overcast](https://overcast.fm/itunes1244439233/die-sonne-ber-altona) – [Pocket Casts](http://pca.st/LC5Q) – [Facebook](https://www.facebook.com/sonnealtona) – [Twitter](https://twitter.com/sonne_altona)
 
 And here's the first episode: 

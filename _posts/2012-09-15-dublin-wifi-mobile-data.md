@@ -13,5 +13,5 @@ Which is a shame. And embarrassing for Germany.
 
 ## Mobile Data
 They don't seem to have PINs around here, and no activation of your SIM card is required. Which comes in very handy. The cost is okay, I think. I'm with Three at the moment, and I went for a 20€ top-up which comes with free data for one month, free SMS to every Irish number and free calls to other Three customers.  
-I had to 'activate' full mobile Internet access, though. Because, disguised as a 'security feature', websites with adult content are [blocked](http://blog.timmschoof.com/images/3.jpg). Websites like [urbandictionary.com](http://www.urbandictionary.com/). A-hem.  
+I had to 'activate' full mobile Internet access, though. Because, disguised as a 'security feature', websites with adult content are [blocked](https://blog.timmschoof.com/images/3.jpg). Websites like [urbandictionary.com](http://www.urbandictionary.com/). A-hem.  
 Besides that, I'm more than satisfied. I've had like two minor connection hiccups since I'm here. Compared to Hamburg and O2 for a provider, that's just incredible. And again, embarrassing. For O2, mostly.

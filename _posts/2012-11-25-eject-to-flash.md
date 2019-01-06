@@ -12,5 +12,5 @@ It opens Safari's current URL in Chrome and even gives you the option of closing
 
 Quick Overview of the other posts on how to make avoiding Flash a breeze:
 
-* Install the [YouTube5 Extension](http://blog.timmschoof.com/2012/07/15/html5-video-safari-os-x/) for Safari
-* [Make Safari reload the current page with mobile Safari User Agent](http://blog.timmschoof.com/2012/07/15/html5-video-safari-os-x/)
+* Install the [YouTube5 Extension](https://blog.timmschoof.com/2012/07/15/html5-video-safari-os-x/) for Safari
+* [Make Safari reload the current page with mobile Safari User Agent](https://blog.timmschoof.com/2012/07/15/html5-video-safari-os-x/)

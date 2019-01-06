@@ -19,7 +19,7 @@ In order not to be vulnerable to any kind of negative impact himself, Schwarzene
 
 Schwarzenegger says that he sees these methods as "*tools that are available, so you might as well use them*". I'd argue that whoever sees targeted attacks on an opponent's psyche as "just another tool" doesn't compete in bodybuilding, but in ruthlessness. 
 
-<p class="gif"><img src="http://blog.timmschoof.com/images/the-terminator-toy-crush.gif" width="400"></p>
+<p class="gif"><img src="https://blog.timmschoof.com/images/the-terminator-toy-crush.gif" width="400"></p>
 
 I know there's smack talk in sports, but that's a different thing. With yelling and some insult, while not being very classy, there's a clear understanding of rivalry and what you're competing to accomplish. Actively branching out and undermining your competitor's psyche instead is pretty close to plain old sabotage. Mmmh, sweet success! And I thought being a good winner was a plain and simple concept, even easier than being a good loser. 
 

@@ -4,7 +4,7 @@ title: Ten - Disqus and Jekyll &amp; Disqus and CSS
 date: 2011-10-07 18:40:00
 category: blog
 ---
-As you can see under [every blogpost](http://blog.timmschoof.com/archives/) and in the now updated [contact section](http://blog.timmschoof.com/contact/), I slapped the [Disqus](http://disqus.com/) comment system over this blog. As this is a barebone-slim-minimal kind of blog that's hosted accordingly, it lacks a database and everything else a comment system would require. I liked Disqus and really didn't want to manage the comments with Facebook's system. So here we are. 
+As you can see under [every blogpost](https://blog.timmschoof.com/archives/) and in the now updated [contact section](https://blog.timmschoof.com/contact/), I slapped the [Disqus](http://disqus.com/) comment system over this blog. As this is a barebone-slim-minimal kind of blog that's hosted accordingly, it lacks a database and everything else a comment system would require. I liked Disqus and really didn't want to manage the comments with Facebook's system. So here we are. 
 
 **Disqus and Jekyll**  
 In combination with Jekyll, the awesome static site generator, theres two things to Disqus. First, getting it to work and then fitting it into your own blog with CSS. Disqus [tells you](http://docs.disqus.com/developers/universal/) how to do that. In short, you just:

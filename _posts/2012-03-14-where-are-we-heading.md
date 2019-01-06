@@ -16,7 +16,7 @@ One person equipped with some gadgets (yes, I imagine this with Apple devices, c
 With [Spotify](https://www.spotify.com/de/) finally coming to Germany (I'm *so* excited!), music is just... available. One week into using Spotify, it feels like a hundred years ago that I actually put a CD in a CD-ROM drive and transferred the data onto a harddisk. Man, we really put in some effort back then. Spotify [claims](http://www.focus.de/digital/internet/tid-25245/musikrevolution-spotify-startet-musikplattform-die-besser-ist-als-piraterie_aid_723142.html) their product is simply better than piracy, and they're right. 
 
 Apple democratizes technology by making it accessable for people who were afraid of PCs. Looking at grandparents using FaceTime with their grandchildren, no one can argue that. They 'dumb' iOS down to do so one could argue, but that's what widespread adoption requires. And considering all the pro users who use their iPads for thousands and thousands of specific tasks, it doesn't seem to hurt that much. Stephen Hackett [knows what I'm saying](http://512pixels.net/enriching-lives/).  
-(Wanna complain about the conditions at Foxconn? [Read this](http://blog.timmschoof.com/2012/02/25/nightline-ifactory-inside-apple/) and see why you're wrong.)
+(Wanna complain about the conditions at Foxconn? [Read this](https://blog.timmschoof.com/2012/02/25/nightline-ifactory-inside-apple/) and see why you're wrong.)
 
 On a larger scale, the Internet helps people to do really huge and important things. The Arab Spring shows that. Have you [heard](http://www.washingtonpost.com/lifestyle/style/the-hacktivists-of-telecomix-lend-a-hand-to-the-arab-spring/2011/12/05/gIQAAosraO_story.html) of [what](http://www.spiegel.de/spiegel/0,1518,791039,00.html) [Telecomix](http://de.wikipedia.org/wiki/Telecomix) does?  
 There's gotta be something about this whole Internet thingy. The Internet and the technology we have today takes away everything that once stood between us and information, and therefore exchange, development and learning. **Everything** is affected.
@@ -29,4 +29,4 @@ Of course, and maybe that's the most important thing to realize right now: The I
 
 To ensure that it does, we have to keep working for a free and independent Internet. There will be a new ACTA/SOPA/PIPA.
 <br>
-<p style="text-align: center;"><img src="http://blog.timmschoof.com/images/speech.jpg"/><br/><small>I found this on Facebook. Chapeau, Facebook. Normally, you'd expect something of this quality linked on Twitter.</small></p>
+<p style="text-align: center;"><img src="https://blog.timmschoof.com/images/speech.jpg"/><br/><small>I found this on Facebook. Chapeau, Facebook. Normally, you'd expect something of this quality linked on Twitter.</small></p>

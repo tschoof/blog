@@ -21,7 +21,7 @@ I couldn't log in to my newyorker.com account, got a *wrong password* message. I
 
 When I pointed, eh, *wanted to* point this out in my customer service chat, [this happened](https://twitter.com/tschoof/status/854786813344587776):
 
-<p class="pic"><a href="http://blog.timmschoof.com/images/newyorker_cs.jpg"><img src="http://blog.timmschoof.com/images/newyorker_cs.jpg"></a></p>
+<p class="pic"><a href="https://blog.timmschoof.com/images/newyorker_cs.jpg"><img src="https://blog.timmschoof.com/images/newyorker_cs.jpg"></a></p>
 <br>
 This was of course after the "*let me reset your password for you*"-dance which I had to go through *again* despite having explained that I had already done so.
 

@@ -6,7 +6,7 @@ category: photography
 published: true
 ---
 
-<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/21772001021/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/m.jpg"></a><br>a portrait – © Timm Schoof</p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/21772001021/in/dateposted-public/"><img src="https://blog.timmschoof.com/images/m.jpg"></a><br>a portrait – © Timm Schoof</p>
 
 
 I've always struggled with photography. After a trip to London at the age of 15, I realized that I had taken the worst pictures *ever*, and was really disappointed. So naturally, that was it for me and photography – at least for the next few years. Then, the iPhones came but I never quite got beyond taking snapshots. I also was just disappointed when they didn't work. Or didn't in Instagram's square format – which, admittedly, is a bit less of a problem now, because the [squares are gone now](http://www.theverge.com/2015/8/27/9212523/instagram-full-size-photos-portrait-landscape) (the joy, *the joy*!).
@@ -43,7 +43,7 @@ His point and mine, I guess, are kind of aligned in that we're both saying: The 
 
 All of this goes to say: If you sense that you have a thing for visual works, go for it. You might be frustrated with some pictures out of your iPhone *really* working and some really *not*, and I have good news for you: **It doesn't have to be that way.**  
 <br>
-<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/shark.jpg"></a></p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20233538435/in/dateposted-public/"><img src="https://blog.timmschoof.com/images/shark.jpg"></a></p>
 
 
 ## Just try it.
@@ -93,7 +93,7 @@ I also really enjoy the [*Cameras or Whatever* podcast](http://stalman.com/camer
 
 
 <br>
-<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20458819624/in/dateposted-public/"><img src="http://blog.timmschoof.com/images/walker.jpg"></a></p>
+<p class="pic"><a href="https://www.flickr.com/photos/timm_schoof/20458819624/in/dateposted-public/"><img src="https://blog.timmschoof.com/images/walker.jpg"></a></p>
 
 ## Focal length
 
@@ -105,6 +105,6 @@ Also handy, because you can play with the different examples and it also incorpo
 
 ## There's more
 
-Of course it can always get more complicated, if you want it to. I only really learned about mirrorless cameras when I thought that I had settled on getting a used prosumer/enthusiast DSLR for myself. I now own a mirrorless camera. <del>But that's another post, probably the next one in this (two-part) series!</del> Here it is: [Choosing a Camera in 2015](http://blog.timmschoof.com/2015/12/29/choosing-a-camera-in-2015/)
+Of course it can always get more complicated, if you want it to. I only really learned about mirrorless cameras when I thought that I had settled on getting a used prosumer/enthusiast DSLR for myself. I now own a mirrorless camera. <del>But that's another post, probably the next one in this (two-part) series!</del> Here it is: [Choosing a Camera in 2015](https://blog.timmschoof.com/2015/12/29/choosing-a-camera-in-2015/)
 
 **Update**: I stumbled across [Shawn Blanc's post about how the iPhone made him want more out of his photography (and which camera to pick for that)](http://shawnblanc.net/2012/11/hunting-for-the-best-mirrorless-camera/). Interesting to see his angle on this topic.

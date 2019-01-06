@@ -10,6 +10,6 @@ If you're on a Mac and use Safari, there's this problem with Flash. [Flash is de
 
 Oh, funny page: [isflashdeadyet.com](http://isflashdeadyet.com).  
 However, the absolutely amazing [**YouTube5 extension**](http://www.verticalforest.com/youtube5-extension/) makes it all better. It makes YouTube and Vimeo videos play in HTML5, as far as possible. In a way more beautiful player, way smoother, less stressful for your CPU. Gotta love this.  
-In some cases, however, the [method of changing the Safari User Agent to 'iPad'](http://blog.timmschoof.com/2012/07/15/html5-video-safari-os-x/) may still help.
+In some cases, however, the [method of changing the Safari User Agent to 'iPad'](https://blog.timmschoof.com/2012/07/15/html5-video-safari-os-x/) may still help.
 
 via [DrDrang](http://twitter.com/drdrang) on Twitter, I think.

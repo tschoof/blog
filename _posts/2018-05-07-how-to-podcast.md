@@ -7,7 +7,7 @@ published: true
 ---
 
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_006.jpg"></p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_006.jpg"></p>
 
 <a name="Introduction">
 
@@ -15,7 +15,7 @@ After sinking what must be hundreds of hours into podcast production, I think I 
 
 I record a podcast with a friend, in a room of my flat. My setup and preferences are derived from that, so [ymmv](https://www.urbandictionary.com/define.php?term=ymmv) as they say.  
 
-Disclaimer: Since I'm not a pro, take all of this with a grain of salt. If you're a pro or have more insight into a specific aspect, I'd be more than appreciative if you [contacted](http://timmschoof.com/) me for corrections, hints etc.
+Disclaimer: Since I'm not a pro, take all of this with a grain of salt. If you're a pro or have more insight into a specific aspect, I'd be more than appreciative if you [contacted](htts://timmschoof.com/) me for corrections, hints etc.
 
 I'm gonna go through *all* the different areas (which is probably a bad idea). I'm gonna do my very best to:
 
@@ -80,7 +80,7 @@ The sad news here is also good news: There's nothing like experience. And experi
 
 If you notice clipping *during* the recording (usually a red light on whatever recording device you're using) save the current recording and reduce the levels. 
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/truepeak.png" width="480"><br>Some risky peaks</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/truepeak.png" width="480"><br>Some risky peaks</p>
 
 This is "a little hot", as the pros say (I think). -5 is *just* okay, but -2,5 is pushing your luck. But, good news: This is not a failed recording by any means. 
 
@@ -138,14 +138,14 @@ Only bad thing: It does need quite a bit of gain, so it should be paired with an
 The **Shure Beta 58A** is an "updated" SM58, and hence also solid. Beware: It's not necessarily *better* than the SM58. Depending on voice and microphone technique of the speaker, the sound characteristics (more high end) and more directional pickup pattern may or may not be an advantage.  
 I mainly tried the Beta 58A because it offers more gain than the SM58, about 4 dB – what I didn't know was that the signal-to-noise-ratio is *the same* as the SM58's. So the noise got louder with the signal. I still like the Beta 58A for my voice, though. For 175€ new, and 80-140€ used, it can absolutely be worth it. [Beware of fakes as well!](http://www.ziggysono.com/upload/104ShureAgainstCouterfeit.pdf)
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_002.jpg"><br>Shure Beta 58A – mine lacks the trademark blue rubber ring on the cage</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_002.jpg"><br>Shure Beta 58A – mine lacks the trademark blue rubber ring on the cage</p>
 
 Right now I'm using the **Shure Beta 87A**, which is a condenser microphone – pause for effect – but allegedly with the good characteristics of a dynamic microphone! This I can corroborate. The rejection is great. When you turn your head, the drop in volume is tremendous, which also means less opportunity for nasty room echo to get in there.
 
 I wasn't immediately impressed by the sound quality. I guess I expected Blue Yeti-level clarity which the 87A probably can't deliver because it's a small condenser(?). But it does sound "nicer" than the 58s.  
 What I found curious is that it also needs *almost as much* gain as the dynamic microphones. Overall, I'm not totally overwhelmed by the Beta 87A, but still think I'll keep it. Or at least use it for some time to really get used to it. For 300€ new and about 220€ used, this is not a win as clear-cut as I'd like it to be.
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_009.jpg"><br>Shure Beta 87A</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_009.jpg"><br>Shure Beta 87A</p>
 
 ### USB
 
@@ -164,7 +164,7 @@ In podcaster circles, people recommend the Zoom H6 oder Zoom H5. In my opinion, 
 
 My recommendation, you ask? I like the [Tascam DR-60D MkII](https://www.thomann.de/de/tascam_dr_60d_mkii.htm?ref=search_rslt_tascam+60d_350125_0). It has two XLR inputs, a built-in limiter (lessens the impact of clipping), quite okay preamps and is just solid. Don't get confused by the labeling as a recorder *for DSLR cameras*. It's all the same thing. 
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_dr60.jpg"><br>Tascam DR-60D MkII</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_dr60.jpg"><br>Tascam DR-60D MkII</p>
 
 If you're wondering: In my tests, the preamps in the DR-60 are roughly equivalent to the ones in the H5, which are said to be identical to the ones in the H6. The 60D MkII, again, is 170€ and a very suitable (temporary) home for your audio files. If you need more inputs, the [DR-70D](https://www.thomann.de/de/tascam_dr_70d.htm) offers that and besides that the same as the 60D.
 
@@ -185,7 +185,7 @@ A little more color on the US-2x2: The microphone preamps are [one class up](htt
 If it fits your room at all, I recommend mounting your microphone on a stand. The [Røde PSA1](http://www.rode.com/accessories/psa1) is nice, but not suited for lighter microphones in my experience.  
 I'm happier with the [K&M 23850](https://produkte.k-m.de/en/product?info=523&amp;x53ea2=bcad5f985c86a4c69fefbf354bf231d8), but only after modding the thread that screws to the microphone holder. The piece of metal that holds the screw is just wedged in between two non-circular pieces, making it not react well to little adjustments. [I fixed it with two shims](https://twitter.com/tschoof/status/987685506413744128).
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_micarm.jpg"><br></p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_micarm.jpg"><br></p>
 
 ## Software<a name="Software"></a>
   
@@ -248,7 +248,7 @@ You may go for "less editing", and more power to you. One word of advice though:
 
 My point is that, when in doubt, you should be a ruthless editor.
 <p></p>
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_mic_fill.jpg"><br></p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_mic_fill.jpg"><br></p>
 
 ## Mixing<a name="Mixing"></a>
 Oh boy, mixing. It's not as hard as you think. But it's also far from trivial. You probably need to do less than you think. But to get it right*ish*, it might take some failed experiments. But it's also fun.
@@ -299,7 +299,7 @@ But I don't want to be purely negative: Since iZotope offers real "grown up" sof
 
 In my experience, using the **Learn** function doesn't offer any benefit. But the almost set-and-forget nature of the **Adaptive Mode** is nice. For a starting point, the settings below are what I now use for some *very gentle* denoising added after another kind of denoising (Brusfri, read below). 
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/izonr.png"><br>iZotope Voice De-Noise in action</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/izonr.png"><br>iZotope Voice De-Noise in action</p>
 
 ### NR with Brusfri, 60€ / sometimes on sale
 Much more satisifed I am with [Brusfri](https://klevgrand.se/products/brusfri/). It works in a way that lends itself well to continuous noise like hiss or hum. Which I *have* to think is what most podcasters are dealing with, right?  
@@ -307,7 +307,7 @@ I was really blown away. You have to feed Brusfri some pure noise since there's 
 
 Some negative: The interface is a little heavy on the hipster – which is to say it's a little user hostile. Some sliders as well as having values readable with*out* having to hover would do wonders to its usability.
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/brusfri.png"><br>Brusfri's hipster interface</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/brusfri.png"><br>Brusfri's hipster interface</p>
 
 ## Mixing: Noise Gate<a name="NoiseGate"></a>
 While noise reduction "cleans up" the signal itself, a noise gate opens and closes (= doesn't let signal through) depending on the signal strength. It's handy because it allows you to only deal with the "proper" output of a channel. But it's easy to overdo it and end up with speech that is cut off. Just remember that natural speech is not on/off, but gets louder and quieter gradually. You only want to cut off the signal when there's nothing of the speech left in it, not just after the loudest part has gone by.
@@ -324,7 +324,7 @@ Let's go over the most common settings of a noise gate. Since every recording se
 
 * **High/Low Cutoff**: This is crossed out because it's basically two equalizer filters that creeped in Logic Pro X's noise gate plugin.
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/ng.png"><br>Logic Pro X's noise gate plugin</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/ng.png"><br>Logic Pro X's noise gate plugin</p>
 
 ## Mixing: EQ<a name="EQ"></a>
 
@@ -371,7 +371,7 @@ BUT you can also leave the makeup gain be and use a separate gain adjustment lat
 * **Knee**: I fail to be able to hear the difference, but I picked up that a "soft" knee (higher value) is good for voice  ¯\\\_(ツ)_/¯
 
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/comp.png"><br>Logic Pro X's compressor plugin</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/comp.png"><br>Logic Pro X's compressor plugin</p>
 
 ## Mixing: Limiting<a name="Limiting"></a>
 
@@ -391,7 +391,7 @@ Logic Pro X's limiter plugin is... "a little weird". In order not to produce a l
 
 I use -9.5dBTP as output level here, which has to do with – you guessed it: loudness. Limiting is important enough for any production, but all of this becomes more important and interesting once we talk loudness standards!
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/lim.png"><br>Logic Pro X's limiter plugin</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/lim.png"><br>Logic Pro X's limiter plugin</p>
 
 
 ## Loudness Standards<a name="Loudness"></a>
@@ -415,7 +415,7 @@ In the real world, this means that you can use a Loudness Meter in your DAW of c
 
 If you're on a Mac, I can recommend [r128x](https://github.com/audionuma/r128x).  
 The iZotope suites include a "Waveform Statistics" tool that I also like.
-<p class="pic"><img src="http://blog.timmschoof.com/images/stats.png" width="480"><br>iZotope Waveform Stats</p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/stats.png" width="480"><br>iZotope Waveform Stats</p>
 
 Another point of confusion might be that stereo and mono handle differently. There's a 3dB offset: Stereo files should come out at -16 LUFS and mono files at -19 LUFS. [Paul explains it](http://www.producenewmedia.com/podcast-loudness-mono-vs-stereo-perception/).
 
@@ -520,11 +520,11 @@ I went down this path mainly because I was looking for a higher-quality preamp, 
  
 If this sounds like it might be for you: You might want to take a look at a [dbx 286](https://dbxpro.com/en/products/286s). It's a dedicated microphone preamp that also does processing – very well suited for podcasters. It does compression, de-essing, some EQ, and some gating. Sure, 170€ per channel is nothing to sneeze at for a hobbyist. But you can get good deals on a used predecessor model (I got one for 30 bucks. 30!).  
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_dbx_1.jpg"><br>My two dbx 286 – mounted on two 3 HE rack parts and metal brackets from the hardware store</p> 
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_dbx_1.jpg"><br>My two dbx 286 – mounted on two 3 HE rack parts and metal brackets from the hardware store</p> 
 
 A word on the different versions: The dbx 286A seems to be almost indistinguishable from the current model, the 286S. The 286 (no A) has an external power supply. There's also two versions of the 286A: with "Project 1" labeling and without. The Project 1 version seems to be older. If anything though, it produces less hiss on the highest gain settings than my "regular" 286A.
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_dbx_2.jpg"><br>two dbx 286A, "Project 1" and... "regular" – And yes, I could've cleaned them for the photo</p> 
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_dbx_2.jpg"><br>two dbx 286A, "Project 1" and... "regular" – And yes, I could've cleaned them for the photo</p> 
 
 Some resources:  
 
@@ -540,7 +540,7 @@ Even with all the sections, there are still "miscellaneous" resources I want to 
 	* [Episode 58](http://thepodcastersstudio.com/tps-ep-058-audio-post-production-with-joe-gilder-part-1/) ([Overcast Link](https://overcast.fm/+I1WJap34))
 	* [Episode 59](http://thepodcastersstudio.com/tps-ep-059-part-two-audio-post-production-for-podcasters-with-joe-gilder/) ([Overcast Link](https://overcast.fm/+I1VLYYuk))
 * [Episode 101](http://thepodcastersstudio.com/tps101-podcasting-101-how-to-start-a-podcast/) of *The Podcasters' Studio* – A guide on how to start a Podcast. Okay, you're beyond that if you've made it here, but it's a good reminder of what the basics are. 
-* I'm sorry to link my own post here. But if you've made it here you also might be interested in how podcasts could be made more accessible for listeners: [What it Takes to Listen to a Podcast](http://blog.timmschoof.com/2015/02/15/what-it-takes-to-listen-to-a-podcast/)
+* I'm sorry to link my own post here. But if you've made it here you also might be interested in how podcasts could be made more accessible for listeners: [What it Takes to Listen to a Podcast](https://blog.timmschoof.com/2015/02/15/what-it-takes-to-listen-to-a-podcast/)
 
 
 ## Thanks<a name="Thanks"></a>
@@ -560,7 +560,7 @@ In addition to that, Ray has always been very nice and helpful when I bugged him
 There are even more fellow podcasters that I had small, very helpful interactions with. I think it's great that podcasting is to a large extent made up of people who want to help each other.  
 With this article, I try and do my part in making podcasting more accessible. Or at least in demistifying a higher production quality a bit.
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/pc_003.jpg"><br></p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/pc_003.jpg"><br></p>
 
 ## My Podcast<a name="MyPodcast"></a>
 
@@ -568,7 +568,7 @@ If you want to hear what all of this know-how sounds like, give my podcast a lis
 
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/00655738?color=3d3d3d' width='100%'></iframe>
 
-If you're wondering what our first episode sounded like, [look no further](http://blog.timmschoof.com/2017/06/08/sonne-altona/). Quite a step up! I'll even share the [first podcas episode I ever did](http://www.ungeheuerlich.org/episoden/1-craft-beer). One track, recorded on... an iPhone 4S I think.
+If you're wondering what our first episode sounded like, [look no further](https://blog.timmschoof.com/2017/06/08/sonne-altona/). Quite a step up! I'll even share the [first podcas episode I ever did](http://www.ungeheuerlich.org/episoden/1-craft-beer). One track, recorded on... an iPhone 4S I think.
 
 Again, if you have any input or questions, please don't hesitate and [contact me](http://timmschoof.com/).  
 

@@ -6,7 +6,7 @@ category: tech
 published: true
 ---
 
-I like that John Siracusa writes more since the [Hypercritical Podcast is over](http://blog.timmschoof.com/2012/12/31/hypercritical/). 
+I like that John Siracusa writes more since the [Hypercritical Podcast is over](https://blog.timmschoof.com/2012/12/31/hypercritical/). 
 
 [Good thoughts](http://hypercritical.co/2013/02/08/dont-stop-thinking-about-tomorrow): 
 

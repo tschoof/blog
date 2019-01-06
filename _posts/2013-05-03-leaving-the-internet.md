@@ -12,4 +12,4 @@ However, I think it's a valuable service to our community what Paul did. Now we 
 
 > But at least I'll know that it's not the internet's fault. I'll know who's responsible, and who can fix it. 
 
-Thies totally ties in with thoughts on [abandoning smartphones](http://blog.timmschoof.com/2013/02/05/smartphone-angst/) and [technological conservatism](http://hypercritical.co/2013/04/07/technological-conservatism).
+Thies totally ties in with thoughts on [abandoning smartphones](https://blog.timmschoof.com/2013/02/05/smartphone-angst/) and [technological conservatism](http://hypercritical.co/2013/04/07/technological-conservatism).

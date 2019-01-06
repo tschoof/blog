@@ -8,7 +8,7 @@ published: true
 
 Today, [iOS 6.1 arrived](http://www.loopinsight.com/2013/01/28/ios-6-1-released/). With its changes regarding the lock screen media controls, it shows that iOS is in a weird place design-wise:
 
-<p class="pic"><img src="http://blog.timmschoof.com/images/controls_1.jpg"></p>
+<p class="pic"><img src="https://blog.timmschoof.com/images/controls_1.jpg"></p>
 
 What do we have here?
 
@@ -28,7 +28,7 @@ This duality already isn't satisfying, especially considering Apple's focus on d
 ## Other iOS Problems
 Looking at the Settings app and the Notifications section in it, even tech-savvy users begin to cry. I mean, there's a ‘Do Not Disturb’ label with a slider in the Settings App. Then I tap on ‘Notifications’, and what do I see? A ‘Do Not Disturb’ label with an arrow that leads to a submenu. Are you kidding me? Of course, this is what you risk to end up with when people demand more complexity. But Apple normally doesn't butcher good menu navigation like this, and for a reason.
 
-The [overlay that the new sharing panel is](http://blog.timmschoof.com/images/sharingpanel.jpg) might be somewhere in the middle here. Not terrible, but also clearly not one thing: Well designed. And when new feautures aren't implemented well, but more crammed in, as it's the case in both these cases, that just leaves a bad taste in my mouth. A few months back, [Martin Weigert already feared for iOS' well-being](http://martinweigert.com/why-i-worry-about-apple-and-ios-6/) and had good points.
+The [overlay that the new sharing panel is](https://blog.timmschoof.com/images/sharingpanel.jpg) might be somewhere in the middle here. Not terrible, but also clearly not one thing: Well designed. And when new feautures aren't implemented well, but more crammed in, as it's the case in both these cases, that just leaves a bad taste in my mouth. A few months back, [Martin Weigert already feared for iOS' well-being](http://martinweigert.com/why-i-worry-about-apple-and-ios-6/) and had good points.
 
 **Update**: [This](http://cl.ly/MX99) looks buggy.
 

@@ -8,7 +8,7 @@ published: true
 
 >  Any password-reset system that will be acceptable to a 65-year-old user will fall in seconds to a 14-year-old hacker.
 
-Remember Mat Honan? Yeah, the *Wired* guy who got hacked. In the aftermath of somebody somewhat popular and well-known on the Internet, guides on how not to get hacked popped up. Most of them weren't that good, [so I wrote up what I felt they were lacking](http://blog.timmschoof.com/2012/08/27/what-honans-hackers-taught-us/).
+Remember Mat Honan? Yeah, the *Wired* guy who got hacked. In the aftermath of somebody somewhat popular and well-known on the Internet, guides on how not to get hacked popped up. Most of them weren't that good, [so I wrote up what I felt they were lacking](https://blog.timmschoof.com/2012/08/27/what-honans-hackers-taught-us/).
 
 [Now Mat Honan's back and campaigns for password-less systems](http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/all/). Why?  
 He says he could get into your account. He's probably right. Truth is, what makes you and me 'safe' nowadays ist mostly that people capable of messing with our data in a sophisticated way find well-paid employment in some state department/agency or organised crime and work on juicier targets. But that's not what you could call a real 'defense', so back to topic:  

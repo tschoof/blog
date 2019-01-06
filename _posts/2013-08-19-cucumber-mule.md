@@ -7,4 +7,4 @@ published: true
 ---
 
 <br>
-<p class="pic"><a href="http://blog.timmschoof.com/images/no_cucumber.png"><img src="http://blog.timmschoof.com/images/no_cucumber.png"></a><br>Just saying.</p>
+<p class="pic"><a href="https://blog.timmschoof.com/images/no_cucumber.png"><img src="https://blog.timmschoof.com/images/no_cucumber.png"></a><br>Just saying.</p>

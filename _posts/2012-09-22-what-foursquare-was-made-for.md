@@ -11,7 +11,7 @@ I found several coffee shops and other places and then saved them to a Foursquar
 
 Guess what: Foursquare does that. Or, if you don't know exactly what you want, you can look at your list for inspiration. I just go somewhere in the city and can rely on my Dublin-To-Do list with around 50 places on it: 
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/list.jpg"><img src="http://blog.timmschoof.com/images/list.jpg"/></a></p>
+<p style="text-align: center;"><a href="https://blog.timmschoof.com/images/list.jpg"><img src="https://blog.timmschoof.com/images/list.jpg"/></a></p>
 
 In the (iOS) app, you just go to your profile (bottom right), then to your lists, and then select one of them. Then tap on the map. There you go.
 

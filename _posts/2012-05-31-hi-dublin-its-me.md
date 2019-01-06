@@ -9,7 +9,7 @@ published: true
 
 So, from early September on I'm gonna be studying in Dublin at Trinity College for the whole academic year, thanks to the [Erasmus Programme](http://en.wikipedia.org/wiki/Erasmus_Programme). I think that's pretty awesome (actually, I still can't believe it).
 
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/infomatique/6995209237/"><img src="http://blog.timmschoof.com/images/tcd.jpg"/></a><br/><small>Yes, that's right. Campus of Trinity College. | Picture: <a href="http://www.flickr.com/photos/infomatique/">infomatique</a>, CC-By-SA</small></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/infomatique/6995209237/"><img src="https://blog.timmschoof.com/images/tcd.jpg"/></a><br/><small>Yes, that's right. Campus of Trinity College. | Picture: <a href="http://www.flickr.com/photos/infomatique/">infomatique</a>, CC-By-SA</small></p>
 
 I heard that the isolation among Erasmus Students is one of the typical drawbacks of the Erasmus Programme. So I thought I could use the magic of the Internet to work around that issue and get in touch with locals. You're reading the fruit of this thought.
 
@@ -23,7 +23,7 @@ I'd be very thankful for any advise regarding these two (for now) topics! You ca
 **BUT**, and this is the most important paragraph of this text: I'd also be glad if you have no advise at all and would like to meet up nonetheless to have a Guinness (I guess?) when I'm in Dublin.  
 Or maybe you're somehow connected to the Trinity College, know somebody in Dublin who has a room for rent, or a restaurant owner who wants to help out students from abroad (Just guessing here!). You have friends, cousins, parents, sisters, grandparents over there? Please tell them about this handsome fellow who's gonna be in town! My hair has a tinge of red, so I should blend in just fine.
 
-You can check out my [other blogposts](http://blog.timmschoof.com/archives/) and see if you're interested in some of the topics I write about, or check out my [about page](http://timmschoof.com/). Films, tech, coffee, food, whisky, that's what I'm into. It might not seem so, but I also get along well with people who aren't into tech stuff at all.  
+You can check out my [other blogposts](https://blog.timmschoof.com/archives/) and see if you're interested in some of the topics I write about, or check out my [about page](http://timmschoof.com/). Films, tech, coffee, food, whisky, that's what I'm into. It might not seem so, but I also get along well with people who aren't into tech stuff at all.  
 Weird? A guy on the Internet, randomly asking to contact him? Well, one might think that but my experiences with Twitter and the Internet in general in that regard were solely positive, so I'm optimistic.
 
 Please consider sharing this article on the social networks of your liking. Thanks a lot.

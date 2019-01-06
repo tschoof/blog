@@ -6,7 +6,7 @@ category: podcasts
 published: true
 ---
 
-<p class="pic"><a href="http://www.ungeheuerlich.org/"><img src="http://blog.timmschoof.com/images/uecover.png"></a><br></p>
+<p class="pic"><a href="http://www.ungeheuerlich.org/"><img src="https://blog.timmschoof.com/images/uecover.png"></a><br></p>
 
 My pal [Timo](http://timoheuer.com/) and me are doing a podcast again! 
 

@@ -10,7 +10,7 @@ date: 2012-01-22 13:40:00
 Then, I started to read the comics. When I was at the second one, I 'liked' them, but wasn't sure why everybody was **so** excited about them. The next thing I remember is finishing the last (6th) one.  
 In case you didn't hear of Scott Pilgrim before: I'm afraid I have to tell you that it's - despite all the gaming references - a love story. Read it anyway. Get a [preview here](http://scottpilgrim.com/index.php?id=previews).
 
-<p style="text-align: center;"><a href="http://blog.timmschoof.com/images/sps.jpg"><img src="http://blog.timmschoof.com/images/sps.jpg"/></a><br/><small>I laughed, loudly.</small></p>
+<p style="text-align: center;"><a href="https://blog.timmschoof.com/images/sps.jpg"><img src="https://blog.timmschoof.com/images/sps.jpg"/></a><br/><small>I laughed, loudly.</small></p>
 
 ##Movie
 Yeah, well, first of all: I **did** like the movie. It's a good movie, that's set. It does a good job of implementing the comic's own style - which is not just 'comic-y' so that makes sense and all.  

@@ -25,7 +25,7 @@ With just a slight exaggeration to illustrate my point, despite the danger of so
 
 "*All podcasters, from those with massive followings to those who are just starting out, will be able to make money off of their work.*" – 🧐
 
-Let me explicitly say that I am in total support of lowering barriers to entry wherever possible. I find joy in explaining first (or advanced) steps in some of my hobbies ([photography](http://blog.timmschoof.com/2015/09/28/getting-into-photography-in-2015/), [podcasting](http://blog.timmschoof.com/2018/05/07/how-to-podcast/)), and I think that the democratization of tools for creation in our digital age is a beautiful thing. So I don't argue against the part where Anchor competes by offering simple tools for creating audio, or distribution.  
+Let me explicitly say that I am in total support of lowering barriers to entry wherever possible. I find joy in explaining first (or advanced) steps in some of my hobbies ([photography](https://blog.timmschoof.com/2015/09/28/getting-into-photography-in-2015/), [podcasting](https://blog.timmschoof.com/2018/05/07/how-to-podcast/)), and I think that the democratization of tools for creation in our digital age is a beautiful thing. So I don't argue against the part where Anchor competes by offering simple tools for creating audio, or distribution.  
 But looking at Twitter right now, and how Instagram has influenced photography, I just have to hope that Anchor doesn't catch on.
 
 * [Manton Reece: *Anchor on free podcasting*](https://manton.org/2018/07/23/anchor-on-free.html)
