@@ -13,7 +13,7 @@ How to improve the import process (on the Mac, that is). Why does it need improv
 
 Bummer.
 
-Why do I care? Isn’t Creative Cloud the only truth and relevant source anyway? Yes, kinda. 
+Why do I care? Isn’t Creative Cloud the only true and relevant source anyway? Yes, kinda. 
 
 ## file format
 
