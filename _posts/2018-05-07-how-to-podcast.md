@@ -101,7 +101,7 @@ I really like [this post on transom.org](https://transom.org/2016/p-pops-plosive
 
 There's also this lovely video (quoted above):
 
-<div class="videoWrapper-4-3"><iframe width="1024" height="768" src="https://www.youtube.com/watch?v=K8GBbvo-J9U" frameborder="0" allowfullscreen></iframe></div>
+<div class="videoWrapper-4-3"><iframe width="1024" height="768" src="https://www.youtube.com/embed/K8GBbvo-J9U" frameborder="0" allowfullscreen></iframe></div>
   
 My takeaways:
 
