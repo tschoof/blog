@@ -11,7 +11,7 @@ I just switched from an [Olympus E-M10, an entry-level micro four thirds camera 
 
 In so many ways, it's – unsurprisingly – such a joy to use a more professional tool. While the E-M10 was and still is a perfectly fine camera, technology has advanced, and entry-level cameras are just built differently than semi- or full-on professional cameras, and have more advanced features.
 
-But, by switching not only the class of camera but also manufacturers, I noticed there are differences that have nothing to do with the former. Which in this specific case means there are aspects in which the X-H1 is worse than an E-M10. 
+But, by switching not only the class of camera but also manufacturers, I noticed there are differences that have nothing to do with the former. Which in this specific case means there are aspects in which the X-H1 is worse than the E-M10. 
 
 ## Exposure Helps
 
