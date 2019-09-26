@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ways in wich an entry-level camera can be better than a flagship"
+title: "How an entry-level camera can be better than a flagship"
 date: 2019-09-26 18:09
 category: photography
 published: true
