@@ -107,4 +107,4 @@ My old Olympus E-M10, while being a *little* inconsistent between EVF and previe
 
 I could accept this if there was **a)** less variation and **b)** one of 'em was consistently more accurate. **a)** is a minus, and during my test done for this post, I found no indication of **b)** either. 
 
-Thank you for reading/skimming this far. Have you encountered the same problem? How do you deal with it? Most importantly: Was I unclear with anything? Any [feedback](https://timmschoof.com/) is very welcome :)
+Thank you for reading/skimming this far. Have you encountered the same problem? How do you deal with it? Most importantly: Was I unclear with anything? Any [feedback](https://timmschoof.com/) is very welcome :) Especially about whatever happens or is the reasoning behind the behaviour upon half-press with Fuji cameras. Thank you!
