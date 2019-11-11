@@ -95,6 +95,8 @@ Shot A I had corrected down so that upon *half-press* I didn't get significant b
 
 It's not easy to see only looking at shot B, but in direct comparison with shot A, there's some lost detail, especially on the side of the boat. Zoomed in, the tree's small branches also look very fuzzy, and there's blue sky in the whole area behind the tree, no solid white like it shows in shot B. My trust was betrayed by ~ 1 stop, as the playback-jpgs did indicate.
 
+So, based upon this example, I'd mentally "throw away" the blinkies displayed during just looking through the EVF, and only pay attention to the ones displayed after half-press, and with them overshoot +1/3 to +2/3 EV I guess? That's workable, but I still don't appreciate the inconsistency. If the camera can only display accurate-ish measurements after half-press, then don't bother with blinkies before!
+
 ## Conclusion
 
 Of course, this doesn't prevent anyone from taking any conceivable picture, and I'm not arguing that. You have to be pretty oblivious to not think twice about losing detail in a high-contrast scene. Also, this phenomenon becomes more extreme with more exposure compensation as well as contrast in the scene (that's my recollection, I didn't do explicit test on it, though).
