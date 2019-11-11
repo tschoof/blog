@@ -97,7 +97,7 @@ It's not easy to see only looking at shot B, but in direct comparison with shot 
 
 So, based upon this example, I'd mentally "throw away" the blinkies displayed during just looking through the EVF, and only pay attention to the ones displayed after half-press, and with them overshoot +1/3 to +2/3 EV I guess?  
 That's workable, but I still don't appreciate the inconsistency. If the camera can only display accurate-ish measurements after half-press, then don't bother with blinkies before!  
-You could do the same just based upon the playback-jpg, if you miss the feeling of using an old-school DSLR. I, for one, didn't go mirrorless for having to go back to playback in order to know how my pictures turned out – yes, *like an animal*.
+You could do the same just based upon the playback-jpg, if you miss the feeling of using an old-school DSLR. I, for one, didn't go mirrorless for having to go back to playback in order to know how my pictures turned out – *like an animal*.
 
 ## Conclusion
 
