@@ -28,7 +28,7 @@ A jpg that is intended to be a final photo is a fundamentally different *thing* 
 
 So, what's the solution? Well, there is none. But there's a hack: A jpg look that is as "flat", as little "opinionated" as possible. Eterna is a Fuji film profile intended for video use very flat and can be configured to be even flatter, so it's very well suited for the inclined raw shooter's needs in this instance. With this, the images you review in-camera are the best representation of a raw file Fuji's current system/philosophy allows for.
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/eterna.jpg"></a><br>Recommended "film simulation" setup for raw shooters</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/eterna.jpg"><br>Recommended "film simulation" setup for raw shooters</p>
 
 Check out this [dpreview forum thread](https://www.dpreview.com/forums/thread/4325169) for some more Fuji-specific talk on this.
 
@@ -46,13 +46,13 @@ Sadly the praise ends here, because there's already a big problem. There's incon
 
 Which means the camera contradicts itself. Also: You can't be completely sure that the light just changed between you pressing the shutter release button and the camera taking the exposure. For all you know, the moment you saw in the "Natural Live View"-EVF/back screen has gone by, and the blinked-to-death (I'm exaggerating) playback-jpg is all you're left with. Example:
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/evflive.jpg"></a><br>Scene viewed through the back screen</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/evflive.jpg"><br>Scene viewed through the back screen</p>
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/jpgpreview.jpg"></a><br>Same, "exposed" scene as playback-jpg</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/jpgpreview.jpg"><br>Same, "exposed" scene as playback-jpg</p>
 
 So, which one is "more right"? I'm sure this varies from scene to scene, but here's this example scene in Lightroom.
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/lostdetail.jpg"></a><br>Tons of lost detail showing in Lightroom</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/lostdetail.jpg"><br>Tons of lost detail showing in Lightroom</p>
 
 As you can see, It's bad. The playback-jpg was "more right". There's only a little less detail lost than the playback-jpg indicated, and way more than the view in the EVF/back screen led us to believe. As a general rule, the raw file in the end will retain *more* detail than the playback-jpg and not less, but that's obvious.  
 In case you're tripped up by "ISOA1 12800" showing in the upper grab from the back screen, that's something I [already talked about](https://blog.timmschoof.com/2019/09/26/xh1-em10-features/).
@@ -61,11 +61,11 @@ In case you're tripped up by "ISOA1 12800" showing in the upper grab from the ba
 
 There's *even more* – I'm sorry. Between EVF and playback-jpg, there's a third... "opinion". With Fuji cameras, they stop down and do some amount of actual metering towards taking the picture upon half-press of the shutter relasse button, [as I have already complained about, also in my previous post](https://blog.timmschoof.com/2019/09/26/xh1-em10-features/). At that point, the metering – or at least the blinkies display – goes crazy. Or becomes more accurate? Who knows? It's all up in the air. 
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/halfpress.gif"></a><br>In some situations, the blinkies increase in area on half-press of the shutter</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/halfpress.gif"><br>In some situations, the blinkies increase in area on half-press of the shutter</p>
 
 To make matters even worse: In between the blackouts that are caused by the shutter when taking a photo, the camera shows the scene, and takes *another* run on guessing how much of the scene is overexposed. Shown in frame 3.
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/betweenblackouts.jpg"></a><br>Just another instance of inconsistent metering</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/betweenblackouts.jpg"><br>Just another instance of inconsistent metering</p>
 
 I don't blame you if you lost count. We're up to *four* differing interpretations metering/blinkies-wise of a given scene (chronological order):
 
@@ -81,17 +81,17 @@ I don't blame you if you lost count. We're up to *four* differing interpretation
 
 For illustration purposes, here's two more real-world examples.
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/shot_a_back.jpg"></a><br>Shot A as a playback-jpg from the back of the camera. Note the (circled) black blinkies indicating the amount of lost detail.</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/shot_a_back.jpg"><br>Shot A as a playback-jpg from the back of the camera. Note the (circled) black blinkies indicating the amount of lost detail.</p>
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/shot_b_back.jpg"></a><br>Shot B as a playback-jpg from the back of the camera. Note the (circled) black blinkies indicating the amount of lost detail.</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/shot_b_back.jpg"><br>Shot B as a playback-jpg from the back of the camera. Note the (circled) black blinkies indicating the amount of lost detail.</p>
 
 Shot A I had corrected down so that upon *half-press* I didn't get significant blinkies. Then I decided to be stubborn, trust the metering just looking through the EVF and take shot B. Just to have an idea of the scale, as the EV+/- indicator... indicates, these two exposures are 1 stop apart.
 
 (by how much) Was my trust betrayed? Let's find out in Lightroom!
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/shot_a_lr.jpg"></a><br>Shot A in Lightroom</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/shot_a_lr.jpg"><br>Shot A in Lightroom</p>
 
-<p class="pic"><a href="URL"><img src="http://blog.timmschoof.com/images/shot_b_lr.jpg"></a><br>Shot B in Lightroom</p>
+<p class="pic"><img src="http://blog.timmschoof.com/images/shot_b_lr.jpg"><br>Shot B in Lightroom</p>
 
 It's not easy to see only looking at shot B, but in direct comparison with shot A, there's some lost detail, especially on the side of the boat. Zoomed in, the tree's small branches also look very fuzzy, and there's blue sky in the whole area behind the tree, no solid white like it shows in shot B. My trust was betrayed by ~ 1 stop, as the playback-jpgs did indicate.
 
